@@ -1,0 +1,7 @@
+*.csv
+*.jar
+*.xlsx
+/.idea
+/Lib/site-packages
+/Scripts
+/__pycache__
