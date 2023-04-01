@@ -1,7 +1,7 @@
 *.csv
 *.jar
 *.xlsx
-./.idea
-./Lib/site-packages
-./Scripts
-./__pycache__
+/.idea
+/Lib/site-packages
+/Scripts
+/__pycache__
