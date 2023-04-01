@@ -1,0 +1,1441 @@
+match_date,kot,round_type,season_round,home_team,away_team,home_position,away_position,underdog,home_score,away_score,referee,stadium,attendance,season
+20/08/2016,5:00 pm,Regular round,1,Bnei Yehuda,Bnei Sakhnin,9,8,Bnei Yehuda,1,1,Erez Papir,HaMoshava Stadium,2500,2016/2017
+20/08/2016,7:00 pm,Regular round,1,Ironi Kiryat Shmona,Ashdod,5,12,Ashdod,1,0,Eitan Shmuelevic,Kiryat Shmona Municipal Stadium,500,2016/2017
+20/08/2016,7:00 pm,Regular round,1,Hapoel Ashkelon,Hapoel Haifa,2,10,Hapoel Haifa,3,2,Menashe Mashiah,Sala Stadium,2500,2016/2017
+20/08/2016,7:10 pm,Regular round,1,Hapoel Beer Sheva,Hapoel Ra'anana,3,11,Hapoel Ra'anana,2,1,Orel Grinfeld,Toto Jacob Turner Stadium,12600,2016/2017
+21/08/2016,7:00 pm,Regular round,1,Maccabi Petah Tikva,Beitar Jerusalem,6,7,Beitar Jerusalem,2,2,Liran Liany,HaMoshava Stadium,7000,2016/2017
+21/08/2016,7:45 pm,Regular round,1,Maccabi Tel Aviv,Hapoel Kfar Saba,1,13,Hapoel Kfar Saba,3,1,Ziv Adler,Teddy-Kollek-Stadion,6400,2016/2017
+22/08/2016,7:45 pm,Regular round,1,Maccabi Haifa,Hapoel Tel Aviv,4,14,Hapoel Tel Aviv,1,0,Roi Reinshreiber,Sammy Ofer Stadium,27800,2016/2017
+27/08/2016,5:00 pm,Regular round,2,Hapoel Haifa,Bnei Yehuda,7,10,Bnei Yehuda,1,0,Shalom Ben Avraham,Sammy Ofer Stadium,2300,2016/2017
+27/08/2016,6:00 pm,Regular round,2,Hapoel Ra'anana,Maccabi Petah Tikva,13,3,Hapoel Ra'anana,0,1,Zvika Levi,Netanya Stadium,700,2016/2017
+27/08/2016,7:10 pm,Regular round,2,Bnei Sakhnin,Maccabi Haifa,6,8,Maccabi Haifa,1,0,Alon Yefet,Doha Stadium,5000,2016/2017
+27/08/2016,8:00 pm,Regular round,2,Hapoel Tel Aviv,Hapoel Beer Sheva,14,5,Hapoel Tel Aviv,0,0,Liran Liany,HaMoshava Stadium,10500,2016/2017
+28/08/2016,7:15 pm,Regular round,2,Beitar Jerusalem,Ironi Kiryat Shmona,9,4,Beitar Jerusalem,2,2,Roi Reinshreiber,Teddy-Kollek-Stadion,6000,2016/2017
+28/08/2016,8:00 pm,Regular round,2,Ashdod,Maccabi Tel Aviv,12,1,Ashdod,1,2,Guy Berger,Yud-Alef Stadion,3500,2016/2017
+29/08/2016,8:00 pm,Regular round,2,Hapoel Kfar Saba,Hapoel Ashkelon,11,2,Hapoel Kfar Saba,1,1,Daniel Bar Natan,Levita Stadium,1700,2016/2017
+10/09/2016,5:00 pm,Regular round,3,Bnei Yehuda,Maccabi Haifa,11,6,Bnei Yehuda,1,1,Ziv Adler,HaMoshava Stadium,7000,2016/2017
+10/09/2016,5:00 pm,Regular round,3,Ironi Kiryat Shmona,Hapoel Ra'anana,5,13,Hapoel Ra'anana,0,0,Igal Frid,Kiryat Shmona Municipal Stadium,600,2016/2017
+10/09/2016,7:00 pm,Regular round,3,Hapoel Haifa,Hapoel Kfar Saba,10,7,Hapoel Haifa,1,2,Idan Layba,Sammy Ofer Stadium,2500,2016/2017
+10/09/2016,7:10 pm,Regular round,3,Hapoel Beer Sheva,Bnei Sakhnin,1,8,Bnei Sakhnin,3,0,Eli Hacmon,Toto Jacob Turner Stadium,13000,2016/2017
+11/09/2016,6:30 pm,Regular round,3,Hapoel Ashkelon,Ashdod,4,12,Ashdod,0,0,Oren Siminyan,Sala Stadium,2500,2016/2017
+11/09/2016,7:45 pm,Regular round,3,Maccabi Tel Aviv,Beitar Jerusalem,2,9,Beitar Jerusalem,2,2,Menashe Mashiah,Netanya Stadium,12650,2016/2017
+12/09/2016,7:30 pm,Regular round,3,Maccabi Petah Tikva,Hapoel Tel Aviv,3,14,Hapoel Tel Aviv,2,0,Gal Leibovitz,HaMoshava Stadium,3000,2016/2017
+17/09/2016,5:00 pm,Regular round,4,Hapoel Tel Aviv,Ironi Kiryat Shmona,14,7,Hapoel Tel Aviv,3,3,Menashe Mashiah,HaMoshava Stadium,7000,2016/2017
+17/09/2016,7:00 pm,Regular round,4,Ashdod,Hapoel Haifa,12,6,Ashdod,1,3,Liran Liany,Yud-Alef Stadion,1200,2016/2017
+17/09/2016,7:10 pm,Regular round,4,Hapoel Kfar Saba,Bnei Yehuda,10,8,Hapoel Kfar Saba,0,1,Orel Grinfeld,Levita Stadium,1700,2016/2017
+17/09/2016,7:10 pm,Regular round,4,Beitar Jerusalem,Hapoel Ashkelon,5,9,Hapoel Ashkelon,3,0,Ziv Adler,Teddy-Kollek-Stadion,6000,2016/2017
+18/09/2016,6:00 pm,Regular round,4,Bnei Sakhnin,Maccabi Petah Tikva,11,2,Bnei Sakhnin,0,1,Zvika Levi,Doha Stadium,2000,2016/2017
+18/09/2016,7:15 pm,Regular round,4,Hapoel Ra'anana,Maccabi Tel Aviv,13,1,Hapoel Ra'anana,0,3,Roi Reinshreiber,Netanya Stadium,3000,2016/2017
+19/09/2016,7:45 pm,Regular round,4,Maccabi Haifa,Hapoel Beer Sheva,4,3,Maccabi Haifa,2,1,Eitan Shmuelevic,Sammy Ofer Stadium,25630,2016/2017
+24/09/2016,5:00 pm,Regular round,5,Ironi Kiryat Shmona,Bnei Sakhnin,6,10,Bnei Sakhnin,2,2,Ziv Adler,Kiryat Shmona Municipal Stadium,1190,2016/2017
+24/09/2016,5:00 pm,Regular round,5,Hapoel Kfar Saba,Ashdod,7,13,Ashdod,1,0,Zvika Levi,Levita Stadium,1520,2016/2017
+24/09/2016,7:00 pm,Regular round,5,Hapoel Ashkelon,Hapoel Ra'anana,9,12,Hapoel Ra'anana,0,0,Idan Layba,Sala Stadium,1600,2016/2017
+24/09/2016,7:10 pm,Regular round,5,Hapoel Haifa,Beitar Jerusalem,4,8,Beitar Jerusalem,4,0,Oren Siminyan,Sammy Ofer Stadium,6000,2016/2017
+25/09/2016,7:00 pm,Regular round,5,Bnei Yehuda,Hapoel Beer Sheva,11,3,Bnei Yehuda,0,3,Shalom Ben Avraham,HaMoshava Stadium,3700,2016/2017
+25/09/2016,8:00 pm,Regular round,5,Maccabi Tel Aviv,Hapoel Tel Aviv,1,14,Hapoel Tel Aviv,5,0,Eli Hacmon,Netanya Stadium,12225,2016/2017
+26/09/2016,7:30 pm,Regular round,5,Maccabi Petah Tikva,Maccabi Haifa,2,5,Maccabi Haifa,2,2,Roi Reinshreiber,HaMoshava Stadium,8000,2016/2017
+21/09/2016,8:00 pm,Regular round,6,Bnei Sakhnin,Maccabi Tel Aviv,12,1,Bnei Sakhnin,0,3,Menashe Mashiah,Doha Stadium,2800,2016/2017
+01/10/2016,5:00 pm,Regular round,6,Hapoel Ra'anana,Hapoel Haifa,11,4,Hapoel Ra'anana,2,0,Gal Leibovitz,Netanya Stadium,1500,2016/2017
+01/10/2016,5:00 pm,Regular round,6,Maccabi Haifa,Ironi Kiryat Shmona,5,7,Ironi Kiryat Shmona,0,0,Shalom Ben Avraham,Sammy Ofer Stadium,25500,2016/2017
+01/10/2016,7:00 pm,Regular round,6,Hapoel Tel Aviv,Hapoel Ashkelon,14,10,Hapoel Tel Aviv,2,0,Ziv Adler,HaMoshava Stadium,7000,2016/2017
+01/10/2016,7:10 pm,Regular round,6,Ashdod,Bnei Yehuda,13,9,Ashdod,2,2,Igal Frid,Yud-Alef Stadion,1500,2016/2017
+01/10/2016,7:10 pm,Regular round,6,Beitar Jerusalem,Hapoel Kfar Saba,6,8,Hapoel Kfar Saba,1,0,Idan Layba,Teddy-Kollek-Stadion,6000,2016/2017
+15/10/2016,6:30 pm,Regular round,6,Hapoel Beer Sheva,Maccabi Petah Tikva,2,3,Maccabi Petah Tikva,5,0,Liran Liany,Toto Jacob Turner Stadium,15530,2016/2017
+22/10/2016,3:00 pm,Regular round,7,Bnei Yehuda,Maccabi Petah Tikva,12,3,Bnei Yehuda,1,4,Eli Hacmon,HaMoshava Stadium,1200,2016/2017
+22/10/2016,5:00 pm,Regular round,7,Hapoel Kfar Saba,Hapoel Ra'anana,10,8,Hapoel Kfar Saba,1,2,Oren Siminyan,Levita Stadium,2000,2016/2017
+22/10/2016,5:15 pm,Regular round,7,Hapoel Haifa,Hapoel Tel Aviv,6,14,Hapoel Tel Aviv,0,2,Eitan Shmuelevic,Sammy Ofer Stadium,5000,2016/2017
+22/10/2016,7:15 pm,Regular round,7,Hapoel Ashkelon,Bnei Sakhnin,11,9,Hapoel Ashkelon,0,1,Erez Papir,Sala Stadium,1600,2016/2017
+22/10/2016,7:30 pm,Regular round,7,Ashdod,Beitar Jerusalem,13,5,Ashdod,0,0,Gal Leibovitz,Yud-Alef Stadion,4500,2016/2017
+24/10/2016,6:30 pm,Regular round,7,Ironi Kiryat Shmona,Hapoel Beer Sheva,7,1,Ironi Kiryat Shmona,0,2,Roi Reinshreiber,Kiryat Shmona Municipal Stadium,2500,2016/2017
+24/10/2016,8:00 pm,Regular round,7,Maccabi Tel Aviv,Maccabi Haifa,2,4,Maccabi Haifa,0,2,Orel Grinfeld,Netanya Stadium,12000,2016/2017
+29/10/2016,3:00 pm,Regular round,8,Bnei Sakhnin,Hapoel Haifa,6,7,Hapoel Haifa,2,1,Alon Yefet,Doha Stadium,2500,2016/2017
+29/10/2016,5:15 pm,Regular round,8,Hapoel Tel Aviv,Hapoel Kfar Saba,14,10,Hapoel Tel Aviv,1,1,Orel Grinfeld,HaMoshava Stadium,8000,2016/2017
+29/10/2016,7:00 pm,Regular round,8,Hapoel Ra'anana,Ashdod,8,13,Ashdod,0,0,Nael Odeh,Netanya Stadium,600,2016/2017
+29/10/2016,7:30 pm,Regular round,8,Maccabi Haifa,Hapoel Ashkelon,4,12,Hapoel Ashkelon,5,0,Igal Frid,Sammy Ofer Stadium,21000,2016/2017
+30/10/2016,6:00 pm,Regular round,8,Maccabi Petah Tikva,Ironi Kiryat Shmona,2,9,Ironi Kiryat Shmona,2,1,Menashe Mashiah,HaMoshava Stadium,2000,2016/2017
+30/10/2016,8:00 pm,Regular round,8,Hapoel Beer Sheva,Maccabi Tel Aviv,1,3,Maccabi Tel Aviv,2,0,Liran Liany,Toto Jacob Turner Stadium,15320,2016/2017
+31/10/2016,7:30 pm,Regular round,8,Beitar Jerusalem,Bnei Yehuda,5,11,Bnei Yehuda,2,2,Guy Berger,Teddy-Kollek-Stadion,7000,2016/2017
+05/11/2016,3:00 pm,Regular round,9,Bnei Yehuda,Ironi Kiryat Shmona,12,6,Bnei Yehuda,0,1,Zvika Levi,HaMoshava Stadium,3000,2016/2017
+05/11/2016,4:45 pm,Regular round,9,Ashdod,Hapoel Tel Aviv,11,14,Hapoel Tel Aviv,1,0,Idan Layba,Yud-Alef Stadion,3000,2016/2017
+05/11/2016,7:00 pm,Regular round,9,Beitar Jerusalem,Hapoel Ra'anana,5,10,Hapoel Ra'anana,1,0,Shalom Ben Avraham,Teddy-Kollek-Stadion,5500,2016/2017
+05/11/2016,8:00 pm,Regular round,9,Hapoel Haifa,Maccabi Haifa,9,4,Hapoel Haifa,0,0,Ziv Adler,Sammy Ofer Stadium,25300,2016/2017
+06/11/2016,7:00 pm,Regular round,9,Hapoel Ashkelon,Hapoel Beer Sheva,13,1,Hapoel Ashkelon,1,5,Eitan Shmuelevic,Sala Stadium,4500,2016/2017
+06/11/2016,7:45 pm,Regular round,9,Maccabi Tel Aviv,Maccabi Petah Tikva,3,2,Maccabi Tel Aviv,0,0,Erez Papir,Netanya Stadium,9000,2016/2017
+07/11/2016,8:00 pm,Regular round,9,Hapoel Kfar Saba,Bnei Sakhnin,7,8,Bnei Sakhnin,2,1,Daniel Bar Natan,Levita Stadium,1700,2016/2017
+19/11/2016,3:00 pm,Regular round,10,Bnei Sakhnin,Ashdod,9,10,Ashdod,0,1,Orel Grinfeld,Doha Stadium,1200,2016/2017
+19/11/2016,5:00 pm,Regular round,10,Maccabi Petah Tikva,Hapoel Ashkelon,4,13,Hapoel Ashkelon,1,1,Menashe Mashiah,Levita Stadium,1200,2016/2017
+19/11/2016,5:15 pm,Regular round,10,Maccabi Haifa,Hapoel Kfar Saba,3,8,Hapoel Kfar Saba,2,0,Roi Reinshreiber,Sammy Ofer Stadium,23850,2016/2017
+19/11/2016,7:30 pm,Regular round,10,Hapoel Beer Sheva,Hapoel Haifa,1,11,Hapoel Haifa,5,1,Eli Hacmon,Toto Jacob Turner Stadium,15700,2016/2017
+20/11/2016,6:00 pm,Regular round,10,Hapoel Ra'anana,Bnei Yehuda,6,12,Bnei Yehuda,1,0,Guy Berger,Netanya Stadium,500,2016/2017
+20/11/2016,7:15 pm,Regular round,10,Ironi Kiryat Shmona,Maccabi Tel Aviv,7,2,Ironi Kiryat Shmona,1,2,Alon Yefet,Kiryat Shmona Municipal Stadium,3100,2016/2017
+21/11/2016,8:00 pm,Regular round,10,Beitar Jerusalem,Hapoel Tel Aviv,5,14,Hapoel Tel Aviv,1,1,Liran Liany,Teddy-Kollek-Stadion,24000,2016/2017
+26/11/2016,4:00 pm,Regular round,11,Hapoel Ra'anana,Hapoel Tel Aviv,8,14,Hapoel Tel Aviv,0,0,Erez Papir,Netanya Stadium,0,2016/2017
+26/11/2016,5:00 pm,Regular round,11,Hapoel Haifa,Maccabi Petah Tikva,9,4,Hapoel Haifa,2,1,Igal Frid,Sammy Ofer Stadium,0,2016/2017
+26/11/2016,6:30 pm,Regular round,11,Ashdod,Maccabi Haifa,10,3,Ashdod,1,1,Alon Yefet,Yud-Alef Stadion,5700,2016/2017
+26/11/2016,7:15 pm,Regular round,11,Ironi Kiryat Shmona,Hapoel Ashkelon,6,13,Hapoel Ashkelon,4,1,David Fucsman,Kiryat Shmona Municipal Stadium,1100,2016/2017
+27/11/2016,7:00 pm,Regular round,11,Hapoel Kfar Saba,Hapoel Beer Sheva,11,1,Hapoel Kfar Saba,0,2,Ziv Adler,Levita Stadium,4000,2016/2017
+27/11/2016,7:45 pm,Regular round,11,Bnei Yehuda,Maccabi Tel Aviv,12,2,Bnei Yehuda,1,0,Gal Leibovitz,HaMoshava Stadium,4000,2016/2017
+28/11/2016,8:00 pm,Regular round,11,Beitar Jerusalem,Bnei Sakhnin,5,7,Bnei Sakhnin,0,1,Menashe Mashiah,Teddy-Kollek-Stadion,8000,2016/2017
+03/12/2016,3:00 pm,Regular round,12,Ironi Kiryat Shmona,Hapoel Haifa,6,9,Hapoel Haifa,2,0,Daniel Bar Natan,Kiryat Shmona Municipal Stadium,500,2016/2017
+03/12/2016,5:00 pm,Regular round,12,Maccabi Petah Tikva,Hapoel Kfar Saba,4,10,Hapoel Kfar Saba,0,0,Shalom Ben Avraham,HaMoshava Stadium,900,2016/2017
+03/12/2016,5:15 pm,Regular round,12,Maccabi Tel Aviv,Hapoel Ashkelon,2,13,Hapoel Ashkelon,0,0,Orel Grinfeld,Netanya Stadium,6250,2016/2017
+03/12/2016,7:30 pm,Regular round,12,Hapoel Beer Sheva,Ashdod,1,11,Ashdod,5,0,Guy Berger,Toto Jacob Turner Stadium,15100,2016/2017
+04/12/2016,6:00 pm,Regular round,12,Bnei Sakhnin,Hapoel Ra'anana,7,8,Hapoel Ra'anana,1,1,Eitan Shmuelevic,Doha Stadium,2000,2016/2017
+04/12/2016,7:15 pm,Regular round,12,Bnei Yehuda,Hapoel Tel Aviv,12,14,Hapoel Tel Aviv,0,1,Roi Reinshreiber,HaMoshava Stadium,3500,2016/2017
+05/12/2016,8:00 pm,Regular round,12,Maccabi Haifa,Beitar Jerusalem,3,5,Beitar Jerusalem,0,2,Erez Papir,Sammy Ofer Stadium,29220,2016/2017
+10/12/2016,3:00 pm,Regular round,13,Hapoel Tel Aviv,Bnei Sakhnin,14,7,Hapoel Tel Aviv,1,1,Idan Layba,HaMoshava Stadium,10000,2016/2017
+10/12/2016,5:00 pm,Regular round,13,Hapoel Kfar Saba,Ironi Kiryat Shmona,9,5,Hapoel Kfar Saba,2,2,Zvika Levi,Levita Stadium,1700,2016/2017
+10/12/2016,5:15 pm,Regular round,13,Hapoel Ashkelon,Bnei Yehuda,12,13,Bnei Yehuda,1,0,Eitan Shmuelevic,Sala Stadium,1500,2016/2017
+10/12/2016,7:30 pm,Regular round,13,Hapoel Ra'anana,Maccabi Haifa,8,3,Hapoel Ra'anana,1,1,Liran Liany,Netanya Stadium,4500,2016/2017
+11/12/2016,6:00 pm,Regular round,13,Ashdod,Maccabi Petah Tikva,11,4,Ashdod,2,2,Oren Siminyan,Yud-Alef Stadion,1400,2016/2017
+11/12/2016,7:15 pm,Regular round,13,Hapoel Haifa,Maccabi Tel Aviv,10,2,Hapoel Haifa,2,4,Ziv Adler,Sammy Ofer Stadium,3600,2016/2017
+12/12/2016,8:00 pm,Regular round,13,Beitar Jerusalem,Hapoel Beer Sheva,6,1,Beitar Jerusalem,1,3,Alon Yefet,HaMoshava Stadium,10000,2016/2017
+17/12/2016,3:00 pm,Regular round,14,Hapoel Kfar Saba,Maccabi Tel Aviv,10,2,Hapoel Kfar Saba,1,1,Erez Papir,Levita Stadium,3500,2016/2017
+17/12/2016,5:00 pm,Regular round,14,Ashdod,Ironi Kiryat Shmona,11,5,Ashdod,0,0,Orel Grinfeld,Yud-Alef Stadion,1100,2016/2017
+17/12/2016,5:15 pm,Regular round,14,Bnei Sakhnin,Bnei Yehuda,8,12,Bnei Yehuda,1,1,Liran Liany,Doha Stadium,2000,2016/2017
+17/12/2016,7:30 pm,Regular round,14,Beitar Jerusalem,Maccabi Petah Tikva,6,4,Beitar Jerusalem,1,1,Eli Hacmon,Teddy-Kollek-Stadion,5000,2016/2017
+18/12/2016,6:00 pm,Regular round,14,Hapoel Haifa,Hapoel Ashkelon,9,13,Hapoel Ashkelon,3,1,Menashe Mashiah,Sammy Ofer Stadium,1600,2016/2017
+18/12/2016,7:15 pm,Regular round,14,Hapoel Ra'anana,Hapoel Beer Sheva,7,1,Hapoel Ra'anana,1,0,Igal Frid,Netanya Stadium,2800,2016/2017
+19/12/2016,8:00 pm,Regular round,14,Hapoel Tel Aviv,Maccabi Haifa,14,3,Hapoel Tel Aviv,0,2,Eitan Shmuelevic,HaMoshava Stadium,8000,2016/2017
+24/12/2016,3:00 pm,Regular round,15,Bnei Yehuda,Hapoel Haifa,12,9,Bnei Yehuda,1,1,Alon Yefet,HaMoshava Stadium,2050,2016/2017
+24/12/2016,5:00 pm,Regular round,15,Hapoel Ashkelon,Hapoel Kfar Saba,13,10,Hapoel Ashkelon,0,0,Guy Berger,Sala Stadium,1300,2016/2017
+24/12/2016,5:15 pm,Regular round,15,Maccabi Tel Aviv,Ashdod,2,11,Ashdod,1,0,Roi Reinshreiber,Netanya Stadium,6200,2016/2017
+24/12/2016,7:30 pm,Regular round,15,Ironi Kiryat Shmona,Beitar Jerusalem,5,7,Beitar Jerusalem,2,0,Shalom Ben Avraham,Kiryat Shmona Municipal Stadium,2500,2016/2017
+25/12/2016,6:00 pm,Regular round,15,Maccabi Petah Tikva,Hapoel Ra'anana,3,8,Hapoel Ra'anana,2,0,Daniel Bar Natan,HaMoshava Stadium,650,2016/2017
+25/12/2016,8:00 pm,Regular round,15,Hapoel Beer Sheva,Hapoel Tel Aviv,1,14,Hapoel Tel Aviv,1,1,Orel Grinfeld,Toto Jacob Turner Stadium,15500,2016/2017
+26/12/2016,7:30 pm,Regular round,15,Maccabi Haifa,Bnei Sakhnin,4,6,Bnei Sakhnin,1,2,Gal Leibovitz,Sammy Ofer Stadium,17120,2016/2017
+31/12/2016,3:00 pm,Regular round,16,Hapoel Kfar Saba,Hapoel Haifa,11,8,Hapoel Kfar Saba,1,2,Eli Hacmon,Levita Stadium,700,2016/2017
+31/12/2016,5:00 pm,Regular round,16,Hapoel Ra'anana,Ironi Kiryat Shmona,9,5,Hapoel Ra'anana,0,3,Idan Leiba,Netanya Stadium,550,2016/2017
+31/12/2016,5:15 pm,Regular round,16,Maccabi Haifa,Bnei Yehuda,4,12,Bnei Yehuda,1,1,Ziv Adler,Sammy Ofer Stadium,13000,2016/2017
+31/12/2016,7:30 pm,Regular round,16,Hapoel Tel Aviv,Maccabi Petah Tikva,14,3,Hapoel Tel Aviv,0,1,Alon Yefet,HaMoshava Stadium,7500,2016/2017
+01/01/2017,6:00 pm,Regular round,16,Ashdod,Hapoel Ashkelon,10,13,Hapoel Ashkelon,1,0,Erez Papir,Yud-Alef Stadion,1200,2016/2017
+01/01/2017,7:15 pm,Regular round,16,Bnei Sakhnin,Hapoel Beer Sheva,7,1,Bnei Sakhnin,0,0,Oren Siminyan,Doha Stadium,5500,2016/2017
+02/01/2017,8:00 pm,Regular round,16,Beitar Jerusalem,Maccabi Tel Aviv,6,2,Beitar Jerusalem,1,0,Liran Liany,Teddy-Kollek-Stadion,7500,2016/2017
+10/01/2017,6:00 pm,Regular round,17,Maccabi Petah Tikva,Bnei Sakhnin,3,7,Bnei Sakhnin,1,1,Eitan Shmuelevic,HaMoshava Stadium,1500,2016/2017
+10/01/2017,6:45 pm,Regular round,17,Hapoel Ashkelon,Beitar Jerusalem,13,6,Hapoel Ashkelon,1,1,Igal Frid,Sala Stadium,5100,2016/2017
+10/01/2017,8:00 pm,Regular round,17,Hapoel Beer Sheva,Maccabi Haifa,1,5,Maccabi Haifa,2,0,Alon Yefet,Toto Jacob Turner Stadium,15800,2016/2017
+11/01/2017,6:30 pm,Regular round,17,Bnei Yehuda,Hapoel Kfar Saba,12,11,Bnei Yehuda,1,1,Zvika Levi,HaMoshava Stadium,2000,2016/2017
+11/01/2017,7:00 pm,Regular round,17,Maccabi Tel Aviv,Hapoel Ra'anana,2,10,Hapoel Ra'anana,4,1,Gal Leibovitz,Netanya Stadium,6100,2016/2017
+11/01/2017,8:00 pm,Regular round,17,Hapoel Haifa,Ashdod,8,9,Ashdod,0,1,David Fucsman,Sammy Ofer Stadium,1500,2016/2017
+12/01/2017,7:00 pm,Regular round,17,Ironi Kiryat Shmona,Hapoel Tel Aviv,4,14,Hapoel Tel Aviv,2,1,Menashe Mashiah,Kiryat Shmona Municipal Stadium,1600,2016/2017
+14/01/2017,3:00 pm,Regular round,18,Ashdod,Hapoel Kfar Saba,9,11,Hapoel Kfar Saba,0,0,Ziv Adler,Yud-Alef Stadion,1500,2016/2017
+14/01/2017,5:00 pm,Regular round,18,Hapoel Ra'anana,Hapoel Ashkelon,10,12,Hapoel Ashkelon,0,2,Eli Hacmon,Netanya Stadium,600,2016/2017
+14/01/2017,5:15 pm,Regular round,18,Maccabi Haifa,Maccabi Petah Tikva,6,3,Maccabi Haifa,0,2,Guy Berger,Sammy Ofer Stadium,13630,2016/2017
+14/01/2017,7:30 pm,Regular round,18,Hapoel Beer Sheva,Bnei Yehuda,1,13,Bnei Yehuda,2,1,Erez Papir,Toto Jacob Turner Stadium,13500,2016/2017
+15/01/2017,7:15 pm,Regular round,18,Beitar Jerusalem,Hapoel Haifa,5,8,Hapoel Haifa,1,0,Daniel Bar Natan,Teddy-Kollek-Stadion,3500,2016/2017
+16/01/2017,5:30 pm,Regular round,18,Bnei Sakhnin,Ironi Kiryat Shmona,7,4,Bnei Sakhnin,5,2,Liran Liany,Doha Stadium,3000,2016/2017
+16/01/2017,8:00 pm,Regular round,18,Hapoel Tel Aviv,Maccabi Tel Aviv,14,2,Hapoel Tel Aviv,0,1,Roi Reinshreiber,HaMoshava Stadium,7300,2016/2017
+21/01/2017,3:00 pm,Regular round,19,Ironi Kiryat Shmona,Maccabi Haifa,4,6,Maccabi Haifa,3,0,Zvika Levi,Kiryat Shmona Municipal Stadium,2800,2016/2017
+21/01/2017,5:00 pm,Regular round,19,Hapoel Haifa,Hapoel Ra'anana,8,10,Hapoel Ra'anana,1,0,Oren Siminyan,Sammy Ofer Stadium,2400,2016/2017
+21/01/2017,5:15 pm,Regular round,19,Hapoel Ashkelon,Hapoel Tel Aviv,13,14,Hapoel Tel Aviv,0,1,Liran Liany,Sala Stadium,3910,2016/2017
+21/01/2017,7:30 pm,Regular round,19,Maccabi Petah Tikva,Hapoel Beer Sheva,3,1,Maccabi Petah Tikva,1,1,Roi Reinshreiber,HaMoshava Stadium,7000,2016/2017
+22/01/2017,6:00 pm,Regular round,19,Bnei Yehuda,Ashdod,11,9,Bnei Yehuda,2,0,Idan Leiba,HaMoshava Stadium,2500,2016/2017
+22/01/2017,7:00 pm,Regular round,19,Hapoel Kfar Saba,Beitar Jerusalem,12,5,Hapoel Kfar Saba,0,2,Eitan Shmuelevic,Levita Stadium,2200,2016/2017
+22/01/2017,8:00 pm,Regular round,19,Maccabi Tel Aviv,Bnei Sakhnin,2,7,Bnei Sakhnin,2,1,Shalom Ben Avraham,Netanya Stadium,9400,2016/2017
+28/01/2017,3:00 pm,Regular round,20,Maccabi Petah Tikva,Bnei Yehuda,3,11,Bnei Yehuda,2,0,Gal Leibovitz,HaMoshava Stadium,1500,2016/2017
+28/01/2017,5:00 pm,Regular round,20,Hapoel Ra'anana,Hapoel Kfar Saba,10,12,Hapoel Kfar Saba,1,0,Menashe Mashiah,Netanya Stadium,700,2016/2017
+28/01/2017,5:15 pm,Regular round,20,Hapoel Beer Sheva,Ironi Kiryat Shmona,1,4,Ironi Kiryat Shmona,2,0,Daniel Bar Natan,Toto Jacob Turner Stadium,11500,2016/2017
+28/01/2017,7:30 pm,Regular round,20,Beitar Jerusalem,Ashdod,5,9,Ashdod,1,1,Guy Berger,Teddy-Kollek-Stadion,3000,2016/2017
+29/01/2017,6:00 pm,Regular round,20,Bnei Sakhnin,Hapoel Ashkelon,6,13,Hapoel Ashkelon,1,0,Erez Papir,Doha Stadium,2000,2016/2017
+29/01/2017,7:15 pm,Regular round,20,Hapoel Tel Aviv,Hapoel Haifa,14,8,Hapoel Tel Aviv,0,0,Alon Yefet,HaMoshava Stadium,6300,2016/2017
+30/01/2017,8:00 pm,Regular round,20,Maccabi Haifa,Maccabi Tel Aviv,7,2,Maccabi Haifa,2,2,Eli Hacmon,Sammy Ofer Stadium,26100,2016/2017
+04/02/2017,3:00 pm,Regular round,21,Ironi Kiryat Shmona,Maccabi Petah Tikva,4,3,Ironi Kiryat Shmona,0,1,Nael Odeh,Kiryat Shmona Municipal Stadium,600,2016/2017
+04/02/2017,5:00 pm,Regular round,21,Hapoel Haifa,Bnei Sakhnin,8,6,Hapoel Haifa,0,1,Zvika Levi,Sammy Ofer Stadium,4100,2016/2017
+04/02/2017,5:30 pm,Regular round,21,Bnei Yehuda,Beitar Jerusalem,11,5,Bnei Yehuda,1,1,Shalom Ben Avraham,HaMoshava Stadium,5600,2016/2017
+04/02/2017,8:00 pm,Regular round,21,Maccabi Tel Aviv,Hapoel Beer Sheva,2,1,Maccabi Tel Aviv,1,0,Ziv Adler,Netanya Stadium,12335,2016/2017
+05/02/2017,6:00 pm,Regular round,21,Ashdod,Hapoel Ra'anana,10,9,Ashdod,0,1,Igal Frid,Yud-Alef Stadion,1200,2016/2017
+05/02/2017,7:15 pm,Regular round,21,Hapoel Kfar Saba,Hapoel Tel Aviv,12,14,Hapoel Tel Aviv,0,0,Guy Berger,Levita Stadium,3400,2016/2017
+06/02/2017,7:30 pm,Regular round,21,Hapoel Ashkelon,Maccabi Haifa,13,7,Hapoel Ashkelon,0,2,Daniel Bar Natan,Sala Stadium,3700,2016/2017
+11/02/2017,3:00 pm,Regular round,22,Maccabi Haifa,Hapoel Haifa,7,8,Hapoel Haifa,0,3,Roi Reinshreiber,Sammy Ofer Stadium,27643,2016/2017
+11/02/2017,5:00 pm,Regular round,22,Ironi Kiryat Shmona,Bnei Yehuda,6,10,Bnei Yehuda,0,1,Ohad Asulin,Kiryat Shmona Municipal Stadium,900,2016/2017
+11/02/2017,5:15 pm,Regular round,22,Hapoel Beer Sheva,Hapoel Ashkelon,1,13,Hapoel Ashkelon,2,1,Idan Layba,Toto Jacob Turner Stadium,14972,2016/2017
+11/02/2017,7:30 pm,Regular round,22,Hapoel Ra'anana,Beitar Jerusalem,9,4,Hapoel Ra'anana,0,4,Oren Siminyan,Netanya Stadium,4000,2016/2017
+12/02/2017,6:00 pm,Regular round,22,Bnei Sakhnin,Hapoel Kfar Saba,5,12,Hapoel Kfar Saba,1,0,Eli Hacmon,Doha Stadium,2000,2016/2017
+12/02/2017,7:15 pm,Regular round,22,Hapoel Tel Aviv,Ashdod,14,11,Hapoel Tel Aviv,2,0,Daniel Bar Natan,HaMoshava Stadium,4600,2016/2017
+13/02/2017,8:00 pm,Regular round,22,Maccabi Petah Tikva,Maccabi Tel Aviv,3,2,Maccabi Petah Tikva,0,1,Alon Yefet,HaMoshava Stadium,8000,2016/2017
+18/02/2017,3:00 pm,Regular round,23,Hapoel Kfar Saba,Maccabi Haifa,12,6,Hapoel Kfar Saba,0,2,Ziv Adler,Levita Stadium,4600,2016/2017
+18/02/2017,5:00 pm,Regular round,23,Bnei Yehuda,Hapoel Ra'anana,11,9,Bnei Yehuda,0,2,Aviad Shiloah,HaMoshava Stadium,3500,2016/2017
+18/02/2017,5:15 pm,Regular round,23,Ashdod,Bnei Sakhnin,10,5,Ashdod,1,1,Menashe Mashiah,Yud-Alef Stadion,1000,2016/2017
+18/02/2017,7:30 pm,Regular round,23,Maccabi Tel Aviv,Ironi Kiryat Shmona,2,7,Ironi Kiryat Shmona,3,0,Guy Berger,Netanya Stadium,10934,2016/2017
+19/02/2017,6:00 pm,Regular round,23,Hapoel Ashkelon,Maccabi Petah Tikva,13,3,Hapoel Ashkelon,0,1,Zvika Levi,Sala Stadium,1500,2016/2017
+19/02/2017,7:15 pm,Regular round,23,Hapoel Haifa,Hapoel Beer Sheva,8,1,Hapoel Haifa,0,0,Gal Leibovitz,Sammy Ofer Stadium,4800,2016/2017
+20/02/2017,8:00 pm,Regular round,23,Hapoel Tel Aviv,Beitar Jerusalem,14,4,Hapoel Tel Aviv,1,2,Erez Papir,HaMoshava Stadium,10000,2016/2017
+25/02/2017,3:00 pm,Regular round,24,Hapoel Tel Aviv,Hapoel Ra'anana,14,9,Hapoel Tel Aviv,0,0,Igal Frid,HaMoshava Stadium,8000,2016/2017
+25/02/2017,5:00 pm,Regular round,24,Hapoel Ashkelon,Ironi Kiryat Shmona,13,6,Hapoel Ashkelon,1,1,Roi Reinshreiber,Sala Stadium,1400,2016/2017
+25/02/2017,5:15 pm,Regular round,24,Maccabi Haifa,Ashdod,7,10,Ashdod,0,1,Idan Layba,Sammy Ofer Stadium,16094,2016/2017
+25/02/2017,7:30 pm,Regular round,24,Maccabi Tel Aviv,Bnei Yehuda,2,11,Bnei Yehuda,2,0,Eitan Shmuelevic,Netanya Stadium,11027,2016/2017
+26/02/2017,6:00 pm,Regular round,24,Maccabi Petah Tikva,Hapoel Haifa,3,8,Hapoel Haifa,3,1,Shalom Ben Avraham,HaMoshava Stadium,2000,2016/2017
+26/02/2017,8:00 pm,Regular round,24,Bnei Sakhnin,Beitar Jerusalem,5,4,Bnei Sakhnin,0,2,Alon Yefet,Doha Stadium,8000,2016/2017
+27/02/2017,7:30 pm,Regular round,24,Hapoel Beer Sheva,Hapoel Kfar Saba,1,12,Hapoel Kfar Saba,3,0,Oren Siminyan,Toto Jacob Turner Stadium,14550,2016/2017
+04/03/2017,3:00 pm,Regular round,25,Hapoel Haifa,Ironi Kiryat Shmona,8,6,Hapoel Haifa,1,2,Erez Papir,Sammy Ofer Stadium,2500,2016/2017
+04/03/2017,5:00 pm,Regular round,25,Hapoel Ra'anana,Bnei Sakhnin,9,5,Hapoel Ra'anana,0,1,Idan Layba,Netanya Stadium,1100,2016/2017
+04/03/2017,5:15 pm,Regular round,25,Hapoel Tel Aviv,Bnei Yehuda,14,11,Hapoel Tel Aviv,1,2,Ziv Adler,HaMoshava Stadium,8500,2016/2017
+04/03/2017,7:30 pm,Regular round,25,Ashdod,Hapoel Beer Sheva,10,1,Ashdod,0,1,Zvika Levi,Yud-Alef Stadion,5200,2016/2017
+05/03/2017,6:00 pm,Regular round,25,Hapoel Kfar Saba,Maccabi Petah Tikva,12,3,Hapoel Kfar Saba,1,3,Gal Leibovitz,Levita Stadium,1200,2016/2017
+05/03/2017,7:15 pm,Regular round,25,Hapoel Ashkelon,Maccabi Tel Aviv,13,2,Hapoel Ashkelon,1,2,Guy Berger,Sala Stadium,5100,2016/2017
+06/03/2017,8:00 pm,Regular round,25,Beitar Jerusalem,Maccabi Haifa,4,7,Maccabi Haifa,0,1,Eli Hacmon,Teddy-Kollek-Stadion,15000,2016/2017
+11/03/2017,5:00 pm,Regular round,26,Maccabi Petah Tikva,Ashdod,3,9,Ashdod,0,1,Oren Siminyan,HaMoshava Stadium,2100,2016/2017
+11/03/2017,7:30 pm,Regular round,26,Ironi Kiryat Shmona,Hapoel Kfar Saba,7,12,Hapoel Kfar Saba,1,2,Daniel Bar Natan,Kiryat Shmona Municipal Stadium,1500,2016/2017
+11/03/2017,7:30 pm,Regular round,26,Maccabi Haifa,Hapoel Ra'anana,6,10,Hapoel Ra'anana,2,0,Menashe Mashiah,Sammy Ofer Stadium,18000,2016/2017
+11/03/2017,7:30 pm,Regular round,26,Bnei Sakhnin,Hapoel Tel Aviv,5,14,Hapoel Tel Aviv,0,0,Eitan Shmuelevic,Doha Stadium,4000,2016/2017
+12/03/2017,6:00 pm,Regular round,26,Bnei Yehuda,Hapoel Ashkelon,11,13,Hapoel Ashkelon,0,0,Liran Liany,HaMoshava Stadium,2500,2016/2017
+12/03/2017,7:15 pm,Regular round,26,Maccabi Tel Aviv,Hapoel Haifa,2,8,Hapoel Haifa,1,0,Ziv Adler,Netanya Stadium,9350,2016/2017
+13/03/2017,8:00 pm,Regular round,26,Hapoel Beer Sheva,Beitar Jerusalem,1,4,Beitar Jerusalem,2,1,Roi Reinshreiber,Toto Jacob Turner Stadium,15000,2016/2017
+18/03/2017,5:15 pm, Championship round,1,Maccabi Tel Aviv,Bnei Sakhnin,2,5,Bnei Sakhnin,3,0,Eli Hacmon,Netanya Stadium,10500,2016/2017
+18/03/2017,7:30 pm, Championship round,1,Maccabi Petah Tikva,Beitar Jerusalem,3,4,Beitar Jerusalem,0,1,Idan Layba,HaMoshava Stadium,4200,2016/2017
+19/03/2017,8:00 pm, Championship round,1,Hapoel Beer Sheva,Maccabi Haifa,1,6,Maccabi Haifa,4,0,Erez Papir,Toto Jacob Turner Stadium,14775,2016/2017
+01/04/2017,6:30 pm, Championship round,2,Maccabi Haifa,Beitar Jerusalem,6,4,Maccabi Haifa,3,2,Daniel Bar Natan,Sammy Ofer Stadium,20000,2016/2017
+01/04/2017,8:10 pm, Championship round,2,Hapoel Beer Sheva,Maccabi Tel Aviv,1,2,Maccabi Tel Aviv,1,0,Roi Reinshreiber,Toto Jacob Turner Stadium,15500,2016/2017
+02/04/2017,6:00 pm, Championship round,2,Bnei Sakhnin,Maccabi Petah Tikva,5,3,Bnei Sakhnin,1,0,Shalom Ben Avraham,Doha Stadium,300,2016/2017
+08/04/2017,7:30 pm, Championship round,3,Beitar Jerusalem,Bnei Sakhnin,4,5,Bnei Sakhnin,3,0,Eitan Shmuelevic,Teddy-Kollek-Stadion,5000,2016/2017
+09/04/2017,7:10 pm, Championship round,3,Maccabi Petah Tikva,Hapoel Beer Sheva,3,1,Maccabi Petah Tikva,1,2,Ziv Adler,HaMoshava Stadium,9500,2016/2017
+09/04/2017,8:00 pm, Championship round,3,Maccabi Tel Aviv,Maccabi Haifa,2,6,Maccabi Haifa,3,0,Alon Yefet,Netanya Stadium,11769,2016/2017
+15/04/2017,5:00 pm, Championship round,4,Maccabi Haifa,Bnei Sakhnin,6,5,Maccabi Haifa,0,1,Gal Leibovitz,Sammy Ofer Stadium,14973,2016/2017
+15/04/2017,7:30 pm, Championship round,4,Maccabi Tel Aviv,Maccabi Petah Tikva,2,3,Maccabi Petah Tikva,2,0,Daniel Bar Natan,Netanya Stadium,10275,2016/2017
+17/04/2017,8:00 pm, Championship round,4,Hapoel Beer Sheva,Beitar Jerusalem,1,4,Beitar Jerusalem,2,0,Erez Papir,Toto Jacob Turner Stadium,14750,2016/2017
+22/04/2017,5:00 pm, Championship round,5,Maccabi Petah Tikva,Maccabi Haifa,3,6,Maccabi Haifa,0,1,Guy Berger,HaMoshava Stadium,3000,2016/2017
+22/04/2017,7:15 pm, Championship round,5,Bnei Sakhnin,Hapoel Beer Sheva,5,1,Bnei Sakhnin,1,3,Alon Yefet,Doha Stadium,4000,2016/2017
+22/04/2017,8:00 pm, Championship round,5,Beitar Jerusalem,Maccabi Tel Aviv,4,2,Beitar Jerusalem,1,1,Eli Hacmon,Teddy-Kollek-Stadion,7000,2016/2017
+25/04/2017,6:45 pm, Championship round,6,Bnei Sakhnin,Maccabi Tel Aviv,5,2,Bnei Sakhnin,1,3,Erez Papir,Doha Stadium,1700,2016/2017
+25/04/2017,8:00 pm, Championship round,6,Maccabi Haifa,Hapoel Beer Sheva,6,1,Maccabi Haifa,0,1,Eitan Shmuelevic,Sammy Ofer Stadium,19723,2016/2017
+26/04/2017,6:45 pm, Championship round,6,Beitar Jerusalem,Maccabi Petah Tikva,3,4,Maccabi Petah Tikva,2,1,Liran Liany,Teddy-Kollek-Stadion,6500,2016/2017
+29/04/2017,5:00 pm, Championship round,7,Maccabi Petah Tikva,Bnei Sakhnin,4,5,Bnei Sakhnin,1,0,Zvika Levi,HaMoshava Stadium,2000,2016/2017
+29/04/2017,7:10 pm, Championship round,7,Beitar Jerusalem,Maccabi Haifa,3,6,Maccabi Haifa,2,0,Roi Reinshreiber,Teddy-Kollek-Stadion,6500,2016/2017
+29/04/2017,8:00 pm, Championship round,7,Maccabi Tel Aviv,Hapoel Beer Sheva,2,1,Maccabi Tel Aviv,1,2,Liran Liany,Netanya Stadium,12206,2016/2017
+06/05/2017,7:30 pm, Championship round,8,Bnei Sakhnin,Beitar Jerusalem,5,3,Bnei Sakhnin,1,5,Ziv Adler,Akko Municipal Stadium,700,2016/2017
+07/05/2017,7:15 pm, Championship round,8,Maccabi Haifa,Maccabi Tel Aviv,6,2,Maccabi Haifa,0,2,Igal Frid,Sammy Ofer Stadium,12000,2016/2017
+08/05/2017,7:00 pm, Championship round,8,Hapoel Beer Sheva,Maccabi Petah Tikva,1,4,Maccabi Petah Tikva,1,1,Gal Leibovitz,Toto Jacob Turner Stadium,15125,2016/2017
+13/05/2017,5:00 pm, Championship round,9,Bnei Sakhnin,Maccabi Haifa,5,6,Maccabi Haifa,1,0,Aviad Shiloah,Doha Stadium,1000,2016/2017
+14/05/2017,7:15 pm, Championship round,9,Maccabi Petah Tikva,Maccabi Tel Aviv,4,2,Maccabi Petah Tikva,2,1,Guy Berger,HaMoshava Stadium,3000,2016/2017
+15/05/2017,7:30 pm, Championship round,9,Beitar Jerusalem,Hapoel Beer Sheva,3,1,Beitar Jerusalem,1,1,Shalom Ben Avraham,Teddy-Kollek-Stadion,5700,2016/2017
+20/05/2017,6:00 pm, Championship round,10,Hapoel Beer Sheva,Bnei Sakhnin,1,5,Bnei Sakhnin,2,0,Nael Odeh,Toto Jacob Turner Stadium,10180,2016/2017
+20/05/2017,7:30 pm, Championship round,10,Maccabi Haifa,Maccabi Petah Tikva,6,4,Maccabi Haifa,0,0,Daniel Bar Natan,Sammy Ofer Stadium,4280,2016/2017
+20/05/2017,7:30 pm, Championship round,10,Maccabi Tel Aviv,Beitar Jerusalem,2,3,Beitar Jerusalem,0,2,Erez Papir,Netanya Stadium,7170,2016/2017
+18/03/2017,3:00 pm,Relegation round,1,Ironi Kiryat Shmona,Hapoel Tel Aviv,1,8,Hapoel Tel Aviv,2,3,Liran Liany,Kiryat Shmona Municipal Stadium,2000,2016/2017
+18/03/2017,5:00 pm,Relegation round,1,Hapoel Haifa,Hapoel Ashkelon,5,7,Hapoel Ashkelon,1,4,Roi Reinshreiber,Sammy Ofer Stadium,1700,2016/2017
+19/03/2017,6:00 pm,Relegation round,1,Hapoel Ra'anana,Bnei Yehuda,4,3,Hapoel Ra'anana,0,2,Zvika Levi,Netanya Stadium,700,2016/2017
+20/03/2017,7:30 pm,Relegation round,1,Ashdod,Hapoel Kfar Saba,2,6,Hapoel Kfar Saba,0,0,Eitan Shmuelevic,Yud-Alef Stadion,1350,2016/2017
+01/04/2017,5:00 pm,Relegation round,2,Hapoel Tel Aviv,Bnei Yehuda,6,5,Hapoel Tel Aviv,2,0,Alon Yefet,HaMoshava Stadium,10000,2016/2017
+01/04/2017,5:00 pm,Relegation round,2,Ironi Kiryat Shmona,Hapoel Haifa,1,3,Hapoel Haifa,0,2,David Fucsman,Kiryat Shmona Municipal Stadium,700,2016/2017
+02/04/2017,7:15 pm,Relegation round,2,Hapoel Kfar Saba,Hapoel Ra'anana,8,2,Hapoel Kfar Saba,0,2,Guy Berger,Levita Stadium,1100,2016/2017
+03/04/2017,7:30 pm,Relegation round,2,Hapoel Ashkelon,Ashdod,7,4,Hapoel Ashkelon,0,0,Erez Papir,Sala Stadium,2500,2016/2017
+08/04/2017,3:00 pm,Relegation round,3,Hapoel Haifa,Hapoel Tel Aviv,2,7,Hapoel Tel Aviv,3,3,Menashe Masiah,Sammy Ofer Stadium,6700,2016/2017
+08/04/2017,5:00 pm,Relegation round,3,Hapoel Ra'anana,Hapoel Ashkelon,5,6,Hapoel Ashkelon,0,2,Eli Hacmon,Netanya Stadium,700,2016/2017
+08/04/2017,5:15 pm,Relegation round,3,Bnei Yehuda,Hapoel Kfar Saba,3,8,Hapoel Kfar Saba,1,0,Oren Siminyan,HaMoshava Stadium,2300,2016/2017
+09/04/2017,6:00 pm,Relegation round,3,Ashdod,Ironi Kiryat Shmona,4,1,Ashdod,1,1,Aviad Shiloah,Yud-Alef Stadion,720,2016/2017
+22/04/2017,4:15 pm,Relegation round,4,Hapoel Ashkelon,Bnei Yehuda,6,5,Hapoel Ashkelon,1,0,Eitan Shmuelevic,Sala Stadium,1800,2016/2017
+22/04/2017,5:00 pm,Relegation round,4,Hapoel Haifa,Ashdod,3,4,Ashdod,1,1,Igal Frid,Sammy Ofer Stadium,2200,2016/2017
+22/04/2017,7:15 pm,Relegation round,4,Ironi Kiryat Shmona,Hapoel Ra'anana,1,2,Hapoel Ra'anana,2,3,Ohad Asulin,Kiryat Shmona Municipal Stadium,400,2016/2017
+24/04/2017,8:00 pm,Relegation round,4,Hapoel Tel Aviv,Hapoel Kfar Saba,7,8,Hapoel Kfar Saba,2,0,Ziv Adler,HaMoshava Stadium,10000,2016/2017
+27/04/2017,6:30 pm,Relegation round,5,Hapoel Ra'anana,Hapoel Haifa,4,2,Hapoel Ra'anana,0,2,Asad Gabarin,Netanya Stadium,500,2016/2017
+27/04/2017,6:30 pm,Relegation round,5,Bnei Yehuda,Ironi Kiryat Shmona,5,1,Bnei Yehuda,0,2,Nael Odeh,HaMoshava Stadium,1500,2016/2017
+29/04/2017,4:45 pm,Relegation round,5,Ashdod,Hapoel Tel Aviv,3,7,Hapoel Tel Aviv,2,0,Alon Yefet,Yud-Alef Stadion,4500,2016/2017
+29/04/2017,4:45 pm,Relegation round,5,Hapoel Kfar Saba,Hapoel Ashkelon,8,6,Hapoel Kfar Saba,1,0,Eli Hacmon,Levita Stadium,1500,2016/2017
+06/05/2017,6:00 pm,Relegation round,6,Hapoel Tel Aviv,Hapoel Ashkelon,7,6,Hapoel Tel Aviv,0,0,Liran Liany,HaMoshava Stadium,10500,2016/2017
+06/05/2017,6:00 pm,Relegation round,6,Ironi Kiryat Shmona,Hapoel Kfar Saba,1,8,Hapoel Kfar Saba,1,4,Erez Papir,Kiryat Shmona Municipal Stadium,200,2016/2017
+06/05/2017,6:00 pm,Relegation round,6,Ashdod,Hapoel Ra'anana,3,4,Hapoel Ra'anana,2,2,David Fucsman,Yud-Alef Stadion,250,2016/2017
+06/05/2017,6:00 pm,Relegation round,6,Hapoel Haifa,Bnei Yehuda,2,5,Bnei Yehuda,1,1,Eli Hacmon,Sammy Ofer Stadium,1900,2016/2017
+13/05/2017,7:30 pm,Relegation round,7,Hapoel Ra'anana,Hapoel Tel Aviv,4,8,Hapoel Tel Aviv,1,1,Eli Hacmon,Netanya Stadium,6500,2016/2017
+13/05/2017,7:30 pm,Relegation round,7,Bnei Yehuda,Ashdod,5,3,Bnei Yehuda,2,1,Ohad Asulin,HaMoshava Stadium,300,2016/2017
+13/05/2017,7:30 pm,Relegation round,7,Hapoel Ashkelon,Ironi Kiryat Shmona,6,1,Hapoel Ashkelon,2,1,Eitan Shmuelevic,Sala Stadium,5000,2016/2017
+13/05/2017,7:30 pm,Relegation round,7,Hapoel Kfar Saba,Hapoel Haifa,7,2,Hapoel Kfar Saba,1,0,Menashe Masiah,Levita Stadium,2300,2016/2017
+19/08/2017,5:00 pm,Regular round,1,Ashdod,Maccabi Petah Tikva,10,4,Ashdod,1,2,Erez Papir,Yud-Alef Stadion,900,2017/2018
+19/08/2017,6:00 pm,Regular round,1,Hapoel Ra'anana,Ironi Kiryat Shmona,9,8,Hapoel Ra'anana,0,0,Orel Grinfeld,Netanya Stadium,600,2017/2018
+19/08/2017,6:15 pm,Regular round,1,Hapoel Haifa,Hapoel Ashkelon,2,11,Hapoel Ashkelon,3,1,Daniel Bar Natan,Sammy Ofer Stadium,2500,2017/2018
+19/08/2017,7:30 pm,Regular round,1,Hapoel Beer Sheva,Maccabi Netanya,6,7,Maccabi Netanya,1,1,Ziv Adler,Toto Jacob Turner Stadium,14786,2017/2018
+20/08/2017,6:00 pm,Regular round,1,Hapoel Acre,Bnei Sakhnin,14,5,Hapoel Acre,1,2,Gal Leibovitz,Akko Municipal Stadium,800,2017/2018
+20/08/2017,8:00 pm,Regular round,1,Maccabi Tel Aviv,Beitar Jerusalem,13,1,Maccabi Tel Aviv,0,3,Liran Liany,Netanya Stadium,11325,2017/2018
+21/08/2017,7:30 pm,Regular round,1,Bnei Yehuda,Maccabi Haifa,3,12,Maccabi Haifa,2,0,Eli Hacmon,HaMoshava Stadium,7500,2017/2018
+26/08/2017,5:00 pm,Regular round,2,Bnei Sakhnin,Hapoel Ra'anana,3,10,Hapoel Ra'anana,2,1,Zvika Levi,Akko Municipal Stadium,650,2017/2018
+26/08/2017,5:30 pm,Regular round,2,Hapoel Ashkelon,Bnei Yehuda,12,4,Hapoel Ashkelon,1,1,Erez Papir,Sala Stadium,2200,2017/2018
+26/08/2017,7:15 pm,Regular round,2,Maccabi Netanya,Hapoel Acre,8,14,Hapoel Acre,2,2,Igal Frid,Netanya Stadium,4373,2017/2018
+26/08/2017,7:30 pm,Regular round,2,Maccabi Petah Tikva,Hapoel Haifa,6,2,Maccabi Petah Tikva,0,2,Eli Hacmon,HaMoshava Stadium,2670,2017/2018
+27/08/2017,7:10 pm,Regular round,2,Ironi Kiryat Shmona,Maccabi Tel Aviv,9,7,Ironi Kiryat Shmona,1,2,Gal Leibovitz,Akko Municipal Stadium,2100,2017/2018
+27/08/2017,8:00 pm,Regular round,2,Maccabi Haifa,Hapoel Beer Sheva,5,11,Hapoel Beer Sheva,3,1,Eitan Shmuelevic,Sammy Ofer Stadium,27180,2017/2018
+28/08/2017,7:30 pm,Regular round,2,Beitar Jerusalem,Ashdod,1,13,Ashdod,4,1,Roi Reinshreiber,HaMoshava Stadium,9000,2017/2018
+09/09/2017,5:00 pm,Regular round,3,Maccabi Tel Aviv,Bnei Sakhnin,3,4,Bnei Sakhnin,2,0,Ziv Adler,Netanya Stadium,10127,2017/2018
+09/09/2017,6:15 pm,Regular round,3,Hapoel Haifa,Bnei Yehuda,2,6,Bnei Yehuda,2,1,Liran Liany,Sammy Ofer Stadium,4000,2017/2018
+09/09/2017,6:15 pm,Regular round,3,Ashdod,Ironi Kiryat Shmona,14,7,Ashdod,0,2,David Fucsman,Yud-Alef Stadion,700,2017/2018
+09/09/2017,7:30 pm,Regular round,3,Hapoel Beer Sheva,Hapoel Ashkelon,8,12,Hapoel Ashkelon,1,0,Menashe Masiah,Toto Jacob Turner Stadium,14725,2017/2018
+10/09/2017,6:00 pm,Regular round,3,Hapoel Ra'anana,Maccabi Netanya,13,5,Hapoel Ra'anana,0,3,Ohad Asulin,Netanya Stadium,2200,2017/2018
+10/09/2017,7:15 pm,Regular round,3,Hapoel Acre,Maccabi Haifa,11,9,Hapoel Acre,2,0,Daniel Bar Natan,Akko Municipal Stadium,5000,2017/2018
+11/09/2017,8:00 pm,Regular round,3,Maccabi Petah Tikva,Beitar Jerusalem,10,1,Maccabi Petah Tikva,1,2,Alon Yefet,HaMoshava Stadium,8000,2017/2018
+16/09/2017,5:00 pm,Regular round,4,Ironi Kiryat Shmona,Maccabi Petah Tikva,4,11,Maccabi Petah Tikva,3,1,Eitan Shmuelevic,Akko Municipal Stadium,200,2017/2018
+16/09/2017,6:00 pm,Regular round,4,Maccabi Haifa,Hapoel Ra'anana,7,13,Hapoel Ra'anana,4,2,Igal Frid,Sammy Ofer Stadium,16437,2017/2018
+16/09/2017,6:30 pm,Regular round,4,Hapoel Ashkelon,Hapoel Acre,10,12,Hapoel Acre,2,1,Eli Hacmon,Sala Stadium,2000,2017/2018
+16/09/2017,7:30 pm,Regular round,4,Beitar Jerusalem,Hapoel Haifa,1,2,Hapoel Haifa,3,3,Ziv Adler,Teddy-Kollek-Stadion,15000,2017/2018
+17/09/2017,6:00 pm,Regular round,4,Bnei Sakhnin,Ashdod,6,14,Ashdod,0,0,Shalom Ben Avraham,Akko Municipal Stadium,1000,2017/2018
+17/09/2017,7:15 pm,Regular round,4,Bnei Yehuda,Hapoel Beer Sheva,9,5,Bnei Yehuda,0,1,Roi Reinshreiber,HaMoshava Stadium,4300,2017/2018
+18/09/2017,8:00 pm,Regular round,4,Maccabi Netanya,Maccabi Tel Aviv,8,3,Maccabi Netanya,2,3,Orel Grinfeld,Netanya Stadium,9000,2017/2018
+23/09/2017,5:00 pm,Regular round,5,Hapoel Acre,Bnei Yehuda,12,11,Hapoel Acre,1,1,Idan Leiba,Akko Municipal Stadium,500,2017/2018
+23/09/2017,6:00 pm,Regular round,5,Hapoel Ra'anana,Hapoel Ashkelon,13,7,Hapoel Ra'anana,0,3,Guy Berger,Netanya Stadium,700,2017/2018
+23/09/2017,6:15 pm,Regular round,5,Ashdod,Maccabi Netanya,14,4,Ashdod,0,3,Asad Gabarin,Yud-Alef Stadion,1750,2017/2018
+23/09/2017,7:30 pm,Regular round,5,Hapoel Haifa,Hapoel Beer Sheva,2,6,Hapoel Beer Sheva,1,1,Gal Leibovitz,Sammy Ofer Stadium,7000,2017/2018
+24/09/2017,6:00 pm,Regular round,5,Maccabi Petah Tikva,Bnei Sakhnin,10,9,Maccabi Petah Tikva,1,0,Liran Liany,HaMoshava Stadium,1100,2017/2018
+24/09/2017,8:00 pm,Regular round,5,Maccabi Tel Aviv,Maccabi Haifa,3,8,Maccabi Haifa,0,0,Alon Yefet,Netanya Stadium,12400,2017/2018
+25/09/2017,7:30 pm,Regular round,5,Beitar Jerusalem,Ironi Kiryat Shmona,1,5,Ironi Kiryat Shmona,1,1,Menashe Masiah,Teddy-Kollek-Stadion,10500,2017/2018
+01/10/2017,6:00 pm,Regular round,6,Bnei Yehuda,Hapoel Ra'anana,10,13,Hapoel Ra'anana,1,0,Zvika Levi,HaMoshava Stadium,1500,2017/2018
+01/10/2017,7:00 pm,Regular round,6,Ironi Kiryat Shmona,Hapoel Haifa,8,1,Ironi Kiryat Shmona,0,1,Roi Reinshreiber,Kiryat Shmona Municipal Stadium,2100,2017/2018
+01/10/2017,7:00 pm,Regular round,6,Maccabi Haifa,Ashdod,6,14,Ashdod,1,0,Shalom Ben Avraham,Sammy Ofer Stadium,15932,2017/2018
+01/10/2017,8:00 pm,Regular round,6,Hapoel Ashkelon,Maccabi Tel Aviv,9,5,Hapoel Ashkelon,2,2,Orel Grinfeld,Sala Stadium,5120,2017/2018
+02/10/2017,7:15 pm,Regular round,6,Maccabi Netanya,Maccabi Petah Tikva,2,11,Maccabi Petah Tikva,4,0,Ziv Adler,Netanya Stadium,4000,2017/2018
+02/10/2017,8:00 pm,Regular round,6,Bnei Sakhnin,Beitar Jerusalem,7,3,Bnei Sakhnin,3,2,Eli Hacmon,Akko Municipal Stadium,2000,2017/2018
+18/11/2017,7:30 pm,Regular round,6,Hapoel Beer Sheva,Hapoel Acre,4,12,Hapoel Acre,3,1,Daniel Bar Natan,Toto Jacob Turner Stadium,15183,2017/2018
+14/10/2017,5:00 pm,Regular round,7,Maccabi Petah Tikva,Maccabi Haifa,11,6,Maccabi Petah Tikva,2,2,Liran Liany,HaMoshava Stadium,7000,2017/2018
+14/10/2017,5:30 pm,Regular round,7,Hapoel Haifa,Hapoel Acre,1,12,Hapoel Acre,4,0,Igal Frid,Sammy Ofer Stadium,4440,2017/2018
+14/10/2017,6:00 pm,Regular round,7,Ashdod,Hapoel Ashkelon,13,9,Ashdod,1,1,Menashe Masiah,Yud-Alef Stadion,1700,2017/2018
+14/10/2017,7:30 pm,Regular round,7,Hapoel Ra'anana,Hapoel Beer Sheva,14,3,Hapoel Ra'anana,1,3,Erez Papir,Netanya Stadium,2876,2017/2018
+15/10/2017,6:00 pm,Regular round,7,Ironi Kiryat Shmona,Bnei Sakhnin,8,7,Ironi Kiryat Shmona,0,0,Ohad Asulin,Kiryat Shmona Municipal Stadium,1120,2017/2018
+15/10/2017,7:15 pm,Regular round,7,Maccabi Tel Aviv,Bnei Yehuda,4,10,Bnei Yehuda,2,0,Eli Hacmon,Netanya Stadium,8836,2017/2018
+16/10/2017,8:00 pm,Regular round,7,Beitar Jerusalem,Maccabi Netanya,2,5,Maccabi Netanya,4,1,Gal Leibovitz,Teddy-Kollek-Stadion,12995,2017/2018
+21/10/2017,3:00 pm,Regular round,8,Bnei Yehuda,Ashdod,11,12,Ashdod,1,2,Orel Grinfeld,HaMoshava Stadium,1600,2017/2018
+21/10/2017,5:00 pm,Regular round,8,Hapoel Acre,Hapoel Ra'anana,14,13,Hapoel Acre,0,2,David Fucsman,Akko Municipal Stadium,650,2017/2018
+21/10/2017,5:15 pm,Regular round,8,Maccabi Netanya,Ironi Kiryat Shmona,4,9,Ironi Kiryat Shmona,3,1,Shalom Ben Avraham,Netanya Stadium,4800,2017/2018
+21/10/2017,7:30 pm,Regular round,8,Maccabi Haifa,Beitar Jerusalem,6,2,Maccabi Haifa,1,2,Eitan Shmuelevic,Sammy Ofer Stadium,28114,2017/2018
+22/10/2017,6:00 pm,Regular round,8,Hapoel Ashkelon,Maccabi Petah Tikva,10,8,Hapoel Ashkelon,1,3,Roi Reinshreiber,Sala Stadium,2000,2017/2018
+22/10/2017,7:15 pm,Regular round,8,Bnei Sakhnin,Hapoel Haifa,7,1,Bnei Sakhnin,0,1,Alon Yefet,Akko Municipal Stadium,4000,2017/2018
+23/10/2017,8:00 pm,Regular round,8,Hapoel Beer Sheva,Maccabi Tel Aviv,3,5,Maccabi Tel Aviv,2,1,Ziv Adler,Toto Jacob Turner Stadium,15500,2017/2018
+28/10/2017,3:00 pm,Regular round,9,Bnei Sakhnin,Maccabi Netanya,7,5,Bnei Sakhnin,0,0,Guy Berger,Akko Municipal Stadium,1500,2017/2018
+28/10/2017,5:00 pm,Regular round,9,Hapoel Haifa,Hapoel Ra'anana,1,13,Hapoel Ra'anana,2,0,Gal Leibovitz,Sammy Ofer Stadium,5300,2017/2018
+28/10/2017,5:15 pm,Regular round,9,Ironi Kiryat Shmona,Maccabi Haifa,6,8,Maccabi Haifa,1,0,Daniel Bar Natan,Kiryat Shmona Municipal Stadium,3000,2017/2018
+28/10/2017,7:30 pm,Regular round,9,Beitar Jerusalem,Hapoel Ashkelon,2,11,Hapoel Ashkelon,2,0,Zvika Levi,Teddy-Kollek-Stadion,9000,2017/2018
+29/10/2017,7:10 pm,Regular round,9,Maccabi Tel Aviv,Hapoel Acre,4,14,Hapoel Acre,5,2,Liran Liany,Netanya Stadium,6132,2017/2018
+29/10/2017,8:00 pm,Regular round,9,Ashdod,Hapoel Beer Sheva,12,3,Ashdod,1,3,Menashe Masiah,Yud-Alef Stadion,4650,2017/2018
+30/10/2017,8:00 pm,Regular round,9,Maccabi Petah Tikva,Bnei Yehuda,10,9,Maccabi Petah Tikva,1,2,Erez Papir,HaMoshava Stadium,1000,2017/2018
+04/11/2017,3:00 pm,Regular round,10,Hapoel Acre,Ashdod,12,13,Ashdod,1,0,Idan Leiba,Akko Municipal Stadium,800,2017/2018
+04/11/2017,5:15 pm,Regular round,10,Maccabi Netanya,Hapoel Haifa,5,1,Maccabi Netanya,2,0,Roi Reinshreiber,Netanya Stadium,11500,2017/2018
+04/11/2017,7:30 pm,Regular round,10,Bnei Yehuda,Beitar Jerusalem,7,3,Bnei Yehuda,3,2,Igal Frid,HaMoshava Stadium,9000,2017/2018
+05/11/2017,7:00 pm,Regular round,10,Maccabi Petah Tikva,Hapoel Beer Sheva,11,2,Maccabi Petah Tikva,0,2,Alon Yefet,HaMoshava Stadium,3300,2017/2018
+05/11/2017,7:30 pm,Regular round,10,Hapoel Ra'anana,Maccabi Tel Aviv,14,4,Hapoel Ra'anana,0,1,Eitan Shmuelevic,Netanya Stadium,2500,2017/2018
+05/11/2017,8:00 pm,Regular round,10,Maccabi Haifa,Bnei Sakhnin,6,9,Bnei Sakhnin,2,0,Eli Hacmon,Sammy Ofer Stadium,16239,2017/2018
+06/11/2017,6:45 pm,Regular round,10,Hapoel Ashkelon,Ironi Kiryat Shmona,10,8,Hapoel Ashkelon,0,0,Liran Liany,Sala Stadium,1600,2017/2018
+25/11/2017,3:00 pm,Regular round,11,Bnei Sakhnin,Hapoel Ashkelon,8,11,Hapoel Ashkelon,2,1,Eli Hacmon,Akko Municipal Stadium,800,2017/2018
+25/11/2017,5:15 pm,Regular round,11,Ironi Kiryat Shmona,Bnei Yehuda,6,9,Bnei Yehuda,2,1,Ziv Adler,Kiryat Shmona Municipal Stadium,800,2017/2018
+25/11/2017,7:30 pm,Regular round,11,Hapoel Acre,Maccabi Petah Tikva,13,10,Hapoel Acre,0,3,Shalom Ben Avraham,Akko Municipal Stadium,1000,2017/2018
+25/11/2017,7:30 pm,Regular round,11,Maccabi Netanya,Maccabi Haifa,5,7,Maccabi Haifa,1,1,Erez Papir,Netanya Stadium,12500,2017/2018
+26/11/2017,6:00 pm,Regular round,11,Ashdod,Hapoel Ra'anana,14,12,Ashdod,0,1,Daniel Bar Natan,Yud-Alef Stadion,1400,2017/2018
+26/11/2017,7:15 pm,Regular round,11,Hapoel Haifa,Maccabi Tel Aviv,1,4,Maccabi Tel Aviv,2,2,Orel Grinfeld,Sammy Ofer Stadium,7500,2017/2018
+27/11/2017,8:00 pm,Regular round,11,Beitar Jerusalem,Hapoel Beer Sheva,3,2,Beitar Jerusalem,2,2,Liran Liany,Teddy-Kollek-Stadion,26000,2017/2018
+02/12/2017,3:00 pm,Regular round,12,Maccabi Tel Aviv,Ashdod,4,13,Ashdod,1,1,Alon Yefet,Netanya Stadium,10117,2017/2018
+02/12/2017,5:00 pm,Regular round,12,Bnei Yehuda,Bnei Sakhnin,6,9,Bnei Sakhnin,3,0,Zvika Levi,HaMoshava Stadium,1700,2017/2018
+02/12/2017,5:15 pm,Regular round,12,Hapoel Ashkelon,Maccabi Netanya,11,5,Hapoel Ashkelon,1,1,Eitan Shmuelevic,Sala Stadium,3000,2017/2018
+02/12/2017,7:30 pm,Regular round,12,Hapoel Acre,Beitar Jerusalem,14,3,Hapoel Acre,1,3,Igal Frid,Akko Municipal Stadium,5000,2017/2018
+03/12/2017,6:00 pm,Regular round,12,Hapoel Ra'anana,Maccabi Petah Tikva,12,10,Hapoel Ra'anana,0,0,Roi Reinshreiber,Netanya Stadium,500,2017/2018
+03/12/2017,7:15 pm,Regular round,12,Hapoel Beer Sheva,Ironi Kiryat Shmona,2,7,Ironi Kiryat Shmona,3,1,Idan Leiba,Toto Jacob Turner Stadium,13872,2017/2018
+04/12/2017,8:00 pm,Regular round,12,Hapoel Haifa,Maccabi Haifa,1,8,Maccabi Haifa,1,0,Menashe Masiah,Sammy Ofer Stadium,23185,2017/2018
+09/12/2017,3:00 pm,Regular round,13,Ashdod,Hapoel Haifa,13,2,Ashdod,1,1,Shalom Ben Avraham,Yud-Alef Stadion,1900,2017/2018
+09/12/2017,3:00 pm,Regular round,13,Maccabi Netanya,Bnei Yehuda,5,6,Bnei Yehuda,1,2,Gal Leibovitz,Netanya Stadium,6000,2017/2018
+09/12/2017,5:15 pm,Regular round,13,Maccabi Haifa,Hapoel Ashkelon,8,11,Hapoel Ashkelon,1,1,Daniel Bar Natan,Sammy Ofer Stadium,14576,2017/2018
+09/12/2017,7:30 pm,Regular round,13,Beitar Jerusalem,Hapoel Ra'anana,3,12,Hapoel Ra'anana,3,2,Erez Papir,Teddy-Kollek-Stadion,7000,2017/2018
+10/12/2017,6:00 pm,Regular round,13,Ironi Kiryat Shmona,Hapoel Acre,7,14,Hapoel Acre,4,0,David Fucsman,Kiryat Shmona Municipal Stadium,700,2017/2018
+10/12/2017,7:15 pm,Regular round,13,Bnei Sakhnin,Hapoel Beer Sheva,10,1,Bnei Sakhnin,1,3,Alon Yefet,Akko Municipal Stadium,1200,2017/2018
+11/12/2017,8:00 pm,Regular round,13,Maccabi Petah Tikva,Maccabi Tel Aviv,9,4,Maccabi Petah Tikva,0,0,Ziv Adler,HaMoshava Stadium,3500,2017/2018
+16/12/2017,3:00 pm,Regular round,14,Maccabi Petah Tikva,Ashdod,10,13,Ashdod,1,1,Daniel Bar Natan,HaMoshava Stadium,1200,2017/2018
+16/12/2017,5:00 pm,Regular round,14,Bnei Sakhnin,Hapoel Acre,8,14,Hapoel Acre,2,1,Guy Berger,Akko Municipal Stadium,700,2017/2018
+16/12/2017,5:15 pm,Regular round,14,Hapoel Ashkelon,Hapoel Haifa,11,2,Hapoel Ashkelon,0,0,Ziv Adler,Sala Stadium,2200,2017/2018
+16/12/2017,7:30 pm,Regular round,14,Maccabi Haifa,Bnei Yehuda,9,6,Maccabi Haifa,0,2,Liran Liany,Sammy Ofer Stadium,17000,2017/2018
+17/12/2017,6:00 pm,Regular round,14,Ironi Kiryat Shmona,Hapoel Ra'anana,7,12,Hapoel Ra'anana,0,2,Igal Frid,Kiryat Shmona Municipal Stadium,500,2017/2018
+17/12/2017,7:30 pm,Regular round,14,Maccabi Netanya,Hapoel Beer Sheva,5,1,Maccabi Netanya,1,0,Orel Grinfeld,Netanya Stadium,7850,2017/2018
+18/12/2017,8:00 pm,Regular round,14,Beitar Jerusalem,Maccabi Tel Aviv,3,4,Maccabi Tel Aviv,1,2,Eitan Shmuelevic,Teddy-Kollek-Stadion,24000,2017/2018
+23/12/2017,3:00 pm,Regular round,15,Hapoel Acre,Maccabi Netanya,14,5,Hapoel Acre,0,3,Eli Hacmon,Akko Municipal Stadium,800,2017/2018
+23/12/2017,5:00 pm,Regular round,15,Bnei Yehuda,Hapoel Ashkelon,6,11,Hapoel Ashkelon,3,1,Roi Reinshreiber,HaMoshava Stadium,3000,2017/2018
+23/12/2017,5:15 pm,Regular round,15,Hapoel Haifa,Maccabi Petah Tikva,2,10,Maccabi Petah Tikva,2,0,Alon Yefet,Sammy Ofer Stadium,4900,2017/2018
+23/12/2017,7:30 pm,Regular round,15,Maccabi Tel Aviv,Ironi Kiryat Shmona,4,7,Ironi Kiryat Shmona,2,1,Daniel Bar Natan,Netanya Stadium,10882,2017/2018
+24/12/2017,6:00 pm,Regular round,15,Hapoel Ra'anana,Bnei Sakhnin,12,8,Hapoel Ra'anana,1,1,Idan Leiba,Netanya Stadium,700,2017/2018
+24/12/2017,7:15 pm,Regular round,15,Ashdod,Beitar Jerusalem,13,3,Ashdod,1,3,Zvika Levi,Yud-Alef Stadion,3000,2017/2018
+25/12/2017,8:00 pm,Regular round,15,Hapoel Beer Sheva,Maccabi Haifa,1,9,Maccabi Haifa,2,0,Erez Papir,Toto Jacob Turner Stadium,15417,2017/2018
+30/12/2017,3:00 pm,Regular round,16,Bnei Yehuda,Hapoel Haifa,6,2,Bnei Yehuda,0,1,Orel Grinfeld,HaMoshava Stadium,4500,2017/2018
+30/12/2017,5:15 pm,Regular round,16,Maccabi Haifa,Hapoel Acre,9,14,Hapoel Acre,0,1,Alon Yefet,Sammy Ofer Stadium,12500,2017/2018
+30/12/2017,5:15 pm,Regular round,16,Maccabi Netanya,Hapoel Ra'anana,5,12,Hapoel Ra'anana,2,2,Menashe Masiah,Netanya Stadium,5600,2017/2018
+30/12/2017,7:30 pm,Regular round,16,Beitar Jerusalem,Maccabi Petah Tikva,3,10,Maccabi Petah Tikva,1,0,Ziv Adler,Teddy-Kollek-Stadion,8000,2017/2018
+31/12/2017,6:00 pm,Regular round,16,Ironi Kiryat Shmona,Ashdod,7,13,Ashdod,1,2,Aviad Shiloah,Kiryat Shmona Municipal Stadium,400,2017/2018
+31/12/2017,7:15 pm,Regular round,16,Hapoel Ashkelon,Hapoel Beer Sheva,11,1,Hapoel Ashkelon,0,1,Liran Liany,Sala Stadium,3800,2017/2018
+01/01/2018,8:00 pm,Regular round,16,Bnei Sakhnin,Maccabi Tel Aviv,8,4,Bnei Sakhnin,0,1,Gal Leibovitz,Akko Municipal Stadium,1500,2017/2018
+08/01/2018,6:00 pm,Regular round,17,Ashdod,Bnei Sakhnin,13,7,Ashdod,1,2,Ohad Asulin,Yud-Alef Stadion,800,2017/2018
+08/01/2018,6:00 pm,Regular round,17,Hapoel Acre,Hapoel Ashkelon,14,11,Hapoel Acre,0,1,Erez Papir,Akko Municipal Stadium,400,2017/2018
+08/01/2018,7:30 pm,Regular round,17,Hapoel Haifa,Beitar Jerusalem,3,2,Hapoel Haifa,0,2,Eli Hacmon,Sammy Ofer Stadium,11650,2017/2018
+09/01/2018,6:00 pm,Regular round,17,Maccabi Petah Tikva,Ironi Kiryat Shmona,10,9,Maccabi Petah Tikva,2,0,Roi Reinshreiber,HaMoshava Stadium,900,2017/2018
+09/01/2018,7:00 pm,Regular round,17,Hapoel Beer Sheva,Bnei Yehuda,1,6,Bnei Yehuda,0,0,Eitan Shmuelevic,Toto Jacob Turner Stadium,14672,2017/2018
+09/01/2018,8:00 pm,Regular round,17,Maccabi Tel Aviv,Maccabi Netanya,4,5,Maccabi Netanya,3,0,Orel Grinfeld,Netanya Stadium,10767,2017/2018
+10/01/2018,7:30 pm,Regular round,17,Hapoel Ra'anana,Maccabi Haifa,12,8,Hapoel Ra'anana,0,3,Shalom Ben Avraham,Netanya Stadium,2300,2017/2018
+13/01/2018,3:00 pm,Regular round,18,Bnei Yehuda,Hapoel Acre,5,14,Hapoel Acre,2,1,David Fucsman,HaMoshava Stadium,2250,2017/2018
+13/01/2018,5:00 pm,Regular round,18,Bnei Sakhnin,Maccabi Petah Tikva,8,7,Bnei Sakhnin,0,2,Daniel Bar Natan,Akko Municipal Stadium,700,2017/2018
+13/01/2018,5:15 pm,Regular round,18,Maccabi Netanya,Ashdod,6,13,Ashdod,2,2,Roi Reinshreiber,Netanya Stadium,4275,2017/2018
+13/01/2018,7:30 pm,Regular round,18,Ironi Kiryat Shmona,Beitar Jerusalem,9,3,Ironi Kiryat Shmona,1,1,Eitan Shmuelevic,Kiryat Shmona Municipal Stadium,0,2017/2018
+14/01/2018,6:00 pm,Regular round,18,Hapoel Ashkelon,Hapoel Ra'anana,11,12,Hapoel Ra'anana,0,1,Guy Berger,Sala Stadium,1300,2017/2018
+14/01/2018,7:30 pm,Regular round,18,Hapoel Beer Sheva,Hapoel Haifa,1,4,Hapoel Haifa,1,1,Alon Yefet,Toto Jacob Turner Stadium,15097,2017/2018
+15/01/2018,8:00 pm,Regular round,18,Maccabi Haifa,Maccabi Tel Aviv,10,2,Maccabi Haifa,1,3,Ziv Adler,Sammy Ofer Stadium,22472,2017/2018
+20/01/2018,3:00 pm,Regular round,19,Hapoel Haifa,Ironi Kiryat Shmona,4,7,Ironi Kiryat Shmona,0,2,Ziv Adler,Sammy Ofer Stadium,4700,2017/2018
+20/01/2018,5:00 pm,Regular round,19,Hapoel Ra'anana,Bnei Yehuda,11,5,Hapoel Ra'anana,1,1,Alon Yefet,Netanya Stadium,1000,2017/2018
+20/01/2018,5:15 pm,Regular round,19,Ashdod,Maccabi Haifa,13,10,Ashdod,0,0,Liran Liany,Yud-Alef Stadion,3000,2017/2018
+20/01/2018,7:30 pm,Regular round,19,Hapoel Acre,Hapoel Beer Sheva,14,2,Hapoel Acre,0,1,Igal Frid,Akko Municipal Stadium,2500,2017/2018
+21/01/2018,6:00 pm,Regular round,19,Maccabi Petah Tikva,Maccabi Netanya,8,6,Maccabi Petah Tikva,1,1,Gal Leibovitz,HaMoshava Stadium,1700,2017/2018
+21/01/2018,7:30 pm,Regular round,19,Maccabi Tel Aviv,Hapoel Ashkelon,1,12,Hapoel Ashkelon,3,1,Daniel Bar Natan,Netanya Stadium,8467,2017/2018
+22/01/2018,8:00 pm,Regular round,19,Beitar Jerusalem,Bnei Sakhnin,3,9,Bnei Sakhnin,4,2,Erez Papir,Teddy-Kollek-Stadion,13000,2017/2018
+27/01/2018,3:00 pm,Regular round,20,Hapoel Acre,Hapoel Haifa,14,4,Hapoel Acre,0,1,Guy Berger,Akko Municipal Stadium,1200,2017/2018
+27/01/2018,5:00 pm,Regular round,20,Hapoel Ashkelon,Ashdod,12,13,Ashdod,1,2,Ziv Adler,Sala Stadium,750,2017/2018
+27/01/2018,5:15 pm,Regular round,20,Maccabi Haifa,Maccabi Petah Tikva,10,8,Maccabi Haifa,1,1,Alon Yefet,Sammy Ofer Stadium,12127,2017/2018
+27/01/2018,7:30 pm,Regular round,20,Hapoel Beer Sheva,Hapoel Ra'anana,1,11,Hapoel Ra'anana,3,1,Gal Leibovitz,Toto Jacob Turner Stadium,12311,2017/2018
+28/01/2018,6:00 pm,Regular round,20,Bnei Sakhnin,Ironi Kiryat Shmona,9,7,Bnei Sakhnin,1,2,Shalom Ben Avraham,Akko Municipal Stadium,400,2017/2018
+28/01/2018,7:30 pm,Regular round,20,Bnei Yehuda,Maccabi Tel Aviv,6,2,Bnei Yehuda,0,0,Eitan Shmuelevic,HaMoshava Stadium,6300,2017/2018
+29/01/2018,8:00 pm,Regular round,20,Maccabi Netanya,Beitar Jerusalem,5,3,Maccabi Netanya,2,1,Eli Hacmon,Netanya Stadium,0,2017/2018
+03/02/2018,3:00 pm,Regular round,21,Hapoel Haifa,Bnei Sakhnin,4,9,Bnei Sakhnin,1,0,David Fucsman,Sammy Ofer Stadium,4700,2017/2018
+03/02/2018,5:00 pm,Regular round,21,Hapoel Ra'anana,Hapoel Acre,12,14,Hapoel Acre,0,1,Zvika Levi,Netanya Stadium,650,2017/2018
+03/02/2018,5:15 pm,Regular round,21,Ironi Kiryat Shmona,Maccabi Netanya,8,5,Ironi Kiryat Shmona,1,2,Daniel Bar Natan,Kiryat Shmona Municipal Stadium,810,2017/2018
+03/02/2018,7:30 pm,Regular round,21,Beitar Jerusalem,Maccabi Haifa,3,10,Maccabi Haifa,3,1,Ziv Adler,Teddy-Kollek-Stadion,0,2017/2018
+04/02/2018,6:30 pm,Regular round,21,Ashdod,Bnei Yehuda,11,6,Ashdod,1,1,Igal Frid,Yud-Alef Stadion,1250,2017/2018
+04/02/2018,8:00 pm,Regular round,21,Maccabi Tel Aviv,Hapoel Beer Sheva,1,2,Hapoel Beer Sheva,1,0,Liran Liany,Netanya Stadium,12397,2017/2018
+05/02/2018,7:00 pm,Regular round,21,Maccabi Petah Tikva,Hapoel Ashkelon,7,13,Hapoel Ashkelon,3,0,Orel Grinfeld,HaMoshava Stadium,1400,2017/2018
+10/02/2018,3:00 pm,Regular round,22,Hapoel Ra'anana,Hapoel Haifa,11,4,Hapoel Ra'anana,1,1,Eli Hacmon,Netanya Stadium,1600,2017/2018
+10/02/2018,5:00 pm,Regular round,22,Bnei Yehuda,Maccabi Petah Tikva,6,7,Maccabi Petah Tikva,2,1,Idan Leiba,HaMoshava Stadium,2200,2017/2018
+10/02/2018,5:15 pm,Regular round,22,Maccabi Haifa,Ironi Kiryat Shmona,9,8,Maccabi Haifa,4,0,Roi Reinshreiber,Sammy Ofer Stadium,12063,2017/2018
+10/02/2018,7:30 pm,Regular round,22,Hapoel Ashkelon,Beitar Jerusalem,13,3,Hapoel Ashkelon,1,3,Liran Liany,Sala Stadium,5200,2017/2018
+11/02/2018,6:00 pm,Regular round,22,Maccabi Netanya,Bnei Sakhnin,5,10,Bnei Sakhnin,1,1,Gal Leibovitz,Netanya Stadium,4800,2017/2018
+11/02/2018,7:15 pm,Regular round,22,Hapoel Acre,Maccabi Tel Aviv,14,1,Hapoel Acre,0,2,Ziv Adler,Akko Municipal Stadium,0,2017/2018
+12/02/2018,8:00 pm,Regular round,22,Hapoel Beer Sheva,Ashdod,2,12,Ashdod,2,0,Daniel Bar Natan,Toto Jacob Turner Stadium,11745,2017/2018
+17/02/2018,12:00 am,Regular round,23,Hapoel Beer Sheva,Maccabi Petah Tikva,1,8,Maccabi Petah Tikva,3,0,Alon Yefet,Toto Jacob Turner Stadium,14173,2017/2018
+17/02/2018,3:00 pm,Regular round,23,Maccabi Tel Aviv,Hapoel Ra'anana,3,11,Hapoel Ra'anana,0,1,Erez Papir,Netanya Stadium,9656,2017/2018
+17/02/2018,5:00 pm,Regular round,23,Ashdod,Hapoel Acre,12,14,Hapoel Acre,3,2,Eitan Shmuelevic,Yud-Alef Stadion,350,2017/2018
+17/02/2018,5:15 pm,Regular round,23,Bnei Sakhnin,Maccabi Haifa,9,10,Maccabi Haifa,1,0,tbc,Doha Stadium,2300,2017/2018
+18/02/2018,6:00 pm,Regular round,23,Ironi Kiryat Shmona,Hapoel Ashkelon,7,13,Hapoel Ashkelon,1,0,Idan Leiba,Kiryat Shmona Municipal Stadium,250,2017/2018
+18/02/2018,7:30 pm,Regular round,23,Hapoel Haifa,Maccabi Netanya,4,5,Maccabi Netanya,2,0,Igal Frid,Sammy Ofer Stadium,5430,2017/2018
+19/02/2018,8:00 pm,Regular round,23,Beitar Jerusalem,Bnei Yehuda,2,6,Bnei Yehuda,2,0,Shalom Ben Avraham,Teddy-Kollek-Stadion,0,2017/2018
+24/02/2018,12:00 am,Regular round,24,Hapoel Ra'anana,Ashdod,11,12,Ashdod,2,1,tbc,Netanya Stadium,800,2017/2018
+24/02/2018,5:00 pm,Regular round,24,Hapoel Ashkelon,Bnei Sakhnin,13,9,Hapoel Ashkelon,0,2,Ohad Asulin,Sala Stadium,1400,2017/2018
+24/02/2018,5:15 pm,Regular round,24,Maccabi Haifa,Maccabi Netanya,10,5,Maccabi Haifa,1,2,Daniel Bar Natan,Sammy Ofer Stadium,14467,2017/2018
+24/02/2018,7:30 pm,Regular round,24,Maccabi Tel Aviv,Hapoel Haifa,1,4,Hapoel Haifa,4,0,Alon Yefet,Netanya Stadium,11538,2017/2018
+25/02/2018,6:30 pm,Regular round,24,Bnei Yehuda,Ironi Kiryat Shmona,6,8,Ironi Kiryat Shmona,1,0,Igal Frid,HaMoshava Stadium,1200,2017/2018
+25/02/2018,8:00 pm,Regular round,24,Hapoel Beer Sheva,Beitar Jerusalem,2,3,Beitar Jerusalem,1,1,Erez Papir,Toto Jacob Turner Stadium,15712,2017/2018
+26/02/2018,12:00 am,Regular round,24,Maccabi Petah Tikva,Hapoel Acre,7,14,Hapoel Acre,2,1,David Fucsman,HaMoshava Stadium,1000,2017/2018
+03/03/2018,3:00 pm,Regular round,25,Maccabi Petah Tikva,Hapoel Ra'anana,7,11,Hapoel Ra'anana,3,2,Shalom Ben Avraham,HaMoshava Stadium,1200,2017/2018
+03/03/2018,5:10 pm,Regular round,25,Maccabi Netanya,Hapoel Ashkelon,5,13,Hapoel Ashkelon,2,0,Zvika Levi,Netanya Stadium,4500,2017/2018
+03/03/2018,5:10 pm,Regular round,25,Bnei Sakhnin,Bnei Yehuda,8,6,Bnei Sakhnin,2,2,Aviad Shiloah,Doha Stadium,1200,2017/2018
+03/03/2018,7:30 pm,Regular round,25,Ashdod,Maccabi Tel Aviv,12,3,Ashdod,0,0,Gal Leibovitz,Yud-Alef Stadion,5100,2017/2018
+04/03/2018,12:00 am,Regular round,25,Ironi Kiryat Shmona,Hapoel Beer Sheva,9,1,Ironi Kiryat Shmona,0,1,Liran Liany,Kiryat Shmona Municipal Stadium,1500,2017/2018
+04/03/2018,8:00 pm,Regular round,25,Beitar Jerusalem,Hapoel Acre,2,14,Hapoel Acre,3,0,Orel Grinfeld,Teddy-Kollek-Stadion,6000,2017/2018
+05/03/2018,8:00 pm,Regular round,25,Maccabi Haifa,Hapoel Haifa,10,4,Maccabi Haifa,0,3,Ziv Adler,Sammy Ofer Stadium,10132,2017/2018
+10/03/2018,5:00 pm,Regular round,26,Bnei Yehuda,Maccabi Netanya,6,5,Bnei Yehuda,0,1,Eli Hacmon,HaMoshava Stadium,3400,2017/2018
+10/03/2018,5:15 pm,Regular round,26,Hapoel Haifa,Ashdod,4,12,Ashdod,1,0,Erez Papir,Sammy Ofer Stadium,4200,2017/2018
+10/03/2018,6:00 pm,Regular round,26,Hapoel Ashkelon,Maccabi Haifa,13,10,Hapoel Ashkelon,0,0,Alon Yefet,Sala Stadium,3200,2017/2018
+10/03/2018,7:30 pm,Regular round,26,Hapoel Beer Sheva,Bnei Sakhnin,1,9,Bnei Sakhnin,2,0,Orel Grinfeld,Toto Jacob Turner Stadium,14464,2017/2018
+11/03/2018,6:00 pm,Regular round,26,Hapoel Acre,Ironi Kiryat Shmona,14,8,Hapoel Acre,0,3,Ohad Asulin,Akko Municipal Stadium,250,2017/2018
+11/03/2018,7:15 pm,Regular round,26,Hapoel Ra'anana,Beitar Jerusalem,11,2,Hapoel Ra'anana,0,2,Eitan Shmuelevic,Netanya Stadium,5500,2017/2018
+12/03/2018,8:00 pm,Regular round,26,Maccabi Tel Aviv,Maccabi Petah Tikva,3,7,Maccabi Petah Tikva,2,0,Liran Liany,Netanya Stadium,8045,2017/2018
+17/03/2018,7:30 pm, Championship round,1,Beitar Jerusalem,Maccabi Netanya,2,5,Maccabi Netanya,2,0,Orel Grinfeld,Teddy-Kollek-Stadion,10000,2017/2018
+18/03/2018,7:00 pm, Championship round,1,Hapoel Beer Sheva,Bnei Yehuda,1,6,Bnei Yehuda,1,0,Gal Leibovitz,Toto Jacob Turner Stadium,14362,2017/2018
+18/03/2018,8:00 pm, Championship round,1,Maccabi Tel Aviv,Hapoel Haifa,4,3,Maccabi Tel Aviv,1,2,Eli Hacmon,Netanya Stadium,11234,2017/2018
+03/04/2018,6:30 pm, Championship round,2,Maccabi Netanya,Maccabi Tel Aviv,5,4,Maccabi Netanya,4,1,Eitan Shmuelevic,Netanya Stadium,10500,2017/2018
+04/04/2018,6:00 pm, Championship round,2,Bnei Yehuda,Hapoel Haifa,6,3,Bnei Yehuda,3,0,Liran Liany,HaMoshava Stadium,2200,2017/2018
+04/04/2018,6:30 pm, Championship round,2,Hapoel Beer Sheva,Beitar Jerusalem,1,2,Beitar Jerusalem,3,1,Ziv Adler,Toto Jacob Turner Stadium,15728,2017/2018
+08/04/2018,6:00 pm, Championship round,3,Hapoel Haifa,Maccabi Netanya,3,5,Maccabi Netanya,1,1,Gal Leibovitz,Sammy Ofer Stadium,4100,2017/2018
+08/04/2018,8:00 pm, Championship round,3,Beitar Jerusalem,Bnei Yehuda,2,6,Bnei Yehuda,1,1,Eli Hacmon,Teddy-Kollek-Stadion,8000,2017/2018
+08/04/2018,8:00 pm, Championship round,3,Maccabi Tel Aviv,Hapoel Beer Sheva,4,1,Maccabi Tel Aviv,0,1,Alon Yefet,Netanya Stadium,11475,2017/2018
+14/04/2018,5:45 pm, Championship round,4,Bnei Yehuda,Maccabi Netanya,6,5,Bnei Yehuda,1,3,Roi Reinshreiber,HaMoshava Stadium,2700,2017/2018
+15/04/2018,7:30 pm, Championship round,4,Hapoel Beer Sheva,Hapoel Haifa,1,3,Hapoel Haifa,2,2,Orel Grinfeld,Toto Jacob Turner Stadium,15166,2017/2018
+16/04/2018,8:00 pm, Championship round,4,Beitar Jerusalem,Maccabi Tel Aviv,2,4,Maccabi Tel Aviv,3,2,Liran Liany,Teddy-Kollek-Stadion,10000,2017/2018
+21/04/2018,7:30 pm, Championship round,5,Maccabi Tel Aviv,Bnei Yehuda,3,6,Bnei Yehuda,2,0,Gal Leibovitz,Netanya Stadium,5036,2017/2018
+22/04/2018,7:30 pm, Championship round,5,Maccabi Netanya,Hapoel Beer Sheva,5,1,Maccabi Netanya,1,5,Ziv Adler,Netanya Stadium,11500,2017/2018
+23/04/2018,8:00 pm, Championship round,5,Hapoel Haifa,Beitar Jerusalem,4,2,Hapoel Haifa,0,1,Alon Yefet,Sammy Ofer Stadium,7500,2017/2018
+28/04/2018,7:30 pm, Championship round,6,Bnei Yehuda,Hapoel Beer Sheva,6,1,Bnei Yehuda,1,1,Erez Papir,HaMoshava Stadium,7500,2017/2018
+29/04/2018,8:00 pm, Championship round,6,Hapoel Haifa,Maccabi Tel Aviv,4,3,Hapoel Haifa,2,2,Eli Hacmon,Sammy Ofer Stadium,4000,2017/2018
+30/04/2018,8:00 pm, Championship round,6,Maccabi Netanya,Beitar Jerusalem,5,2,Maccabi Netanya,4,1,Orel Grinfeld,Netanya Stadium,10500,2017/2018
+05/05/2018,5:00 pm, Championship round,7,Hapoel Haifa,Bnei Yehuda,4,6,Bnei Yehuda,2,1,Shalom Ben Avraham,Sammy Ofer Stadium,4000,2017/2018
+05/05/2018,8:00 pm, Championship round,7,Beitar Jerusalem,Hapoel Beer Sheva,2,1,Beitar Jerusalem,1,4,Alon Yefet,Teddy-Kollek-Stadion,25500,2017/2018
+07/05/2018,7:30 pm, Championship round,7,Maccabi Tel Aviv,Maccabi Netanya,3,5,Maccabi Netanya,2,0,Eitan Shmuelevic,Netanya Stadium,6346,2017/2018
+12/05/2018,5:00 pm, Championship round,8,Maccabi Netanya,Hapoel Haifa,5,4,Maccabi Netanya,2,1,Daniel Bar Natan,Netanya Stadium,4980,2017/2018
+12/05/2018,7:15 pm, Championship round,8,Bnei Yehuda,Beitar Jerusalem,6,2,Bnei Yehuda,3,3,Roi Reinshreiber,HaMoshava Stadium,0,2017/2018
+12/05/2018,8:00 pm, Championship round,8,Hapoel Beer Sheva,Maccabi Tel Aviv,1,3,Maccabi Tel Aviv,0,1,Erez Papir,Toto Jacob Turner Stadium,15855,2017/2018
+15/05/2018,7:15 pm, Championship round,9,Hapoel Haifa,Hapoel Beer Sheva,4,1,Hapoel Haifa,1,4,Igal Frid,Sammy Ofer Stadium,0,2017/2018
+15/05/2018,8:00 pm, Championship round,9,Maccabi Tel Aviv,Beitar Jerusalem,2,3,Beitar Jerusalem,3,1,Idan Leiba,Netanya Stadium,6595,2017/2018
+16/05/2018,6:15 pm, Championship round,9,Maccabi Netanya,Bnei Yehuda,5,6,Bnei Yehuda,0,5,Ohad Asulin,Netanya Stadium,3250,2017/2018
+21/05/2018,8:00 pm, Championship round,10,Bnei Yehuda,Maccabi Tel Aviv,6,2,Bnei Yehuda,0,2,David Fucsman,HaMoshava Stadium,2400,2017/2018
+21/05/2018,8:00 pm, Championship round,10,Hapoel Beer Sheva,Maccabi Netanya,1,5,Maccabi Netanya,6,1,Roi Reinshreiber,Toto Jacob Turner Stadium,13817,2017/2018
+21/05/2018,8:00 pm, Championship round,10,Beitar Jerusalem,Hapoel Haifa,3,4,Hapoel Haifa,1,1,Gal Leibovitz,Teddy-Kollek-Stadion,500,2017/2018
+17/03/2018,3:00 pm,Relegation round,1,Maccabi Haifa,Hapoel Acre,4,8,Hapoel Acre,4,0,Eitan Shmuelevic,Sammy Ofer Stadium,6892,2017/2018
+17/03/2018,5:00 pm,Relegation round,1,Ironi Kiryat Shmona,Hapoel Ashkelon,2,7,Hapoel Ashkelon,1,1,Liran Liany,Kiryat Shmona Municipal Stadium,400,2017/2018
+17/03/2018,5:15 pm,Relegation round,1,Bnei Sakhnin,Ashdod,1,6,Ashdod,2,1,Alon Yefet,Doha Stadium,2500,2017/2018
+18/03/2018,6:00 pm,Relegation round,1,Maccabi Petah Tikva,Hapoel Ra'anana,3,5,Hapoel Ra'anana,1,3,Roi Reinshreiber,HaMoshava Stadium,775,2017/2018
+07/04/2018,4:00 pm,Relegation round,2,Maccabi Petah Tikva,Ironi Kiryat Shmona,1,3,Ironi Kiryat Shmona,2,0,Ohad Asulin,HaMoshava Stadium,1000,2017/2018
+07/04/2018,6:10 pm,Relegation round,2,Hapoel Ra'anana,Hapoel Acre,5,8,Hapoel Acre,1,1,Igal Frid,Netanya Stadium,250,2017/2018
+07/04/2018,7:00 pm,Relegation round,2,Hapoel Ashkelon,Bnei Sakhnin,7,2,Hapoel Ashkelon,2,0,Guy Berger,Sala Stadium,1100,2017/2018
+07/04/2018,7:30 pm,Relegation round,2,Ashdod,Maccabi Haifa,6,4,Ashdod,2,1,Zvika Levi,Yud-Alef Stadion,1500,2017/2018
+14/04/2018,5:00 pm,Relegation round,3,Ironi Kiryat Shmona,Hapoel Ra'anana,3,5,Hapoel Ra'anana,0,1,tbc,Kiryat Shmona Municipal Stadium,275,2017/2018
+14/04/2018,5:00 pm,Relegation round,3,Hapoel Acre,Ashdod,8,6,Hapoel Acre,1,1,Erez Papir,Akko Municipal Stadium,250,2017/2018
+14/04/2018,7:30 pm,Relegation round,3,Maccabi Haifa,Hapoel Ashkelon,4,7,Hapoel Ashkelon,2,1,Alon Yefet,Sammy Ofer Stadium,7314,2017/2018
+15/04/2018,6:00 pm,Relegation round,3,Bnei Sakhnin,Maccabi Petah Tikva,2,1,Bnei Sakhnin,2,2,Shalom Ben Avraham,Doha Stadium,1200,2017/2018
+21/04/2018,4:45 pm,Relegation round,4,Ironi Kiryat Shmona,Bnei Sakhnin,2,5,Bnei Sakhnin,2,0,Asad Gabarin,Kiryat Shmona Municipal Stadium,150,2017/2018
+21/04/2018,5:00 pm,Relegation round,4,Maccabi Petah Tikva,Maccabi Haifa,1,3,Maccabi Haifa,0,1,Idan Leiba,HaMoshava Stadium,2500,2017/2018
+21/04/2018,7:00 pm,Relegation round,4,Hapoel Ashkelon,Hapoel Acre,7,8,Hapoel Acre,0,2,Daniel Bar Natan,Sala Stadium,2400,2017/2018
+23/04/2018,7:00 pm,Relegation round,4,Hapoel Ra'anana,Ashdod,4,6,Ashdod,1,0,Eitan Shmuelevic,Netanya Stadium,300,2017/2018
+28/04/2018,4:45 pm,Relegation round,5,Hapoel Acre,Maccabi Petah Tikva,8,3,Hapoel Acre,2,1,Aviad Shiloah,Akko Municipal Stadium,200,2017/2018
+28/04/2018,5:00 pm,Relegation round,5,Maccabi Haifa,Ironi Kiryat Shmona,4,1,Maccabi Haifa,1,2,Roi Reinshreiber,Sammy Ofer Stadium,8211,2017/2018
+28/04/2018,7:00 pm,Relegation round,5,Bnei Sakhnin,Hapoel Ra'anana,5,2,Bnei Sakhnin,1,3,Nael Odeh,Doha Stadium,600,2017/2018
+29/04/2018,6:30 pm,Relegation round,5,Ashdod,Hapoel Ashkelon,6,7,Hapoel Ashkelon,1,0,Liran Liany,Yud-Alef Stadion,2300,2017/2018
+05/05/2018,5:00 pm,Relegation round,6,Ironi Kiryat Shmona,Hapoel Acre,1,8,Hapoel Acre,4,0,Shalev Sasson,Kiryat Shmona Municipal Stadium,410,2017/2018
+05/05/2018,7:30 pm,Relegation round,6,Bnei Sakhnin,Maccabi Haifa,5,4,Bnei Sakhnin,1,1,Idan Leiba,Doha Stadium,600,2017/2018
+06/05/2018,6:00 pm,Relegation round,6,Hapoel Ra'anana,Hapoel Ashkelon,2,7,Hapoel Ashkelon,4,0,Igal Frid,Netanya Stadium,150,2017/2018
+06/05/2018,7:00 pm,Relegation round,6,Maccabi Petah Tikva,Ashdod,3,6,Ashdod,2,1,Guy Berger,HaMoshava Stadium,600,2017/2018
+13/05/2018,7:00 pm,Relegation round,7,Maccabi Haifa,Hapoel Ra'anana,4,3,Maccabi Haifa,2,0,David Fucsman,Sammy Ofer Stadium,5098,2017/2018
+13/05/2018,7:00 pm,Relegation round,7,Hapoel Acre,Bnei Sakhnin,8,5,Hapoel Acre,1,2,Dror Cohen,Akko Municipal Stadium,0,2017/2018
+13/05/2018,7:00 pm,Relegation round,7,Ashdod,Ironi Kiryat Shmona,6,1,Ashdod,1,2,Sapir Berman,Yud-Alef Stadion,0,2017/2018
+13/05/2018,7:00 pm,Relegation round,7,Hapoel Ashkelon,Maccabi Petah Tikva,7,2,Hapoel Ashkelon,0,2,Snir Levi,Sala Stadium,0,2017/2018
+25/08/2018,5:00 pm,Regular round,1,Ashdod,Bnei Yehuda,5,11,Bnei Yehuda,1,0,Eitan Shmuelevic,Yud-Alef Stadion,1150,2018/2019
+25/08/2018,5:45 pm,Regular round,1,Hapoel Hadera,Hapoel Tel Aviv,4,10,Hapoel Tel Aviv,2,1,Idan Leiba,Netanya Stadium,5250,2018/2019
+25/08/2018,6:30 pm,Regular round,1,Hapoel Haifa,Maccabi Netanya,1,14,Maccabi Netanya,5,0,Gal Leibovitz,Sammy Ofer Stadium,5000,2018/2019
+25/08/2018,7:45 pm,Regular round,1,Ironi Kiryat Shmona,Hapoel Beer Sheva,7,6,Ironi Kiryat Shmona,1,1,Erez Papir,Kiryat Shmona Municipal Stadium,2100,2018/2019
+26/08/2018,6:00 pm,Regular round,1,Bnei Sakhnin,Hapoel Ra'anana,8,9,Hapoel Ra'anana,0,0,Roi Reinshreiber,Doha Stadium,1510,2018/2019
+26/08/2018,8:00 pm,Regular round,1,Maccabi Tel Aviv,Maccabi Haifa,3,12,Maccabi Haifa,2,0,Ziv Adler,Netanya Stadium,12359,2018/2019
+27/08/2018,7:30 pm,Regular round,1,Maccabi Petah Tikva,Beitar Jerusalem,2,13,Beitar Jerusalem,4,1,Alon Yefet,HaMoshava Stadium,9500,2018/2019
+01/09/2018,5:00 pm,Regular round,2,Hapoel Ra'anana,Ironi Kiryat Shmona,4,12,Ironi Kiryat Shmona,2,1,Odeh Na'al,Ramat Gan Stadium,400,2018/2019
+01/09/2018,5:45 pm,Regular round,2,Maccabi Haifa,Ashdod,6,8,Ashdod,2,0,David Fucsman,Sammy Ofer Stadium,13174,2018/2019
+01/09/2018,7:00 pm,Regular round,2,Maccabi Netanya,Bnei Sakhnin,13,10,Maccabi Netanya,1,1,Igal Frid,Netanya Stadium,3900,2018/2019
+01/09/2018,7:45 pm,Regular round,2,Hapoel Tel Aviv,Hapoel Haifa,7,5,Hapoel Tel Aviv,1,0,Daniel Bar Natan,HaMoshava Stadium,6500,2018/2019
+02/09/2018,6:00 pm,Regular round,2,Bnei Yehuda,Maccabi Petah Tikva,11,2,Bnei Yehuda,2,2,Liran Liany,HaMoshava Stadium,1200,2018/2019
+02/09/2018,8:15 pm,Regular round,2,Hapoel Beer Sheva,Maccabi Tel Aviv,9,3,Hapoel Beer Sheva,1,1,Orel Grinfeld,Toto Jacob Turner Stadium,15231,2018/2019
+03/09/2018,7:30 pm,Regular round,2,Beitar Jerusalem,Hapoel Hadera,14,1,Beitar Jerusalem,0,1,Shalom Ben Avraham,Teddy-Kollek-Stadion,10000,2018/2019
+15/09/2018,5:00 pm,Regular round,3,Maccabi Tel Aviv,Hapoel Ra'anana,1,9,Hapoel Ra'anana,4,1,Gal Leibovitz,Netanya Stadium,10724,2018/2019
+15/09/2018,6:00 pm,Regular round,3,Maccabi Petah Tikva,Hapoel Hadera,4,2,Maccabi Petah Tikva,1,1,Eli Hacmon,HaMoshava Stadium,1700,2018/2019
+15/09/2018,6:45 pm,Regular round,3,Bnei Sakhnin,Hapoel Tel Aviv,10,8,Bnei Sakhnin,1,1,Ziv Adler,Doha Stadium,4000,2018/2019
+15/09/2018,7:30 pm,Regular round,3,Ashdod,Hapoel Beer Sheva,3,12,Hapoel Beer Sheva,1,0,Idan Leiba,Yud-Alef Stadion,4300,2018/2019
+16/09/2018,6:00 pm,Regular round,3,Ironi Kiryat Shmona,Maccabi Netanya,6,14,Maccabi Netanya,1,0,Ohad Asulin,Kiryat Shmona Municipal Stadium,700,2018/2019
+16/09/2018,7:30 pm,Regular round,3,Bnei Yehuda,Maccabi Haifa,11,7,Bnei Yehuda,1,1,Alon Yefet,HaMoshava Stadium,6070,2018/2019
+17/09/2018,8:00 pm,Regular round,3,Hapoel Haifa,Beitar Jerusalem,5,13,Beitar Jerusalem,2,2,Erez Papir,Sammy Ofer Stadium,8730,2018/2019
+22/09/2018,5:00 pm,Regular round,4,Hapoel Tel Aviv,Ironi Kiryat Shmona,6,5,Hapoel Tel Aviv,0,0,David Fucsman,HaMoshava Stadium,6059,2018/2019
+22/09/2018,5:45 pm,Regular round,4,Hapoel Ra'anana,Ashdod,7,4,Hapoel Ra'anana,1,1,Orel Grinfeld,Ramat Gan Stadium,331,2018/2019
+22/09/2018,6:45 pm,Regular round,4,Maccabi Haifa,Maccabi Petah Tikva,9,3,Maccabi Haifa,1,2,Igal Frid,Sammy Ofer Stadium,14330,2018/2019
+22/09/2018,7:30 pm,Regular round,4,Maccabi Netanya,Maccabi Tel Aviv,14,1,Maccabi Netanya,1,2,Daniel Bar Natan,Netanya Stadium,7700,2018/2019
+24/09/2018,6:00 pm,Regular round,4,Hapoel Hadera,Hapoel Haifa,2,8,Hapoel Haifa,2,0,Liran Liany,Netanya Stadium,3000,2018/2019
+24/09/2018,7:00 pm,Regular round,4,Hapoel Beer Sheva,Bnei Yehuda,13,12,Hapoel Beer Sheva,0,0,Roi Reinshreiber,Toto Jacob Turner Stadium,14969,2018/2019
+24/09/2018,8:00 pm,Regular round,4,Beitar Jerusalem,Bnei Sakhnin,10,11,Bnei Sakhnin,3,2,Eitan Shmuelevic,Teddy-Kollek-Stadion,20000,2018/2019
+29/09/2018,5:00 pm,Regular round,5,Maccabi Petah Tikva,Hapoel Haifa,3,8,Hapoel Haifa,1,1,Ziv Adler,HaMoshava Stadium,1800,2018/2019
+29/09/2018,5:45 pm,Regular round,5,Bnei Sakhnin,Hapoel Hadera,14,1,Bnei Sakhnin,1,2,Shalom Ben Avraham,Doha Stadium,2400,2018/2019
+29/09/2018,6:30 pm,Regular round,5,Ashdod,Maccabi Netanya,5,12,Maccabi Netanya,1,4,Odeh Na'al,Yud-Alef Stadion,1900,2018/2019
+29/09/2018,7:30 pm,Regular round,5,Ironi Kiryat Shmona,Beitar Jerusalem,4,13,Beitar Jerusalem,2,0,Erez Papir,Kiryat Shmona Municipal Stadium,4400,2018/2019
+01/10/2018,6:00 pm,Regular round,5,Bnei Yehuda,Hapoel Ra'anana,6,10,Hapoel Ra'anana,3,0,Idan Leiba,HaMoshava Stadium,980,2018/2019
+01/10/2018,7:00 pm,Regular round,5,Maccabi Haifa,Hapoel Beer Sheva,9,11,Hapoel Beer Sheva,0,0,Liran Liany,Sammy Ofer Stadium,19431,2018/2019
+01/10/2018,8:00 pm,Regular round,5,Maccabi Tel Aviv,Hapoel Tel Aviv,2,7,Hapoel Tel Aviv,0,0,Alon Yefet,Netanya Stadium,12234,2018/2019
+06/10/2018,5:00 pm,Regular round,6,Hapoel Ra'anana,Maccabi Haifa,11,10,Hapoel Ra'anana,1,1,Erez Papir,Ramat Gan Stadium,4000,2018/2019
+06/10/2018,5:45 pm,Regular round,6,Hapoel Haifa,Bnei Sakhnin,12,9,Hapoel Haifa,0,3,Eli Hacmon,Sammy Ofer Stadium,3700,2018/2019
+06/10/2018,6:45 pm,Regular round,6,Maccabi Netanya,Bnei Yehuda,13,3,Maccabi Netanya,1,3,Ohad Asulin,Netanya Stadium,5400,2018/2019
+06/10/2018,7:30 pm,Regular round,6,Hapoel Beer Sheva,Maccabi Petah Tikva,7,4,Hapoel Beer Sheva,4,1,Gal Leibovitz,Toto Jacob Turner Stadium,12673,2018/2019
+07/10/2018,6:00 pm,Regular round,6,Hapoel Hadera,Ironi Kiryat Shmona,1,5,Ironi Kiryat Shmona,1,0,Aviad Shiloah,Netanya Stadium,2200,2018/2019
+07/10/2018,8:00 pm,Regular round,6,Beitar Jerusalem,Maccabi Tel Aviv,14,2,Beitar Jerusalem,0,2,Roi Reinshreiber,Teddy-Kollek-Stadion,18500,2018/2019
+08/10/2018,7:30 pm,Regular round,6,Hapoel Tel Aviv,Ashdod,8,6,Hapoel Tel Aviv,0,0,Daniel Bar Natan,HaMoshava Stadium,5700,2018/2019
+20/10/2018,4:00 pm,Regular round,7,Maccabi Tel Aviv,Hapoel Hadera,1,2,Hapoel Hadera,4,0,Idan Leiba,Netanya Stadium,12123,2018/2019
+20/10/2018,6:00 pm,Regular round,7,Ironi Kiryat Shmona,Hapoel Haifa,6,11,Hapoel Haifa,1,1,Eitan Shmuelevic,Kiryat Shmona Municipal Stadium,1000,2018/2019
+20/10/2018,6:15 pm,Regular round,7,Bnei Yehuda,Hapoel Tel Aviv,3,8,Hapoel Tel Aviv,0,0,Igal Frid,HaMoshava Stadium,5000,2018/2019
+20/10/2018,7:30 pm,Regular round,7,Hapoel Beer Sheva,Hapoel Ra'anana,4,13,Hapoel Ra'anana,2,0,David Fucsman,Toto Jacob Turner Stadium,12769,2018/2019
+21/10/2018,7:00 pm,Regular round,7,Maccabi Petah Tikva,Bnei Sakhnin,5,9,Bnei Sakhnin,0,0,Alon Yefet,HaMoshava Stadium,1000,2018/2019
+21/10/2018,8:00 pm,Regular round,7,Ashdod,Beitar Jerusalem,7,14,Beitar Jerusalem,1,1,Liran Liany,Yud-Alef Stadion,5060,2018/2019
+22/10/2018,8:00 pm,Regular round,7,Maccabi Haifa,Maccabi Netanya,12,10,Maccabi Haifa,0,2,Shalom Ben Avraham,Sammy Ofer Stadium,13916,2018/2019
+27/10/2018,5:00 pm,Regular round,8,Hapoel Ra'anana,Maccabi Petah Tikva,10,6,Hapoel Ra'anana,1,0,Odeh Na'al,Ramat Gan Stadium,450,2018/2019
+27/10/2018,5:00 pm,Regular round,8,Bnei Sakhnin,Ironi Kiryat Shmona,12,4,Bnei Sakhnin,0,3,David Fucsman,Doha Stadium,1000,2018/2019
+27/10/2018,6:15 pm,Regular round,8,Maccabi Netanya,Hapoel Beer Sheva,7,5,Maccabi Netanya,1,0,Erez Papir,Netanya Stadium,7200,2018/2019
+27/10/2018,7:30 pm,Regular round,8,Beitar Jerusalem,Bnei Yehuda,14,3,Beitar Jerusalem,1,5,Eli Hacmon,Teddy-Kollek-Stadion,9500,2018/2019
+28/10/2018,6:00 pm,Regular round,8,Hapoel Hadera,Ashdod,2,9,Ashdod,3,2,Snir Levi,Netanya Stadium,1700,2018/2019
+28/10/2018,7:30 pm,Regular round,8,Hapoel Haifa,Maccabi Tel Aviv,13,1,Hapoel Haifa,1,3,Daniel Bar Natan,Sammy Ofer Stadium,5983,2018/2019
+29/10/2018,8:00 pm,Regular round,8,Hapoel Tel Aviv,Maccabi Haifa,11,8,Hapoel Tel Aviv,1,2,Ziv Adler,HaMoshava Stadium,8500,2018/2019
+03/11/2018,3:00 pm,Regular round,9,Hapoel Ra'anana,Maccabi Netanya,11,6,Hapoel Ra'anana,1,2,Roi Reinshreiber,Netanya Stadium,1920,2018/2019
+03/11/2018,5:00 pm,Regular round,9,Maccabi Petah Tikva,Ironi Kiryat Shmona,7,4,Maccabi Petah Tikva,0,1,Idan Leiba,HaMoshava Stadium,1100,2018/2019
+03/11/2018,5:10 pm,Regular round,9,Ashdod,Hapoel Haifa,10,8,Ashdod,0,3,Alon Yefet,Yud-Alef Stadion,1200,2018/2019
+03/11/2018,7:30 pm,Regular round,9,Maccabi Tel Aviv,Bnei Sakhnin,1,14,Bnei Sakhnin,3,0,Igal Frid,Netanya Stadium,9820,2018/2019
+04/11/2018,6:00 pm,Regular round,9,Bnei Yehuda,Hapoel Hadera,3,2,Bnei Yehuda,2,0,Gal Leibovitz,HaMoshava Stadium,3000,2018/2019
+04/11/2018,7:30 pm,Regular round,9,Hapoel Beer Sheva,Hapoel Tel Aviv,5,12,Hapoel Tel Aviv,2,1,Daniel Bar Natan,Toto Jacob Turner Stadium,15500,2018/2019
+05/11/2018,8:00 pm,Regular round,9,Maccabi Haifa,Beitar Jerusalem,9,13,Beitar Jerusalem,1,2,Orel Grinfeld,Sammy Ofer Stadium,20000,2018/2019
+10/11/2018,3:00 pm,Regular round,10,Maccabi Netanya,Maccabi Petah Tikva,7,6,Maccabi Netanya,0,1,Eitan Shmuelevic,Netanya Stadium,5850,2018/2019
+10/11/2018,5:00 pm,Regular round,10,Hapoel Haifa,Bnei Yehuda,11,2,Hapoel Haifa,0,2,David Fucsman,Sammy Ofer Stadium,4420,2018/2019
+10/11/2018,5:15 pm,Regular round,10,Hapoel Tel Aviv,Hapoel Ra'anana,12,10,Hapoel Tel Aviv,0,0,Ohad Asulin,HaMoshava Stadium,6000,2018/2019
+10/11/2018,7:30 pm,Regular round,10,Hapoel Hadera,Maccabi Haifa,3,8,Maccabi Haifa,1,2,Alon Yefet,Netanya Stadium,6500,2018/2019
+11/11/2018,7:15 pm,Regular round,10,Ironi Kiryat Shmona,Maccabi Tel Aviv,5,1,Ironi Kiryat Shmona,1,2,Eli Hacmon,Kiryat Shmona Municipal Stadium,4000,2018/2019
+11/11/2018,8:00 pm,Regular round,10,Beitar Jerusalem,Hapoel Beer Sheva,14,4,Beitar Jerusalem,2,3,Ziv Adler,Teddy-Kollek-Stadion,18133,2018/2019
+12/11/2018,7:00 pm,Regular round,10,Bnei Sakhnin,Ashdod,9,13,Ashdod,4,3,Shalom Ben Avraham,Doha Stadium,1500,2018/2019
+01/12/2018,3:00 pm,Regular round,11,Bnei Yehuda,Bnei Sakhnin,3,8,Bnei Sakhnin,0,1,Idan Leiba,HaMoshava Stadium,2500,2018/2019
+01/12/2018,5:15 pm,Regular round,11,Ashdod,Ironi Kiryat Shmona,12,5,Ashdod,1,0,Ohad Asulin,Yud-Alef Stadion,1100,2018/2019
+01/12/2018,5:30 pm,Regular round,11,Hapoel Beer Sheva,Hapoel Hadera,4,2,Hapoel Beer Sheva,2,2,David Fucsman,Toto Jacob Turner Stadium,13500,2018/2019
+01/12/2018,8:00 pm,Regular round,11,Maccabi Petah Tikva,Maccabi Tel Aviv,6,1,Maccabi Petah Tikva,1,1,Gal Leibovitz,HaMoshava Stadium,8500,2018/2019
+01/12/2018,8:00 pm,Regular round,11,Maccabi Haifa,Hapoel Haifa,11,10,Maccabi Haifa,1,3,Alon Yefet,Sammy Ofer Stadium,30000,2018/2019
+02/12/2018,7:15 pm,Regular round,11,Hapoel Ra'anana,Beitar Jerusalem,9,14,Beitar Jerusalem,2,1,Erez Papir,Ramat Gan Stadium,3500,2018/2019
+02/12/2018,8:00 pm,Regular round,11,Maccabi Netanya,Hapoel Tel Aviv,7,13,Hapoel Tel Aviv,1,1,Ziv Adler,Netanya Stadium,6200,2018/2019
+04/12/2018,6:00 pm,Regular round,12,Ironi Kiryat Shmona,Bnei Yehuda,5,2,Ironi Kiryat Shmona,0,2,Odeh Na'al,Kiryat Shmona Municipal Stadium,950,2018/2019
+04/12/2018,7:00 pm,Regular round,12,Bnei Sakhnin,Maccabi Haifa,11,7,Bnei Sakhnin,0,2,Igal Frid,Doha Stadium,2500,2018/2019
+04/12/2018,7:30 pm,Regular round,12,Maccabi Tel Aviv,Ashdod,1,12,Ashdod,4,0,Daniel Bar Natan,Netanya Stadium,8602,2018/2019
+04/12/2018,8:00 pm,Regular round,12,Hapoel Haifa,Hapoel Beer Sheva,10,4,Hapoel Haifa,4,4,Orel Grinfeld,Sammy Ofer Stadium,3500,2018/2019
+05/12/2018,6:00 pm,Regular round,12,Hapoel Hadera,Hapoel Ra'anana,3,9,Hapoel Ra'anana,0,0,Eitan Shmuelevic,Netanya Stadium,2000,2018/2019
+05/12/2018,7:00 pm,Regular round,12,Maccabi Petah Tikva,Hapoel Tel Aviv,6,13,Hapoel Tel Aviv,0,0,Liran Liany,HaMoshava Stadium,2600,2018/2019
+05/12/2018,8:00 pm,Regular round,12,Beitar Jerusalem,Maccabi Netanya,14,8,Beitar Jerusalem,1,1,Shalom Ben Avraham,Teddy-Kollek-Stadion,8200,2018/2019
+08/12/2018,3:00 pm,Regular round,13,Maccabi Haifa,Ironi Kiryat Shmona,9,7,Maccabi Haifa,2,2,Ziv Adler,Sammy Ofer Stadium,10500,2018/2019
+08/12/2018,5:00 pm,Regular round,13,Ashdod,Maccabi Petah Tikva,12,8,Ashdod,1,1,Erez Papir,Yud-Alef Stadion,300,2018/2019
+08/12/2018,5:15 pm,Regular round,13,Hapoel Beer Sheva,Bnei Sakhnin,4,10,Bnei Sakhnin,1,1,Alon Yefet,Toto Jacob Turner Stadium,14000,2018/2019
+08/12/2018,7:30 pm,Regular round,13,Bnei Yehuda,Maccabi Tel Aviv,2,1,Bnei Yehuda,1,3,Roi Reinshreiber,HaMoshava Stadium,8100,2018/2019
+09/12/2018,6:00 pm,Regular round,13,Hapoel Ra'anana,Hapoel Haifa,11,6,Hapoel Ra'anana,0,3,David Fucsman,Ramat Gan Stadium,1000,2018/2019
+09/12/2018,7:15 pm,Regular round,13,Maccabi Netanya,Hapoel Hadera,5,3,Maccabi Netanya,1,0,Orel Grinfeld,Netanya Stadium,4500,2018/2019
+10/12/2018,8:00 pm,Regular round,13,Hapoel Tel Aviv,Beitar Jerusalem,14,13,Hapoel Tel Aviv,0,3,Eli Hacmon,HaMoshava Stadium,8200,2018/2019
+15/12/2018,3:00 pm,Regular round,14,Hapoel Tel Aviv,Hapoel Hadera,14,4,Hapoel Tel Aviv,1,1,Gal Leibovitz,HaMoshava Stadium,5400,2018/2019
+15/12/2018,5:00 pm,Regular round,14,Hapoel Ra'anana,Bnei Sakhnin,8,11,Bnei Sakhnin,2,1,Shalom Ben Avraham,Ramat Gan Stadium,500,2018/2019
+15/12/2018,5:15 pm,Regular round,14,Maccabi Netanya,Hapoel Haifa,6,5,Maccabi Netanya,1,2,Igal Frid,Netanya Stadium,6020,2018/2019
+15/12/2018,7:30 pm,Regular round,14,Hapoel Beer Sheva,Ironi Kiryat Shmona,3,9,Ironi Kiryat Shmona,2,1,Idan Leiba,Toto Jacob Turner Stadium,13640,2018/2019
+16/12/2018,6:00 pm,Regular round,14,Bnei Yehuda,Ashdod,2,13,Ashdod,2,0,Eitan Shmuelevic,HaMoshava Stadium,1500,2018/2019
+16/12/2018,7:30 pm,Regular round,14,Beitar Jerusalem,Maccabi Petah Tikva,12,7,Beitar Jerusalem,0,0,Daniel Bar Natan,Teddy-Kollek-Stadion,8000,2018/2019
+17/12/2018,8:00 pm,Regular round,14,Maccabi Haifa,Maccabi Tel Aviv,10,1,Maccabi Haifa,1,3,Liran Liany,Sammy Ofer Stadium,22000,2018/2019
+25/12/2018,6:30 pm,Regular round,15,Maccabi Petah Tikva,Bnei Yehuda,8,2,Maccabi Petah Tikva,1,1,Ohad Asulin,HaMoshava Stadium,1500,2018/2019
+25/12/2018,6:30 pm,Regular round,15,Bnei Sakhnin,Maccabi Netanya,12,5,Bnei Sakhnin,0,2,Odeh Na'al,Doha Stadium,1800,2018/2019
+25/12/2018,8:00 pm,Regular round,15,Maccabi Tel Aviv,Hapoel Beer Sheva,1,3,Hapoel Beer Sheva,3,0,Ziv Adler,Netanya Stadium,12551,2018/2019
+26/12/2018,6:00 pm,Regular round,15,Ironi Kiryat Shmona,Hapoel Ra'anana,10,9,Ironi Kiryat Shmona,1,1,Aviad Shiloah,Kiryat Shmona Municipal Stadium,400,2018/2019
+26/12/2018,7:00 pm,Regular round,15,Hapoel Haifa,Hapoel Tel Aviv,6,13,Hapoel Tel Aviv,1,1,Shalom Ben Avraham,Sammy Ofer Stadium,3950,2018/2019
+26/12/2018,8:00 pm,Regular round,15,Ashdod,Maccabi Haifa,14,7,Ashdod,0,1,Idan Leiba,Yud-Alef Stadion,2300,2018/2019
+27/12/2018,7:30 pm,Regular round,15,Hapoel Hadera,Beitar Jerusalem,4,11,Beitar Jerusalem,0,3,David Fucsman,Netanya Stadium,3500,2018/2019
+29/12/2018,3:00 pm,Regular round,16,Hapoel Ra'anana,Maccabi Tel Aviv,9,1,Hapoel Ra'anana,0,2,Roi Reinshreiber,Ramat Gan Stadium,5000,2018/2019
+29/12/2018,5:00 pm,Regular round,16,Maccabi Netanya,Ironi Kiryat Shmona,5,10,Ironi Kiryat Shmona,1,0,Snir Levi,Netanya Stadium,3400,2018/2019
+29/12/2018,5:15 pm,Regular round,16,Hapoel Beer Sheva,Ashdod,3,14,Ashdod,1,0,Daniel Bar Natan,Toto Jacob Turner Stadium,10979,2018/2019
+29/12/2018,7:30 pm,Regular round,16,Maccabi Haifa,Bnei Yehuda,6,2,Maccabi Haifa,1,0,Erez Papir,Sammy Ofer Stadium,10348,2018/2019
+30/12/2018,6:00 pm,Regular round,16,Hapoel Hadera,Maccabi Petah Tikva,4,8,Maccabi Petah Tikva,3,0,Eli Hacmon,Netanya Stadium,1200,2018/2019
+30/12/2018,7:30 pm,Regular round,16,Hapoel Tel Aviv,Bnei Sakhnin,12,13,Bnei Sakhnin,2,0,Ziv Adler,HaMoshava Stadium,3900,2018/2019
+31/12/2018,8:00 pm,Regular round,16,Beitar Jerusalem,Hapoel Haifa,11,7,Beitar Jerusalem,1,1,Alon Yefet,Teddy-Kollek-Stadion,7000,2018/2019
+05/01/2019,3:00 pm,Regular round,17,Ironi Kiryat Shmona,Hapoel Tel Aviv,8,12,Hapoel Tel Aviv,1,0,Eitan Shmuelevic,Kiryat Shmona Municipal Stadium,2300,2018/2019
+05/01/2019,5:00 pm,Regular round,17,Hapoel Haifa,Hapoel Hadera,7,3,Hapoel Haifa,1,1,Gal Leibovitz,Sammy Ofer Stadium,4310,2018/2019
+05/01/2019,5:15 pm,Regular round,17,Maccabi Petah Tikva,Maccabi Haifa,10,5,Maccabi Petah Tikva,1,2,Orel Grinfeld,HaMoshava Stadium,4500,2018/2019
+05/01/2019,7:30 pm,Regular round,17,Bnei Sakhnin,Beitar Jerusalem,13,11,Bnei Sakhnin,0,0,Liran Liany,Doha Stadium,4000,2018/2019
+06/01/2019,6:00 pm,Regular round,17,Ashdod,Hapoel Ra'anana,14,9,Ashdod,1,1,David Fucsman,Yud-Alef Stadion,300,2018/2019
+06/01/2019,7:30 pm,Regular round,17,Bnei Yehuda,Hapoel Beer Sheva,2,4,Hapoel Beer Sheva,3,1,Alon Yefet,HaMoshava Stadium,2200,2018/2019
+07/01/2019,8:00 pm,Regular round,17,Maccabi Tel Aviv,Maccabi Netanya,1,6,Maccabi Netanya,4,1,Igal Frid,Netanya Stadium,8623,2018/2019
+12/01/2019,3:00 pm,Regular round,18,Maccabi Netanya,Ashdod,5,14,Ashdod,1,0,Liran Liany,Netanya Stadium,3000,2018/2019
+12/01/2019,5:00 pm,Regular round,18,Hapoel Ra'anana,Bnei Yehuda,9,2,Hapoel Ra'anana,0,0,Sapir Berman,Netanya Stadium,1000,2018/2019
+12/01/2019,5:15 pm,Regular round,18,Hapoel Haifa,Maccabi Petah Tikva,6,11,Maccabi Petah Tikva,4,2,Idan Leiba,Sammy Ofer Stadium,3486,2018/2019
+12/01/2019,7:15 pm,Regular round,18,Hapoel Hadera,Bnei Sakhnin,3,13,Bnei Sakhnin,2,1,Shalom Ben Avraham,Netanya Stadium,1700,2018/2019
+12/01/2019,7:30 pm,Regular round,18,Hapoel Beer Sheva,Maccabi Haifa,7,4,Hapoel Beer Sheva,0,2,Roi Reinshreiber,Toto Jacob Turner Stadium,14838,2018/2019
+13/01/2019,7:30 pm,Regular round,18,Beitar Jerusalem,Ironi Kiryat Shmona,10,8,Beitar Jerusalem,0,0,Eli Hacmon,Teddy-Kollek-Stadion,6900,2018/2019
+14/01/2019,8:00 pm,Regular round,18,Hapoel Tel Aviv,Maccabi Tel Aviv,12,1,Hapoel Tel Aviv,1,1,Erez Papir,HaMoshava Stadium,8500,2018/2019
+19/01/2019,3:00 pm,Regular round,19,Bnei Yehuda,Maccabi Netanya,2,7,Maccabi Netanya,0,0,Gal Leibovitz,HaMoshava Stadium,2100,2018/2019
+19/01/2019,5:00 pm,Regular round,19,Bnei Sakhnin,Hapoel Haifa,13,5,Bnei Sakhnin,0,4,Igal Frid,Doha Stadium,1500,2018/2019
+19/01/2019,5:15 pm,Regular round,19,Maccabi Haifa,Hapoel Ra'anana,3,9,Hapoel Ra'anana,0,0,Idan Leiba,Sammy Ofer Stadium,17258,2018/2019
+19/01/2019,8:00 pm,Regular round,19,Maccabi Petah Tikva,Hapoel Beer Sheva,12,6,Maccabi Petah Tikva,1,3,Liran Liany,HaMoshava Stadium,1600,2018/2019
+21/01/2019,6:00 pm,Regular round,19,Ironi Kiryat Shmona,Hapoel Hadera,8,4,Ironi Kiryat Shmona,3,1,Ohad Asulin,Kiryat Shmona Municipal Stadium,700,2018/2019
+21/01/2019,7:00 pm,Regular round,19,Ashdod,Hapoel Tel Aviv,14,11,Ashdod,1,1,Orel Grinfeld,Yud-Alef Stadion,2700,2018/2019
+21/01/2019,8:00 pm,Regular round,19,Maccabi Tel Aviv,Beitar Jerusalem,1,10,Beitar Jerusalem,1,0,Daniel Bar Natan,Netanya Stadium,11830,2018/2019
+26/01/2019,3:00 pm,Regular round,20,Hapoel Tel Aviv,Bnei Yehuda,11,2,Hapoel Tel Aviv,3,2,Ziv Adler,HaMoshava Stadium,6300,2018/2019
+26/01/2019,5:00 pm,Regular round,20,Hapoel Haifa,Ironi Kiryat Shmona,4,8,Ironi Kiryat Shmona,1,1,Aviad Shiloah,Sammy Ofer Stadium,4350,2018/2019
+26/01/2019,5:15 pm,Regular round,20,Hapoel Ra'anana,Hapoel Beer Sheva,9,7,Hapoel Ra'anana,3,1,Erez Papir,Ramat Gan Stadium,2200,2018/2019
+26/01/2019,7:30 pm,Regular round,20,Beitar Jerusalem,Ashdod,10,14,Ashdod,4,1,Shalom Ben Avraham,Teddy-Kollek-Stadion,7500,2018/2019
+27/01/2019,6:00 pm,Regular round,20,Bnei Sakhnin,Maccabi Petah Tikva,13,12,Bnei Sakhnin,0,1,Eitan Shmuelevic,Doha Stadium,1000,2018/2019
+27/01/2019,7:30 pm,Regular round,20,Maccabi Netanya,Maccabi Haifa,5,3,Maccabi Netanya,0,0,Roi Reinshreiber,Netanya Stadium,9200,2018/2019
+28/01/2019,8:00 pm,Regular round,20,Hapoel Hadera,Maccabi Tel Aviv,6,1,Hapoel Hadera,0,2,David Fucsman,Netanya Stadium,5000,2018/2019
+02/02/2019,3:00 pm,Regular round,21,Maccabi Petah Tikva,Hapoel Ra'anana,11,10,Maccabi Petah Tikva,1,1,Alon Yefet,HaMoshava Stadium,2000,2018/2019
+02/02/2019,3:00 pm,Regular round,21,Ashdod,Hapoel Hadera,14,3,Ashdod,2,3,Liran Liany,Yud-Alef Stadion,1100,2018/2019
+02/02/2019,5:30 pm,Regular round,21,Hapoel Beer Sheva,Maccabi Netanya,7,6,Hapoel Beer Sheva,1,1,Eli Hacmon,Toto Jacob Turner Stadium,11103,2018/2019
+02/02/2019,7:45 pm,Regular round,21,Bnei Yehuda,Beitar Jerusalem,4,9,Beitar Jerusalem,0,2,Igal Frid,HaMoshava Stadium,7500,2018/2019
+03/02/2019,6:00 pm,Regular round,21,Ironi Kiryat Shmona,Bnei Sakhnin,8,13,Bnei Sakhnin,2,2,Roi Reinshreiber,Kiryat Shmona Municipal Stadium,800,2018/2019
+03/02/2019,7:30 pm,Regular round,21,Maccabi Tel Aviv,Hapoel Haifa,1,5,Hapoel Haifa,1,1,Idan Leiba,Netanya Stadium,9460,2018/2019
+04/02/2019,8:00 pm,Regular round,21,Maccabi Haifa,Hapoel Tel Aviv,2,12,Hapoel Tel Aviv,3,2,Daniel Bar Natan,Sammy Ofer Stadium,17906,2018/2019
+09/02/2019,3:00 pm,Regular round,22,Hapoel Haifa,Ashdod,6,13,Ashdod,0,1,Odeh Na'al,Sammy Ofer Stadium,4347,2018/2019
+09/02/2019,5:00 pm,Regular round,22,Ironi Kiryat Shmona,Maccabi Petah Tikva,8,10,Maccabi Petah Tikva,0,2,Ziv Adler,Kiryat Shmona Municipal Stadium,200,2018/2019
+09/02/2019,5:15 pm,Regular round,22,Maccabi Netanya,Hapoel Ra'anana,4,11,Hapoel Ra'anana,1,0,Ohad Asulin,Netanya Stadium,5100,2018/2019
+09/02/2019,7:30 pm,Regular round,22,Hapoel Tel Aviv,Hapoel Beer Sheva,12,7,Hapoel Tel Aviv,1,0,Roi Reinshreiber,HaMoshava Stadium,6900,2018/2019
+10/02/2019,6:00 pm,Regular round,22,Hapoel Hadera,Bnei Yehuda,5,2,Hapoel Hadera,0,4,Snir Levi,Afula Illit Stadium,1800,2018/2019
+10/02/2019,8:00 pm,Regular round,22,Beitar Jerusalem,Maccabi Haifa,9,3,Beitar Jerusalem,1,1,Liran Liany,Teddy-Kollek-Stadion,18500,2018/2019
+11/02/2019,7:30 pm,Regular round,22,Bnei Sakhnin,Maccabi Tel Aviv,14,1,Bnei Sakhnin,0,0,Igal Frid,Doha Stadium,0,2018/2019
+16/02/2019,3:00 pm,Regular round,23,Hapoel Ra'anana,Hapoel Tel Aviv,10,11,Hapoel Tel Aviv,0,0,Eitan Shmuelevic,Ramat Gan Stadium,3000,2018/2019
+16/02/2019,5:00 pm,Regular round,23,Ashdod,Bnei Sakhnin,13,14,Bnei Sakhnin,2,1,Daniel Bar Natan,Yud-Alef Stadion,900,2018/2019
+16/02/2019,5:15 pm,Regular round,23,Bnei Yehuda,Hapoel Haifa,2,7,Hapoel Haifa,4,2,Erez Papir,HaMoshava Stadium,1000,2018/2019
+16/02/2019,7:30 pm,Regular round,23,Maccabi Tel Aviv,Ironi Kiryat Shmona,1,8,Ironi Kiryat Shmona,3,0,Eli Hacmon,Netanya Stadium,6772,2018/2019
+17/02/2019,6:00 pm,Regular round,23,Maccabi Petah Tikva,Maccabi Netanya,12,4,Maccabi Petah Tikva,1,4,Shalom Ben Avraham,HaMoshava Stadium,1700,2018/2019
+17/02/2019,7:30 pm,Regular round,23,Maccabi Haifa,Hapoel Hadera,3,6,Hapoel Hadera,3,1,Idan Leiba,Sammy Ofer Stadium,13894,2018/2019
+18/02/2019,8:00 pm,Regular round,23,Hapoel Beer Sheva,Beitar Jerusalem,5,9,Beitar Jerusalem,3,1,Alon Yefet,Toto Jacob Turner Stadium,0,2018/2019
+23/02/2019,3:00 pm,Regular round,24,Maccabi Tel Aviv,Maccabi Petah Tikva,1,12,Maccabi Petah Tikva,2,0,Roi Reinshreiber,Netanya Stadium,11598,2018/2019
+23/02/2019,5:00 pm,Regular round,24,Bnei Sakhnin,Bnei Yehuda,14,4,Bnei Sakhnin,2,1,Eli Hacmon,Doha Stadium,0,2018/2019
+23/02/2019,5:15 pm,Regular round,24,Hapoel Tel Aviv,Maccabi Netanya,11,2,Hapoel Tel Aviv,1,2,Gal Leibovitz,HaMoshava Stadium,7500,2018/2019
+23/02/2019,7:30 pm,Regular round,24,Beitar Jerusalem,Hapoel Ra'anana,8,10,Hapoel Ra'anana,2,0,Shalom Ben Avraham,Teddy-Kollek-Stadion,6000,2018/2019
+24/02/2019,6:00 pm,Regular round,24,Ironi Kiryat Shmona,Ashdod,9,13,Ashdod,0,0,Liran Liany,Kiryat Shmona Municipal Stadium,610,2018/2019
+24/02/2019,7:30 pm,Regular round,24,Hapoel Hadera,Hapoel Beer Sheva,6,5,Hapoel Hadera,1,2,Ziv Adler,Netanya Stadium,4000,2018/2019
+25/02/2019,8:00 pm,Regular round,24,Hapoel Haifa,Maccabi Haifa,7,3,Hapoel Haifa,0,0,Eitan Shmuelevic,Sammy Ofer Stadium,25100,2018/2019
+02/03/2019,3:00 pm,Regular round,25,Maccabi Haifa,Bnei Sakhnin,3,14,Bnei Sakhnin,2,0,Shalom Ben Avraham,Sammy Ofer Stadium,15708,2018/2019
+02/03/2019,5:00 pm,Regular round,25,Bnei Yehuda,Ironi Kiryat Shmona,5,8,Ironi Kiryat Shmona,0,1,Alon Yefet,HaMoshava Stadium,1500,2018/2019
+02/03/2019,5:20 pm,Regular round,25,Ashdod,Maccabi Tel Aviv,13,1,Ashdod,0,2,Idan Leiba,Yud-Alef Stadion,3350,2018/2019
+02/03/2019,7:30 pm,Regular round,25,Maccabi Netanya,Beitar Jerusalem,2,9,Beitar Jerusalem,3,1,Ziv Adler,Netanya Stadium,8400,2018/2019
+03/03/2019,6:00 pm,Regular round,25,Hapoel Ra'anana,Hapoel Hadera,10,6,Hapoel Ra'anana,1,0,David Fucsman,Ramat Gan Stadium,800,2018/2019
+03/03/2019,7:30 pm,Regular round,25,Hapoel Tel Aviv,Maccabi Petah Tikva,11,12,Maccabi Petah Tikva,6,0,Liran Liany,HaMoshava Stadium,4800,2018/2019
+04/03/2019,8:00 pm,Regular round,25,Hapoel Beer Sheva,Hapoel Haifa,4,7,Hapoel Haifa,2,0,Gal Leibovitz,Toto Jacob Turner Stadium,13139,2018/2019
+09/03/2019,7:30 pm,Regular round,26,Ironi Kiryat Shmona,Maccabi Haifa,9,2,Ironi Kiryat Shmona,2,3,Igal Frid,Kiryat Shmona Municipal Stadium,3500,2018/2019
+09/03/2019,7:30 pm,Regular round,26,Hapoel Haifa,Hapoel Ra'anana,7,10,Hapoel Ra'anana,2,2,Idan Leiba,Sammy Ofer Stadium,3660,2018/2019
+09/03/2019,7:30 pm,Regular round,26,Hapoel Hadera,Maccabi Netanya,6,3,Hapoel Hadera,2,2,Daniel Bar Natan,Netanya Stadium,5000,2018/2019
+09/03/2019,7:30 pm,Regular round,26,Beitar Jerusalem,Hapoel Tel Aviv,11,8,Beitar Jerusalem,0,1,Eitan Shmuelevic,Teddy-Kollek-Stadion,15000,2018/2019
+10/03/2019,6:00 pm,Regular round,26,Maccabi Petah Tikva,Ashdod,12,13,Ashdod,2,0,Orel Grinfeld,HaMoshava Stadium,1000,2018/2019
+10/03/2019,7:30 pm,Regular round,26,Bnei Sakhnin,Hapoel Beer Sheva,14,4,Bnei Sakhnin,0,0,Eli Hacmon,Doha Stadium,1000,2018/2019
+11/03/2019,7:30 pm,Regular round,26,Maccabi Tel Aviv,Bnei Yehuda,1,5,Bnei Yehuda,2,1,Gal Leibovitz,Netanya Stadium,7750,2018/2019
+16/03/2019,3:00 pm, Championship round,1,Maccabi Tel Aviv,Hapoel Hadera,1,6,Hapoel Hadera,2,0,Shalom Ben Avraham,Netanya Stadium,6497,2018/2019
+16/03/2019,7:30 pm, Championship round,1,Maccabi Haifa,Bnei Yehuda,2,5,Bnei Yehuda,0,2,David Fucsman,Sammy Ofer Stadium,10963,2018/2019
+17/03/2019,7:15 pm, Championship round,1,Maccabi Netanya,Hapoel Beer Sheva,3,4,Hapoel Beer Sheva,0,1,Eitan Shmuelevic,Netanya Stadium,5000,2018/2019
+30/03/2019,2:00 pm, Championship round,2,Hapoel Hadera,Hapoel Beer Sheva,6,2,Hapoel Hadera,1,4,Liran Liany,Netanya Stadium,2500,2018/2019
+30/03/2019,4:30 pm, Championship round,2,Bnei Yehuda,Maccabi Netanya,5,3,Bnei Yehuda,1,1,Eli Hacmon,HaMoshava Stadium,2000,2018/2019
+30/03/2019,7:00 pm, Championship round,2,Maccabi Tel Aviv,Maccabi Haifa,1,4,Maccabi Haifa,1,0,Ziv Adler,Netanya Stadium,12280,2018/2019
+06/04/2019,5:00 pm, Championship round,3,Hapoel Beer Sheva,Bnei Yehuda,2,5,Bnei Yehuda,2,1,Shalom Ben Avraham,Toto Jacob Turner Stadium,12950,2018/2019
+06/04/2019,7:30 pm, Championship round,3,Maccabi Haifa,Hapoel Hadera,3,6,Hapoel Hadera,1,3,Roi Reinshreiber,Sammy Ofer Stadium,9620,2018/2019
+07/04/2019,7:30 pm, Championship round,3,Maccabi Netanya,Maccabi Tel Aviv,4,1,Maccabi Netanya,1,4,Igal Frid,Netanya Stadium,4950,2018/2019
+14/04/2019,6:00 pm, Championship round,4,Hapoel Hadera,Bnei Yehuda,6,4,Hapoel Hadera,2,3,Ohad Asulin,Netanya Stadium,1000,2018/2019
+14/04/2019,7:30 pm, Championship round,4,Maccabi Haifa,Maccabi Netanya,3,5,Maccabi Netanya,2,1,Liran Liany,Sammy Ofer Stadium,11158,2018/2019
+15/04/2019,8:00 pm, Championship round,4,Maccabi Tel Aviv,Hapoel Beer Sheva,1,2,Hapoel Beer Sheva,0,0,Eitan Shmuelevic,Netanya Stadium,9353,2018/2019
+22/04/2019,8:00 pm, Championship round,5,Hapoel Beer Sheva,Maccabi Haifa,3,2,Hapoel Beer Sheva,0,1,Eli Hacmon,Toto Jacob Turner Stadium,15752,2018/2019
+23/04/2019,6:00 pm, Championship round,5,Maccabi Netanya,Hapoel Hadera,4,6,Hapoel Hadera,3,2,Ziv Adler,Netanya Stadium,3900,2018/2019
+23/04/2019,7:30 pm, Championship round,5,Bnei Yehuda,Maccabi Tel Aviv,5,1,Bnei Yehuda,0,2,David Fucsman,HaMoshava Stadium,5000,2018/2019
+27/04/2019,5:00 pm, Championship round,6,Hapoel Hadera,Maccabi Tel Aviv,6,1,Hapoel Hadera,0,1,Odeh Na'al,Netanya Stadium,2500,2018/2019
+28/04/2019,7:30 pm, Championship round,6,Hapoel Beer Sheva,Maccabi Netanya,4,3,Hapoel Beer Sheva,0,2,Roi Reinshreiber,Toto Jacob Turner Stadium,10000,2018/2019
+29/04/2019,8:00 pm, Championship round,6,Bnei Yehuda,Maccabi Haifa,5,2,Bnei Yehuda,2,2,Alon Yefet,HaMoshava Stadium,5500,2018/2019
+04/05/2019,5:00 pm, Championship round,7,Hapoel Hadera,Maccabi Netanya,6,3,Hapoel Hadera,1,2,Liran Liany,Netanya Stadium,1800,2018/2019
+05/05/2019,7:30 pm, Championship round,7,Maccabi Tel Aviv,Bnei Yehuda,1,5,Bnei Yehuda,2,3,Idan Leiba,Netanya Stadium,4160,2018/2019
+06/05/2019,8:00 pm, Championship round,7,Maccabi Haifa,Hapoel Beer Sheva,2,4,Hapoel Beer Sheva,3,1,Orel Grinfeld,Sammy Ofer Stadium,14273,2018/2019
+11/05/2019,5:00 pm, Championship round,8,Maccabi Tel Aviv,Maccabi Netanya,1,3,Maccabi Netanya,3,0,Igal Frid,Netanya Stadium,8737,2018/2019
+11/05/2019,7:00 pm, Championship round,8,Bnei Yehuda,Hapoel Beer Sheva,5,4,Bnei Yehuda,2,3,Eli Hacmon,HaMoshava Stadium,2000,2018/2019
+13/05/2019,7:30 pm, Championship round,8,Hapoel Hadera,Maccabi Haifa,6,2,Hapoel Hadera,2,0,Roi Reinshreiber,Netanya Stadium,4000,2018/2019
+19/05/2019,7:30 pm, Championship round,9,Hapoel Beer Sheva,Hapoel Hadera,2,6,Hapoel Hadera,1,0,David Fucsman,Toto Jacob Turner Stadium,9238,2018/2019
+19/05/2019,7:30 pm, Championship round,9,Maccabi Netanya,Bnei Yehuda,4,5,Bnei Yehuda,0,2,Gal Leibovitz,Netanya Stadium,3200,2018/2019
+19/05/2019,7:30 pm, Championship round,9,Maccabi Haifa,Maccabi Tel Aviv,3,1,Maccabi Haifa,1,1,Erez Papir,Sammy Ofer Stadium,16241,2018/2019
+25/05/2019,7:00 pm, Championship round,10,Bnei Yehuda,Hapoel Hadera,5,6,Hapoel Hadera,1,2,Odeh Na'al,HaMoshava Stadium,2800,2018/2019
+25/05/2019,7:00 pm, Championship round,10,Hapoel Beer Sheva,Maccabi Tel Aviv,3,1,Hapoel Beer Sheva,0,4,Roi Reinshreiber,Toto Jacob Turner Stadium,14040,2018/2019
+25/05/2019,7:00 pm, Championship round,10,Maccabi Netanya,Maccabi Haifa,4,2,Maccabi Netanya,1,2,Orel Grinfeld,Netanya Stadium,7100,2018/2019
+16/03/2019,5:00 pm,Relegation round,1,Hapoel Ra'anana,Bnei Sakhnin,3,7,Bnei Sakhnin,2,2,Roi Reinshreiber,Ramat Gan Stadium,300,2018/2019
+16/03/2019,5:15 pm,Relegation round,1,Hapoel Tel Aviv,Ashdod,1,8,Ashdod,5,1,Alon Yefet,HaMoshava Stadium,4400,2018/2019
+17/03/2019,6:00 pm,Relegation round,1,Ironi Kiryat Shmona,Maccabi Petah Tikva,5,4,Ironi Kiryat Shmona,0,1,Daniel Bar Natan,Kiryat Shmona Municipal Stadium,350,2018/2019
+17/03/2019,8:00 pm,Relegation round,1,Hapoel Haifa,Beitar Jerusalem,2,6,Beitar Jerusalem,0,0,Liran Liany,Sammy Ofer Stadium,2900,2018/2019
+30/03/2019,4:00 pm,Relegation round,2,Ashdod,Ironi Kiryat Shmona,7,6,Ashdod,3,2,Idan Leiba,Yud-Alef Stadion,250,2018/2019
+31/03/2019,6:00 pm,Relegation round,2,Maccabi Petah Tikva,Hapoel Ra'anana,4,3,Maccabi Petah Tikva,1,1,Erez Papir,HaMoshava Stadium,388,2018/2019
+31/03/2019,7:30 pm,Relegation round,2,Beitar Jerusalem,Bnei Sakhnin,5,8,Bnei Sakhnin,0,0,Daniel Bar Natan,Teddy-Kollek-Stadion,5500,2018/2019
+01/04/2019,7:30 pm,Relegation round,2,Hapoel Haifa,Hapoel Tel Aviv,2,1,Hapoel Haifa,0,0,Igal Frid,Sammy Ofer Stadium,2950,2018/2019
+06/04/2019,5:00 pm,Relegation round,3,Ironi Kiryat Shmona,Hapoel Haifa,4,2,Ironi Kiryat Shmona,3,0,Eli Hacmon,Kiryat Shmona Municipal Stadium,600,2018/2019
+06/04/2019,6:00 pm,Relegation round,3,Bnei Sakhnin,Maccabi Petah Tikva,8,5,Bnei Sakhnin,1,1,Alon Yefet,Doha Stadium,2300,2018/2019
+07/04/2019,6:00 pm,Relegation round,3,Hapoel Ra'anana,Ashdod,6,7,Ashdod,1,2,Liran Liany,Ramat Gan Stadium,600,2018/2019
+08/04/2019,8:00 pm,Relegation round,3,Hapoel Tel Aviv,Beitar Jerusalem,1,3,Beitar Jerusalem,1,2,Ziv Adler,HaMoshava Stadium,8000,2018/2019
+13/04/2019,5:00 pm,Relegation round,4,Hapoel Haifa,Hapoel Ra'anana,4,3,Hapoel Haifa,0,2,Daniel Bar Natan,Sammy Ofer Stadium,2340,2018/2019
+13/04/2019,5:00 pm,Relegation round,4,Hapoel Tel Aviv,Ironi Kiryat Shmona,2,5,Ironi Kiryat Shmona,2,2,Erez Papir,HaMoshava Stadium,4500,2018/2019
+13/04/2019,6:00 pm,Relegation round,4,Ashdod,Bnei Sakhnin,7,8,Bnei Sakhnin,1,2,Orel Grinfeld,Yud-Alef Stadion,500,2018/2019
+13/04/2019,7:30 pm,Relegation round,4,Beitar Jerusalem,Maccabi Petah Tikva,1,6,Maccabi Petah Tikva,4,1,Gal Leibovitz,Teddy-Kollek-Stadion,5000,2018/2019
+27/04/2019,7:30 pm,Relegation round,5,Ironi Kiryat Shmona,Beitar Jerusalem,5,1,Ironi Kiryat Shmona,0,1,Eitan Shmuelevic,Kiryat Shmona Municipal Stadium,0,2018/2019
+27/04/2019,7:30 pm,Relegation round,5,Hapoel Ra'anana,Hapoel Tel Aviv,2,4,Hapoel Tel Aviv,2,1,Idan Leiba,Ramat Gan Stadium,1500,2018/2019
+27/04/2019,7:30 pm,Relegation round,5,Bnei Sakhnin,Hapoel Haifa,8,3,Bnei Sakhnin,1,2,Gal Leibovitz,Doha Stadium,1150,2018/2019
+27/04/2019,7:30 pm,Relegation round,5,Maccabi Petah Tikva,Ashdod,6,7,Ashdod,0,3,Liran Liany,HaMoshava Stadium,700,2018/2019
+04/05/2019,7:30 pm,Relegation round,6,Beitar Jerusalem,Ashdod,1,7,Ashdod,2,3,Gal Leibovitz,Teddy-Kollek-Stadion,15000,2018/2019
+04/05/2019,7:30 pm,Relegation round,6,Hapoel Haifa,Maccabi Petah Tikva,4,5,Maccabi Petah Tikva,0,3,Ziv Adler,Sammy Ofer Stadium,2430,2018/2019
+04/05/2019,7:30 pm,Relegation round,6,Hapoel Tel Aviv,Bnei Sakhnin,2,8,Bnei Sakhnin,3,0,Shalom Ben Avraham,HaMoshava Stadium,4600,2018/2019
+04/05/2019,7:30 pm,Relegation round,6,Ironi Kiryat Shmona,Hapoel Ra'anana,6,3,Ironi Kiryat Shmona,0,0,Daniel Bar Natan,Kiryat Shmona Municipal Stadium,0,2018/2019
+11/05/2019,7:30 pm,Relegation round,7,Hapoel Ra'anana,Beitar Jerusalem,3,1,Hapoel Ra'anana,1,2,Shalev Sasson,Ramat Gan Stadium,1200,2018/2019
+12/05/2019,7:30 pm,Relegation round,7,Bnei Sakhnin,Ironi Kiryat Shmona,8,4,Bnei Sakhnin,0,2,Ziv Adler,Doha Stadium,200,2018/2019
+12/05/2019,7:30 pm,Relegation round,7,Maccabi Petah Tikva,Hapoel Tel Aviv,7,2,Maccabi Petah Tikva,0,2,Daniel Bar Natan,HaMoshava Stadium,2500,2018/2019
+12/05/2019,7:30 pm,Relegation round,7,Ashdod,Hapoel Haifa,6,5,Ashdod,1,0,Erez Papir,Yud-Alef Stadion,2200,2018/2019
+24/08/2019,5:00 pm,Regular round,1,Maccabi Haifa,Hapoel Ra'anana,2,11,Hapoel Ra'anana,4,3,David Fucsman,Sammy Ofer Stadium,17632,2019/2020
+24/08/2019,6:00 pm,Regular round,1,Hapoel Hadera,Ashdod,5,6,Ashdod,1,1,Orel Grinfeld,Netanya Stadium,973,2019/2020
+24/08/2019,7:30 pm,Regular round,1,Sektzia Nes Tziona,Maccabi Tel Aviv,14,1,Sektzia Nes Tziona,0,2,Daniel Bar Natan,HaMoshava Stadium,5654,2019/2020
+25/08/2019,6:00 pm,Regular round,1,Hapoel Kfar Saba,Hapoel Haifa,13,4,Hapoel Kfar Saba,0,1,Idan Leiba,HaMoshava Stadium,1917,2019/2020
+25/08/2019,7:00 pm,Regular round,1,Bnei Yehuda,Ironi Kiryat Shmona,3,12,Ironi Kiryat Shmona,2,1,Eli Hacmon,Bloomfield,3318,2019/2020
+25/08/2019,7:15 pm,Regular round,1,Beitar Jerusalem,Hapoel Beer Sheva,9,7,Beitar Jerusalem,0,0,Liran Liany,Teddy-Kollek-Stadion,18886,2019/2020
+26/08/2019,7:15 pm,Regular round,1,Hapoel Tel Aviv,Maccabi Netanya,10,8,Hapoel Tel Aviv,0,0,Eitan Shmuelevic,Bloomfield,18600,2019/2020
+31/08/2019,5:00 pm,Regular round,2,Ashdod,Hapoel Tel Aviv,5,11,Hapoel Tel Aviv,2,1,Erez Papir,Yud-Alef Stadion,3250,2019/2020
+31/08/2019,6:00 pm,Regular round,2,Maccabi Netanya,Sektzia Nes Tziona,2,14,Sektzia Nes Tziona,3,0,Nael Odeh,Netanya Stadium,4500,2019/2020
+31/08/2019,7:30 pm,Regular round,2,Hapoel Haifa,Maccabi Haifa,7,4,Hapoel Haifa,0,0,Ziv Adler,Sammy Ofer Stadium,23400,2019/2020
+01/09/2019,6:50 pm,Regular round,2,Hapoel Beer Sheva,Hapoel Hadera,1,12,Hapoel Hadera,3,0,Igal Frid,Toto Jacob Turner Stadium,11277,2019/2020
+01/09/2019,7:00 pm,Regular round,2,Hapoel Ra'anana,Beitar Jerusalem,9,10,Beitar Jerusalem,2,1,Shalom Ben Avraham,HaMoshava Stadium,8000,2019/2020
+01/09/2019,7:15 pm,Regular round,2,Maccabi Tel Aviv,Bnei Yehuda,3,6,Bnei Yehuda,0,0,Roi Reinshreiber,Bloomfield,26513,2019/2020
+02/09/2019,7:00 pm,Regular round,2,Ironi Kiryat Shmona,Hapoel Kfar Saba,13,8,Ironi Kiryat Shmona,1,3,Gal Leibovitz,Kiryat Shmona Municipal Stadium,500,2019/2020
+14/09/2019,5:00 pm,Regular round,3,Maccabi Haifa,Ironi Kiryat Shmona,1,14,Ironi Kiryat Shmona,2,0,Idan Leiba,Sammy Ofer Stadium,18124,2019/2020
+14/09/2019,6:00 pm,Regular round,3,Hapoel Tel Aviv,Sektzia Nes Tziona,11,13,Sektzia Nes Tziona,1,1,David Fucsman,Bloomfield,10400,2019/2020
+14/09/2019,6:00 pm,Regular round,3,Hapoel Hadera,Hapoel Ra'anana,8,10,Hapoel Ra'anana,4,0,Liran Liany,Netanya Stadium,1200,2019/2020
+14/09/2019,7:30 pm,Regular round,3,Hapoel Kfar Saba,Maccabi Tel Aviv,9,2,Hapoel Kfar Saba,0,1,Ohad Asulin,HaMoshava Stadium,4000,2019/2020
+15/09/2019,6:00 pm,Regular round,3,Bnei Yehuda,Maccabi Netanya,7,5,Bnei Yehuda,0,0,Erez Papir,Bloomfield,3000,2019/2020
+15/09/2019,7:15 pm,Regular round,3,Ashdod,Hapoel Beer Sheva,6,4,Ashdod,2,2,Roi Reinshreiber,Yud-Alef Stadion,3400,2019/2020
+16/09/2019,7:15 pm,Regular round,3,Beitar Jerusalem,Hapoel Haifa,12,3,Beitar Jerusalem,0,2,Daniel Bar Natan,Teddy-Kollek-Stadion,11000,2019/2020
+21/09/2019,5:00 pm,Regular round,4,Maccabi Netanya,Hapoel Kfar Saba,7,9,Hapoel Kfar Saba,2,2,Shalom Ben Avraham,Netanya Stadium,5300,2019/2020
+21/09/2019,6:00 pm,Regular round,4,Sektzia Nes Tziona,Bnei Yehuda,13,3,Sektzia Nes Tziona,0,1,Gal Leibovitz,HaMoshava Stadium,927,2019/2020
+21/09/2019,7:30 pm,Regular round,4,Ironi Kiryat Shmona,Beitar Jerusalem,14,10,Ironi Kiryat Shmona,0,2,Igal Frid,Kiryat Shmona Municipal Stadium,2600,2019/2020
+21/09/2019,7:30 pm,Regular round,4,Maccabi Tel Aviv,Maccabi Haifa,1,5,Maccabi Haifa,1,0,Orel Grinfeld,Bloomfield,26234,2019/2020
+22/09/2019,6:00 pm,Regular round,4,Hapoel Ra'anana,Ashdod,11,8,Hapoel Ra'anana,1,1,Nael Odeh,HaMoshava Stadium,350,2019/2020
+22/09/2019,7:15 pm,Regular round,4,Hapoel Haifa,Hapoel Hadera,6,4,Hapoel Haifa,1,2,Eitan Shmuelevic,Sammy Ofer Stadium,3200,2019/2020
+23/09/2019,7:15 pm,Regular round,4,Hapoel Beer Sheva,Hapoel Tel Aviv,2,12,Hapoel Tel Aviv,3,0,Erez Papir,Toto Jacob Turner Stadium,12287,2019/2020
+25/09/2019,6:00 pm,Regular round,5,Hapoel Kfar Saba,Sektzia Nes Tziona,9,13,Sektzia Nes Tziona,1,1,Daniel Bar Natan,HaMoshava Stadium,880,2019/2020
+25/09/2019,7:15 pm,Regular round,5,Maccabi Haifa,Maccabi Netanya,3,8,Maccabi Netanya,3,0,Roi Reinshreiber,Sammy Ofer Stadium,15173,2019/2020
+28/09/2019,4:00 pm,Regular round,5,Hapoel Hadera,Ironi Kiryat Shmona,5,14,Ironi Kiryat Shmona,2,2,Ziv Adler,Netanya Stadium,1000,2019/2020
+28/09/2019,5:00 pm,Regular round,5,Ashdod,Hapoel Haifa,7,6,Ashdod,1,1,David Fucsman,Yud-Alef Stadion,1480,2019/2020
+28/09/2019,6:30 pm,Regular round,5,Hapoel Tel Aviv,Bnei Yehuda,12,4,Hapoel Tel Aviv,1,1,Eli Hacmon,Bloomfield,11500,2019/2020
+28/09/2019,7:30 pm,Regular round,5,Beitar Jerusalem,Maccabi Tel Aviv,11,1,Beitar Jerusalem,0,4,Liran Liany,Teddy-Kollek-Stadion,15930,2019/2020
+28/09/2019,7:30 pm,Regular round,5,Hapoel Beer Sheva,Hapoel Ra'anana,2,10,Hapoel Ra'anana,1,0,Ohad Asulin,Toto Jacob Turner Stadium,11477,2019/2020
+05/10/2019,5:00 pm,Regular round,6,Maccabi Tel Aviv,Hapoel Hadera,2,4,Hapoel Hadera,0,0,Gal Leibovitz,Bloomfield,24829,2019/2020
+05/10/2019,6:00 pm,Regular round,6,Sektzia Nes Tziona,Maccabi Haifa,14,3,Sektzia Nes Tziona,0,3,Erez Papir,HaMoshava Stadium,10800,2019/2020
+05/10/2019,7:30 pm,Regular round,6,Hapoel Haifa,Hapoel Beer Sheva,7,1,Hapoel Haifa,0,3,Shalom Ben Avraham,Sammy Ofer Stadium,4600,2019/2020
+06/10/2019,6:00 pm,Regular round,6,Bnei Yehuda,Hapoel Kfar Saba,5,6,Hapoel Kfar Saba,0,1,Ziv Adler,Bloomfield,1550,2019/2020
+06/10/2019,7:00 pm,Regular round,6,Hapoel Ra'anana,Hapoel Tel Aviv,11,12,Hapoel Tel Aviv,2,2,Idan Leiba,HaMoshava Stadium,2800,2019/2020
+06/10/2019,7:15 pm,Regular round,6,Maccabi Netanya,Beitar Jerusalem,10,9,Maccabi Netanya,0,3,Orel Grinfeld,Netanya Stadium,7500,2019/2020
+07/10/2019,7:00 pm,Regular round,6,Ironi Kiryat Shmona,Ashdod,13,8,Ironi Kiryat Shmona,2,0,Eitan Shmuelevic,Kiryat Shmona Municipal Stadium,580,2019/2020
+19/10/2019,4:30 pm,Regular round,7,Hapoel Beer Sheva,Ironi Kiryat Shmona,1,13,Ironi Kiryat Shmona,2,1,David Fucsman,Toto Jacob Turner Stadium,11581,2019/2020
+19/10/2019,5:00 pm,Regular round,7,Hapoel Tel Aviv,Hapoel Kfar Saba,10,8,Hapoel Tel Aviv,2,1,Gal Leibovitz,Bloomfield,10000,2019/2020
+19/10/2019,6:00 pm,Regular round,7,Hapoel Hadera,Maccabi Netanya,4,11,Maccabi Netanya,1,0,Daniel Bar Natan,Netanya Stadium,3000,2019/2020
+19/10/2019,7:15 pm,Regular round,7,Sektzia Nes Tziona,Beitar Jerusalem,14,5,Sektzia Nes Tziona,0,4,Eli Hacmon,HaMoshava Stadium,6979,2019/2020
+21/10/2019,5:00 pm,Regular round,7,Hapoel Ra'anana,Hapoel Haifa,12,7,Hapoel Ra'anana,0,0,Nael Odeh,HaMoshava Stadium,1200,2019/2020
+21/10/2019,7:00 pm,Regular round,7,Ashdod,Maccabi Tel Aviv,9,2,Ashdod,0,1,Igal Frid,Yud-Alef Stadion,5090,2019/2020
+21/10/2019,7:15 pm,Regular round,7,Maccabi Haifa,Bnei Yehuda,3,6,Bnei Yehuda,1,1,Liran Liany,Sammy Ofer Stadium,24277,2019/2020
+26/10/2019,3:00 pm,Regular round,8,Hapoel Haifa,Hapoel Tel Aviv,6,11,Hapoel Tel Aviv,3,0,Liran Liany,Sammy Ofer Stadium,6102,2019/2020
+26/10/2019,5:00 pm,Regular round,8,Ironi Kiryat Shmona,Hapoel Ra'anana,10,12,Hapoel Ra'anana,2,1,Igal Frid,Kiryat Shmona Municipal Stadium,500,2019/2020
+26/10/2019,6:30 pm,Regular round,8,Maccabi Netanya,Ashdod,13,7,Maccabi Netanya,2,4,Shalom Ben Avraham,Netanya Stadium,3400,2019/2020
+26/10/2019,7:30 pm,Regular round,8,Hapoel Kfar Saba,Maccabi Haifa,9,2,Hapoel Kfar Saba,0,3,Eitan Shmuelevic,HaMoshava Stadium,7000,2019/2020
+27/10/2019,6:00 pm,Regular round,8,Sektzia Nes Tziona,Hapoel Hadera,14,5,Sektzia Nes Tziona,2,2,Ohad Asulin,HaMoshava Stadium,532,2019/2020
+27/10/2019,7:15 pm,Regular round,8,Bnei Yehuda,Beitar Jerusalem,8,4,Bnei Yehuda,0,2,Roi Reinshreiber,Bloomfield,9000,2019/2020
+28/10/2019,7:15 pm,Regular round,8,Maccabi Tel Aviv,Hapoel Beer Sheva,1,3,Hapoel Beer Sheva,2,0,Ziv Adler,Bloomfield,27566,2019/2020
+02/11/2019,2:00 pm,Regular round,9,Hapoel Haifa,Ironi Kiryat Shmona,5,10,Ironi Kiryat Shmona,2,1,Orel Grinfeld,Sammy Ofer Stadium,3270,2019/2020
+02/11/2019,4:30 pm,Regular round,9,Hapoel Ra'anana,Maccabi Tel Aviv,12,1,Hapoel Ra'anana,0,2,David Fucsman,HaMoshava Stadium,7500,2019/2020
+02/11/2019,5:30 pm,Regular round,9,Hapoel Hadera,Bnei Yehuda,6,8,Bnei Yehuda,0,0,Igal Frid,Netanya Stadium,1500,2019/2020
+02/11/2019,6:50 pm,Regular round,9,Beitar Jerusalem,Hapoel Kfar Saba,4,9,Hapoel Kfar Saba,1,0,Erez Papir,Teddy-Kollek-Stadion,11000,2019/2020
+03/11/2019,6:00 pm,Regular round,9,Ashdod,Sektzia Nes Tziona,7,14,Sektzia Nes Tziona,2,2,Idan Leiba,Yud-Alef Stadion,932,2019/2020
+03/11/2019,7:15 pm,Regular round,9,Hapoel Beer Sheva,Maccabi Netanya,3,13,Maccabi Netanya,2,0,Gal Leibovitz,Toto Jacob Turner Stadium,11275,2019/2020
+04/11/2019,7:15 pm,Regular round,9,Hapoel Tel Aviv,Maccabi Haifa,11,2,Hapoel Tel Aviv,1,2,Daniel Bar Natan,Bloomfield,19000,2019/2020
+09/11/2019,2:00 pm,Regular round,10,Ironi Kiryat Shmona,Hapoel Tel Aviv,12,9,Ironi Kiryat Shmona,0,1,Ziv Adler,Kiryat Shmona Municipal Stadium,3600,2019/2020
+09/11/2019,4:30 pm,Regular round,10,Sektzia Nes Tziona,Hapoel Beer Sheva,13,3,Sektzia Nes Tziona,2,1,Eitan Shmuelevic,HaMoshava Stadium,3872,2019/2020
+09/11/2019,5:30 pm,Regular round,10,Maccabi Netanya,Hapoel Ra'anana,11,14,Hapoel Ra'anana,1,0,Liran Liany,Netanya Stadium,5200,2019/2020
+09/11/2019,6:15 pm,Regular round,10,Maccabi Tel Aviv,Hapoel Haifa,1,6,Hapoel Haifa,3,0,Eli Hacmon,Bloomfield,23125,2019/2020
+10/11/2019,7:00 pm,Regular round,10,Hapoel Kfar Saba,Hapoel Hadera,10,5,Hapoel Kfar Saba,0,0,Roi Reinshreiber,HaMoshava Stadium,1400,2019/2020
+10/11/2019,7:15 pm,Regular round,10,Bnei Yehuda,Ashdod,7,8,Ashdod,2,0,Ohad Asulin,Bloomfield,1300,2019/2020
+10/11/2019,7:15 pm,Regular round,10,Maccabi Haifa,Beitar Jerusalem,2,4,Beitar Jerusalem,3,1,David Fucsman,Sammy Ofer Stadium,30000,2019/2020
+30/11/2019,2:00 pm,Regular round,11,Hapoel Ra'anana,Sektzia Nes Tziona,14,12,Hapoel Ra'anana,0,0,Igal Frid,HaMoshava Stadium,700,2019/2020
+30/11/2019,2:00 pm,Regular round,11,Hapoel Haifa,Maccabi Netanya,7,9,Maccabi Netanya,1,3,Erez Papir,Sammy Ofer Stadium,4600,2019/2020
+30/11/2019,4:30 pm,Regular round,11,Ironi Kiryat Shmona,Maccabi Tel Aviv,13,1,Ironi Kiryat Shmona,0,1,Daniel Bar Natan,Kiryat Shmona Municipal Stadium,4259,2019/2020
+30/11/2019,5:00 pm,Regular round,11,Ashdod,Hapoel Kfar Saba,8,10,Hapoel Kfar Saba,0,0,Ziv Adler,Yud-Alef Stadion,966,2019/2020
+30/11/2019,6:50 pm,Regular round,11,Hapoel Beer Sheva,Bnei Yehuda,3,5,Bnei Yehuda,1,2,Idan Leiba,Toto Jacob Turner Stadium,11460,2019/2020
+01/12/2019,7:00 pm,Regular round,11,Hapoel Hadera,Maccabi Haifa,6,2,Hapoel Hadera,0,3,Eli Hacmon,Netanya Stadium,8500,2019/2020
+01/12/2019,7:15 pm,Regular round,11,Hapoel Tel Aviv,Beitar Jerusalem,11,4,Hapoel Tel Aviv,0,1,Gal Leibovitz,Bloomfield,19100,2019/2020
+03/12/2019,6:00 pm,Regular round,12,Bnei Yehuda,Hapoel Ra'anana,5,12,Hapoel Ra'anana,1,1,Eitan Shmuelevic,Bloomfield,1200,2019/2020
+03/12/2019,6:45 pm,Regular round,12,Maccabi Netanya,Ironi Kiryat Shmona,8,14,Ironi Kiryat Shmona,1,0,Roi Reinshreiber,Netanya Stadium,4500,2019/2020
+03/12/2019,7:15 pm,Regular round,12,Hapoel Kfar Saba,Hapoel Beer Sheva,10,3,Hapoel Kfar Saba,0,1,David Fucsman,HaMoshava Stadium,1800,2019/2020
+04/12/2019,6:00 pm,Regular round,12,Sektzia Nes Tziona,Hapoel Haifa,13,6,Sektzia Nes Tziona,1,2,Ziv Adler,HaMoshava Stadium,493,2019/2020
+04/12/2019,7:00 pm,Regular round,12,Beitar Jerusalem,Hapoel Hadera,4,7,Hapoel Hadera,2,0,Idan Leiba,Teddy-Kollek-Stadion,7450,2019/2020
+04/12/2019,7:10 pm,Regular round,12,Maccabi Haifa,Ashdod,2,9,Ashdod,3,3,Snir Levi,Sammy Ofer Stadium,16157,2019/2020
+04/12/2019,7:15 pm,Regular round,12,Hapoel Tel Aviv,Maccabi Tel Aviv,11,1,Hapoel Tel Aviv,0,3,Orel Grinfeld,Bloomfield,22000,2019/2020
+07/12/2019,2:00 pm,Regular round,13,Hapoel Ra'anana,Hapoel Kfar Saba,13,11,Hapoel Ra'anana,1,1,Orel Grinfeld,HaMoshava Stadium,800,2019/2020
+07/12/2019,4:30 pm,Regular round,13,Hapoel Haifa,Bnei Yehuda,5,6,Bnei Yehuda,3,0,Aviad Shiloah,Sammy Ofer Stadium,3050,2019/2020
+07/12/2019,5:30 pm,Regular round,13,Ironi Kiryat Shmona,Sektzia Nes Tziona,12,14,Sektzia Nes Tziona,1,0,Ohad Asulin,Kiryat Shmona Municipal Stadium,250,2019/2020
+07/12/2019,6:50 pm,Regular round,13,Maccabi Tel Aviv,Maccabi Netanya,1,7,Maccabi Netanya,0,0,Gal Leibovitz,Bloomfield,21519,2019/2020
+08/12/2019,6:45 pm,Regular round,13,Hapoel Hadera,Hapoel Tel Aviv,8,10,Hapoel Tel Aviv,0,1,Shalom Ben Avraham,Netanya Stadium,2100,2019/2020
+08/12/2019,7:15 pm,Regular round,13,Ashdod,Beitar Jerusalem,9,4,Ashdod,2,2,Liran Liany,Yud-Alef Stadion,3457,2019/2020
+09/12/2019,7:15 pm,Regular round,13,Hapoel Beer Sheva,Maccabi Haifa,3,2,Hapoel Beer Sheva,0,2,Roi Reinshreiber,Toto Jacob Turner Stadium,14297,2019/2020
+14/12/2019,2:00 pm,Regular round,14,Maccabi Tel Aviv,Sektzia Nes Tziona,1,14,Sektzia Nes Tziona,1,1,Eli Hacmon,Bloomfield,21187,2019/2020
+14/12/2019,4:30 pm,Regular round,14,Ironi Kiryat Shmona,Bnei Yehuda,11,8,Ironi Kiryat Shmona,2,1,Erez Papir,Kiryat Shmona Municipal Stadium,1063,2019/2020
+14/12/2019,5:30 pm,Regular round,14,Hapoel Haifa,Hapoel Kfar Saba,5,9,Hapoel Kfar Saba,0,2,Nael Odeh,Sammy Ofer Stadium,3030,2019/2020
+14/12/2019,6:50 pm,Regular round,14,Hapoel Ra'anana,Maccabi Haifa,13,2,Hapoel Ra'anana,0,0,Gal Leibovitz,HaMoshava Stadium,7512,2019/2020
+15/12/2019,6:00 pm,Regular round,14,Ashdod,Hapoel Hadera,10,7,Ashdod,0,2,Daniel Bar Natan,Yud-Alef Stadion,703,2019/2020
+15/12/2019,7:15 pm,Regular round,14,Maccabi Netanya,Hapoel Tel Aviv,6,12,Hapoel Tel Aviv,4,0,Liran Liany,Netanya Stadium,6500,2019/2020
+16/12/2019,7:15 pm,Regular round,14,Hapoel Beer Sheva,Beitar Jerusalem,4,3,Hapoel Beer Sheva,0,1,Orel Grinfeld,Toto Jacob Turner Stadium,13350,2019/2020
+24/12/2019,7:00 pm,Regular round,15,Hapoel Kfar Saba,Ironi Kiryat Shmona,11,9,Hapoel Kfar Saba,0,3,Shalom Ben Avraham,HaMoshava Stadium,715,2019/2020
+24/12/2019,7:30 pm,Regular round,15,Hapoel Hadera,Hapoel Beer Sheva,7,4,Hapoel Hadera,0,1,Aviad Shiloah,Netanya Stadium,1128,2019/2020
+24/12/2019,8:15 pm,Regular round,15,Maccabi Haifa,Hapoel Haifa,2,5,Hapoel Haifa,3,0,Liran Liany,Sammy Ofer Stadium,28177,2019/2020
+24/12/2019,8:15 pm,Regular round,15,Bnei Yehuda,Maccabi Tel Aviv,8,1,Bnei Yehuda,0,3,Igal Frid,Bloomfield,6200,2019/2020
+25/12/2019,7:00 pm,Regular round,15,Sektzia Nes Tziona,Maccabi Netanya,13,6,Sektzia Nes Tziona,1,0,Snir Levi,HaMoshava Stadium,997,2019/2020
+25/12/2019,7:30 pm,Regular round,15,Hapoel Tel Aviv,Ashdod,12,10,Hapoel Tel Aviv,0,0,Eitan Shmuelevic,Bloomfield,3432,2019/2020
+25/12/2019,8:15 pm,Regular round,15,Beitar Jerusalem,Hapoel Ra'anana,3,14,Hapoel Ra'anana,2,0,Roi Reinshreiber,Teddy-Kollek-Stadion,5000,2019/2020
+28/12/2019,3:00 pm,Regular round,16,Maccabi Tel Aviv,Hapoel Kfar Saba,1,12,Hapoel Kfar Saba,4,0,Idan Leiba,Bloomfield,9459,2019/2020
+28/12/2019,5:30 pm,Regular round,16,Ironi Kiryat Shmona,Maccabi Haifa,10,2,Ironi Kiryat Shmona,1,2,Orel Grinfeld,Kiryat Shmona Municipal Stadium,2249,2019/2020
+28/12/2019,6:30 pm,Regular round,16,Hapoel Ra'anana,Hapoel Hadera,14,7,Hapoel Ra'anana,1,1,Igal Frid,HaMoshava Stadium,350,2019/2020
+28/12/2019,7:50 pm,Regular round,16,Hapoel Beer Sheva,Ashdod,4,11,Ashdod,2,1,Erez Papir,Toto Jacob Turner Stadium,9218,2019/2020
+29/12/2019,7:00 pm,Regular round,16,Maccabi Netanya,Bnei Yehuda,8,5,Maccabi Netanya,0,3,Eli Hacmon,Netanya Stadium,4100,2019/2020
+29/12/2019,8:15 pm,Regular round,16,Sektzia Nes Tziona,Hapoel Tel Aviv,13,9,Sektzia Nes Tziona,0,1,Daniel Bar Natan,HaMoshava Stadium,2291,2019/2020
+30/12/2019,8:15 pm,Regular round,16,Hapoel Haifa,Beitar Jerusalem,6,3,Hapoel Haifa,1,4,David Fucsman,Sammy Ofer Stadium,6156,2019/2020
+04/01/2020,5:30 pm,Regular round,17,Hapoel Kfar Saba,Maccabi Netanya,13,6,Hapoel Kfar Saba,1,2,Ohad Asulin,HaMoshava Stadium,1201,2019/2020
+04/01/2020,6:30 pm,Regular round,17,Hapoel Hadera,Hapoel Haifa,5,8,Hapoel Haifa,2,0,Eitan Shmuelevic,Netanya Stadium,766,2019/2020
+04/01/2020,7:50 pm,Regular round,17,Beitar Jerusalem,Ironi Kiryat Shmona,3,11,Ironi Kiryat Shmona,2,2,Igal Frid,Teddy-Kollek-Stadion,6000,2019/2020
+05/01/2020,7:00 pm,Regular round,17,Ashdod,Hapoel Ra'anana,10,14,Hapoel Ra'anana,3,0,Shalom Ben Avraham,Yud-Alef Stadion,623,2019/2020
+05/01/2020,8:15 pm,Regular round,17,Hapoel Tel Aviv,Hapoel Beer Sheva,9,4,Hapoel Tel Aviv,1,0,Ziv Adler,Netanya Stadium,4550,2019/2020
+06/01/2020,6:00 pm,Regular round,17,Bnei Yehuda,Sektzia Nes Tziona,7,12,Sektzia Nes Tziona,1,2,Nael Odeh,Bloomfield,700,2019/2020
+06/01/2020,8:15 pm,Regular round,17,Maccabi Haifa,Maccabi Tel Aviv,2,1,Maccabi Haifa,3,4,Liran Liany,Sammy Ofer Stadium,30820,2019/2020
+11/01/2020,2:00 pm,Regular round,18,Hapoel Haifa,Ashdod,6,10,Ashdod,1,0,Sapir Berman,Sammy Ofer Stadium,1908,2019/2020
+11/01/2020,4:30 pm,Regular round,18,Hapoel Ra'anana,Hapoel Beer Sheva,14,4,Hapoel Ra'anana,2,1,David Fucsman,HaMoshava Stadium,1800,2019/2020
+11/01/2020,5:30 pm,Regular round,18,Ironi Kiryat Shmona,Hapoel Hadera,11,5,Ironi Kiryat Shmona,0,1,Snir Levi,Kiryat Shmona Municipal Stadium,700,2019/2020
+11/01/2020,6:50 pm,Regular round,18,Maccabi Netanya,Maccabi Haifa,8,2,Maccabi Netanya,0,2,Daniel Bar Natan,Netanya Stadium,9364,2019/2020
+12/01/2020,6:00 pm,Regular round,18,Sektzia Nes Tziona,Hapoel Kfar Saba,13,12,Sektzia Nes Tziona,0,1,Erez Papir,HaMoshava Stadium,585,2019/2020
+12/01/2020,7:15 pm,Regular round,18,Bnei Yehuda,Hapoel Tel Aviv,9,7,Bnei Yehuda,1,2,Gal Leibovitz,Bloomfield,4500,2019/2020
+13/01/2020,8:15 pm,Regular round,18,Maccabi Tel Aviv,Beitar Jerusalem,1,3,Beitar Jerusalem,0,0,Eli Hacmon,Sammy Ofer Stadium,20448,2019/2020
+18/01/2020,2:00 pm,Regular round,19,Ashdod,Ironi Kiryat Shmona,10,11,Ironi Kiryat Shmona,1,0,Liran Liany,Yud-Alef Stadion,450,2019/2020
+18/01/2020,5:30 pm,Regular round,19,Maccabi Haifa,Sektzia Nes Tziona,2,13,Sektzia Nes Tziona,4,0,Eitan Shmuelevic,Sammy Ofer Stadium,18253,2019/2020
+18/01/2020,6:50 pm,Regular round,19,Hapoel Hadera,Maccabi Tel Aviv,6,1,Hapoel Hadera,0,3,Shalom Ben Avraham,Netanya Stadium,4536,2019/2020
+19/01/2020,7:15 pm,Regular round,19,Hapoel Tel Aviv,Hapoel Ra'anana,5,14,Hapoel Ra'anana,3,1,Idan Leiba,Netanya Stadium,4430,2019/2020
+20/01/2020,6:00 pm,Regular round,19,Hapoel Kfar Saba,Bnei Yehuda,12,7,Hapoel Kfar Saba,0,1,Roi Reinshreiber,HaMoshava Stadium,1032,2019/2020
+20/01/2020,7:00 pm,Regular round,19,Hapoel Beer Sheva,Hapoel Haifa,4,8,Hapoel Haifa,1,0,Igal Frid,Toto Jacob Turner Stadium,8651,2019/2020
+20/01/2020,7:15 pm,Regular round,19,Beitar Jerusalem,Maccabi Netanya,3,9,Maccabi Netanya,3,1,Ziv Adler,Teddy-Kollek-Stadion,6000,2019/2020
+25/01/2020,2:00 pm,Regular round,20,Hapoel Kfar Saba,Hapoel Tel Aviv,12,5,Hapoel Kfar Saba,1,2,Eli Hacmon,HaMoshava Stadium,7543,2019/2020
+25/01/2020,4:30 pm,Regular round,20,Ironi Kiryat Shmona,Hapoel Beer Sheva,11,4,Ironi Kiryat Shmona,0,0,Shalom Ben Avraham,Kiryat Shmona Municipal Stadium,1500,2019/2020
+25/01/2020,5:30 pm,Regular round,20,Hapoel Haifa,Hapoel Ra'anana,8,13,Hapoel Ra'anana,2,2,Liran Liany,Sammy Ofer Stadium,1920,2019/2020
+25/01/2020,6:50 pm,Regular round,20,Maccabi Tel Aviv,Ashdod,1,10,Ashdod,2,0,Nael Odeh,Bloomfield,15942,2019/2020
+26/01/2020,6:00 pm,Regular round,20,Maccabi Netanya,Hapoel Hadera,7,6,Maccabi Netanya,1,0,Gal Leibovitz,Netanya Stadium,3694,2019/2020
+26/01/2020,7:15 pm,Regular round,20,Beitar Jerusalem,Sektzia Nes Tziona,3,14,Sektzia Nes Tziona,1,0,Ohad Asulin,Teddy-Kollek-Stadion,7800,2019/2020
+27/01/2020,7:15 pm,Regular round,20,Bnei Yehuda,Maccabi Haifa,9,2,Bnei Yehuda,1,3,Erez Papir,Bloomfield,9000,2019/2020
+29/01/2020,6:00 pm,Regular round,21,Hapoel Ra'anana,Ironi Kiryat Shmona,13,12,Hapoel Ra'anana,1,1,Gal Leibovitz,HaMoshava Stadium,450,2019/2020
+29/01/2020,7:15 pm,Regular round,21,Hapoel Beer Sheva,Maccabi Tel Aviv,4,1,Hapoel Beer Sheva,1,1,Eitan Shmuelevic,Toto Jacob Turner Stadium,13193,2019/2020
+01/02/2020,2:00 pm,Regular round,21,Ashdod,Maccabi Netanya,10,9,Ashdod,0,0,Snir Levi,Yud-Alef Stadion,1391,2019/2020
+01/02/2020,4:30 pm,Regular round,21,Maccabi Haifa,Hapoel Kfar Saba,2,11,Hapoel Kfar Saba,0,1,David Fucsman,Sammy Ofer Stadium,19979,2019/2020
+01/02/2020,5:30 pm,Regular round,21,Hapoel Hadera,Sektzia Nes Tziona,6,14,Sektzia Nes Tziona,1,0,Roi Reinshreiber,Netanya Stadium,1280,2019/2020
+01/02/2020,6:50 pm,Regular round,21,Hapoel Tel Aviv,Hapoel Haifa,5,7,Hapoel Haifa,0,1,Ziv Adler,Bloomfield,10346,2019/2020
+02/02/2020,7:15 pm,Regular round,21,Beitar Jerusalem,Bnei Yehuda,3,8,Bnei Yehuda,1,3,Orel Grinfeld,Teddy-Kollek-Stadion,9500,2019/2020
+03/02/2020,7:15 pm,Regular round,22,Maccabi Tel Aviv,Hapoel Ra'anana,1,13,Hapoel Ra'anana,2,1,Igal Frid,Bloomfield,15462,2019/2020
+04/02/2020,6:00 pm,Regular round,22,Sektzia Nes Tziona,Ashdod,14,10,Sektzia Nes Tziona,0,2,Aviad Shiloah,HaMoshava Stadium,180,2019/2020
+04/02/2020,6:00 pm,Regular round,22,Ironi Kiryat Shmona,Hapoel Haifa,12,6,Ironi Kiryat Shmona,1,2,Erez Papir,Kiryat Shmona Municipal Stadium,600,2019/2020
+04/02/2020,7:15 pm,Regular round,22,Maccabi Haifa,Hapoel Tel Aviv,2,7,Hapoel Tel Aviv,5,0,Shalom Ben Avraham,Sammy Ofer Stadium,21594,2019/2020
+05/02/2020,6:00 pm,Regular round,22,Bnei Yehuda,Hapoel Hadera,8,5,Bnei Yehuda,0,1,Ohad Asulin,Bloomfield,1400,2019/2020
+05/02/2020,7:00 pm,Regular round,22,Maccabi Netanya,Hapoel Beer Sheva,9,4,Maccabi Netanya,1,1,Orel Grinfeld,Netanya Stadium,4700,2019/2020
+05/02/2020,7:15 pm,Regular round,22,Hapoel Kfar Saba,Beitar Jerusalem,11,3,Hapoel Kfar Saba,2,1,Snir Levi,HaMoshava Stadium,4831,2019/2020
+08/02/2020,2:00 pm,Regular round,23,Hapoel Tel Aviv,Ironi Kiryat Shmona,7,12,Ironi Kiryat Shmona,2,0,David Fucsman,Bloomfield,5825,2019/2020
+08/02/2020,4:30 pm,Regular round,23,Hapoel Ra'anana,Maccabi Netanya,13,9,Hapoel Ra'anana,1,2,Eitan Shmuelevic,HaMoshava Stadium,1143,2019/2020
+08/02/2020,5:30 pm,Regular round,23,Hapoel Hadera,Hapoel Kfar Saba,5,11,Hapoel Kfar Saba,2,0,Ziv Adler,Netanya Stadium,1420,2019/2020
+08/02/2020,6:50 pm,Regular round,23,Hapoel Haifa,Maccabi Tel Aviv,6,1,Hapoel Haifa,1,1,Eli Hacmon,Sammy Ofer Stadium,4445,2019/2020
+09/02/2020,6:00 pm,Regular round,23,Ashdod,Bnei Yehuda,10,8,Ashdod,0,1,Idan Leiba,Yud-Alef Stadion,631,2019/2020
+09/02/2020,7:15 pm,Regular round,23,Hapoel Beer Sheva,Sektzia Nes Tziona,4,14,Sektzia Nes Tziona,3,0,Liran Liany,Toto Jacob Turner Stadium,7217,2019/2020
+10/02/2020,7:15 pm,Regular round,23,Beitar Jerusalem,Maccabi Haifa,3,2,Beitar Jerusalem,2,0,Roi Reinshreiber,Teddy-Kollek-Stadion,19000,2019/2020
+15/02/2020,2:00 pm,Regular round,24,Maccabi Netanya,Hapoel Haifa,8,7,Maccabi Netanya,0,0,Shalom Ben Avraham,Netanya Stadium,7629,2019/2020
+15/02/2020,4:30 pm,Regular round,24,Bnei Yehuda,Hapoel Beer Sheva,9,4,Bnei Yehuda,0,1,Gal Leibovitz,Bloomfield,4400,2019/2020
+15/02/2020,5:30 pm,Regular round,24,Hapoel Kfar Saba,Ashdod,11,10,Hapoel Kfar Saba,1,3,Tal Zetelman,HaMoshava Stadium,891,2019/2020
+15/02/2020,6:50 pm,Regular round,24,Maccabi Haifa,Hapoel Hadera,2,6,Hapoel Hadera,1,0,Nael Odeh,Sammy Ofer Stadium,17357,2019/2020
+16/02/2020,6:00 pm,Regular round,24,Sektzia Nes Tziona,Hapoel Ra'anana,13,14,Hapoel Ra'anana,3,0,Snir Levi,HaMoshava Stadium,248,2019/2020
+16/02/2020,7:15 pm,Regular round,24,Maccabi Tel Aviv,Ironi Kiryat Shmona,1,12,Ironi Kiryat Shmona,3,0,Aviad Shiloah,Bloomfield,15890,2019/2020
+17/02/2020,7:15 pm,Regular round,24,Beitar Jerusalem,Hapoel Tel Aviv,3,5,Hapoel Tel Aviv,0,1,Igal Frid,Teddy-Kollek-Stadion,22000,2019/2020
+22/02/2020,2:00 pm,Regular round,25,Ironi Kiryat Shmona,Maccabi Netanya,12,9,Ironi Kiryat Shmona,3,0,Ziv Adler,Kiryat Shmona Municipal Stadium,800,2019/2020
+22/02/2020,4:30 pm,Regular round,25,Ashdod,Maccabi Haifa,10,2,Ashdod,1,2,Erez Papir,Yud-Alef Stadion,5500,2019/2020
+22/02/2020,5:30 pm,Regular round,25,Hapoel Haifa,Sektzia Nes Tziona,5,13,Sektzia Nes Tziona,2,0,Gal Leibovitz,Sammy Ofer Stadium,2711,2019/2020
+22/02/2020,6:50 pm,Regular round,25,Hapoel Hadera,Beitar Jerusalem,7,3,Hapoel Hadera,1,4,Eli Hacmon,Netanya Stadium,3862,2019/2020
+23/02/2020,6:00 pm,Regular round,25,Hapoel Ra'anana,Bnei Yehuda,14,8,Hapoel Ra'anana,0,1,Roi Reinshreiber,HaMoshava Stadium,848,2019/2020
+23/02/2020,7:15 pm,Regular round,25,Hapoel Beer Sheva,Hapoel Kfar Saba,4,11,Hapoel Kfar Saba,3,1,Ohad Asulin,Netanya Stadium,2697,2019/2020
+24/02/2020,7:15 pm,Regular round,25,Maccabi Tel Aviv,Hapoel Tel Aviv,1,6,Hapoel Tel Aviv,3,0,Liran Liany,Bloomfield,26311,2019/2020
+29/02/2020,2:00 pm,Regular round,26,Hapoel Kfar Saba,Hapoel Ra'anana,11,14,Hapoel Ra'anana,3,0,David Fucsman,HaMoshava Stadium,1400,2019/2020
+29/02/2020,4:15 pm,Regular round,26,Maccabi Netanya,Maccabi Tel Aviv,9,1,Maccabi Netanya,0,1,Erez Papir,Netanya Stadium,6600,2019/2020
+29/02/2020,6:50 pm,Regular round,26,Hapoel Tel Aviv,Hapoel Hadera,5,8,Hapoel Hadera,2,1,Orel Grinfeld,Bloomfield,10273,2019/2020
+29/02/2020,6:50 pm,Regular round,26,Bnei Yehuda,Hapoel Haifa,7,6,Bnei Yehuda,0,0,Igal Frid,HaMoshava Stadium,3000,2019/2020
+01/03/2020,6:00 pm,Regular round,26,Sektzia Nes Tziona,Ironi Kiryat Shmona,13,12,Sektzia Nes Tziona,1,0,Roi Reinshreiber,HaMoshava Stadium,436,2019/2020
+01/03/2020,7:00 pm,Regular round,26,Beitar Jerusalem,Ashdod,3,10,Ashdod,2,1,Shalom Ben Avraham,Toto Jacob Turner Stadium,5000,2019/2020
+01/03/2020,7:15 pm,Regular round,26,Maccabi Haifa,Hapoel Beer Sheva,2,4,Hapoel Beer Sheva,4,0,Eitan Shmuelevic,Netanya Stadium,11036,2019/2020
+30/05/2020,7:00 pm, Championship round,1,Maccabi Tel Aviv,Hapoel Haifa,1,6,Hapoel Haifa,2,0,Orel Grinfeld,Bloomfield,0,2019/2020
+30/05/2020,7:15 pm, Championship round,1,Beitar Jerusalem,Hapoel Beer Sheva,3,4,Hapoel Beer Sheva,1,1,David Fucsman,Teddy-Kollek-Stadion,0,2019/2020
+30/05/2020,8:00 pm, Championship round,1,Maccabi Haifa,Hapoel Tel Aviv,2,5,Hapoel Tel Aviv,1,2,Gal Leibovitz,Sammy Ofer Stadium,0,2019/2020
+02/06/2020,7:45 pm, Championship round,2,Hapoel Tel Aviv,Beitar Jerusalem,5,3,Hapoel Tel Aviv,3,0,Eli Hacmon,Bloomfield,0,2019/2020
+03/06/2020,7:30 pm, Championship round,2,Hapoel Haifa,Hapoel Beer Sheva,6,4,Hapoel Haifa,1,1,Idan Leiba,Sammy Ofer Stadium,0,2019/2020
+03/06/2020,7:45 pm, Championship round,2,Maccabi Tel Aviv,Maccabi Haifa,1,2,Maccabi Haifa,2,0,Roi Reinshreiber,Bloomfield,0,2019/2020
+06/06/2020,8:00 pm, Championship round,3,Hapoel Beer Sheva,Hapoel Tel Aviv,4,5,Hapoel Tel Aviv,0,0,Liran Liany,Toto Jacob Turner Stadium,0,2019/2020
+07/06/2020,7:45 pm, Championship round,3,Maccabi Haifa,Hapoel Haifa,2,6,Hapoel Haifa,2,2,Eitan Shmuelevic,Sammy Ofer Stadium,0,2019/2020
+08/06/2020,7:45 pm, Championship round,3,Beitar Jerusalem,Maccabi Tel Aviv,3,1,Beitar Jerusalem,0,0,Erez Papir,Teddy-Kollek-Stadion,0,2019/2020
+13/06/2020,8:00 pm, Championship round,4,Maccabi Haifa,Beitar Jerusalem,2,3,Beitar Jerusalem,0,0,Idan Leiba,Sammy Ofer Stadium,0,2019/2020
+14/06/2020,7:15 pm, Championship round,4,Hapoel Haifa,Hapoel Tel Aviv,6,5,Hapoel Haifa,4,0,Nael Odeh,Sammy Ofer Stadium,0,2019/2020
+15/06/2020,7:45 pm, Championship round,4,Maccabi Tel Aviv,Hapoel Beer Sheva,1,4,Hapoel Beer Sheva,1,1,Ohad Asulin,Bloomfield,0,2019/2020
+17/06/2020,7:15 pm, Championship round,5,Beitar Jerusalem,Hapoel Haifa,3,6,Hapoel Haifa,1,1,Snir Levi,Teddy-Kollek-Stadion,0,2019/2020
+20/06/2020,7:30 pm, Championship round,5,Hapoel Beer Sheva,Maccabi Haifa,4,2,Hapoel Beer Sheva,0,1,Eli Hacmon,Yud-Alef Stadion,0,2019/2020
+20/06/2020,8:00 pm, Championship round,5,Hapoel Tel Aviv,Maccabi Tel Aviv,5,1,Hapoel Tel Aviv,0,2,Daniel Bar Natan,Bloomfield,0,2019/2020
+23/06/2020,7:00 pm, Championship round,6,Hapoel Beer Sheva,Beitar Jerusalem,4,3,Hapoel Beer Sheva,2,2,Ziv Adler,Toto Jacob Turner Stadium,0,2019/2020
+23/06/2020,7:50 pm, Championship round,6,Hapoel Haifa,Maccabi Tel Aviv,6,1,Hapoel Haifa,0,3,Liran Liany,Sammy Ofer Stadium,0,2019/2020
+23/06/2020,8:00 pm, Championship round,6,Hapoel Tel Aviv,Maccabi Haifa,5,2,Hapoel Tel Aviv,1,3,Shalom Ben Avraham,Bloomfield,0,2019/2020
+27/06/2020,7:45 pm, Championship round,7,Maccabi Haifa,Hapoel Beer Sheva,2,4,Hapoel Beer Sheva,2,1,Orel Grinfeld,Sammy Ofer Stadium,0,2019/2020
+27/06/2020,8:00 pm, Championship round,7,Maccabi Tel Aviv,Hapoel Tel Aviv,1,5,Hapoel Tel Aviv,3,0,Gal Leibovitz,Bloomfield,0,2019/2020
+28/06/2020,7:45 pm, Championship round,7,Hapoel Haifa,Beitar Jerusalem,6,3,Hapoel Haifa,0,0,Aviad Shiloah,Sammy Ofer Stadium,0,2019/2020
+30/06/2020,7:15 pm, Championship round,8,Hapoel Tel Aviv,Hapoel Beer Sheva,5,4,Hapoel Tel Aviv,1,0,Eitan Shmuelevic,Bloomfield,0,2019/2020
+01/07/2020,7:30 pm, Championship round,8,Hapoel Haifa,Maccabi Haifa,6,2,Hapoel Haifa,1,4,Idan Leiba,Sammy Ofer Stadium,0,2019/2020
+01/07/2020,8:00 pm, Championship round,8,Maccabi Tel Aviv,Beitar Jerusalem,1,3,Beitar Jerusalem,1,0,Snir Levi,Bloomfield,0,2019/2020
+04/07/2020,7:45 pm, Championship round,9,Beitar Jerusalem,Hapoel Tel Aviv,3,5,Hapoel Tel Aviv,3,0,Erez Papir,Teddy-Kollek-Stadion,0,2019/2020
+04/07/2020,7:45 pm, Championship round,9,Hapoel Beer Sheva,Hapoel Haifa,4,6,Hapoel Haifa,3,1,Daniel Bar Natan,Toto Jacob Turner Stadium,0,2019/2020
+04/07/2020,8:00 pm, Championship round,9,Maccabi Haifa,Maccabi Tel Aviv,2,1,Maccabi Haifa,0,1,Igal Frid,Sammy Ofer Stadium,0,2019/2020
+07/07/2020,8:00 pm, Championship round,10,Hapoel Tel Aviv,Hapoel Haifa,5,6,Hapoel Haifa,0,3,Ziv Adler,Bloomfield,0,2019/2020
+07/07/2020,8:00 pm, Championship round,10,Hapoel Beer Sheva,Maccabi Tel Aviv,4,1,Hapoel Beer Sheva,2,0,Aviad Shiloah,Yud-Alef Stadion,0,2019/2020
+07/07/2020,8:00 pm, Championship round,10,Beitar Jerusalem,Maccabi Haifa,3,2,Beitar Jerusalem,2,2,Ohad Asulin,Teddy-Kollek-Stadion,0,2019/2020
+01/06/2020,7:15 pm,Relegation round,1,Bnei Yehuda,Hapoel Kfar Saba,1,5,Hapoel Kfar Saba,0,0,Nael Odeh,Bloomfield,0,2019/2020
+02/06/2020,6:45 pm,Relegation round,1,Ashdod,Hapoel Ra'anana,4,8,Hapoel Ra'anana,3,2,Daniel Bar Natan,Yud-Alef Stadion,0,2019/2020
+02/06/2020,7:00 pm,Relegation round,1,Maccabi Netanya,Ironi Kiryat Shmona,3,6,Ironi Kiryat Shmona,3,1,Liran Liany,Netanya Stadium,0,2019/2020
+03/06/2020,6:45 pm,Relegation round,1,Hapoel Hadera,Sektzia Nes Tziona,2,7,Sektzia Nes Tziona,2,2,Eitan Shmuelevic,Netanya Stadium,0,2019/2020
+06/06/2020,7:00 pm,Relegation round,2,Ironi Kiryat Shmona,Ashdod,6,4,Ironi Kiryat Shmona,3,0,Ziv Adler,Kiryat Shmona Municipal Stadium,0,2019/2020
+06/06/2020,7:00 pm,Relegation round,2,Bnei Yehuda,Hapoel Hadera,1,2,Hapoel Hadera,5,0,Snir Levi,Bloomfield,0,2019/2020
+06/06/2020,7:15 pm,Relegation round,2,Hapoel Kfar Saba,Hapoel Ra'anana,5,8,Hapoel Ra'anana,2,0,Shalom Ben Avraham,HaMoshava Stadium,0,2019/2020
+07/06/2020,6:45 pm,Relegation round,2,Sektzia Nes Tziona,Maccabi Netanya,7,3,Sektzia Nes Tziona,1,0,Igal Frid,Ramat Gan Nationalstadion,0,2019/2020
+13/06/2020,7:00 pm,Relegation round,3,Hapoel Hadera,Hapoel Kfar Saba,2,5,Hapoel Kfar Saba,0,0,Aviad Shiloah,Netanya Stadium,0,2019/2020
+13/06/2020,7:00 pm,Relegation round,3,Hapoel Ra'anana,Ironi Kiryat Shmona,8,6,Hapoel Ra'anana,0,1,Orel Grinfeld,Ramat Gan Stadium,0,2019/2020
+13/06/2020,7:45 pm,Relegation round,3,Ashdod,Sektzia Nes Tziona,3,7,Sektzia Nes Tziona,2,0,Gal Leibovitz,Yud-Alef Stadion,0,2019/2020
+15/06/2020,6:45 pm,Relegation round,3,Maccabi Netanya,Bnei Yehuda,4,1,Maccabi Netanya,1,3,Majed Rushrush,Netanya Stadium,0,2019/2020
+18/06/2020,7:00 pm,Relegation round,4,Sektzia Nes Tziona,Hapoel Ra'anana,7,8,Hapoel Ra'anana,2,1,Roi Reinshreiber,Ramat Gan Nationalstadion,0,2019/2020
+18/06/2020,7:15 pm,Relegation round,4,Hapoel Hadera,Maccabi Netanya,3,2,Hapoel Hadera,1,2,Dror Cohen,Netanya Stadium,0,2019/2020
+20/06/2020,6:45 pm,Relegation round,4,Hapoel Kfar Saba,Ironi Kiryat Shmona,5,6,Ironi Kiryat Shmona,0,0,Erez Papir,HaMoshava Stadium,0,2019/2020
+21/06/2020,8:00 pm,Relegation round,4,Bnei Yehuda,Ashdod,1,4,Ashdod,3,3,Niv Steif,Bloomfield,0,2019/2020
+23/06/2020,6:45 pm,Relegation round,5,Hapoel Ra'anana,Maccabi Netanya,8,2,Hapoel Ra'anana,2,4,Tal Zetelman,Ramat Gan Stadium,0,2019/2020
+24/06/2020,7:15 pm,Relegation round,5,Sektzia Nes Tziona,Bnei Yehuda,7,1,Sektzia Nes Tziona,0,0,Orel Grinfeld,Ramat Gan Nationalstadion,0,2019/2020
+24/06/2020,7:15 pm,Relegation round,5,Ashdod,Hapoel Kfar Saba,4,5,Hapoel Kfar Saba,2,3,Roi Reinshreiber,Yud-Alef Stadion,0,2019/2020
+24/06/2020,7:15 pm,Relegation round,5,Ironi Kiryat Shmona,Hapoel Hadera,6,3,Ironi Kiryat Shmona,0,3,David Fucsman,Kiryat Shmona Municipal Stadium,0,2019/2020
+27/06/2020,6:45 pm,Relegation round,6,Hapoel Hadera,Hapoel Ra'anana,2,8,Hapoel Ra'anana,2,2,Sapir Berman,Netanya Stadium,0,2019/2020
+28/06/2020,8:00 pm,Relegation round,6,Hapoel Kfar Saba,Sektzia Nes Tziona,5,6,Sektzia Nes Tziona,0,1,Ziv Adler,HaMoshava Stadium,0,2019/2020
+28/06/2020,8:00 pm,Relegation round,6,Bnei Yehuda,Ironi Kiryat Shmona,1,7,Ironi Kiryat Shmona,2,0,Liran Liany,Bloomfield,0,2019/2020
+28/06/2020,8:00 pm,Relegation round,6,Maccabi Netanya,Ashdod,3,4,Ashdod,2,5,Igal Frid,Netanya Stadium,0,2019/2020
+01/07/2020,7:15 pm,Relegation round,7,Hapoel Ra'anana,Bnei Yehuda,8,1,Hapoel Ra'anana,0,4,Dror Cohen,HaMoshava Stadium,0,2019/2020
+02/07/2020,7:15 pm,Relegation round,7,Maccabi Netanya,Hapoel Kfar Saba,4,5,Hapoel Kfar Saba,0,1,Niv Steif,Netanya Stadium,0,2019/2020
+02/07/2020,7:15 pm,Relegation round,7,Ashdod,Hapoel Hadera,2,3,Hapoel Hadera,3,1,Ohad Asulin,Yud-Alef Stadion,0,2019/2020
+02/07/2020,7:15 pm,Relegation round,7,Ironi Kiryat Shmona,Sektzia Nes Tziona,6,7,Sektzia Nes Tziona,1,0,Roi Reinshreiber,Kiryat Shmona Municipal Stadium,0,2019/2020
+29/08/2020,6:00 pm,Regular round,1,Ashdod,Ironi Kiryat Shmona,13,2,Ashdod,0,2,Nael Odeh,Yud-Alef Stadion,0,2020/2021
+29/08/2020,6:45 pm,Regular round,1,Bnei Sakhnin,Bnei Yehuda,14,1,Bnei Sakhnin,0,3,Orel Grinfeld,Doha Stadium,0,2020/2021
+29/08/2020,7:30 pm,Regular round,1,Hapoel Kfar Saba,Hapoel Tel Aviv,5,10,Hapoel Tel Aviv,2,1,Shalom Ben Avraham,HaMoshava Stadium,0,2020/2021
+30/08/2020,7:00 pm,Regular round,1,Hapoel Beer Sheva,Maccabi Netanya,3,8,Maccabi Netanya,3,2,Liran Liany,Teddy-Kollek-Stadion,0,2020/2021
+30/08/2020,7:15 pm,Regular round,1,Hapoel Haifa,Beitar Jerusalem,12,7,Hapoel Haifa,0,1,Roi Reinshreiber,Sammy Ofer Stadium,0,2020/2021
+30/08/2020,7:30 pm,Regular round,1,Hapoel Hadera,Maccabi Haifa,11,4,Hapoel Hadera,1,2,Ohad Asulin,Netanya Stadium,0,2020/2021
+30/08/2020,8:00 pm,Regular round,1,Maccabi Tel Aviv,Maccabi Petah Tikva,9,6,Maccabi Tel Aviv,1,2,Eitan Shmuelevic,Bloomfield,0,2020/2021
+12/09/2020,5:00 pm,Regular round,2,Ironi Kiryat Shmona,Hapoel Haifa,5,11,Hapoel Haifa,1,1,Daniel Bar Natan,Kiryat Shmona Municipal Stadium,0,2020/2021
+12/09/2020,6:00 pm,Regular round,2,Maccabi Petah Tikva,Hapoel Kfar Saba,3,9,Hapoel Kfar Saba,2,0,Idan Leiba,HaMoshava Stadium,0,2020/2021
+12/09/2020,7:30 pm,Regular round,2,Bnei Yehuda,Maccabi Tel Aviv,4,10,Maccabi Tel Aviv,2,2,David Fucsman,Bloomfield,0,2020/2021
+13/09/2020,7:30 pm,Regular round,2,Hapoel Tel Aviv,Ashdod,12,7,Hapoel Tel Aviv,0,2,Erez Papir,Bloomfield,0,2020/2021
+13/09/2020,8:00 pm,Regular round,2,Maccabi Haifa,Hapoel Beer Sheva,2,8,Hapoel Beer Sheva,3,1,Eli Hacmon,Sammy Ofer Stadium,0,2020/2021
+14/09/2020,7:00 pm,Regular round,2,Maccabi Netanya,Bnei Sakhnin,6,14,Bnei Sakhnin,7,0,Snir Levi,Netanya Stadium,0,2020/2021
+04/11/2020,7:00 pm,Regular round,2,Beitar Jerusalem,Hapoel Hadera,1,13,Hapoel Hadera,4,0,Snir Levi,Teddy-Kollek-Stadion,0,2020/2021
+21/09/2020,6:00 pm,Regular round,3,Ashdod,Maccabi Petah Tikva,5,3,Ashdod,1,0,Gal Leibovitz,Yud-Alef Stadion,0,2020/2021
+21/09/2020,7:00 pm,Regular round,3,Hapoel Kfar Saba,Bnei Yehuda,4,7,Bnei Yehuda,3,1,Nael Odeh,HaMoshava Stadium,0,2020/2021
+08/12/2020,7:00 pm,Regular round,3,Bnei Sakhnin,Maccabi Haifa,14,1,Bnei Sakhnin,0,3,Daniel Bar Natan,Doha Stadium,0,2020/2021
+09/12/2020,7:00 pm,Regular round,3,Hapoel Haifa,Hapoel Tel Aviv,8,13,Hapoel Tel Aviv,2,0,Nael Odeh,Sammy Ofer Stadium,0,2020/2021
+16/12/2020,7:00 pm,Regular round,3,Hapoel Hadera,Hapoel Beer Sheva,12,10,Hapoel Hadera,2,2,Daniel Bar Natan,Netanya Stadium,0,2020/2021
+16/12/2020,7:45 pm,Regular round,3,Maccabi Tel Aviv,Maccabi Netanya,11,6,Maccabi Tel Aviv,2,2,Erez Papir,Bloomfield,0,2020/2021
+17/12/2020,7:00 pm,Regular round,3,Beitar Jerusalem,Ironi Kiryat Shmona,2,9,Ironi Kiryat Shmona,1,0,Snir Levi,Teddy-Kollek-Stadion,0,2020/2021
+31/10/2020,3:15 pm,Regular round,4,Maccabi Petah Tikva,Hapoel Haifa,3,10,Hapoel Haifa,2,0,Shalom Ben Avraham,HaMoshava Stadium,0,2020/2021
+31/10/2020,4:15 pm,Regular round,4,Maccabi Netanya,Hapoel Kfar Saba,4,7,Hapoel Kfar Saba,3,0,Aviad Shiloah,Netanya Stadium,0,2020/2021
+31/10/2020,5:15 pm,Regular round,4,Ironi Kiryat Shmona,Hapoel Hadera,8,12,Hapoel Hadera,1,1,Eitan Shmuelevic,Kiryat Shmona Municipal Stadium,0,2020/2021
+31/10/2020,6:50 pm,Regular round,4,Hapoel Tel Aviv,Beitar Jerusalem,13,2,Hapoel Tel Aviv,1,1,Roi Reinshreiber,Bloomfield,0,2020/2021
+01/11/2020,7:30 pm,Regular round,4,Bnei Yehuda,Ashdod,5,6,Ashdod,1,0,Igal Frid,Bloomfield,0,2020/2021
+02/11/2020,7:15 pm,Regular round,4,Hapoel Beer Sheva,Bnei Sakhnin,9,14,Bnei Sakhnin,2,2,David Fucsman,Teddy-Kollek-Stadion,0,2020/2021
+02/11/2020,8:00 pm,Regular round,4,Maccabi Haifa,Maccabi Tel Aviv,1,11,Maccabi Tel Aviv,2,2,Eli Hacmon,Sammy Ofer Stadium,0,2020/2021
+25/10/2020,8:00 pm,Regular round,5,Maccabi Tel Aviv,Hapoel Beer Sheva,12,10,Maccabi Tel Aviv,0,0,Erez Papir,Bloomfield,0,2020/2021
+24/11/2020,5:00 pm,Regular round,5,Hapoel Haifa,Bnei Yehuda,9,8,Hapoel Haifa,2,1,Idan Leiba,Sammy Ofer Stadium,0,2020/2021
+24/11/2020,6:00 pm,Regular round,5,Ironi Kiryat Shmona,Hapoel Tel Aviv,6,13,Hapoel Tel Aviv,1,0,Igal Frid,Kiryat Shmona Municipal Stadium,0,2020/2021
+24/11/2020,7:00 pm,Regular round,5,Hapoel Kfar Saba,Maccabi Haifa,5,2,Hapoel Kfar Saba,3,2,Snir Levi,HaMoshava Stadium,0,2020/2021
+25/11/2020,5:00 pm,Regular round,5,Hapoel Hadera,Bnei Sakhnin,11,14,Bnei Sakhnin,4,0,Ohad Asulin,Netanya Stadium,0,2020/2021
+25/11/2020,6:00 pm,Regular round,5,Ashdod,Maccabi Netanya,4,7,Maccabi Netanya,4,0,Nael Odeh,Yud-Alef Stadion,0,2020/2021
+25/11/2020,7:00 pm,Regular round,5,Beitar Jerusalem,Maccabi Petah Tikva,3,1,Beitar Jerusalem,1,2,Aviad Shiloah,Teddy-Kollek-Stadion,0,2020/2021
+07/11/2020,2:00 pm,Regular round,6,Maccabi Netanya,Hapoel Haifa,4,11,Hapoel Haifa,2,1,Sapir Berman,Netanya Stadium,0,2020/2021
+07/11/2020,5:45 pm,Regular round,6,Maccabi Haifa,Ashdod,1,8,Ashdod,2,1,David Fucsman,Sammy Ofer Stadium,0,2020/2021
+07/11/2020,7:30 pm,Regular round,6,Bnei Yehuda,Beitar Jerusalem,6,5,Bnei Yehuda,1,0,Eitan Shmuelevic,Bloomfield,0,2020/2021
+08/11/2020,6:00 pm,Regular round,6,Maccabi Petah Tikva,Ironi Kiryat Shmona,2,3,Ironi Kiryat Shmona,0,1,Orel Grinfeld,HaMoshava Stadium,0,2020/2021
+08/11/2020,7:15 pm,Regular round,6,Bnei Sakhnin,Maccabi Tel Aviv,14,9,Bnei Sakhnin,1,2,Gal Leibovitz,Doha Stadium,0,2020/2021
+08/11/2020,7:45 pm,Regular round,6,Hapoel Beer Sheva,Hapoel Kfar Saba,10,7,Hapoel Beer Sheva,0,0,Ohad Asulin,Teddy-Kollek-Stadion,0,2020/2021
+09/11/2020,7:30 pm,Regular round,6,Hapoel Tel Aviv,Hapoel Hadera,13,12,Hapoel Tel Aviv,1,0,Liran Liany,Bloomfield,0,2020/2021
+21/11/2020,2:00 pm,Regular round,7,Hapoel Tel Aviv,Maccabi Petah Tikva,13,3,Hapoel Tel Aviv,0,0,Eli Hacmon,Bloomfield,0,2020/2021
+21/11/2020,3:45 pm,Regular round,7,Ironi Kiryat Shmona,Bnei Yehuda,1,8,Bnei Yehuda,2,0,Aviad Shiloah,Kiryat Shmona Municipal Stadium,0,2020/2021
+21/11/2020,5:45 pm,Regular round,7,Ashdod,Hapoel Beer Sheva,4,11,Hapoel Beer Sheva,2,0,Liran Liany,Yud-Alef Stadion,0,2020/2021
+21/11/2020,6:00 pm,Regular round,7,Hapoel Kfar Saba,Bnei Sakhnin,10,14,Bnei Sakhnin,0,1,Shalom Ben Avraham,HaMoshava Stadium,0,2020/2021
+21/11/2020,6:50 pm,Regular round,7,Hapoel Haifa,Maccabi Haifa,9,2,Hapoel Haifa,2,1,Orel Grinfeld,Sammy Ofer Stadium,0,2020/2021
+22/11/2020,7:00 pm,Regular round,7,Hapoel Hadera,Maccabi Tel Aviv,12,7,Hapoel Hadera,0,1,Roi Reinshreiber,Netanya Stadium,0,2020/2021
+22/11/2020,7:45 pm,Regular round,7,Beitar Jerusalem,Maccabi Netanya,6,5,Beitar Jerusalem,1,1,Daniel Bar Natan,Teddy-Kollek-Stadion,0,2020/2021
+28/11/2020,2:00 pm,Regular round,8,Maccabi Petah Tikva,Hapoel Hadera,2,13,Hapoel Hadera,1,0,Igal Frid,HaMoshava Stadium,0,2020/2021
+28/11/2020,4:20 pm,Regular round,8,Bnei Sakhnin,Ashdod,12,7,Bnei Sakhnin,1,0,Idan Leiba,Doha Stadium,0,2020/2021
+28/11/2020,6:50 pm,Regular round,8,Bnei Yehuda,Hapoel Tel Aviv,5,14,Hapoel Tel Aviv,1,0,Snir Levi,Bloomfield,0,2020/2021
+29/11/2020,7:00 pm,Regular round,8,Maccabi Netanya,Ironi Kiryat Shmona,6,3,Maccabi Netanya,0,0,Shalom Ben Avraham,Netanya Stadium,0,2020/2021
+29/11/2020,7:45 pm,Regular round,8,Maccabi Tel Aviv,Hapoel Kfar Saba,4,10,Hapoel Kfar Saba,3,0,Daniel Bar Natan,Bloomfield,0,2020/2021
+30/11/2020,7:00 pm,Regular round,8,Hapoel Beer Sheva,Hapoel Haifa,11,9,Hapoel Beer Sheva,2,2,Eli Hacmon,Teddy-Kollek-Stadion,0,2020/2021
+30/11/2020,7:45 pm,Regular round,8,Maccabi Haifa,Beitar Jerusalem,1,8,Beitar Jerusalem,2,0,Liran Liany,Sammy Ofer Stadium,0,2020/2021
+05/12/2020,2:00 pm,Regular round,9,Ironi Kiryat Shmona,Maccabi Haifa,4,1,Ironi Kiryat Shmona,0,3,Gal Leibovitz,Kiryat Shmona Municipal Stadium,0,2020/2021
+05/12/2020,4:20 pm,Regular round,9,Maccabi Petah Tikva,Bnei Yehuda,2,7,Bnei Yehuda,1,0,Liran Liany,HaMoshava Stadium,0,2020/2021
+05/12/2020,5:45 pm,Regular round,9,Hapoel Haifa,Bnei Sakhnin,10,12,Bnei Sakhnin,0,2,Aviad Shiloah,Sammy Ofer Stadium,0,2020/2021
+05/12/2020,6:50 pm,Regular round,9,Hapoel Tel Aviv,Maccabi Netanya,14,5,Hapoel Tel Aviv,0,0,Orel Grinfeld,Bloomfield,0,2020/2021
+06/12/2020,7:00 pm,Regular round,9,Hapoel Hadera,Hapoel Kfar Saba,13,11,Hapoel Hadera,1,1,Sapir Berman,Netanya Stadium,0,2020/2021
+07/12/2020,7:00 pm,Regular round,9,Ashdod,Maccabi Tel Aviv,3,6,Maccabi Tel Aviv,3,2,Snir Levi,Yud-Alef Stadion,0,2020/2021
+07/12/2020,7:45 pm,Regular round,9,Beitar Jerusalem,Hapoel Beer Sheva,8,9,Hapoel Beer Sheva,1,2,Eitan Shmuelevic,Teddy-Kollek-Stadion,0,2020/2021
+12/12/2020,2:00 pm,Regular round,10,Hapoel Kfar Saba,Ashdod,11,3,Hapoel Kfar Saba,0,1,Aviad Shiloah,HaMoshava Stadium,0,2020/2021
+12/12/2020,4:20 pm,Regular round,10,Bnei Yehuda,Hapoel Hadera,8,13,Hapoel Hadera,0,3,Eli Hacmon,Bloomfield,0,2020/2021
+12/12/2020,6:50 pm,Regular round,10,Maccabi Netanya,Maccabi Petah Tikva,4,2,Maccabi Netanya,3,2,Ohad Asulin,Ramat Gan Nationalstadion,0,2020/2021
+13/12/2020,7:00 pm,Regular round,10,Hapoel Beer Sheva,Ironi Kiryat Shmona,7,6,Hapoel Beer Sheva,2,1,Idan Leiba,Teddy-Kollek-Stadion,0,2020/2021
+13/12/2020,7:45 pm,Regular round,10,Maccabi Tel Aviv,Hapoel Haifa,5,10,Hapoel Haifa,4,3,David Fucsman,Bloomfield,0,2020/2021
+14/12/2020,7:45 pm,Regular round,10,Maccabi Haifa,Hapoel Tel Aviv,1,14,Hapoel Tel Aviv,1,0,Roi Reinshreiber,Sammy Ofer Stadium,0,2020/2021
+18/02/2021,7:00 pm,Regular round,10,Bnei Sakhnin,Beitar Jerusalem,12,9,Bnei Sakhnin,0,0,Orel Grinfeld,Doha Stadium,0,2020/2021
+19/12/2020,2:00 pm,Regular round,11,Hapoel Haifa,Hapoel Kfar Saba,8,12,Hapoel Kfar Saba,2,1,Roi Reinshreiber,Sammy Ofer Stadium,0,2020/2021
+19/12/2020,4:20 pm,Regular round,11,Hapoel Hadera,Ashdod,13,2,Hapoel Hadera,1,1,Shalom Ben Avraham,Netanya Stadium,0,2020/2021
+19/12/2020,5:45 pm,Regular round,11,Bnei Yehuda,Maccabi Netanya,9,4,Bnei Yehuda,1,1,Igal Frid,Bloomfield,0,2020/2021
+19/12/2020,6:50 pm,Regular round,11,Maccabi Petah Tikva,Maccabi Haifa,3,1,Maccabi Petah Tikva,1,2,Eli Hacmon,HaMoshava Stadium,0,2020/2021
+20/12/2020,6:00 pm,Regular round,11,Ironi Kiryat Shmona,Bnei Sakhnin,7,10,Bnei Sakhnin,0,1,Liran Liany,Kiryat Shmona Municipal Stadium,0,2020/2021
+20/12/2020,7:15 pm,Regular round,11,Hapoel Tel Aviv,Hapoel Beer Sheva,14,6,Hapoel Tel Aviv,0,3,Gal Leibovitz,Bloomfield,0,2020/2021
+21/12/2020,7:45 pm,Regular round,11,Beitar Jerusalem,Maccabi Tel Aviv,11,5,Beitar Jerusalem,0,0,Orel Grinfeld,Teddy-Kollek-Stadion,0,2020/2021
+22/12/2020,6:00 pm,Regular round,12,Ashdod,Hapoel Haifa,4,7,Hapoel Haifa,0,1,Eitan Shmuelevic,Yud-Alef Stadion,0,2020/2021
+22/12/2020,7:00 pm,Regular round,12,Hapoel Hadera,Maccabi Netanya,12,5,Hapoel Hadera,2,1,Aviad Shiloah,Netanya Stadium,0,2020/2021
+22/12/2020,7:05 pm,Regular round,12,Maccabi Haifa,Bnei Yehuda,1,10,Bnei Yehuda,3,0,Ohad Asulin,Sammy Ofer Stadium,0,2020/2021
+23/12/2020,7:00 pm,Regular round,12,Bnei Sakhnin,Hapoel Tel Aviv,11,14,Hapoel Tel Aviv,0,1,Erez Papir,Doha Stadium,0,2020/2021
+23/12/2020,7:15 pm,Regular round,12,Hapoel Beer Sheva,Maccabi Petah Tikva,6,2,Hapoel Beer Sheva,1,2,Roi Reinshreiber,Teddy-Kollek-Stadion,0,2020/2021
+24/12/2020,7:00 pm,Regular round,12,Maccabi Tel Aviv,Ironi Kiryat Shmona,3,8,Ironi Kiryat Shmona,1,0,Snir Levi,Bloomfield,0,2020/2021
+24/12/2020,7:45 pm,Regular round,12,Hapoel Kfar Saba,Beitar Jerusalem,13,9,Hapoel Kfar Saba,1,1,Nael Odeh,HaMoshava Stadium,0,2020/2021
+26/12/2020,4:20 pm,Regular round,13,Hapoel Haifa,Hapoel Hadera,7,10,Hapoel Hadera,0,0,Idan Leiba,Sammy Ofer Stadium,0,2020/2021
+26/12/2020,6:50 pm,Regular round,13,Maccabi Netanya,Maccabi Haifa,8,1,Maccabi Netanya,0,2,Orel Grinfeld,Netanya Stadium,0,2020/2021
+27/12/2020,6:00 pm,Regular round,13,Maccabi Petah Tikva,Bnei Sakhnin,3,9,Bnei Sakhnin,0,0,David Fucsman,HaMoshava Stadium,0,2020/2021
+27/12/2020,6:45 pm,Regular round,13,Ironi Kiryat Shmona,Hapoel Kfar Saba,6,13,Hapoel Kfar Saba,1,0,Ohad Asulin,Kiryat Shmona Municipal Stadium,0,2020/2021
+27/12/2020,7:30 pm,Regular round,13,Bnei Yehuda,Hapoel Beer Sheva,12,5,Bnei Yehuda,0,2,Erez Papir,Bloomfield,0,2020/2021
+28/12/2020,7:00 pm,Regular round,13,Beitar Jerusalem,Ashdod,11,4,Beitar Jerusalem,1,2,Gal Leibovitz,Teddy-Kollek-Stadion,0,2020/2021
+28/12/2020,7:45 pm,Regular round,13,Hapoel Tel Aviv,Maccabi Tel Aviv,14,2,Hapoel Tel Aviv,0,4,Liran Liany,Bloomfield,0,2020/2021
+02/01/2021,2:00 pm,Regular round,14,Hapoel Tel Aviv,Hapoel Kfar Saba,14,13,Hapoel Tel Aviv,1,1,David Fucsman,Bloomfield,0,2020/2021
+02/01/2021,4:20 pm,Regular round,14,Maccabi Haifa,Hapoel Hadera,1,12,Hapoel Hadera,1,0,Eitan Shmuelevic,Sammy Ofer Stadium,0,2020/2021
+02/01/2021,6:15 pm,Regular round,14,Maccabi Netanya,Hapoel Beer Sheva,8,3,Maccabi Netanya,0,1,Eli Hacmon,Netanya Stadium,0,2020/2021
+02/01/2021,7:00 pm,Regular round,14,Beitar Jerusalem,Hapoel Haifa,10,7,Beitar Jerusalem,3,3,Liran Liany,Teddy-Kollek-Stadion,0,2020/2021
+03/01/2021,6:00 pm,Regular round,14,Bnei Yehuda,Bnei Sakhnin,11,9,Bnei Yehuda,1,1,Roi Reinshreiber,Bloomfield,0,2020/2021
+04/01/2021,7:45 pm,Regular round,14,Maccabi Petah Tikva,Maccabi Tel Aviv,4,2,Maccabi Petah Tikva,0,1,Gal Leibovitz,HaMoshava Stadium,0,2020/2021
+18/02/2021,6:00 pm,Regular round,14,Ironi Kiryat Shmona,Ashdod,6,5,Ironi Kiryat Shmona,2,1,Shalom Ben Avraham,Kiryat Shmona Municipal Stadium,0,2020/2021
+05/01/2021,6:00 pm,Regular round,15,Hapoel Haifa,Ironi Kiryat Shmona,8,5,Hapoel Haifa,0,2,Orel Grinfeld,Sammy Ofer Stadium,0,2020/2021
+05/01/2021,7:45 pm,Regular round,15,Hapoel Beer Sheva,Maccabi Haifa,4,1,Hapoel Beer Sheva,1,1,Igal Frid,Teddy-Kollek-Stadion,0,2020/2021
+06/01/2021,7:00 pm,Regular round,15,Bnei Sakhnin,Maccabi Netanya,12,7,Bnei Sakhnin,0,1,Ohad Asulin,Doha Stadium,0,2020/2021
+06/01/2021,7:45 pm,Regular round,15,Hapoel Hadera,Beitar Jerusalem,13,9,Hapoel Hadera,0,4,David Fucsman,Netanya Stadium,0,2020/2021
+07/01/2021,6:00 pm,Regular round,15,Hapoel Kfar Saba,Maccabi Petah Tikva,10,6,Hapoel Kfar Saba,2,0,Daniel Bar Natan,HaMoshava Stadium,0,2020/2021
+07/01/2021,7:00 pm,Regular round,15,Ashdod,Hapoel Tel Aviv,3,14,Hapoel Tel Aviv,2,1,Idan Leiba,Yud-Alef Stadion,0,2020/2021
+07/01/2021,7:45 pm,Regular round,15,Maccabi Tel Aviv,Bnei Yehuda,2,11,Bnei Yehuda,0,0,Aviad Shiloah,Bloomfield,0,2020/2021
+23/01/2021,2:00 pm,Regular round,16,Hapoel Tel Aviv,Hapoel Haifa,14,9,Hapoel Tel Aviv,2,2,Roi Reinshreiber,Bloomfield,0,2020/2021
+23/01/2021,4:30 pm,Regular round,16,Maccabi Petah Tikva,Ashdod,4,5,Ashdod,2,1,Igal Frid,HaMoshava Stadium,0,2020/2021
+23/01/2021,5:45 pm,Regular round,16,Ironi Kiryat Shmona,Beitar Jerusalem,6,7,Beitar Jerusalem,0,2,Erez Papir,Kiryat Shmona Municipal Stadium,0,2020/2021
+23/01/2021,7:00 pm,Regular round,16,Maccabi Haifa,Bnei Sakhnin,1,12,Bnei Sakhnin,3,0,Aviad Shiloah,Sammy Ofer Stadium,0,2020/2021
+23/01/2021,7:45 pm,Regular round,16,Maccabi Netanya,Maccabi Tel Aviv,8,2,Maccabi Netanya,1,3,Eitan Shmuelevic,Netanya Stadium,0,2020/2021
+24/01/2021,6:00 pm,Regular round,16,Bnei Yehuda,Hapoel Kfar Saba,11,10,Bnei Yehuda,1,3,Snir Levi,Bloomfield,0,2020/2021
+25/01/2021,7:15 pm,Regular round,16,Hapoel Beer Sheva,Hapoel Hadera,3,13,Hapoel Hadera,1,0,Nael Odeh,Toto Jacob Turner Stadium,0,2020/2021
+26/01/2021,6:45 pm,Regular round,17,Hapoel Haifa,Maccabi Petah Tikva,9,3,Hapoel Haifa,1,2,Erez Papir,Sammy Ofer Stadium,0,2020/2021
+26/01/2021,7:00 pm,Regular round,17,Beitar Jerusalem,Hapoel Tel Aviv,8,14,Hapoel Tel Aviv,0,1,Gal Leibovitz,Teddy-Kollek-Stadion,0,2020/2021
+27/01/2021,6:00 pm,Regular round,17,Ashdod,Bnei Yehuda,4,12,Bnei Yehuda,4,0,David Fucsman,Yud-Alef Stadion,0,2020/2021
+27/01/2021,7:00 pm,Regular round,17,Hapoel Kfar Saba,Maccabi Netanya,10,7,Hapoel Kfar Saba,0,1,Sapir Berman,HaMoshava Stadium,0,2020/2021
+27/01/2021,7:45 pm,Regular round,17,Maccabi Tel Aviv,Maccabi Haifa,2,1,Maccabi Tel Aviv,2,1,Orel Grinfeld,Bloomfield,0,2020/2021
+28/01/2021,6:00 pm,Regular round,17,Hapoel Hadera,Ironi Kiryat Shmona,13,6,Hapoel Hadera,0,1,Liran Liany,Netanya Stadium,0,2020/2021
+28/01/2021,7:15 pm,Regular round,17,Bnei Sakhnin,Hapoel Beer Sheva,11,5,Bnei Sakhnin,1,0,Shalom Ben Avraham,Doha Stadium,0,2020/2021
+30/01/2021,5:45 pm,Regular round,18,Maccabi Netanya,Ashdod,7,4,Maccabi Netanya,3,0,Daniel Bar Natan,Netanya Stadium,0,2020/2021
+31/01/2021,7:00 pm,Regular round,18,Hapoel Tel Aviv,Ironi Kiryat Shmona,14,5,Hapoel Tel Aviv,1,1,Eitan Shmuelevic,Bloomfield,0,2020/2021
+31/01/2021,7:15 pm,Regular round,18,Maccabi Haifa,Hapoel Kfar Saba,1,10,Hapoel Kfar Saba,3,0,Eli Hacmon,Sammy Ofer Stadium,0,2020/2021
+01/02/2021,6:00 pm,Regular round,18,Bnei Yehuda,Hapoel Haifa,13,9,Bnei Yehuda,0,2,Idan Leiba,Bloomfield,0,2020/2021
+01/02/2021,6:30 pm,Regular round,18,Bnei Sakhnin,Hapoel Hadera,11,12,Hapoel Hadera,0,2,Igal Frid,Doha Stadium,0,2020/2021
+01/02/2021,7:45 pm,Regular round,18,Hapoel Beer Sheva,Maccabi Tel Aviv,6,2,Hapoel Beer Sheva,0,1,Gal Leibovitz,Toto Jacob Turner Stadium,0,2020/2021
+24/02/2021,7:00 pm,Regular round,18,Maccabi Petah Tikva,Beitar Jerusalem,3,8,Beitar Jerusalem,0,1,Aviad Shiloah,HaMoshava Stadium,0,2020/2021
+06/02/2021,5:00 pm,Regular round,19,Hapoel Haifa,Maccabi Netanya,9,7,Hapoel Haifa,0,0,Nael Odeh,Sammy Ofer Stadium,0,2020/2021
+06/02/2021,5:45 pm,Regular round,19,Hapoel Kfar Saba,Hapoel Beer Sheva,10,5,Hapoel Kfar Saba,0,1,Roi Reinshreiber,HaMoshava Stadium,0,2020/2021
+06/02/2021,7:15 pm,Regular round,19,Maccabi Tel Aviv,Bnei Sakhnin,2,11,Bnei Sakhnin,1,0,Daniel Bar Natan,Bloomfield,0,2020/2021
+06/02/2021,7:45 pm,Regular round,19,Ashdod,Maccabi Haifa,3,1,Ashdod,1,0,Erez Papir,Yud-Alef Stadion,0,2020/2021
+07/02/2021,7:30 pm,Regular round,19,Hapoel Hadera,Hapoel Tel Aviv,12,14,Hapoel Tel Aviv,1,1,Orel Grinfeld,Netanya Stadium,0,2020/2021
+10/03/2021,6:00 pm,Regular round,19,Ironi Kiryat Shmona,Maccabi Petah Tikva,4,6,Maccabi Petah Tikva,2,1,Roi Reinshreiber,Kiryat Shmona Municipal Stadium,0,2020/2021
+11/03/2021,7:00 pm,Regular round,19,Beitar Jerusalem,Bnei Yehuda,8,13,Bnei Yehuda,1,1,Erez Papir,Teddy-Kollek-Stadion,0,2020/2021
+09/02/2021,6:00 pm,Regular round,20,Bnei Sakhnin,Hapoel Kfar Saba,13,10,Bnei Sakhnin,0,1,Idan Leiba,Doha Stadium,0,2020/2021
+09/02/2021,7:15 pm,Regular round,20,Hapoel Beer Sheva,Ashdod,5,3,Hapoel Beer Sheva,0,3,Aviad Shiloah,Toto Jacob Turner Stadium,0,2020/2021
+10/02/2021,7:00 pm,Regular round,20,Maccabi Petah Tikva,Hapoel Tel Aviv,6,12,Hapoel Tel Aviv,0,2,David Fucsman,HaMoshava Stadium,0,2020/2021
+10/02/2021,7:15 pm,Regular round,20,Maccabi Tel Aviv,Hapoel Hadera,2,14,Hapoel Hadera,3,1,Shalom Ben Avraham,Bloomfield,0,2020/2021
+10/02/2021,7:45 pm,Regular round,20,Maccabi Haifa,Hapoel Haifa,1,9,Hapoel Haifa,2,0,Liran Liany,Sammy Ofer Stadium,0,2020/2021
+11/02/2021,7:15 pm,Regular round,20,Maccabi Netanya,Beitar Jerusalem,8,7,Maccabi Netanya,1,2,Igal Frid,Netanya Stadium,0,2020/2021
+24/02/2021,6:15 pm,Regular round,20,Bnei Yehuda,Ironi Kiryat Shmona,11,4,Bnei Yehuda,1,0,Nael Odeh,Bloomfield,0,2020/2021
+13/02/2021,2:00 pm,Regular round,21,Hapoel Haifa,Hapoel Beer Sheva,9,4,Hapoel Haifa,2,2,Eitan Shmuelevic,Sammy Ofer Stadium,0,2020/2021
+13/02/2021,5:45 pm,Regular round,21,Ashdod,Bnei Sakhnin,3,14,Bnei Sakhnin,0,0,Snir Levi,Yud-Alef Stadion,0,2020/2021
+13/02/2021,6:50 pm,Regular round,21,Hapoel Kfar Saba,Maccabi Tel Aviv,10,2,Hapoel Kfar Saba,0,1,David Fucsman,HaMoshava Stadium,0,2020/2021
+14/02/2021,6:00 pm,Regular round,21,Hapoel Hadera,Maccabi Petah Tikva,11,7,Hapoel Hadera,1,0,Daniel Bar Natan,Netanya Stadium,0,2020/2021
+15/02/2021,6:00 pm,Regular round,21,Ironi Kiryat Shmona,Maccabi Netanya,5,6,Maccabi Netanya,1,4,Gal Leibovitz,Kiryat Shmona Municipal Stadium,0,2020/2021
+15/02/2021,7:15 pm,Regular round,21,Hapoel Tel Aviv,Bnei Yehuda,13,12,Hapoel Tel Aviv,0,0,Liran Liany,Bloomfield,0,2020/2021
+15/02/2021,7:45 pm,Regular round,21,Beitar Jerusalem,Maccabi Haifa,8,1,Beitar Jerusalem,0,3,Roi Reinshreiber,Teddy-Kollek-Stadion,0,2020/2021
+27/02/2021,2:00 pm,Regular round,22,Bnei Sakhnin,Hapoel Haifa,14,9,Bnei Sakhnin,0,1,Gal Leibovitz,Doha Stadium,0,2020/2021
+27/02/2021,2:45 pm,Regular round,22,Hapoel Kfar Saba,Hapoel Hadera,12,10,Hapoel Kfar Saba,0,1,Snir Levi,HaMoshava Stadium,0,2020/2021
+27/02/2021,5:00 pm,Regular round,22,Bnei Yehuda,Maccabi Petah Tikva,13,5,Bnei Yehuda,0,1,Ohad Asulin,Bloomfield,0,2020/2021
+27/02/2021,5:45 pm,Regular round,22,Maccabi Netanya,Hapoel Tel Aviv,7,11,Hapoel Tel Aviv,0,1,Erez Papir,Netanya Stadium,0,2020/2021
+27/02/2021,6:50 pm,Regular round,22,Maccabi Haifa,Ironi Kiryat Shmona,1,6,Ironi Kiryat Shmona,4,2,Daniel Bar Natan,Sammy Ofer Stadium,0,2020/2021
+28/02/2021,7:45 pm,Regular round,22,Hapoel Beer Sheva,Beitar Jerusalem,4,8,Beitar Jerusalem,1,1,Idan Leiba,Toto Jacob Turner Stadium,0,2020/2021
+01/03/2021,7:15 pm,Regular round,22,Maccabi Tel Aviv,Ashdod,2,3,Ashdod,3,1,Igal Frid,Bloomfield,0,2020/2021
+02/03/2021,6:00 pm,Regular round,23,Hapoel Hadera,Bnei Yehuda,10,14,Bnei Yehuda,0,0,Roi Reinshreiber,Netanya Stadium,0,2020/2021
+03/03/2021,6:50 pm,Regular round,23,Maccabi Petah Tikva,Maccabi Netanya,5,7,Maccabi Netanya,1,1,Eitan Shmuelevic,HaMoshava Stadium,0,2020/2021
+03/03/2021,7:00 pm,Regular round,23,Ironi Kiryat Shmona,Hapoel Beer Sheva,6,4,Ironi Kiryat Shmona,2,2,David Fucsman,Kiryat Shmona Municipal Stadium,0,2020/2021
+03/03/2021,7:45 pm,Regular round,23,Hapoel Tel Aviv,Maccabi Haifa,11,1,Hapoel Tel Aviv,1,2,Shalom Ben Avraham,Bloomfield,0,2020/2021
+04/03/2021,6:00 pm,Regular round,23,Ashdod,Hapoel Kfar Saba,3,13,Hapoel Kfar Saba,2,0,Orel Grinfeld,Yud-Alef Stadion,0,2020/2021
+04/03/2021,7:00 pm,Regular round,23,Beitar Jerusalem,Bnei Sakhnin,8,12,Bnei Sakhnin,2,3,Liran Liany,Teddy-Kollek-Stadion,0,2020/2021
+04/03/2021,7:45 pm,Regular round,23,Hapoel Haifa,Maccabi Tel Aviv,9,2,Hapoel Haifa,0,2,Eli Hacmon,Sammy Ofer Stadium,0,2020/2021
+06/03/2021,2:00 pm,Regular round,24,Maccabi Netanya,Bnei Yehuda,6,14,Bnei Yehuda,1,0,Aviad Shiloah,Netanya Stadium,0,2020/2021
+06/03/2021,6:50 pm,Regular round,24,Maccabi Haifa,Maccabi Petah Tikva,2,4,Maccabi Petah Tikva,0,2,Igal Frid,Sammy Ofer Stadium,0,2020/2021
+07/03/2021,6:00 pm,Regular round,24,Bnei Sakhnin,Ironi Kiryat Shmona,13,5,Bnei Sakhnin,0,2,Erez Papir,Doha Stadium,0,2020/2021
+07/03/2021,7:00 pm,Regular round,24,Hapoel Kfar Saba,Hapoel Haifa,12,9,Hapoel Kfar Saba,0,0,Nael Odeh,HaMoshava Stadium,0,2020/2021
+07/03/2021,7:30 pm,Regular round,24,Hapoel Beer Sheva,Hapoel Tel Aviv,7,11,Hapoel Tel Aviv,0,1,Daniel Bar Natan,Toto Jacob Turner Stadium,0,2020/2021
+08/03/2021,6:00 pm,Regular round,24,Ashdod,Hapoel Hadera,3,10,Hapoel Hadera,1,1,Eitan Shmuelevic,Yud-Alef Stadion,0,2020/2021
+08/03/2021,7:45 pm,Regular round,24,Maccabi Tel Aviv,Beitar Jerusalem,1,8,Beitar Jerusalem,4,1,Gal Leibovitz,Bloomfield,0,2020/2021
+13/03/2021,2:00 pm,Regular round,25,Hapoel Tel Aviv,Bnei Sakhnin,11,12,Bnei Sakhnin,0,1,Orel Grinfeld,Bloomfield,1500,2020/2021
+13/03/2021,2:45 pm,Regular round,25,Maccabi Netanya,Hapoel Hadera,6,10,Hapoel Hadera,0,1,Liran Liany,Netanya Stadium,950,2020/2021
+13/03/2021,5:00 pm,Regular round,25,Hapoel Haifa,Ashdod,9,3,Hapoel Haifa,2,2,Snir Levi,Sammy Ofer Stadium,800,2020/2021
+13/03/2021,6:50 pm,Regular round,25,Ironi Kiryat Shmona,Maccabi Tel Aviv,5,1,Ironi Kiryat Shmona,0,2,Nael Odeh,Kiryat Shmona Municipal Stadium,500,2020/2021
+14/03/2021,7:00 pm,Regular round,25,Maccabi Petah Tikva,Hapoel Beer Sheva,4,7,Hapoel Beer Sheva,0,0,Gal Leibovitz,HaMoshava Stadium,1500,2020/2021
+14/03/2021,7:15 pm,Regular round,25,Beitar Jerusalem,Hapoel Kfar Saba,8,13,Hapoel Kfar Saba,2,1,Aviad Shiloah,Teddy-Kollek-Stadion,1500,2020/2021
+14/03/2021,7:45 pm,Regular round,25,Bnei Yehuda,Maccabi Haifa,14,2,Bnei Yehuda,0,2,Idan Leiba,Bloomfield,1350,2020/2021
+20/03/2021,6:15 pm,Regular round,26,Maccabi Haifa,Maccabi Netanya,1,7,Maccabi Netanya,2,0,Aviad Shiloah,Sammy Ofer Stadium,5000,2020/2021
+20/03/2021,6:15 pm,Regular round,26,Hapoel Beer Sheva,Bnei Yehuda,5,14,Bnei Yehuda,2,0,Liran Liany,Toto Jacob Turner Stadium,4000,2020/2021
+20/03/2021,6:15 pm,Regular round,26,Bnei Sakhnin,Maccabi Petah Tikva,11,6,Bnei Sakhnin,1,0,Snir Levi,Doha Stadium,1000,2020/2021
+20/03/2021,6:15 pm,Regular round,26,Ashdod,Beitar Jerusalem,3,8,Beitar Jerusalem,2,0,Idan Leiba,Yud-Alef Stadion,940,2020/2021
+20/03/2021,6:15 pm,Regular round,26,Hapoel Kfar Saba,Ironi Kiryat Shmona,13,4,Hapoel Kfar Saba,0,1,Shalom Ben Avraham,HaMoshava Stadium,300,2020/2021
+20/03/2021,8:00 pm,Regular round,26,Maccabi Tel Aviv,Hapoel Tel Aviv,2,12,Hapoel Tel Aviv,1,1,Eitan Shmuelevic,Bloomfield,5000,2020/2021
+22/03/2021,7:15 pm,Regular round,26,Hapoel Hadera,Hapoel Haifa,9,10,Hapoel Haifa,3,1,Roi Reinshreiber,Netanya Stadium,450,2020/2021
+03/04/2021,5:45 pm, Championship round,1,Ashdod,Ironi Kiryat Shmona,3,4,Ironi Kiryat Shmona,1,1,Dror Cohen,Yud-Alef Stadion,200,2020/2021
+03/04/2021,6:50 pm, Championship round,1,Maccabi Haifa,Maccabi Petah Tikva,2,5,Maccabi Petah Tikva,1,1,Erez Papir,Sammy Ofer Stadium,5000,2020/2021
+03/04/2021,7:30 pm, Championship round,1,Maccabi Tel Aviv,Hapoel Beer Sheva,1,6,Hapoel Beer Sheva,2,1,Aviad Shiloah,Bloomfield,5000,2020/2021
+06/04/2021,6:00 pm, Championship round,2,Maccabi Petah Tikva,Ironi Kiryat Shmona,4,5,Ironi Kiryat Shmona,2,0,Ohad Asulin,HaMoshava Stadium,300,2020/2021
+06/04/2021,6:45 pm, Championship round,2,Hapoel Beer Sheva,Ashdod,6,3,Hapoel Beer Sheva,1,2,Igal Frid,Toto Jacob Turner Stadium,3244,2020/2021
+06/04/2021,7:00 pm, Championship round,2,Maccabi Haifa,Maccabi Tel Aviv,2,1,Maccabi Haifa,1,1,Roi Reinshreiber,Sammy Ofer Stadium,5000,2020/2021
+10/04/2021,5:45 pm, Championship round,3,Ironi Kiryat Shmona,Hapoel Beer Sheva,5,6,Hapoel Beer Sheva,1,1,Eitan Shmuelevic,Kiryat Shmona Municipal Stadium,150,2020/2021
+11/04/2021,7:15 pm, Championship round,3,Maccabi Tel Aviv,Maccabi Petah Tikva,1,4,Maccabi Petah Tikva,3,1,Orel Grinfeld,Bloomfield,7916,2020/2021
+12/04/2021,7:30 pm, Championship round,3,Ashdod,Maccabi Haifa,3,2,Ashdod,0,3,Gal Leibovitz,Yud-Alef Stadion,2434,2020/2021
+17/04/2021,5:45 pm, Championship round,4,Maccabi Petah Tikva,Hapoel Beer Sheva,4,6,Hapoel Beer Sheva,0,0,Shalom Ben Avraham,HaMoshava Stadium,0,2020/2021
+17/04/2021,7:30 pm, Championship round,4,Maccabi Haifa,Ironi Kiryat Shmona,1,5,Ironi Kiryat Shmona,4,0,Igal Frid,Sammy Ofer Stadium,10000,2020/2021
+18/04/2021,7:30 pm, Championship round,4,Maccabi Tel Aviv,Ashdod,2,3,Ashdod,1,1,Liran Liany,Bloomfield,8822,2020/2021
+25/04/2021,6:00 pm, Championship round,5,Ashdod,Maccabi Petah Tikva,3,4,Maccabi Petah Tikva,0,0,Daniel Bar Natan,Yud-Alef Stadion,478,2020/2021
+25/04/2021,7:15 pm, Championship round,5,Ironi Kiryat Shmona,Maccabi Tel Aviv,5,2,Ironi Kiryat Shmona,2,0,David Fucsman,Kiryat Shmona Municipal Stadium,1956,2020/2021
+26/04/2021,7:30 pm, Championship round,5,Hapoel Beer Sheva,Maccabi Haifa,6,1,Hapoel Beer Sheva,1,1,Liran Liany,Toto Jacob Turner Stadium,5157,2020/2021
+01/05/2021,5:15 pm, Championship round,6,Ironi Kiryat Shmona,Ashdod,4,3,Ironi Kiryat Shmona,1,1,Erez Papir,Kiryat Shmona Municipal Stadium,0,2020/2021
+01/05/2021,7:30 pm, Championship round,6,Maccabi Petah Tikva,Maccabi Haifa,5,1,Maccabi Petah Tikva,1,2,Eli Hacmon,HaMoshava Stadium,4950,2020/2021
+03/05/2021,8:00 pm, Championship round,6,Hapoel Beer Sheva,Maccabi Tel Aviv,6,2,Hapoel Beer Sheva,1,1,Orel Grinfeld,Toto Jacob Turner Stadium,4939,2020/2021
+08/05/2021,5:00 pm, Championship round,7,Ironi Kiryat Shmona,Maccabi Petah Tikva,5,4,Ironi Kiryat Shmona,1,2,Idan Leiba,Kiryat Shmona Municipal Stadium,250,2020/2021
+09/05/2021,7:30 pm, Championship round,7,Maccabi Tel Aviv,Maccabi Haifa,2,1,Maccabi Tel Aviv,2,2,Eitan Shmuelevic,Bloomfield,22913,2020/2021
+20/05/2021,5:00 pm, Championship round,7,Ashdod,Hapoel Beer Sheva,3,6,Hapoel Beer Sheva,2,2,Eitan Shmuelevic,Sammy Ofer Stadium,0,2020/2021
+23/05/2021,8:00 pm, Championship round,8,Maccabi Petah Tikva,Maccabi Tel Aviv,4,2,Maccabi Petah Tikva,0,3,Gal Leibovitz,HaMoshava Stadium,3800,2020/2021
+23/05/2021,8:00 pm, Championship round,8,Maccabi Haifa,Ashdod,1,3,Ashdod,2,0,Orel Grinfeld,Sammy Ofer Stadium,26875,2020/2021
+23/05/2021,8:00 pm, Championship round,8,Hapoel Beer Sheva,Ironi Kiryat Shmona,5,6,Ironi Kiryat Shmona,3,2,Aviad Shiloah,Toto Jacob Turner Stadium,2278,2020/2021
+26/05/2021,7:00 pm, Championship round,9,Hapoel Beer Sheva,Maccabi Petah Tikva,4,5,Maccabi Petah Tikva,2,0,Liran Liany,Toto Jacob Turner Stadium,3687,2020/2021
+26/05/2021,7:00 pm, Championship round,9,Ironi Kiryat Shmona,Maccabi Haifa,6,1,Ironi Kiryat Shmona,1,1,Roi Reinshreiber,Kiryat Shmona Municipal Stadium,5000,2020/2021
+26/05/2021,7:00 pm, Championship round,9,Ashdod,Maccabi Tel Aviv,3,2,Ashdod,1,2,Igal Frid,Yud-Alef Stadion,1620,2020/2021
+30/05/2021,7:30 pm, Championship round,10,Maccabi Petah Tikva,Ashdod,5,3,Maccabi Petah Tikva,1,3,David Fucsman,HaMoshava Stadium,1000,2020/2021
+30/05/2021,7:30 pm, Championship round,10,Maccabi Tel Aviv,Ironi Kiryat Shmona,2,6,Ironi Kiryat Shmona,2,2,Liran Liany,Bloomfield,20412,2020/2021
+30/05/2021,7:30 pm, Championship round,10,Maccabi Haifa,Hapoel Beer Sheva,1,4,Hapoel Beer Sheva,3,2,Orel Grinfeld,Sammy Ofer Stadium,30000,2020/2021
+03/04/2021,4:15 pm,Relegation round,1,Hapoel Hadera,Hapoel Tel Aviv,3,5,Hapoel Tel Aviv,0,1,Idan Leiba,Netanya Stadium,2340,2020/2021
+04/04/2021,6:00 pm,Relegation round,1,Maccabi Netanya,Bnei Sakhnin,1,6,Bnei Sakhnin,0,0,Eli Hacmon,Netanya Stadium,870,2020/2021
+04/04/2021,7:15 pm,Relegation round,1,Hapoel Haifa,Bnei Yehuda,4,7,Bnei Yehuda,1,3,Gal Leibovitz,Sammy Ofer Stadium,350,2020/2021
+05/04/2021,7:15 pm,Relegation round,1,Beitar Jerusalem,Hapoel Kfar Saba,2,8,Hapoel Kfar Saba,3,1,David Fucsman,Teddy-Kollek-Stadion,1500,2020/2021
+10/04/2021,5:00 pm,Relegation round,2,Hapoel Tel Aviv,Hapoel Haifa,6,4,Hapoel Tel Aviv,0,2,Erez Papir,Bloomfield,5000,2020/2021
+10/04/2021,5:30 pm,Relegation round,2,Bnei Sakhnin,Bnei Yehuda,5,7,Bnei Yehuda,1,1,Roi Reinshreiber,Doha Stadium,1500,2020/2021
+10/04/2021,7:30 pm,Relegation round,2,Maccabi Netanya,Beitar Jerusalem,1,2,Beitar Jerusalem,1,0,Snir Levi,Netanya Stadium,0,2020/2021
+11/04/2021,6:00 pm,Relegation round,2,Hapoel Kfar Saba,Hapoel Hadera,8,3,Hapoel Kfar Saba,1,2,Aviad Shiloah,HaMoshava Stadium,400,2020/2021
+17/04/2021,5:00 pm,Relegation round,3,Bnei Sakhnin,Hapoel Kfar Saba,4,8,Hapoel Kfar Saba,3,0,Idan Leiba,Doha Stadium,800,2020/2021
+17/04/2021,5:00 pm,Relegation round,3,Maccabi Netanya,Hapoel Tel Aviv,1,6,Hapoel Tel Aviv,0,1,Gal Leibovitz,Netanya Stadium,2500,2020/2021
+18/04/2021,6:00 pm,Relegation round,3,Hapoel Hadera,Hapoel Haifa,2,5,Hapoel Haifa,3,0,Gal Levi,Netanya Stadium,500,2020/2021
+19/04/2021,7:15 pm,Relegation round,3,Beitar Jerusalem,Bnei Yehuda,3,7,Bnei Yehuda,2,2,Orel Grinfeld,Teddy-Kollek-Stadion,0,2020/2021
+24/04/2021,5:00 pm,Relegation round,4,Hapoel Haifa,Bnei Sakhnin,4,6,Bnei Sakhnin,1,0,Eitan Shmuelevic,Sammy Ofer Stadium,1000,2020/2021
+24/04/2021,5:00 pm,Relegation round,4,Hapoel Kfar Saba,Maccabi Netanya,8,1,Hapoel Kfar Saba,0,1,Niv Steif,HaMoshava Stadium,300,2020/2021
+24/04/2021,7:30 pm,Relegation round,4,Hapoel Tel Aviv,Beitar Jerusalem,5,3,Hapoel Tel Aviv,0,0,Roi Reinshreiber,Bloomfield,8223,2020/2021
+25/04/2021,7:00 pm,Relegation round,4,Bnei Yehuda,Hapoel Hadera,7,2,Bnei Yehuda,2,3,Eli Hacmon,Bloomfield,650,2020/2021
+01/05/2021,5:00 pm,Relegation round,5,Bnei Yehuda,Maccabi Netanya,7,1,Bnei Yehuda,1,2,Nael Odeh,Bloomfield,400,2020/2021
+01/05/2021,7:30 pm,Relegation round,5,Hapoel Hadera,Bnei Sakhnin,2,6,Bnei Sakhnin,1,0,Ohad Asulin,Netanya Stadium,500,2020/2021
+03/05/2021,7:00 pm,Relegation round,5,Hapoel Tel Aviv,Hapoel Kfar Saba,5,8,Hapoel Kfar Saba,2,2,Gal Levi,Bloomfield,2800,2020/2021
+03/05/2021,7:15 pm,Relegation round,5,Hapoel Haifa,Beitar Jerusalem,3,4,Beitar Jerusalem,3,1,Sapir Berman,Sammy Ofer Stadium,1000,2020/2021
+08/05/2021,5:45 pm,Relegation round,6,Bnei Yehuda,Hapoel Tel Aviv,7,5,Bnei Yehuda,1,0,Ohad Asulin,Bloomfield,750,2020/2021
+08/05/2021,7:15 pm,Relegation round,6,Hapoel Haifa,Hapoel Kfar Saba,3,8,Hapoel Kfar Saba,3,2,Majed Rushrush,Sammy Ofer Stadium,300,2020/2021
+08/05/2021,7:30 pm,Relegation round,6,Beitar Jerusalem,Bnei Sakhnin,4,6,Bnei Sakhnin,3,1,Shalom Ben Avraham,Teddy-Kollek-Stadion,1400,2020/2021
+09/05/2021,6:00 pm,Relegation round,6,Hapoel Hadera,Maccabi Netanya,2,1,Hapoel Hadera,2,2,Snir Levi,Netanya Stadium,600,2020/2021
+19/05/2021,6:50 pm,Relegation round,7,Beitar Jerusalem,Hapoel Hadera,4,2,Beitar Jerusalem,0,3,Niv Steif,Teddy-Kollek-Stadion,0,2020/2021
+20/05/2021,5:00 pm,Relegation round,7,Maccabi Netanya,Hapoel Haifa,1,3,Hapoel Haifa,2,0,Yoav Mizrahi,Teddy-Kollek-Stadion,0,2020/2021
+20/05/2021,8:00 pm,Relegation round,7,Hapoel Kfar Saba,Bnei Yehuda,8,7,Hapoel Kfar Saba,1,2,Dekel Tzino,Teddy-Kollek-Stadion,0,2020/2021
+24/05/2021,7:15 pm,Relegation round,7,Bnei Sakhnin,Hapoel Tel Aviv,6,5,Bnei Sakhnin,2,3,Or Lugasi,Doha Stadium,250,2020/2021
+28/08/2021,5:45 pm,Regular round,1,Hapoel Haifa,Maccabi Netanya,6,8,Maccabi Netanya,0,0,Orel Grinfeld,Sammy Ofer Stadium,3100,2021/2022
+28/08/2021,6:00 pm,Regular round,1,Maccabi Petah Tikva,Ironi Kiryat Shmona,4,5,Ironi Kiryat Shmona,1,1,David Fucsman,HaMoshava Stadium,500,2021/2022
+28/08/2021,7:30 pm,Regular round,1,Hapoel Tel Aviv,Ashdod,3,12,Ashdod,2,1,Roi Reinshreiber,Bloomfield,7900,2021/2022
+29/08/2021,7:00 pm,Regular round,1,Bnei Sakhnin,Maccabi Tel Aviv,1,13,Maccabi Tel Aviv,3,1,Igal Frid,Doha Stadium,3500,2021/2022
+29/08/2021,7:30 pm,Regular round,1,Hapoel Hadera,Maccabi Haifa,11,7,Hapoel Hadera,0,0,Eitan Shmuelevic,Netanya Stadium,6800,2021/2022
+29/08/2021,7:45 pm,Regular round,1,Beitar Jerusalem,Hapoel Beer Sheva,14,2,Beitar Jerusalem,0,2,Liran Liany,Teddy-Kollek-Stadion,6500,2021/2022
+30/08/2021,7:00 pm,Regular round,1,Hapoel Nazareth Illit,Hapoel Katamon Jerusalem,9,10,Hapoel Katamon Jerusalem,0,0,Idan Leiba,Green Stadium,400,2021/2022
+11/09/2021,5:00 pm,Regular round,2,Ironi Kiryat Shmona,Hapoel Tel Aviv,12,1,Ironi Kiryat Shmona,0,2,Eitan Shmuelevic,Kiryat Shmona Municipal Stadium,2000,2021/2022
+11/09/2021,6:00 pm,Regular round,2,Maccabi Netanya,Hapoel Nazareth Illit,11,4,Maccabi Netanya,1,3,Erez Papir,Netanya Stadium,2722,2021/2022
+11/09/2021,6:30 pm,Regular round,2,Maccabi Tel Aviv,Maccabi Petah Tikva,10,8,Maccabi Tel Aviv,1,1,Gal Leibovitz,Bloomfield,16842,2021/2022
+11/09/2021,7:30 pm,Regular round,2,Maccabi Haifa,Bnei Sakhnin,5,6,Bnei Sakhnin,2,1,Daniel Bar Natan,Sammy Ofer Stadium,22313,2021/2022
+12/09/2021,6:00 pm,Regular round,2,Ashdod,Hapoel Haifa,14,3,Ashdod,1,3,Snir Levi,Yud-Alef Stadion,300,2021/2022
+12/09/2021,7:15 pm,Regular round,2,Hapoel Beer Sheva,Hapoel Hadera,2,9,Hapoel Hadera,2,2,Shalom Ben Avraham,Toto Jacob Turner Stadium,9143,2021/2022
+13/09/2021,7:30 pm,Regular round,2,Hapoel Katamon Jerusalem,Beitar Jerusalem,13,7,Hapoel Katamon Jerusalem,0,3,Igal Frid,Teddy-Kollek-Stadion,18000,2021/2022
+18/09/2021,4:45 pm,Regular round,3,Bnei Sakhnin,Hapoel Beer Sheva,6,4,Bnei Sakhnin,0,0,Gal Leibovitz,Doha Stadium,5000,2021/2022
+18/09/2021,6:00 pm,Regular round,3,Hapoel Nazareth Illit,Ashdod,1,14,Ashdod,2,0,Niv Steif,Green Stadium,120,2021/2022
+18/09/2021,7:00 pm,Regular round,3,Maccabi Petah Tikva,Hapoel Tel Aviv,9,2,Maccabi Petah Tikva,1,1,Idan Leiba,HaMoshava Stadium,6000,2021/2022
+18/09/2021,7:30 pm,Regular round,3,Maccabi Tel Aviv,Maccabi Haifa,8,7,Maccabi Tel Aviv,2,1,Roi Reinshreiber,Bloomfield,25705,2021/2022
+19/09/2021,6:00 pm,Regular round,3,Hapoel Hadera,Hapoel Katamon Jerusalem,10,12,Hapoel Katamon Jerusalem,0,0,Ohad Asulin,Netanya Stadium,950,2021/2022
+19/09/2021,6:30 pm,Regular round,3,Hapoel Haifa,Ironi Kiryat Shmona,3,13,Ironi Kiryat Shmona,1,0,Nael Odeh,Sammy Ofer Stadium,2100,2021/2022
+19/09/2021,7:15 pm,Regular round,3,Beitar Jerusalem,Maccabi Netanya,5,11,Maccabi Netanya,1,1,Aviad Shiloah,Teddy-Kollek-Stadion,6500,2021/2022
+25/09/2021,4:45 pm,Regular round,4,Hapoel Katamon Jerusalem,Bnei Sakhnin,13,7,Hapoel Katamon Jerusalem,0,0,Erez Papir,Teddy-Kollek-Stadion,0,2021/2022
+25/09/2021,6:00 pm,Regular round,4,Ironi Kiryat Shmona,Hapoel Nazareth Illit,9,3,Ironi Kiryat Shmona,1,0,Sapir Berman,Kiryat Shmona Municipal Stadium,400,2021/2022
+25/09/2021,7:00 pm,Regular round,4,Hapoel Tel Aviv,Hapoel Haifa,5,1,Hapoel Tel Aviv,0,2,Daniel Bar Natan,Bloomfield,10800,2021/2022
+25/09/2021,7:30 pm,Regular round,4,Hapoel Beer Sheva,Maccabi Tel Aviv,2,10,Maccabi Tel Aviv,2,0,Aviad Shiloah,Toto Jacob Turner Stadium,13219,2021/2022
+26/09/2021,6:00 pm,Regular round,4,Maccabi Netanya,Hapoel Hadera,14,6,Maccabi Netanya,0,2,Roi Reinshreiber,Netanya Stadium,2800,2021/2022
+26/09/2021,6:30 pm,Regular round,4,Ashdod,Beitar Jerusalem,12,8,Ashdod,2,0,Nael Odeh,Yud-Alef Stadion,3864,2021/2022
+26/09/2021,7:15 pm,Regular round,4,Maccabi Haifa,Maccabi Petah Tikva,4,11,Maccabi Petah Tikva,2,0,Snir Levi,Sammy Ofer Stadium,21230,2021/2022
+02/10/2021,5:00 pm,Regular round,5,Hapoel Nazareth Illit,Hapoel Tel Aviv,4,5,Hapoel Tel Aviv,2,2,Liran Liany,Green Stadium,2900,2021/2022
+02/10/2021,6:00 pm,Regular round,5,Maccabi Petah Tikva,Hapoel Haifa,8,2,Maccabi Petah Tikva,2,0,Shalom Ben Avraham,HaMoshava Stadium,1600,2021/2022
+02/10/2021,7:30 pm,Regular round,5,Beitar Jerusalem,Ironi Kiryat Shmona,9,12,Ironi Kiryat Shmona,1,1,Niv Steif,Teddy-Kollek-Stadion,3200,2021/2022
+02/10/2021,8:00 pm,Regular round,5,Bnei Sakhnin,Maccabi Netanya,10,11,Maccabi Netanya,1,3,Eitan Shmuelevic,Doha Stadium,2300,2021/2022
+03/10/2021,6:00 pm,Regular round,5,Ashdod,Hapoel Hadera,13,3,Ashdod,1,2,David Fucsman,Yud-Alef Stadion,200,2021/2022
+03/10/2021,7:15 pm,Regular round,5,Maccabi Tel Aviv,Hapoel Katamon Jerusalem,7,14,Hapoel Katamon Jerusalem,1,0,Snir Levi,Bloomfield,14587,2021/2022
+03/10/2021,7:45 pm,Regular round,5,Maccabi Haifa,Hapoel Beer Sheva,6,1,Maccabi Haifa,1,2,Gal Leibovitz,Sammy Ofer Stadium,26102,2021/2022
+16/10/2021,5:00 pm,Regular round,6,Hapoel Katamon Jerusalem,Maccabi Haifa,14,5,Hapoel Katamon Jerusalem,1,4,Nael Odeh,Teddy-Kollek-Stadion,6500,2021/2022
+16/10/2021,5:45 pm,Regular round,6,Ashdod,Bnei Sakhnin,13,8,Ashdod,0,1,Idan Leiba,Yud-Alef Stadion,362,2021/2022
+16/10/2021,6:00 pm,Regular round,6,Hapoel Haifa,Hapoel Nazareth Illit,2,6,Hapoel Nazareth Illit,3,1,Aviad Shiloah,Sammy Ofer Stadium,2700,2021/2022
+16/10/2021,7:30 pm,Regular round,6,Maccabi Netanya,Maccabi Tel Aviv,7,9,Maccabi Tel Aviv,4,2,Erez Papir,Netanya Stadium,8800,2021/2022
+17/10/2021,6:00 pm,Regular round,6,Ironi Kiryat Shmona,Hapoel Hadera,12,3,Ironi Kiryat Shmona,0,1,Snir Levi,Kiryat Shmona Municipal Stadium,1987,2021/2022
+17/10/2021,7:15 pm,Regular round,6,Hapoel Beer Sheva,Maccabi Petah Tikva,1,10,Maccabi Petah Tikva,1,0,Roi Reinshreiber,Toto Jacob Turner Stadium,10287,2021/2022
+18/10/2021,7:45 pm,Regular round,6,Hapoel Tel Aviv,Beitar Jerusalem,4,11,Beitar Jerusalem,1,0,Eitan Shmuelevic,Bloomfield,19000,2021/2022
+23/10/2021,5:00 pm,Regular round,7,Hapoel Hadera,Hapoel Tel Aviv,5,2,Hapoel Hadera,0,3,Igal Frid,Netanya Stadium,5358,2021/2022
+23/10/2021,5:45 pm,Regular round,7,Bnei Sakhnin,Ironi Kiryat Shmona,11,7,Bnei Sakhnin,0,3,Shalom Ben Avraham,Doha Stadium,2000,2021/2022
+23/10/2021,6:30 pm,Regular round,7,Maccabi Petah Tikva,Hapoel Nazareth Illit,6,10,Hapoel Nazareth Illit,4,0,Erez Papir,HaMoshava Stadium,860,2021/2022
+23/10/2021,7:30 pm,Regular round,7,Hapoel Beer Sheva,Hapoel Katamon Jerusalem,1,14,Hapoel Katamon Jerusalem,3,1,Liran Liany,Toto Jacob Turner Stadium,10313,2021/2022
+24/10/2021,7:15 pm,Regular round,7,Beitar Jerusalem,Hapoel Haifa,8,4,Beitar Jerusalem,2,1,David Fucsman,Teddy-Kollek-Stadion,7000,2021/2022
+25/10/2021,7:15 pm,Regular round,7,Maccabi Tel Aviv,Ashdod,12,13,Ashdod,0,2,Daniel Bar Natan,Bloomfield,17197,2021/2022
+25/10/2021,7:45 pm,Regular round,7,Maccabi Haifa,Maccabi Netanya,3,9,Maccabi Netanya,2,0,Roi Reinshreiber,Sammy Ofer Stadium,22572,2021/2022
+30/10/2021,4:30 pm,Regular round,8,Ironi Kiryat Shmona,Maccabi Tel Aviv,12,8,Ironi Kiryat Shmona,1,3,Idan Leiba,Kiryat Shmona Municipal Stadium,3000,2021/2022
+30/10/2021,6:00 pm,Regular round,8,Hapoel Katamon Jerusalem,Maccabi Petah Tikva,14,9,Hapoel Katamon Jerusalem,1,0,Sapir Berman,Teddy-Kollek-Stadion,1472,2021/2022
+30/10/2021,7:00 pm,Regular round,8,Maccabi Netanya,Hapoel Beer Sheva,10,1,Maccabi Netanya,1,1,Orel Grinfeld,Netanya Stadium,8000,2021/2022
+30/10/2021,7:30 pm,Regular round,8,Ashdod,Maccabi Haifa,13,3,Ashdod,2,2,Igal Frid,Yud-Alef Stadion,5140,2021/2022
+31/10/2021,6:00 pm,Regular round,8,Hapoel Haifa,Hapoel Hadera,2,5,Hapoel Hadera,3,0,Niv Steif,Sammy Ofer Stadium,2330,2021/2022
+31/10/2021,7:15 pm,Regular round,8,Hapoel Tel Aviv,Bnei Sakhnin,4,6,Bnei Sakhnin,0,3,Snir Levi,Bloomfield,9750,2021/2022
+01/11/2021,7:15 pm,Regular round,8,Hapoel Nazareth Illit,Beitar Jerusalem,7,11,Beitar Jerusalem,1,0,Roi Reinshreiber,Green Stadium,3000,2021/2022
+06/11/2021,2:00 pm,Regular round,9,Hapoel Katamon Jerusalem,Maccabi Netanya,12,11,Hapoel Katamon Jerusalem,2,1,Shalom Ben Avraham,Teddy-Kollek-Stadion,3500,2021/2022
+06/11/2021,4:30 pm,Regular round,9,Hapoel Beer Sheva,Ashdod,1,13,Ashdod,1,1,Eitan Shmuelevic,Toto Jacob Turner Stadium,10228,2021/2022
+06/11/2021,5:00 pm,Regular round,9,Bnei Sakhnin,Hapoel Haifa,6,3,Bnei Sakhnin,2,2,Igal Frid,Doha Stadium,3500,2021/2022
+06/11/2021,6:50 pm,Regular round,9,Maccabi Petah Tikva,Beitar Jerusalem,10,8,Maccabi Petah Tikva,0,3,Daniel Bar Natan,HaMoshava Stadium,5000,2021/2022
+07/11/2021,6:00 pm,Regular round,9,Hapoel Hadera,Hapoel Nazareth Illit,5,7,Hapoel Nazareth Illit,0,0,Ohad Asulin,Netanya Stadium,900,2021/2022
+07/11/2021,7:15 pm,Regular round,9,Maccabi Haifa,Ironi Kiryat Shmona,2,14,Ironi Kiryat Shmona,4,0,Liran Liany,Sammy Ofer Stadium,19300,2021/2022
+07/11/2021,7:45 pm,Regular round,9,Maccabi Tel Aviv,Hapoel Tel Aviv,9,4,Maccabi Tel Aviv,1,1,Roi Reinshreiber,Bloomfield,28169,2021/2022
+27/11/2021,2:00 pm,Regular round,10,Ironi Kiryat Shmona,Hapoel Beer Sheva,14,1,Ironi Kiryat Shmona,1,2,Daniel Bar Natan,Kiryat Shmona Municipal Stadium,1680,2021/2022
+27/11/2021,4:15 pm,Regular round,10,Hapoel Nazareth Illit,Bnei Sakhnin,10,4,Hapoel Nazareth Illit,1,2,Gal Leibovitz,Green Stadium,2500,2021/2022
+27/11/2021,4:30 pm,Regular round,10,Maccabi Netanya,Maccabi Petah Tikva,9,12,Maccabi Petah Tikva,2,0,Nael Odeh,Netanya Stadium,3500,2021/2022
+27/11/2021,6:30 pm,Regular round,10,Ashdod,Hapoel Katamon Jerusalem,11,13,Hapoel Katamon Jerusalem,1,0,Aviad Shiloah,Yud-Alef Stadion,890,2021/2022
+27/11/2021,6:50 pm,Regular round,10,Beitar Jerusalem,Hapoel Hadera,8,7,Beitar Jerusalem,0,0,Idan Leiba,Teddy-Kollek-Stadion,7500,2021/2022
+28/11/2021,7:15 pm,Regular round,10,Hapoel Haifa,Maccabi Tel Aviv,3,6,Maccabi Tel Aviv,1,3,Liran Liany,Sammy Ofer Stadium,6050,2021/2022
+28/11/2021,7:45 pm,Regular round,10,Hapoel Tel Aviv,Maccabi Haifa,5,2,Hapoel Tel Aviv,1,3,Orel Grinfeld,Bloomfield,13500,2021/2022
+30/11/2021,6:00 pm,Regular round,11,Maccabi Petah Tikva,Hapoel Hadera,13,7,Maccabi Petah Tikva,1,1,Shalom Ben Avraham,HaMoshava Stadium,500,2021/2022
+30/11/2021,6:30 pm,Regular round,11,Maccabi Netanya,Ashdod,11,8,Maccabi Netanya,0,1,Ohad Asulin,Netanya Stadium,3133,2021/2022
+30/11/2021,7:15 pm,Regular round,11,Bnei Sakhnin,Beitar Jerusalem,3,10,Beitar Jerusalem,2,0,Eitan Shmuelevic,Doha Stadium,8000,2021/2022
+01/12/2021,6:00 pm,Regular round,11,Hapoel Katamon Jerusalem,Ironi Kiryat Shmona,14,12,Hapoel Katamon Jerusalem,0,1,David Fucsman,Teddy-Kollek-Stadion,500,2021/2022
+01/12/2021,6:30 pm,Regular round,11,Maccabi Tel Aviv,Hapoel Nazareth Illit,6,9,Hapoel Nazareth Illit,1,1,Erez Papir,Bloomfield,10240,2021/2022
+01/12/2021,7:15 pm,Regular round,11,Hapoel Beer Sheva,Hapoel Tel Aviv,1,5,Hapoel Tel Aviv,2,1,Igal Frid,Toto Jacob Turner Stadium,11262,2021/2022
+02/12/2021,7:30 pm,Regular round,11,Maccabi Haifa,Hapoel Haifa,2,4,Hapoel Haifa,5,1,Roi Reinshreiber,Sammy Ofer Stadium,29127,2021/2022
+04/12/2021,2:00 pm,Regular round,12,Hapoel Hadera,Bnei Sakhnin,5,3,Hapoel Hadera,2,1,Liran Liany,Netanya Stadium,1952,2021/2022
+04/12/2021,4:30 pm,Regular round,12,Maccabi Petah Tikva,Ashdod,13,7,Maccabi Petah Tikva,0,1,Niv Steif,HaMoshava Stadium,450,2021/2022
+04/12/2021,6:50 pm,Regular round,12,Ironi Kiryat Shmona,Maccabi Netanya,9,12,Maccabi Netanya,2,1,Gal Leibovitz,Kiryat Shmona Municipal Stadium,960,2021/2022
+05/12/2021,6:30 pm,Regular round,12,Hapoel Tel Aviv,Hapoel Katamon Jerusalem,8,14,Hapoel Katamon Jerusalem,1,1,Ohad Asulin,Bloomfield,6200,2021/2022
+05/12/2021,7:15 pm,Regular round,12,Hapoel Nazareth Illit,Maccabi Haifa,10,2,Hapoel Nazareth Illit,0,4,Shalom Ben Avraham,Green Stadium,3700,2021/2022
+05/12/2021,7:45 pm,Regular round,12,Beitar Jerusalem,Maccabi Tel Aviv,11,4,Beitar Jerusalem,1,2,Daniel Bar Natan,Teddy-Kollek-Stadion,9000,2021/2022
+06/12/2021,7:15 pm,Regular round,12,Hapoel Haifa,Hapoel Beer Sheva,6,1,Hapoel Haifa,0,1,Idan Leiba,Sammy Ofer Stadium,2700,2021/2022
+11/12/2021,2:00 pm,Regular round,13,Bnei Sakhnin,Maccabi Petah Tikva,3,14,Maccabi Petah Tikva,1,0,Roi Reinshreiber,Kiryat Shmona Municipal Stadium,500,2021/2022
+11/12/2021,4:30 pm,Regular round,13,Hapoel Katamon Jerusalem,Hapoel Haifa,13,5,Hapoel Katamon Jerusalem,1,1,Snir Levi,Teddy-Kollek-Stadion,1500,2021/2022
+11/12/2021,6:00 pm,Regular round,13,Ashdod,Ironi Kiryat Shmona,8,9,Ironi Kiryat Shmona,0,2,Yoav Mizrahi,Yud-Alef Stadion,517,2021/2022
+11/12/2021,6:50 pm,Regular round,13,Maccabi Netanya,Hapoel Tel Aviv,10,7,Maccabi Netanya,1,1,Eitan Shmuelevic,Netanya Stadium,6743,2021/2022
+12/12/2021,7:15 pm,Regular round,13,Hapoel Beer Sheva,Hapoel Nazareth Illit,1,11,Hapoel Nazareth Illit,2,0,David Fucsman,Toto Jacob Turner Stadium,9466,2021/2022
+13/12/2021,7:15 pm,Regular round,13,Maccabi Tel Aviv,Hapoel Hadera,4,6,Hapoel Hadera,3,0,Niv Steif,Bloomfield,13042,2021/2022
+13/12/2021,7:45 pm,Regular round,13,Maccabi Haifa,Beitar Jerusalem,2,12,Beitar Jerusalem,2,1,Erez Papir,Sammy Ofer Stadium,29135,2021/2022
+21/12/2021,6:00 pm,Regular round,14,Hapoel Katamon Jerusalem,Hapoel Nazareth Illit,11,12,Hapoel Nazareth Illit,3,1,Gal Leibovitz,Teddy-Kollek-Stadion,800,2021/2022
+21/12/2021,6:15 pm,Regular round,14,Maccabi Netanya,Hapoel Haifa,10,7,Maccabi Netanya,1,0,Igal Frid,Netanya Stadium,2011,2021/2022
+21/12/2021,6:45 pm,Regular round,14,Ashdod,Hapoel Tel Aviv,9,5,Ashdod,1,4,Daniel Bar Natan,Yud-Alef Stadion,2500,2021/2022
+21/12/2021,7:30 pm,Regular round,14,Maccabi Haifa,Hapoel Hadera,2,8,Hapoel Hadera,1,0,David Fucsman,Sammy Ofer Stadium,16126,2021/2022
+22/12/2021,6:00 pm,Regular round,14,Ironi Kiryat Shmona,Maccabi Petah Tikva,6,14,Maccabi Petah Tikva,1,0,Aviad Shiloah,Kiryat Shmona Municipal Stadium,300,2021/2022
+22/12/2021,7:00 pm,Regular round,14,Maccabi Tel Aviv,Bnei Sakhnin,4,3,Maccabi Tel Aviv,1,1,Eitan Shmuelevic,Bloomfield,10101,2021/2022
+22/12/2021,7:30 pm,Regular round,14,Hapoel Beer Sheva,Beitar Jerusalem,1,13,Beitar Jerusalem,3,1,Roi Reinshreiber,Toto Jacob Turner Stadium,12642,2021/2022
+25/12/2021,2:00 pm,Regular round,15,Hapoel Haifa,Ashdod,6,10,Ashdod,2,1,Orel Grinfeld,Sammy Ofer Stadium,1200,2021/2022
+25/12/2021,4:30 pm,Regular round,15,Hapoel Tel Aviv,Ironi Kiryat Shmona,4,7,Ironi Kiryat Shmona,2,0,Nael Odeh,Bloomfield,9200,2021/2022
+25/12/2021,5:00 pm,Regular round,15,Hapoel Nazareth Illit,Maccabi Netanya,13,8,Hapoel Nazareth Illit,0,1,Gal Levi,Green Stadium,1100,2021/2022
+25/12/2021,6:50 pm,Regular round,15,Bnei Sakhnin,Maccabi Haifa,5,2,Bnei Sakhnin,0,6,Shalom Ben Avraham,Netanya Stadium,12000,2021/2022
+26/12/2021,7:00 pm,Regular round,15,Hapoel Hadera,Hapoel Beer Sheva,9,1,Hapoel Hadera,1,2,Gal Leibovitz,Netanya Stadium,2100,2021/2022
+26/12/2021,7:30 pm,Regular round,15,Beitar Jerusalem,Hapoel Katamon Jerusalem,11,12,Hapoel Katamon Jerusalem,3,0,Liran Liany,Teddy-Kollek-Stadion,15000,2021/2022
+27/12/2021,7:30 pm,Regular round,15,Maccabi Petah Tikva,Maccabi Tel Aviv,14,3,Maccabi Petah Tikva,1,2,Snir Levi,HaMoshava Stadium,4741,2021/2022
+01/01/2022,2:00 pm,Regular round,16,Hapoel Tel Aviv,Maccabi Petah Tikva,3,14,Maccabi Petah Tikva,2,1,David Fucsman,Bloomfield,8800,2021/2022
+01/01/2022,4:30 pm,Regular round,16,Ironi Kiryat Shmona,Hapoel Haifa,7,5,Ironi Kiryat Shmona,2,2,Eitan Shmuelevic,Kiryat Shmona Municipal Stadium,1150,2021/2022
+01/01/2022,5:00 pm,Regular round,16,Hapoel Katamon Jerusalem,Hapoel Hadera,12,10,Hapoel Katamon Jerusalem,1,1,Daniel Bar Natan,Teddy-Kollek-Stadion,600,2021/2022
+01/01/2022,6:50 pm,Regular round,16,Maccabi Netanya,Beitar Jerusalem,8,11,Beitar Jerusalem,0,0,Orel Grinfeld,Netanya Stadium,6983,2021/2022
+02/01/2022,6:00 pm,Regular round,16,Ashdod,Hapoel Nazareth Illit,9,13,Hapoel Nazareth Illit,3,0,Refael Geva,Bloomfield,162,2021/2022
+02/01/2022,7:15 pm,Regular round,16,Hapoel Beer Sheva,Bnei Sakhnin,1,6,Bnei Sakhnin,3,0,Igal Frid,Toto Jacob Turner Stadium,10185,2021/2022
+03/01/2022,7:30 pm,Regular round,16,Maccabi Haifa,Maccabi Tel Aviv,2,4,Maccabi Tel Aviv,3,2,Liran Liany,Sammy Ofer Stadium,30000,2021/2022
+08/01/2022,2:00 pm,Regular round,17,Hapoel Haifa,Hapoel Tel Aviv,8,3,Hapoel Haifa,0,2,Snir Levi,Sammy Ofer Stadium,5400,2021/2022
+08/01/2022,4:30 pm,Regular round,17,Hapoel Nazareth Illit,Ironi Kiryat Shmona,13,6,Hapoel Nazareth Illit,2,6,Idan Leiba,Green Stadium,500,2021/2022
+08/01/2022,4:45 pm,Regular round,17,Maccabi Petah Tikva,Maccabi Haifa,14,1,Maccabi Petah Tikva,0,4,Gal Leibovitz,HaMoshava Stadium,10200,2021/2022
+08/01/2022,7:00 pm,Regular round,17,Maccabi Tel Aviv,Hapoel Beer Sheva,4,2,Maccabi Tel Aviv,1,0,Eitan Shmuelevic,Bloomfield,21311,2021/2022
+09/01/2022,6:00 pm,Regular round,17,Hapoel Hadera,Maccabi Netanya,10,9,Hapoel Hadera,1,1,Roi Reinshreiber,Netanya Stadium,1500,2021/2022
+09/01/2022,7:15 pm,Regular round,17,Beitar Jerusalem,Ashdod,11,7,Beitar Jerusalem,0,2,David Fucsman,Teddy-Kollek-Stadion,5000,2021/2022
+10/01/2022,7:15 pm,Regular round,17,Bnei Sakhnin,Hapoel Katamon Jerusalem,5,12,Hapoel Katamon Jerusalem,2,1,Erez Papir,Bloomfield,1200,2021/2022
+15/01/2022,2:00 pm,Regular round,18,Hapoel Tel Aviv,Hapoel Nazareth Illit,4,13,Hapoel Nazareth Illit,2,2,Shalom Ben Avraham,Bloomfield,6900,2021/2022
+15/01/2022,4:30 pm,Regular round,18,Hapoel Haifa,Maccabi Petah Tikva,8,14,Maccabi Petah Tikva,2,2,Idan Leiba,Sammy Ofer Stadium,1500,2021/2022
+15/01/2022,6:50 pm,Regular round,18,Hapoel Katamon Jerusalem,Maccabi Tel Aviv,12,3,Hapoel Katamon Jerusalem,1,3,Aviad Shiloah,Teddy-Kollek-Stadion,2500,2021/2022
+16/01/2022,6:00 pm,Regular round,18,Hapoel Hadera,Ashdod,10,9,Hapoel Hadera,2,1,Sapir Berman,Netanya Stadium,500,2021/2022
+16/01/2022,7:00 pm,Regular round,18,Ironi Kiryat Shmona,Beitar Jerusalem,5,11,Beitar Jerusalem,2,2,Erez Papir,Kiryat Shmona Municipal Stadium,1200,2021/2022
+17/01/2022,7:00 pm,Regular round,18,Maccabi Netanya,Bnei Sakhnin,7,6,Maccabi Netanya,1,0,Snir Levi,Netanya Stadium,2014,2021/2022
+17/01/2022,7:30 pm,Regular round,18,Hapoel Beer Sheva,Maccabi Haifa,2,1,Hapoel Beer Sheva,1,2,Roi Reinshreiber,Toto Jacob Turner Stadium,14641,2021/2022
+22/01/2022,2:00 pm,Regular round,19,Hapoel Nazareth Illit,Hapoel Haifa,13,5,Hapoel Nazareth Illit,0,1,Snir Levi,Green Stadium,800,2021/2022
+22/01/2022,4:20 pm,Regular round,19,Maccabi Tel Aviv,Maccabi Netanya,4,8,Maccabi Netanya,2,2,Gal Leibovitz,Bloomfield,19349,2021/2022
+22/01/2022,5:00 pm,Regular round,19,Hapoel Hadera,Ironi Kiryat Shmona,7,9,Ironi Kiryat Shmona,2,0,Ohad Asulin,Netanya Stadium,800,2021/2022
+22/01/2022,6:50 pm,Regular round,19,Maccabi Haifa,Hapoel Katamon Jerusalem,1,12,Hapoel Katamon Jerusalem,1,1,Niv Steif,Sammy Ofer Stadium,21894,2021/2022
+23/01/2022,6:00 pm,Regular round,19,Bnei Sakhnin,Ashdod,10,6,Bnei Sakhnin,0,1,Liran Liany,Doha Stadium,0,2021/2022
+23/01/2022,7:15 pm,Regular round,19,Maccabi Petah Tikva,Hapoel Beer Sheva,14,2,Maccabi Petah Tikva,0,1,Erez Papir,HaMoshava Stadium,1300,2021/2022
+24/01/2022,7:30 pm,Regular round,19,Beitar Jerusalem,Hapoel Tel Aviv,11,3,Beitar Jerusalem,0,2,Eitan Shmuelevic,Teddy-Kollek-Stadion,12000,2021/2022
+29/01/2022,2:00 pm,Regular round,20,Hapoel Katamon Jerusalem,Hapoel Beer Sheva,13,2,Hapoel Katamon Jerusalem,0,1,Liran Liany,Teddy-Kollek-Stadion,3000,2021/2022
+29/01/2022,4:30 pm,Regular round,20,Ashdod,Maccabi Tel Aviv,9,3,Ashdod,1,3,Daniel Bar Natan,Yud-Alef Stadion,2561,2021/2022
+29/01/2022,5:00 pm,Regular round,20,Hapoel Nazareth Illit,Maccabi Petah Tikva,12,14,Maccabi Petah Tikva,1,0,Orel Grinfeld,Green Stadium,500,2021/2022
+29/01/2022,6:50 pm,Regular round,20,Hapoel Haifa,Beitar Jerusalem,5,11,Beitar Jerusalem,5,1,Gal Levi,Sammy Ofer Stadium,2300,2021/2022
+30/01/2022,7:00 pm,Regular round,20,Hapoel Tel Aviv,Hapoel Hadera,4,6,Hapoel Hadera,0,1,Idan Leiba,Bloomfield,7100,2021/2022
+30/01/2022,7:30 pm,Regular round,20,Maccabi Netanya,Maccabi Haifa,8,1,Maccabi Netanya,1,1,Eitan Shmuelevic,Netanya Stadium,12300,2021/2022
+31/01/2022,7:00 pm,Regular round,20,Ironi Kiryat Shmona,Bnei Sakhnin,10,7,Ironi Kiryat Shmona,0,1,Refael Geva,Kiryat Shmona Municipal Stadium,600,2021/2022
+05/02/2022,2:00 pm,Regular round,21,Bnei Sakhnin,Hapoel Tel Aviv,6,4,Bnei Sakhnin,1,0,Roi Reinshreiber,Doha Stadium,3000,2021/2022
+05/02/2022,4:30 pm,Regular round,21,Maccabi Tel Aviv,Ironi Kiryat Shmona,3,10,Ironi Kiryat Shmona,1,0,David Fucsman,Bloomfield,12702,2021/2022
+05/02/2022,5:00 pm,Regular round,21,Maccabi Petah Tikva,Hapoel Katamon Jerusalem,14,13,Maccabi Petah Tikva,3,1,Daniel Bar Natan,HaMoshava Stadium,1200,2021/2022
+05/02/2022,6:50 pm,Regular round,21,Hapoel Beer Sheva,Maccabi Netanya,2,8,Maccabi Netanya,0,1,Gal Leibovitz,Toto Jacob Turner Stadium,10959,2021/2022
+06/02/2022,6:00 pm,Regular round,21,Hapoel Hadera,Hapoel Haifa,5,7,Hapoel Haifa,1,0,Shalom Ben Avraham,Netanya Stadium,1200,2021/2022
+06/02/2022,7:15 pm,Regular round,21,Beitar Jerusalem,Hapoel Nazareth Illit,11,12,Hapoel Nazareth Illit,0,0,Igal Frid,Teddy-Kollek-Stadion,0,2021/2022
+07/02/2022,7:30 pm,Regular round,21,Maccabi Haifa,Ashdod,1,9,Ashdod,6,0,Snir Levi,Sammy Ofer Stadium,25732,2021/2022
+12/02/2022,2:00 pm,Regular round,22,Maccabi Netanya,Hapoel Katamon Jerusalem,6,13,Hapoel Katamon Jerusalem,2,0,Ohad Asulin,Netanya Stadium,7534,2021/2022
+12/02/2022,4:30 pm,Regular round,22,Ashdod,Hapoel Beer Sheva,10,2,Ashdod,1,1,Eitan Shmuelevic,Yud-Alef Stadion,1880,2021/2022
+12/02/2022,5:00 pm,Regular round,22,Hapoel Nazareth Illit,Hapoel Hadera,12,5,Hapoel Nazareth Illit,1,1,Niv Steif,Green Stadium,650,2021/2022
+12/02/2022,7:00 pm,Regular round,22,Hapoel Tel Aviv,Maccabi Tel Aviv,4,3,Hapoel Tel Aviv,2,3,Igal Frid,Bloomfield,27200,2021/2022
+13/02/2022,6:00 pm,Regular round,22,Hapoel Haifa,Bnei Sakhnin,8,7,Hapoel Haifa,1,1,Gal Leibovitz,Sammy Ofer Stadium,3500,2021/2022
+13/02/2022,7:15 pm,Regular round,22,Beitar Jerusalem,Maccabi Petah Tikva,11,14,Maccabi Petah Tikva,2,1,Roi Reinshreiber,Teddy-Kollek-Stadion,8000,2021/2022
+14/02/2022,7:15 pm,Regular round,22,Ironi Kiryat Shmona,Maccabi Haifa,9,1,Ironi Kiryat Shmona,2,1,Idan Leiba,Kiryat Shmona Municipal Stadium,5000,2021/2022
+19/02/2022,2:00 pm,Regular round,23,Maccabi Petah Tikva,Maccabi Netanya,14,7,Maccabi Petah Tikva,1,1,Igal Frid,HaMoshava Stadium,3000,2021/2022
+19/02/2022,4:30 pm,Regular round,23,Hapoel Beer Sheva,Ironi Kiryat Shmona,2,9,Ironi Kiryat Shmona,0,0,Orel Grinfeld,Toto Jacob Turner Stadium,9837,2021/2022
+19/02/2022,5:00 pm,Regular round,23,Hapoel Katamon Jerusalem,Ashdod,12,10,Hapoel Katamon Jerusalem,2,0,Majed Rushrush,Teddy-Kollek-Stadion,2000,2021/2022
+19/02/2022,6:50 pm,Regular round,23,Hapoel Hadera,Beitar Jerusalem,4,11,Beitar Jerusalem,1,0,Liran Liany,Netanya Stadium,6509,2021/2022
+20/02/2022,6:00 pm,Regular round,23,Bnei Sakhnin,Hapoel Nazareth Illit,5,13,Hapoel Nazareth Illit,2,0,Idan Leiba,Doha Stadium,3000,2021/2022
+20/02/2022,7:15 pm,Regular round,23,Maccabi Tel Aviv,Hapoel Haifa,3,8,Hapoel Haifa,2,0,Roi Reinshreiber,Bloomfield,16365,2021/2022
+21/02/2022,7:30 pm,Regular round,23,Maccabi Haifa,Hapoel Tel Aviv,1,6,Hapoel Tel Aviv,2,0,Eitan Shmuelevic,Sammy Ofer Stadium,29114,2021/2022
+26/02/2022,2:00 pm,Regular round,24,Ashdod,Maccabi Netanya,10,4,Ashdod,1,3,Liran Liany,Yud-Alef Stadion,1092,2021/2022
+26/02/2022,4:30 pm,Regular round,24,Hapoel Hadera,Maccabi Petah Tikva,6,14,Maccabi Petah Tikva,1,4,Snir Levi,Netanya Stadium,1200,2021/2022
+26/02/2022,5:00 pm,Regular round,24,Hapoel Tel Aviv,Hapoel Beer Sheva,7,2,Hapoel Tel Aviv,1,1,David Fucsman,Bloomfield,11600,2021/2022
+26/02/2022,7:00 pm,Regular round,24,Hapoel Haifa,Maccabi Haifa,8,1,Hapoel Haifa,0,1,Orel Grinfeld,Sammy Ofer Stadium,26285,2021/2022
+27/02/2022,6:00 pm,Regular round,24,Ironi Kiryat Shmona,Hapoel Katamon Jerusalem,9,12,Hapoel Katamon Jerusalem,0,0,Shalom Ben Avraham,Kiryat Shmona Municipal Stadium,1000,2021/2022
+27/02/2022,7:15 pm,Regular round,24,Beitar Jerusalem,Bnei Sakhnin,11,5,Beitar Jerusalem,1,1,Roi Reinshreiber,Teddy-Kollek-Stadion,13000,2021/2022
+28/02/2022,7:15 pm,Regular round,24,Hapoel Nazareth Illit,Maccabi Tel Aviv,13,3,Hapoel Nazareth Illit,1,3,Gal Leibovitz,Green Stadium,4300,2021/2022
+05/03/2022,2:00 pm,Regular round,25,Maccabi Haifa,Hapoel Nazareth Illit,1,14,Hapoel Nazareth Illit,1,1,David Fucsman,Sammy Ofer Stadium,29115,2021/2022
+05/03/2022,4:30 pm,Regular round,25,Maccabi Netanya,Ironi Kiryat Shmona,4,9,Ironi Kiryat Shmona,3,1,Gal Leibovitz,Netanya Stadium,7140,2021/2022
+05/03/2022,5:00 pm,Regular round,25,Bnei Sakhnin,Hapoel Hadera,5,7,Hapoel Hadera,1,0,Orel Grinfeld,Doha Stadium,2900,2021/2022
+05/03/2022,6:50 pm,Regular round,25,Hapoel Katamon Jerusalem,Hapoel Tel Aviv,13,6,Hapoel Katamon Jerusalem,0,1,Daniel Bar Natan,Teddy-Kollek-Stadion,3490,2021/2022
+06/03/2022,6:00 pm,Regular round,25,Ashdod,Maccabi Petah Tikva,10,12,Maccabi Petah Tikva,3,4,Nael Odeh,Yud-Alef Stadion,537,2021/2022
+06/03/2022,7:15 pm,Regular round,25,Hapoel Beer Sheva,Hapoel Haifa,2,8,Hapoel Haifa,3,1,Shalom Ben Avraham,Toto Jacob Turner Stadium,10529,2021/2022
+07/03/2022,7:30 pm,Regular round,25,Maccabi Tel Aviv,Beitar Jerusalem,3,11,Beitar Jerusalem,3,1,Igal Frid,Bloomfield,27331,2021/2022
+12/03/2022,2:00 pm,Regular round,26,Ironi Kiryat Shmona,Ashdod,8,10,Ashdod,2,0,Erez Papir,Kiryat Shmona Municipal Stadium,400,2021/2022
+12/03/2022,6:00 pm,Regular round,26,Maccabi Petah Tikva,Bnei Sakhnin,13,4,Maccabi Petah Tikva,0,1,Eitan Shmuelevic,HaMoshava Stadium,1500,2021/2022
+12/03/2022,6:00 pm,Regular round,26,Hapoel Hadera,Maccabi Tel Aviv,7,3,Hapoel Hadera,0,2,Idan Leiba,Netanya Stadium,7600,2021/2022
+12/03/2022,6:00 pm,Regular round,26,Hapoel Tel Aviv,Maccabi Netanya,6,5,Hapoel Tel Aviv,2,2,Snir Levi,Sammy Ofer Stadium,7300,2021/2022
+13/03/2022,6:00 pm,Regular round,26,Hapoel Haifa,Hapoel Katamon Jerusalem,9,11,Hapoel Katamon Jerusalem,1,2,Gal Leibovitz,Sammy Ofer Stadium,1200,2021/2022
+13/03/2022,7:15 pm,Regular round,26,Hapoel Nazareth Illit,Hapoel Beer Sheva,14,2,Hapoel Nazareth Illit,0,2,Igal Frid,Green Stadium,1036,2021/2022
+14/03/2022,7:30 pm,Regular round,26,Beitar Jerusalem,Maccabi Haifa,12,1,Beitar Jerusalem,0,1,Orel Grinfeld,Teddy-Kollek-Stadion,15500,2021/2022
+19/03/2022,2:00 pm, Championship round,1,Maccabi Tel Aviv,Bnei Sakhnin,3,4,Bnei Sakhnin,0,0,Gal Leibovitz,Bloomfield,20630,2021/2022
+19/03/2022,6:00 pm, Championship round,1,Hapoel Beer Sheva,Maccabi Netanya,2,5,Maccabi Netanya,4,1,Roi Reinshreiber,Toto Jacob Turner Stadium,11591,2021/2022
+19/03/2022,7:00 pm, Championship round,1,Maccabi Haifa,Hapoel Tel Aviv,1,6,Hapoel Tel Aviv,3,0,Idan Leiba,Sammy Ofer Stadium,27532,2021/2022
+02/04/2022,7:00 pm, Championship round,2,Hapoel Tel Aviv,Bnei Sakhnin,6,4,Hapoel Tel Aviv,2,1,Dekel Tzino,Bloomfield,6700,2021/2022
+02/04/2022,7:00 pm, Championship round,2,Maccabi Netanya,Maccabi Tel Aviv,5,3,Maccabi Netanya,1,1,Igal Frid,Netanya Stadium,11100,2021/2022
+04/04/2022,7:30 pm, Championship round,2,Maccabi Haifa,Hapoel Beer Sheva,1,2,Hapoel Beer Sheva,2,0,Orel Grinfeld,Sammy Ofer Stadium,28457,2021/2022
+10/04/2022,7:00 pm, Championship round,3,Bnei Sakhnin,Maccabi Netanya,4,5,Maccabi Netanya,1,1,Yoav Mizrahi,Doha Stadium,2500,2021/2022
+10/04/2022,7:15 pm, Championship round,3,Hapoel Beer Sheva,Hapoel Tel Aviv,2,6,Hapoel Tel Aviv,2,2,Gal Leibovitz,Toto Jacob Turner Stadium,11633,2021/2022
+11/04/2022,7:30 pm, Championship round,3,Maccabi Tel Aviv,Maccabi Haifa,3,1,Maccabi Tel Aviv,1,1,Daniel Bar Natan,Bloomfield,25132,2021/2022
+16/04/2022,7:00 pm, Championship round,4,Maccabi Haifa,Bnei Sakhnin,1,5,Bnei Sakhnin,1,0,Snir Levi,Sammy Ofer Stadium,27253,2021/2022
+17/04/2022,7:30 pm, Championship round,4,Hapoel Beer Sheva,Maccabi Tel Aviv,2,3,Maccabi Tel Aviv,1,0,David Fucsman,Toto Jacob Turner Stadium,12550,2021/2022
+18/04/2022,7:00 pm, Championship round,4,Hapoel Tel Aviv,Maccabi Netanya,4,6,Maccabi Netanya,2,0,Niv Steif,Bloomfield,11570,2021/2022
+23/04/2022,4:30 pm, Championship round,5,Maccabi Netanya,Maccabi Haifa,4,1,Maccabi Netanya,3,0,Gal Leibovitz,Netanya Stadium,12217,2021/2022
+24/04/2022,7:15 pm, Championship round,5,Bnei Sakhnin,Hapoel Beer Sheva,6,2,Bnei Sakhnin,1,1,Idan Leiba,Doha Stadium,2000,2021/2022
+25/04/2022,7:30 pm, Championship round,5,Maccabi Tel Aviv,Hapoel Tel Aviv,3,5,Hapoel Tel Aviv,5,0,Eitan Shmuelevic,Bloomfield,25453,2021/2022
+30/04/2022,, Championship round,6,Bnei Sakhnin,Maccabi Tel Aviv,5,3,Bnei Sakhnin,1,0,Erez Papir,Doha Stadium,2500,2021/2022
+01/05/2022,, Championship round,6,Maccabi Netanya,Hapoel Beer Sheva,4,2,Maccabi Netanya,3,0,Eitan Shmuelevic,Netanya Stadium,8178,2021/2022
+02/05/2022,, Championship round,6,Hapoel Tel Aviv,Maccabi Haifa,6,1,Hapoel Tel Aviv,0,2,Roi Reinshreiber,Bloomfield,18300,2021/2022
+07/05/2022,, Championship round,7,Bnei Sakhnin,Hapoel Tel Aviv,4,6,Hapoel Tel Aviv,0,0,Aviad Shiloah,Doha Stadium,2200,2021/2022
+07/05/2022,, Championship round,7,Maccabi Tel Aviv,Maccabi Netanya,3,5,Maccabi Netanya,2,1,Snir Levi,Sammy Ofer Stadium,6450,2021/2022
+07/05/2022,, Championship round,7,Hapoel Beer Sheva,Maccabi Haifa,2,1,Hapoel Beer Sheva,1,0,David Fucsman,Toto Jacob Turner Stadium,12941,2021/2022
+10/05/2022,, Championship round,8,Hapoel Tel Aviv,Hapoel Beer Sheva,5,2,Hapoel Tel Aviv,2,1,Shalom Ben Avraham,Bloomfield,1600,2021/2022
+10/05/2022,, Championship round,8,Maccabi Haifa,Maccabi Tel Aviv,1,3,Maccabi Tel Aviv,1,3,Idan Leiba,Sammy Ofer Stadium,21141,2021/2022
+10/05/2022,, Championship round,8,Maccabi Netanya,Bnei Sakhnin,4,6,Bnei Sakhnin,3,0,Igal Frid,Netanya Stadium,6000,2021/2022
+16/05/2022,7:30 pm, Championship round,9,Maccabi Netanya,Hapoel Tel Aviv,4,5,Hapoel Tel Aviv,0,0,Roi Reinshreiber,Netanya Stadium,10772,2021/2022
+16/05/2022,7:30 pm, Championship round,9,Bnei Sakhnin,Maccabi Haifa,6,1,Bnei Sakhnin,0,3,tbc,HaMoshava Stadium,0,2021/2022
+16/05/2022,7:30 pm, Championship round,9,Maccabi Tel Aviv,Hapoel Beer Sheva,3,2,Maccabi Tel Aviv,1,1,Gal Leibovitz,Bloomfield,14762,2021/2022
+21/05/2022,7:30 pm, Championship round,10,Hapoel Tel Aviv,Maccabi Tel Aviv,5,3,Hapoel Tel Aviv,0,2,Orel Grinfeld,Bloomfield,23300,2021/2022
+21/05/2022,7:30 pm, Championship round,10,Hapoel Beer Sheva,Bnei Sakhnin,2,6,Bnei Sakhnin,3,1,Aviad Shiloah,Toto Jacob Turner Stadium,8527,2021/2022
+21/05/2022,7:30 pm, Championship round,10,Maccabi Haifa,Maccabi Netanya,1,4,Maccabi Netanya,4,0,Gal Leibovitz,Sammy Ofer Stadium,29258,2021/2022
+19/03/2022,5:30 pm,Relegation round,1,Ashdod,Hapoel Nazareth Illit,4,8,Hapoel Nazareth Illit,2,0,Orel Grinfeld,Yud-Alef Stadion,420,2021/2022
+20/03/2022,6:00 pm,Relegation round,1,Ironi Kiryat Shmona,Maccabi Petah Tikva,2,7,Maccabi Petah Tikva,1,1,Shalom Ben Avraham,Kiryat Shmona Municipal Stadium,350,2021/2022
+20/03/2022,7:15 pm,Relegation round,1,Hapoel Haifa,Beitar Jerusalem,3,5,Beitar Jerusalem,1,1,Daniel Bar Natan,Sammy Ofer Stadium,3100,2021/2022
+21/03/2022,7:00 pm,Relegation round,1,Hapoel Hadera,Hapoel Katamon Jerusalem,1,6,Hapoel Katamon Jerusalem,3,1,Igal Frid,Netanya Stadium,1100,2021/2022
+02/04/2022,3:00 pm,Relegation round,2,Hapoel Katamon Jerusalem,Hapoel Nazareth Illit,6,8,Hapoel Nazareth Illit,0,0,Roi Reinshreiber,Teddy-Kollek-Stadion,1989,2021/2022
+02/04/2022,5:00 pm,Relegation round,2,Maccabi Petah Tikva,Hapoel Haifa,7,3,Maccabi Petah Tikva,0,0,David Fucsman,HaMoshava Stadium,800,2021/2022
+03/04/2022,6:00 pm,Relegation round,2,Hapoel Hadera,Ironi Kiryat Shmona,1,2,Ironi Kiryat Shmona,1,4,Aviad Shiloah,Netanya Stadium,630,2021/2022
+03/04/2022,7:15 pm,Relegation round,2,Beitar Jerusalem,Ashdod,5,4,Beitar Jerusalem,1,0,Liran Liany,Teddy-Kollek-Stadion,4600,2021/2022
+09/04/2022,3:00 pm,Relegation round,3,Ironi Kiryat Shmona,Hapoel Katamon Jerusalem,1,6,Hapoel Katamon Jerusalem,2,1,Liran Liany,Kiryat Shmona Municipal Stadium,663,2021/2022
+09/04/2022,4:30 pm,Relegation round,3,Ashdod,Maccabi Petah Tikva,4,7,Maccabi Petah Tikva,1,0,Roi Reinshreiber,Yud-Alef Stadion,385,2021/2022
+09/04/2022,5:30 pm,Relegation round,3,Hapoel Haifa,Hapoel Hadera,3,2,Hapoel Haifa,1,0,Sapir Berman,Sammy Ofer Stadium,500,2021/2022
+09/04/2022,6:50 pm,Relegation round,3,Hapoel Nazareth Illit,Beitar Jerusalem,8,5,Hapoel Nazareth Illit,0,2,Igal Frid,Green Stadium,2000,2021/2022
+23/04/2022,3:00 pm,Relegation round,4,Maccabi Petah Tikva,Hapoel Nazareth Illit,8,7,Maccabi Petah Tikva,0,4,Daniel Bar Natan,HaMoshava Stadium,800,2021/2022
+23/04/2022,5:00 pm,Relegation round,4,Ironi Kiryat Shmona,Hapoel Haifa,1,4,Hapoel Haifa,4,0,Majed Rushrush,Kiryat Shmona Municipal Stadium,250,2021/2022
+23/04/2022,7:00 pm,Relegation round,4,Hapoel Katamon Jerusalem,Beitar Jerusalem,6,5,Hapoel Katamon Jerusalem,0,1,David Fucsman,Teddy-Kollek-Stadion,7049,2021/2022
+24/04/2022,6:00 pm,Relegation round,4,Hapoel Hadera,Ashdod,2,3,Ashdod,2,3,Ohad Asulin,Netanya Stadium,506,2021/2022
+30/04/2022,,Relegation round,5,Hapoel Haifa,Hapoel Katamon Jerusalem,4,6,Hapoel Katamon Jerusalem,0,2,Igal Frid,Sammy Ofer Stadium,1000,2021/2022
+30/04/2022,,Relegation round,5,Hapoel Nazareth Illit,Hapoel Hadera,8,2,Hapoel Nazareth Illit,0,2,Gal Leibovitz,Green Stadium,1520,2021/2022
+30/04/2022,,Relegation round,5,Beitar Jerusalem,Maccabi Petah Tikva,5,7,Maccabi Petah Tikva,2,2,Snir Levi,Teddy-Kollek-Stadion,5000,2021/2022
+01/05/2022,,Relegation round,5,Ashdod,Ironi Kiryat Shmona,3,1,Ashdod,1,3,Meitar Shemesh,Yud-Alef Stadion,444,2021/2022
+08/05/2022,,Relegation round,6,Hapoel Katamon Jerusalem,Maccabi Petah Tikva,6,7,Maccabi Petah Tikva,1,0,Gal Leibovitz,Teddy-Kollek-Stadion,5136,2021/2022
+08/05/2022,,Relegation round,6,Ironi Kiryat Shmona,Hapoel Nazareth Illit,1,8,Hapoel Nazareth Illit,2,0,Roi Reinshreiber,Kiryat Shmona Municipal Stadium,500,2021/2022
+08/05/2022,7:30 pm,Relegation round,6,Hapoel Hadera,Beitar Jerusalem,2,4,Beitar Jerusalem,1,2,Or Lugasi,Netanya Stadium,2909,2021/2022
+09/05/2022,,Relegation round,6,Hapoel Haifa,Ashdod,5,3,Hapoel Haifa,1,2,Sapir Berman,Sammy Ofer Stadium,300,2021/2022
+14/05/2022,5:45 pm,Relegation round,7,Beitar Jerusalem,Ironi Kiryat Shmona,4,1,Beitar Jerusalem,3,3,Aviram Maatmon,Teddy-Kollek-Stadion,3000,2021/2022
+14/05/2022,6:00 pm,Relegation round,7,Ashdod,Hapoel Katamon Jerusalem,3,6,Hapoel Katamon Jerusalem,0,1,Nael Odeh,Yud-Alef Stadion,570,2021/2022
+14/05/2022,6:00 pm,Relegation round,7,Hapoel Nazareth Illit,Hapoel Haifa,8,5,Hapoel Nazareth Illit,1,0,Meitar Shemesh,Green Stadium,100,2021/2022
+14/05/2022,6:00 pm,Relegation round,7,Maccabi Petah Tikva,Hapoel Hadera,7,2,Maccabi Petah Tikva,4,3,Dekel Tzino,HaMoshava Stadium,300,2021/2022
