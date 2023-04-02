@@ -1,7 +1,9 @@
 *.csv
 *.jar
 *.xlsx
-/.idea
-/Lib/site-packages
-/Scripts
-/__pycache__
+./.idea
+./rearrange_data
+./tries
+./Lib/site-packages
+./Scripts
+./__pycache__

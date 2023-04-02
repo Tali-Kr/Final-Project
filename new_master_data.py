@@ -256,6 +256,12 @@ rearanged_cols_order = pd.read_csv('cols_name_new.csv')  # New order of the colu
 cols = rearanged_cols_order.columns.tolist()
 master_df = master_df[cols]
 
+# Determining the dat of the week of the game
+master_df['day_of_week_num'] = master_df['date'].apply(lambda x: str(x.weekday()))  # Getting the day of the week
+days_dic = {'0': 'Monday', '1': 'Tuesday', '2': 'Wednesday', '3': 'Thursday', '4': 'Friday', '5': 'Saturday',
+            '6': 'Sunday'}  # Creating a dictionery to change the number of the day of the week to the name of the day.
+master_df['day_of_week'] = master_df['day_of_week_num'].apply(lambda x: days_dic.get(x))
+
 # To see what is the runtime
 t_end = time.time()
 print(t_end - t_start)
