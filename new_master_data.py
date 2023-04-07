@@ -128,62 +128,84 @@ master_df.rename(columns={'promoted': 'away_promoted', 'pts': 'away_league_pts',
 
 
 def underdog(x):
-    pre_season = int(x['season']) - 1
-    home = x['home_team']
-    away = x['away_team']
-    prevois_season_bottom = master_df[(master_df['season'] == pre_season) &
-                                      ((master_df['round_type'] == 'Relegation Round') & (master_df['round'] == 7))]
-    prevois_season_top = master_df[(master_df['season'] == pre_season) &
-                                   ((master_df['round_type'] == 'Championship Round') & (master_df['round'] == 10))]
+    """
+    Determs which team is the underdog team.
+    :param x: series. A record from a data frame.
+    :return: string. which team is the underdog.
+    """
+    pre_season = int(x['season']) - 1  # saves the previous season number.
+    home = x['home_team']  # saves the home team of the record.
+    away = x['away_team']  # saves the away team of the record.
+    # Fillters the master_df dataframe to bottom and top playoff in the previous season.
+    previous_season_bottom = master_df[(master_df['season'] == pre_season) &
+                                       ((master_df['round_type'] == 'Relegation Round') & (master_df['round'] == 7))]
+    previous_season_top = master_df[(master_df['season'] == pre_season) &
+                                    ((master_df['round_type'] == 'Championship Round') & (master_df['round'] == 10))]
+    # Checks if the record is in the first round of the Regular season.
     if (x['round_type'] == 'Regular Season') and (x['round'] == 1):
+        # The check is irrelevant to the first round that on the record in the dataset due
+        # to lack of access to the previous season.
         if int(x['season']) > 2012:
-            if home in prevois_season_top['home_team'].values or home in prevois_season_top['away_team'].values:
-                if away in prevois_season_top['home_team'].values or away in prevois_season_top['away_team'].values:
-                    if prevois_season_top[prevois_season_top['home_team'] == home].empty:
-                        home_position = prevois_season_top[prevois_season_top['away_team'] == home]['away_position']
+            # checks if the home team is in the top playoff.
+            if home in previous_season_top['home_team'].values or home in previous_season_top['away_team'].values:
+                # checks if the away team is in the top playoff.
+                if away in previous_season_top['home_team'].values or away in previous_season_top['away_team'].values:
+                    # checks to which coulmn to access to get the right value.
+                    if previous_season_top[previous_season_top['home_team'] == home].empty:
+                        home_position = previous_season_top[previous_season_top['away_team'] == home]['away_position']
                     else:
-                        home_position = prevois_season_top[prevois_season_top['home_team'] == home]['home_position']
-                    if prevois_season_top[prevois_season_top['home_team'] == away].empty:
-                        away_position = prevois_season_top[prevois_season_top['away_team'] == away]['away_position']
+                        home_position = previous_season_top[previous_season_top['home_team'] == home]['home_position']
+                    if previous_season_top[previous_season_top['home_team'] == away].empty:
+                        away_position = previous_season_top[previous_season_top['away_team'] == away]['away_position']
                     else:
-                        away_position = prevois_season_top[prevois_season_top['home_team'] == away]['home_position']
+                        away_position = previous_season_top[previous_season_top['home_team'] == away]['home_position']
+                    # If both away and home teams are in the top playoff the higher number of the position in the league
+                    # table is determs the underdog team.
                     if home_position.values > away_position.values:
                         return home
                     else:
                         return away
-                else:
+                else:  # If home team is in the top playoff the the away team isn't => the underdog is the away team.
                     return away
-            elif home in prevois_season_bottom['home_team'].values or home in prevois_season_bottom['away_team'].values:
-                if away in prevois_season_bottom['home_team'].values or \
-                   away in prevois_season_bottom['away_team'].values:
-                    if prevois_season_bottom[prevois_season_bottom['home_team'] == home].empty:
-                        home_position = prevois_season_bottom[prevois_season_bottom['away_team'] == home]['away_position']
+            # Check if the home team is in the bottom playoff.
+            elif home in previous_season_bottom['home_team'].values or home in previous_season_bottom['away_team'].values:
+                # Check if the away team is in the bottom playoff.
+                if away in previous_season_bottom['home_team'].values or \
+                   away in previous_season_bottom['away_team'].values:
+                    # checks to which coulmn to access to get the right value.
+                    if previous_season_bottom[previous_season_bottom['home_team'] == home].empty:
+                        home_position = previous_season_bottom[previous_season_bottom['away_team'] == home]['away_position']
                     else:
-                        home_position = prevois_season_bottom[prevois_season_bottom['home_team'] == home]['home_position']
-                    if prevois_season_bottom[prevois_season_bottom['home_team'] == away].empty:
-                        away_position = prevois_season_bottom[prevois_season_bottom['away_team'] == away]['away_position']
+                        home_position = previous_season_bottom[previous_season_bottom['home_team'] == home]['home_position']
+                    if previous_season_bottom[previous_season_bottom['home_team'] == away].empty:
+                        away_position = previous_season_bottom[previous_season_bottom['away_team'] == away]['away_position']
                     else:
-                        away_position = prevois_season_bottom[prevois_season_bottom['home_team'] == away]['home_position']
-
+                        away_position = previous_season_bottom[previous_season_bottom['home_team'] == away]['home_position']
+                    # If both away and home teams are in the bottom playoff the higher number of the position in the
+                    # league table is determs the underdog team.
                     if home_position.values > away_position.values:
                         return home
                     else:
                         return away
                 else:
-                    if away in prevois_season_top['home_team'].values or away in prevois_season_top['away_team'].values:
+                    # If home team is in the bottom playoff and the away team is on the top playoff => the underdog is
+                    #                                                                                     the home team.
+                    if away in previous_season_top['home_team'].values or away in previous_season_top['away_team'].values:
                         return home
-                    else:
+                    else:  # If the home team is in the bottom playoff and the away team isn't in the top or the
+                    # bottom playoff => the away team is the underdog because it was promoted to the league this season.
                         return away
-            else:
-                if away in prevois_season_top['home_team'].values or away in prevois_season_top['away_team'].values:
+            else:  # the home team was promoted to the league this season.
+                # The underdog is the home team unless the away team was promoted to the league this season as well.
+                if away in previous_season_top['home_team'].values or away in previous_season_top['away_team'].values:
                     return home
-                elif away in prevois_season_bottom['home_team'].values or \
-                     away in prevois_season_bottom['away_team'].values:
+                elif away in previous_season_bottom['home_team'].values or \
+                     away in previous_season_bottom['away_team'].values:
                     return home
-                else:
+                else:  # If the away team was promoted to the league this season as well there is no underdog.
                     return None
-        return None
-    else:
+        return None  # To all the records of the first round of the 2012 season.
+    else:  # The record is not in the first round of the Regular season.
         if x['home_pos_b4_game'] > x['away_pos_b4_game']:
             return home
         else:
