@@ -126,9 +126,74 @@ master_df.drop(['key'], axis='columns', inplace=True)
 master_df.rename(columns={'promoted': 'away_promoted', 'pts': 'away_league_pts', 'relegated': 'away_is_relegated',
                           'champion': 'away_is_champion', 'pos_b4_game': 'away_pos_b4_game'}, inplace=True)
 
-################################
-################################
 
+def underdog(x):
+    pre_season = int(x['season']) - 1
+    home = x['home_team']
+    away = x['away_team']
+    prevois_season_bottom = master_df[(master_df['season'] == pre_season) &
+                                      ((master_df['round_type'] == 'Relegation Round') & (master_df['round'] == 7))]
+    prevois_season_top = master_df[(master_df['season'] == pre_season) &
+                                   ((master_df['round_type'] == 'Championship Round') & (master_df['round'] == 10))]
+    if (x['round_type'] == 'Regular Season') and (x['round'] == 1):
+        if int(x['season']) > 2012:
+            if home in prevois_season_top['home_team'].values or home in prevois_season_top['away_team'].values:
+                if away in prevois_season_top['home_team'].values or away in prevois_season_top['away_team'].values:
+                    if prevois_season_top[prevois_season_top['home_team'] == home].empty:
+                        home_position = prevois_season_top[prevois_season_top['away_team'] == home]['away_position']
+                    else:
+                        home_position = prevois_season_top[prevois_season_top['home_team'] == home]['home_position']
+                    if prevois_season_top[prevois_season_top['home_team'] == away].empty:
+                        away_position = prevois_season_top[prevois_season_top['away_team'] == away]['away_position']
+                    else:
+                        away_position = prevois_season_top[prevois_season_top['home_team'] == away]['home_position']
+                    if home_position.values > away_position.values:
+                        return home
+                    else:
+                        return away
+                else:
+                    return away
+            elif home in prevois_season_bottom['home_team'].values or home in prevois_season_bottom['away_team'].values:
+                if away in prevois_season_bottom['home_team'].values or \
+                   away in prevois_season_bottom['away_team'].values:
+                    if prevois_season_bottom[prevois_season_bottom['home_team'] == home].empty:
+                        home_position = prevois_season_bottom[prevois_season_bottom['away_team'] == home]['away_position']
+                    else:
+                        home_position = prevois_season_bottom[prevois_season_bottom['home_team'] == home]['home_position']
+                    if prevois_season_bottom[prevois_season_bottom['home_team'] == away].empty:
+                        away_position = prevois_season_bottom[prevois_season_bottom['away_team'] == away]['away_position']
+                    else:
+                        away_position = prevois_season_bottom[prevois_season_bottom['home_team'] == away]['home_position']
+
+                    if home_position.values > away_position.values:
+                        return home
+                    else:
+                        return away
+                else:
+                    if away in prevois_season_top['home_team'].values or away in prevois_season_top['away_team'].values:
+                        return home
+                    else:
+                        return away
+            else:
+                if away in prevois_season_top['home_team'].values or away in prevois_season_top['away_team'].values:
+                    return home
+                elif away in prevois_season_bottom['home_team'].values or \
+                     away in prevois_season_bottom['away_team'].values:
+                    return home
+                else:
+                    return None
+        return None
+    else:
+        if x['home_pos_b4_game'] > x['away_pos_b4_game']:
+            return home
+        else:
+            return away
+
+
+master_df['underdog'] = master_df.apply(underdog, axis=1)
+
+################################
+################################
 
 # Import files
 stadiums = pd.read_csv(r'data_tables/Stadiums_In_Israel.csv')
@@ -266,5 +331,5 @@ master_df['day_of_week'] = master_df['day_of_week_num'].apply(lambda x: days_dic
 t_end = time.time()
 print(t_end - t_start)
 
-# master_df.to_csv("master_data__new__01_04.csv")
+# master_df.to_csv("master_data__new__07_04.csv")
 print(0)
