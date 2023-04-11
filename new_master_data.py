@@ -270,16 +270,14 @@ master_df['unique_away'] = master_df['away_team'] + master_df['season'].astype(s
 clubs_stadiums['unique'] = clubs_stadiums['club'] + clubs_stadiums['year'].astype(str)
 
 # get home team by joining the clubs stadiums and year table with the dataset
-master_df = master_df.merge(clubs_stadiums[['unique', 'stadium']], how='left', left_on=['unique_home'],
-                            right_on=['unique'])
-master_df.drop(['unique', 'unique_home'], axis='columns', inplace=True)
-master_df.rename(columns={'stadium_y': 'home_team_stadium', 'stadium_x': 'game_stadium'}, inplace=True)
+master_df = master_df.merge(clubs_stadiums[['unique', 'stadium','clubs_city']], how='left', left_on=['unique_home'], right_on=['unique'])
+master_df.drop(['unique','unique_home'], axis='columns', inplace=True)
+master_df.rename(columns={'stadium_y': 'home_team_stadium', 'stadium_x': 'game_stadium', 'clubs_city': 'home_team_city'}, inplace=True)
 
 # get away team by joining the clubs stadiums and year table with the dataset
-master_df = master_df.merge(clubs_stadiums[['unique', 'stadium']], how='left', left_on=['unique_away'],
-                            right_on=['unique'])
-master_df.drop(['unique', 'unique_away'], axis='columns', inplace=True)
-master_df.rename(columns={'stadium': 'away_team_stadium'}, inplace=True)
+master_df = master_df.merge(clubs_stadiums[['unique', 'stadium','clubs_city']], how='left', left_on=['unique_away'], right_on=['unique'])
+master_df.drop(['unique','unique_away'], axis='columns', inplace=True)
+master_df.rename(columns={'stadium': 'away_team_stadium', 'clubs_city': 'away_team_city'}, inplace=True)
 
 # get home team stadium coordinates by joining the 'Stadium_in_israel' table and the dataset
 master_df = master_df.merge(stadiums[['Stadium', 'coordinates']], how='left', left_on=['home_team_stadium'],
@@ -325,18 +323,6 @@ master_df.drop(['Stadium'], axis='columns', inplace=True)
 master_df['stadium_age'] = pd.DatetimeIndex(master_df['date'], dayfirst=True).year - master_df['built_in']
 # Stadium's Age at the same time when the game occurred squared.
 master_df['stadium_age_squared'] = master_df['stadium_age'].apply(lambda x: x ** 2)
-
-# Home team city (join with 'Stadiums_in_israel' table and the dataset)
-master_df = master_df.merge(stadiums[['Stadium', 'City']], how='left', left_on=['home_team_stadium'],
-                            right_on=['Stadium'])
-master_df.drop(['Stadium'], axis='columns', inplace=True)
-master_df.rename(columns={'City': 'home_team_city'}, inplace=True)
-
-# away team city (join with 'Stadiums_in_israel' table and the dataset)
-master_df = master_df.merge(stadiums[['Stadium', 'City']], how='left', left_on=['away_team_stadium'],
-                            right_on=['Stadium'])
-master_df.drop(['Stadium'], axis='columns', inplace=True)
-master_df.rename(columns={'City': 'away_team_city'}, inplace=True)
 
 # Rearanging columns order for more logic order.
 rearanged_cols_order = pd.read_csv('cols_name_new.csv')  # New order of the columns.
