@@ -8,6 +8,7 @@ import time
 from fuzzywuzzy import fuzz
 import numpy as np
 import geopy.distance
+from is_underdog_check import is_underdog, pts_b4_game_home, pts_b4_game_away
 
 t_start = time.time()  # To know the timerun of the program
 
@@ -21,7 +22,7 @@ master_df.rename(columns={'match_date': 'date', 'season_round': 'round'}, inplac
 def get_cities(team):
     """
     Extracts the city's name from the club's name.
-    All of the clubs have their home city in the club's name, most of the time the name appears on the second word in the name.
+    All of the clubs have their home city in the club's name.
     :param team: string. Team's name that needed to get the city's name.
     :return: string. City's name
     """
@@ -34,7 +35,7 @@ def get_cities(team):
 
 def is_derby(record):
     """
-    Checks if a game is a derby one. Meaning the function checks if the home team and the away team are from the same city.
+    Checks if the game is a derby. Meaning the function checks if the home and away teams are from the same city.
     :param record: Series. A row from the dataframe that needs to check if the game is a derby.
     :return: 1 => if the game is a derby game.
              0 => if the game is NOT a derby game.
@@ -126,93 +127,12 @@ master_df.drop(['key'], axis='columns', inplace=True)
 master_df.rename(columns={'promoted': 'away_promoted', 'pts': 'away_league_pts', 'relegated': 'away_is_relegated',
                           'champion': 'away_is_champion', 'pos_b4_game': 'away_pos_b4_game'}, inplace=True)
 
+# master_df.to_csv("master_data_temp.csv")
 
-def underdog(x):
-    """
-    Determs which team is the underdog team.
-    :param x: series. A record from a data frame.
-    :return: string. which team is the underdog.
-    """
-    pre_season = int(x['season']) - 1  # saves the previous season number.
-    home = x['home_team']  # saves the home team of the record.
-    away = x['away_team']  # saves the away team of the record.
-    # Fillters the master_df dataframe to bottom and top playoff in the previous season.
-    previous_season_bottom = master_df[(master_df['season'] == pre_season) &
-                                       ((master_df['round_type'] == 'Relegation Round') & (master_df['round'] == 7))]
-    previous_season_top = master_df[(master_df['season'] == pre_season) &
-                                    ((master_df['round_type'] == 'Championship Round') & (master_df['round'] == 10))]
-    # Checks if the record is in the first round of the Regular season.
-    if (x['round_type'] == 'Regular Season') and (x['round'] == 1):
-        # The check is irrelevant to the first round that on the record in the dataset due
-        # to lack of access to the previous season.
-        if int(x['season']) > 2012:
-            # checks if the home team is in the top playoff.
-            if home in previous_season_top['home_team'].values or home in previous_season_top['away_team'].values:
-                # checks if the away team is in the top playoff.
-                if away in previous_season_top['home_team'].values or away in previous_season_top['away_team'].values:
-                    # checks to which coulmn to access to get the right value.
-                    if previous_season_top[previous_season_top['home_team'] == home].empty:
-                        home_position = previous_season_top[previous_season_top['away_team'] == home]['away_position']
-                    else:
-                        home_position = previous_season_top[previous_season_top['home_team'] == home]['home_position']
-                    if previous_season_top[previous_season_top['home_team'] == away].empty:
-                        away_position = previous_season_top[previous_season_top['away_team'] == away]['away_position']
-                    else:
-                        away_position = previous_season_top[previous_season_top['home_team'] == away]['home_position']
-                    # If both away and home teams are in the top playoff the higher number of the position in the league
-                    # table is determs the underdog team.
-                    if home_position.values > away_position.values:
-                        return home
-                    else:
-                        return away
-                else:  # If home team is in the top playoff the the away team isn't => the underdog is the away team.
-                    return away
-            # Check if the home team is in the bottom playoff.
-            elif home in previous_season_bottom['home_team'].values or home in previous_season_bottom['away_team'].values:
-                # Check if the away team is in the bottom playoff.
-                if away in previous_season_bottom['home_team'].values or \
-                   away in previous_season_bottom['away_team'].values:
-                    # checks to which coulmn to access to get the right value.
-                    if previous_season_bottom[previous_season_bottom['home_team'] == home].empty:
-                        home_position = previous_season_bottom[previous_season_bottom['away_team'] == home]['away_position']
-                    else:
-                        home_position = previous_season_bottom[previous_season_bottom['home_team'] == home]['home_position']
-                    if previous_season_bottom[previous_season_bottom['home_team'] == away].empty:
-                        away_position = previous_season_bottom[previous_season_bottom['away_team'] == away]['away_position']
-                    else:
-                        away_position = previous_season_bottom[previous_season_bottom['home_team'] == away]['home_position']
-                    # If both away and home teams are in the bottom playoff the higher number of the position in the
-                    # league table is determs the underdog team.
-                    if home_position.values > away_position.values:
-                        return home
-                    else:
-                        return away
-                else:
-                    # If home team is in the bottom playoff and the away team is on the top playoff => the underdog is
-                    #                                                                                     the home team.
-                    if away in previous_season_top['home_team'].values or away in previous_season_top['away_team'].values:
-                        return home
-                    else:  # If the home team is in the bottom playoff and the away team isn't in the top or the
-                    # bottom playoff => the away team is the underdog because it was promoted to the league this season.
-                        return away
-            else:  # the home team was promoted to the league this season.
-                # The underdog is the home team unless the away team was promoted to the league this season as well.
-                if away in previous_season_top['home_team'].values or away in previous_season_top['away_team'].values:
-                    return home
-                elif away in previous_season_bottom['home_team'].values or \
-                     away in previous_season_bottom['away_team'].values:
-                    return home
-                else:  # If the away team was promoted to the league this season as well there is no underdog.
-                    return None
-        return None  # To all the records of the first round of the 2012 season.
-    else:  # The record is not in the first round of the Regular season.
-        if x['home_pos_b4_game'] > x['away_pos_b4_game']:
-            return home
-        else:
-            return away
+master_df['underdog'] = master_df.apply(is_underdog, axis=1)
 
-
-master_df['underdog'] = master_df.apply(underdog, axis=1)
+master_df['home_lg_b4_game'] = master_df.apply(lambda x: pts_b4_game_home(x), axis=1)
+master_df['away_lg_b4_game'] = master_df.apply(lambda x: pts_b4_game_away(x), axis=1)
 
 ################################
 ################################
@@ -339,5 +259,5 @@ master_df['day_of_week'] = master_df['day_of_week_num'].apply(lambda x: days_dic
 t_end = time.time()
 print(t_end - t_start)
 
-# master_df.to_csv("master_data__new__07_04.csv")
+#master_df.to_csv("master_data__new__30_04.csv")
 print(0)
