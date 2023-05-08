@@ -22,7 +22,7 @@ end = list(map(lambda x: datetime.strptime(x, '%H:%M:%S').time(),
                ['16:00:00', '17:00:00', '18:00:00', '19:00:00', '20:00:00', '21:00:00', '22:00:00', '23:00:00']))
 
 
-def kot_determining(t):  # new master df
+def kot_determining(t):
     """
     Determining the kot category (i.e. 15-16 for kot = 15:50, 19-20 for kot = 19:00)
     :param t: datetime. Kot of the game to categorize.
@@ -75,11 +75,11 @@ leagues_files = ["bundesliga.csv", "laliga.csv", "league_1.csv", "premier_league
 path = "C:/Users/talik/OneDrive - ac.sce.ac.il/SCE/Final_Project/web scraping/14_03_2023/"
 earopean_leagues = pd.DataFrame()
 
-# Appending the data of the cvs files to a data frame
+# Combining the data of the cvs files to a data frame
 for file in leagues_files:
     location = path + str(file)
     df_temp = pd.read_csv(location)
-    earopean_leagues = earopean_leagues.append(df_temp, ignore_index=True)
+    earopean_leagues = pd.concat([earopean_leagues, df_temp])
 
 earopean_leagues = earopean_leagues[['matchDate', 'matchHour']]  # Extracting onlty the relevant columns.
 earopean_leagues.rename(columns={'matchDate': 'match_date', 'matchHour': 'kot'}, inplace=True)
