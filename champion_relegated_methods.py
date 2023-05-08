@@ -1,14 +1,19 @@
 import pandas as pd
 
-league_table = pd.read_csv(r'data_tables/league_tables_2012_2021.csv')
+# league_table = pd.read_csv(r'data_tables/league_tables_2012_2021.csv')
+league_table = pd.read_csv('league_tables_2021_2022_fixed.csv')
+
+#region done in the league_table_fixer
 # Changing the 'game' name
-league_table['game'] = league_table['game'].str.replace('Relegation round', 'Relegation Round')
-league_table['game'] = league_table['game'].str.replace('Regular', 'Regular Season')
-# changing the pos from 0-13 / 0-5 / 0-7 to 1-14 / 1-6 / 1-8
-league_table['team_pos'] = league_table['team_pos'].apply(lambda pos: pos + 1)
+# league_table['game'] = league_table['game'].str.replace('Relegation round', 'Relegation Round')
+# league_table['game'] = league_table['game'].str.replace('Regular', 'Regular Season')
+# # changing the pos from 0-13 / 0-5 / 0-7 to 1-14 / 1-6 / 1-8
+# league_table['team_pos'] = league_table['team_pos'].apply(lambda pos: pos + 1)
 # Creates unique key for each record in league_table dataframe
-league_table['key'] = league_table.apply(lambda x: str(x['season']) + ' - ' + str(x['game']) + ' - ' + str(x['round'])
-                                                   + ' - ' + str(x['clubs_name']), axis=1)
+#endregion
+
+league_table['key'] = league_table.apply(lambda x: str(x['season']) + ' - ' + str(x['round_type']) + ' - ' + str(x['round'])
+                                                   + ' - ' + str(x['team']), axis=1)
 
 
 def previous_round_pos(record):
@@ -21,18 +26,18 @@ def previous_round_pos(record):
     # All the rounds but the first of each round type (regular season, relegation or championship round).
     if record['round'] != 1:
         # Fillters out the relevant season, round type, team's name in the previous round, and gets the position.
-        pos = league_table[(league_table['game'] == record['game']) &
+        pos = league_table[(league_table['round_type'] == record['round_type']) &
                            (league_table['season'] == record['season']) &
                            (league_table['round'] == (record['round']) - 1) &
-                           (league_table['clubs_name'] == (record['clubs_name']))]['team_pos']
+                           (league_table['team'] == (record['team']))]['team_pos']
         return int(pos.values)
     else:  # For the first round of each round type (regular season, relegation or championship round).
         # The check is irrelevant for the first round in the regular season.
-        if record['game'] == 'Relegation Round' or record['game'] == 'Championship Round':
-            pos = league_table[(league_table['game'] == 'Regular Season') &
+        if record['round_type'] == 'Relegation Round' or record['round_type'] == 'Championship Round':
+            pos = league_table[(league_table['round_type'] == 'Regular Season') &
                                (league_table['season'] == record['season']) &
                                (league_table['round'] == 26) &
-                               (league_table['clubs_name'] == (record['clubs_name']))]['team_pos']
+                               (league_table['team'] == (record['team']))]['team_pos']
             return int(pos.values)
     return pos
 
@@ -51,31 +56,31 @@ def pts_difference(code, record):
     if code == 7:  # code = 7 => bottom playoff (relegation)
         # For bottom playoff the importent pts differences are between 6th and 7th / 8th places.
         # pos_6 is the number of pts that the 6th place team had on the previous round of the given record's.
-        pos_6 = int(league_table[(league_table['game'] == record['game']) &
+        pos_6 = int(league_table[(league_table['round_type'] == record['round_type']) &
                                  (league_table['season'] == record['season']) &
                                  (league_table['round'] == (record['round']) - 1) &
                                  (league_table['team_pos'] == 6)]['pts'])
 
         # team_pos is the number of pts that the team had on the previous round of the given record's
         # (the team's places are 7th or 8th).
-        team_pos = int(league_table[(league_table['game'] == record['game']) &
+        team_pos = int(league_table[(league_table['round_type'] == record['round_type']) &
                                     (league_table['season'] == record['season']) &
                                     (league_table['round'] == (record['round']) - 1) &
-                                    (league_table['clubs_name'] == record['clubs_name'])]['pts'])
+                                    (league_table['team'] == record['team'])]['pts'])
         diff = (pos_6 - team_pos)
         return diff
 
     else:  # code = 10 => top playoff (championship)
         # For top playoff the importent pts difference is between 1st and 2nd places.
         # pos_1 is the number of pts that the team had on the previous round of the given record's that was in 1st place
-        pos_1 = int(league_table[(league_table['game'] == record['game']) &
+        pos_1 = int(league_table[(league_table['round_type'] == record['round_type']) &
                                  (league_table['season'] == record['season']) &
                                  (league_table['round'] == (record['round']) - 1) &
                                  (league_table['team_pos'] == 1) &
-                                 (league_table['clubs_name'] == record['clubs_name'])]['pts'])
+                                 (league_table['team'] == record['team'])]['pts'])
 
         # pos_2 is the number of pts that the 2nd place team had on the previous round of the given record's.
-        pos_2 = int(league_table[(league_table['game'] == record['game']) &
+        pos_2 = int(league_table[(league_table['round_type'] == record['round_type']) &
                                  (league_table['season'] == record['season']) &
                                  (league_table['round'] == (record['round']) - 1) &
                                  (league_table['team_pos'] == 2)]['pts'])
@@ -92,7 +97,7 @@ def relegation_championship_check(record):
                   played as already relegated - in the relegation round
              0 => Didnt play as .....
     """
-    if record['game'] == 'Relegation Round':  # Checks if the game is in the relegation round.
+    if record['round_type'] == 'Relegation Round':  # Checks if the game is in the relegation round.
         if record['round'] > 4:  # The relegation check is relevant from the 5th round.
             if record['team_pos'] > 6:  # The relegation check is relevant for the 7th and 8th places.
                 max_pts = 3 * (7 - (record['round'] - 1))  # Max pts that the team can win until the end of the season.
@@ -103,14 +108,14 @@ def relegation_championship_check(record):
                 else:  # If NOT => It can't be said for sure if the given team is relegated.
                     return 0
 
-    elif record['game'] == 'Championship Round':  # Checks if the game is in the championship round.
+    elif record['round_type'] == 'Championship Round':  # Checks if the game is in the championship round.
         if record['round'] > 5:  # The championship check is relevant from the 7th round.
             if record['team_pos'] == 1:  # The championship check is relevant only for the first place in the round.
-                a = league_table[(league_table['game'] == record['game']) &
+                a = league_table[(league_table['round_type'] == record['round_type']) &
                                  (league_table['season'] == record['season']) &
                                  (league_table['round'] == (record['round']) - 1) &
                                  (league_table['team_pos'] == 1) &
-                                 (league_table['clubs_name'] == record['clubs_name'])]
+                                 (league_table['team'] == record['team'])]
                 if not a.empty:
                     max_pts = 3 * (10 - (
                             record['round'] - 1))  # Max pts that the team can win until the end of the season.
@@ -126,6 +131,6 @@ def relegation_championship_check(record):
 
 # Check if the teams played as a champion or relegated.
 league_table['relegated'] = league_table.apply(
-    lambda x: relegation_championship_check(x) if x['game'] == 'Relegation Round' else None, axis=1)
+    lambda x: relegation_championship_check(x) if x['round_type'] == 'Relegation Round' else None, axis=1)
 league_table['champion'] = league_table.apply(
-    lambda x: relegation_championship_check(x) if x['game'] == 'Championship Round' else None, axis=1)
+    lambda x: relegation_championship_check(x) if x['round_type'] == 'Championship Round' else None, axis=1)

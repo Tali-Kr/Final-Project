@@ -97,7 +97,7 @@ master_df['while_champion_league'] = \
 master_df['while_european_games'] = \
     master_df.apply(lambda x: while_champion_european_leagues(x['kot'], x['date'], "earopean_leagues"), axis=1)
 
-# Changing the tound type name to match to league_table's values.
+# Changing the round type name to match league_table's values.
 master_df['round_type'] = master_df['round_type'].str.replace('Relegation round', 'Relegation Round')
 master_df['round_type'] = master_df['round_type'].str.replace('Regular round', 'Regular Season')
 master_df['round_type'] = master_df['round_type'].str.replace('Championship round', 'Championship Round')
@@ -259,5 +259,5 @@ master_df['day_of_week'] = master_df['day_of_week_num'].apply(lambda x: days_dic
 t_end = time.time()
 print(t_end - t_start)
 
-#master_df.to_csv("master_data__new__30_04.csv")
+# master_df.to_csv("master_data__new__08_05.csv")
 print(0)
