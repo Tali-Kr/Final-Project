@@ -1,7 +1,7 @@
 # Building a model to find the optimal day for a soccer game in the Israeli Premier League "Ligat Ha’Al"
 The project is for the final project to graduate with a bachelor's in Industrial engineering at the SCE college.
 
-<img width="575" alt="clubs_stat" src="https://github.com/Tali-Kr/Final-Project/assets/126663704/9d074c13-e542-41d5-950a-592e15cc60b3">
+<img width="575" alt="clubs_stat" src="https://github.com/Tali-Kr/Final-Project/assets/126663704/9d074c13-e542-41d5-950a-592e15cc60b3" align="center">
 
 ## Project Overview
 As part of the project, we conducted a comprehensive study on the influence of match days on both Israeli soccer teams and their respective audiences.
