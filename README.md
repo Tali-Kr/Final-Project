@@ -1,4 +1,4 @@
-# Finding the optimal day for a soccer game in the Israeli primere league "Ligat Ha'al"
+# Building a model to find the optimal day for a soccer game in the Israeli Premier League "Ligat Ha’Al"
 The project is for the final project to graduate with a bachelor's in Industrial engineering at the SCE college.
 
 ## Project Overview
