@@ -1,11 +1,13 @@
 import pandas as pd
 
-lg_tbl = pd.read_csv(r'data_tables/league_tables_2012_2021.csv')
+lg_tbl = pd.read_csv(r'dataset_preparation/dt_prep_tables/league_tables_2012_2021.csv')
+# lg_tbl = pd.read_csv(r'dataset_preparation/dt_prep_tables/new_data_league_tables_09_05.csv')  # Relevant for only new data
 
 # region lg_tbl addaptation
 lg_tbl['game'] = lg_tbl['game'].str.replace('Relegation round', 'Relegation Round')
 lg_tbl['game'] = lg_tbl['game'].str.replace('Regular', 'Regular Season')
 lg_tbl['goals'] = lg_tbl.apply(lambda x: x['goals'][:-3] if len(x['goals']) == 8 else x['goals'], axis=1)
+lg_tbl['season'] = lg_tbl['season'].str.replace('22/23', '2022')
 # region test to see goals length
 # lg_tbl['len_goals_clmn'] = lg_tbl.apply(lambda x: len(x['goals']),axis=1)
 # a = lg_tbl['len_goals_clmn'].unique()
@@ -68,16 +70,19 @@ lg_tbl['g_difference'] = lg_tbl.apply(lambda x: (x['goals_for'])-(x['goals_again
 round_types_ = lg_tbl['round_type'].unique()
 
 round_types = {'Regular Season': 26, 'Championship Round': 10, 'Relegation Round': 7}
+# round_types = {'Regular Season': 26, 'Championship Round': 7, 'Relegation Round': 6}  # Relevant for only new data
 num_team_round_type = {'Regular Season': 14, 'Championship Round': 6, 'Relegation Round': 8}
 
 # lg_tbl.drop(['promoted'], axis='columns', inplace=True)
 
-cols = lg_tbl.columns.tolist()
+# cols = lg_tbl.columns.tolist()
 
 cols = ['season', 'round', 'round_type', 'team', 'promoted', 'team_pos', 'pts', 'g_difference', 'win', 'draw', 'lose',
         'goals_for', 'goals_against']
 lg_tbl = lg_tbl[cols]
 
+# edited for the new data
+lg_tbl['promoted'] = lg_tbl['team'].apply(lambda x: 1 if (x == 'Sekzia Ness Ziona' or x == 'Maccabi Bnei Reineh') else 0)
 
 def position_sort_in_round():
     df = pd.DataFrame()
@@ -106,5 +111,6 @@ res.drop(['level_0', 'index'], axis='columns', inplace=True)
 #endregion
 
 
-res.to_csv('league_tables_2021_2022_fixed.csv')
+res.to_csv('rdataset_preparation/dt_prep_tables/league_tables_2021_2022_fixed.csv')
+# res.to_csv(r'dataset_preparation/dt_prep_tables/league_tables_new_2022_fixed_1205.csv')  # Relevant for only new data
 print()

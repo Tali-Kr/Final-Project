@@ -1,6 +1,7 @@
 import pandas as pd
 
-master_df = pd.read_csv("master_data_temp.csv")
+master_df = pd.read_csv(r'dataset_preparation/dt_prep_tables/master_data_temp_test_21_05.csv')
+# master_df = pd.read_csv(r'dataset_preparation/dt_prep_tables/master_new_data_temp_1205.csv')  # Relevant for only new data
 
 
 def get_position(df, team):
@@ -96,7 +97,7 @@ def is_underdog(df):
 
     # Check if the record is in the first round of the Regular season (options B)
     if df['round_type'] == 'Regular Season' and df['round'] == 1:
-        if df['season'] > 2012:
+        if df['season'] > 2012 or df['season'] > 2022:
             # Checks if both home and away teams are in the top playoff.
             if in_pre_season(prev_season_top, home_team) and in_pre_season(prev_season_top, away_team):
                 # Gets the position of both teams.
