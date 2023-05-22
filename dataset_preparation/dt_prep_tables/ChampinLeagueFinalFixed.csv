@@ -1,0 +1,1239 @@
+match_date,kot,round_type,season_round,home_team,away_team,home_score,away_score,referee,stadium,attendance,season
+18/09/2012,8:45 pm,Regular round,Group A,GNK Dinamo Zagreb,FC Porto,0,2,Daniele Orsato,Maksimir,4683,2012
+18/09/2012,8:45 pm,Regular round,Group A,Paris Saint-Germain,Dynamo Kyiv,4,1,Björn Kuipers,Parc des Princes,42536,2012
+03/10/2012,8:45 pm,Regular round,Group A,FC Porto,Paris Saint-Germain,1,0,Howard Webb,Estádio do Dragão,36509,2012
+03/10/2012,8:45 pm,Regular round,Group A,Dynamo Kyiv,GNK Dinamo Zagreb,2,0,Martin Atkinson,NSK Olimpisky,47804,2012
+24/10/2012,8:45 pm,Regular round,Group A,FC Porto,Dynamo Kyiv,3,2,Pavel Kralovec,Estádio do Dragão,29765,2012
+24/10/2012,8:45 pm,Regular round,Group A,GNK Dinamo Zagreb,Paris Saint-Germain,0,2,Firat Aydinus,Maksimir,9326,2012
+06/11/2012,8:45 pm,Regular round,Group A,Paris Saint-Germain,GNK Dinamo Zagreb,4,0,Pawel Gil,Parc des Princes,39872,2012
+06/11/2012,8:45 pm,Regular round,Group A,Dynamo Kyiv,FC Porto,0,0,Undiano Mallenco,NSK Olimpisky,40370,2012
+21/11/2012,8:45 pm,Regular round,Group A,FC Porto,GNK Dinamo Zagreb,3,0,Paolo Tagliavento,Estádio do Dragão,27603,2012
+21/11/2012,8:45 pm,Regular round,Group A,Dynamo Kyiv,Paris Saint-Germain,0,2,Wolfgang Stark,NSK Olimpisky,36712,2012
+04/12/2012,8:45 pm,Regular round,Group A,GNK Dinamo Zagreb,Dynamo Kyiv,1,1,Stanislav Todorov,Maksimir,3663,2012
+04/12/2012,8:45 pm,Regular round,Group A,Paris Saint-Germain,FC Porto,2,1,Craig Thomson,Parc des Princes,45512,2012
+18/09/2012,8:45 pm,Regular round,Group B,Montpellier HSC,Arsenal FC,1,2,Carlos Velasco Carballo,Stade de la Mosson,27522,2012
+18/09/2012,8:45 pm,Regular round,Group B,Olympiacos Piraeus,FC Schalke 04,1,2,David Fernández Borbalán,Stadio Georgios Karaiskakis,30922,2012
+03/10/2012,8:45 pm,Regular round,Group B,Arsenal FC,Olympiacos Piraeus,3,1,Svein Oddvar Moen,Emirates Stadium,60034,2012
+03/10/2012,8:45 pm,Regular round,Group B,FC Schalke 04,Montpellier HSC,2,2,Sergey Karasev,Veltins-Arena,50004,2012
+24/10/2012,8:45 pm,Regular round,Group B,Arsenal FC,FC Schalke 04,0,2,Jonas Eriksson,Emirates Stadium,60049,2012
+24/10/2012,8:45 pm,Regular round,Group B,Montpellier HSC,Olympiacos Piraeus,1,2,Daniele Orsato,Stade de la Mosson,22834,2012
+06/11/2012,8:45 pm,Regular round,Group B,Olympiacos Piraeus,Montpellier HSC,3,1,Marijo Strahonja,Stadio Georgios Karaiskakis,28217,2012
+06/11/2012,8:45 pm,Regular round,Group B,FC Schalke 04,Arsenal FC,2,2,Nicola Rizzoli,Veltins-Arena,54142,2012
+21/11/2012,8:45 pm,Regular round,Group B,Arsenal FC,Montpellier HSC,2,0,Firat Aydinus,Emirates Stadium,59670,2012
+21/11/2012,8:45 pm,Regular round,Group B,FC Schalke 04,Olympiacos Piraeus,1,0,Björn Kuipers,Veltins-Arena,52254,2012
+04/12/2012,8:45 pm,Regular round,Group B,Montpellier HSC,FC Schalke 04,1,1,Mateu Lahoz,Stade de la Mosson,23142,2012
+04/12/2012,8:45 pm,Regular round,Group B,Olympiacos Piraeus,Arsenal FC,2,1,Undiano Mallenco,Stadio Georgios Karaiskakis,30000,2012
+18/09/2012,8:45 pm,Regular round,Group C,Málaga CF,Zenit St. Petersburg,3,0,Mark Clattenburg,La Rosaleda,23670,2012
+18/09/2012,8:45 pm,Regular round,Group C,AC Milan,RSC Anderlecht,0,0,Willie Collum,Giuseppe Meazza,27600,2012
+03/10/2012,6:00 pm,Regular round,Group C,Zenit St. Petersburg,AC Milan,2,3,Dr. Felix Brych,Petrovsky,21703,2012
+03/10/2012,8:45 pm,Regular round,Group C,RSC Anderlecht,Málaga CF,0,3,Viktor Kassai,Constant Vanden Stock Stadion,15711,2012
+24/10/2012,6:00 pm,Regular round,Group C,Zenit St. Petersburg,RSC Anderlecht,1,0,Ivan Bebek,Petrovsky,18034,2012
+24/10/2012,8:45 pm,Regular round,Group C,Málaga CF,AC Milan,1,0,Pedro Proença,La Rosaleda,27683,2012
+06/11/2012,8:45 pm,Regular round,Group C,AC Milan,Málaga CF,1,1,Howard Webb,Giuseppe Meazza,30891,2012
+06/11/2012,8:45 pm,Regular round,Group C,RSC Anderlecht,Zenit St. Petersburg,1,0,Antony Gautier,Constant Vanden Stock Stadion,16437,2012
+21/11/2012,6:00 pm,Regular round,Group C,Zenit St. Petersburg,Málaga CF,2,2,Olegário Benquerença,Petrovsky,18347,2012
+21/11/2012,8:45 pm,Regular round,Group C,RSC Anderlecht,AC Milan,1,3,Damir Skomina,Constant Vanden Stock Stadion,19803,2012
+04/12/2012,8:45 pm,Regular round,Group C,Málaga CF,RSC Anderlecht,2,2,Deniz Aytekin,La Rosaleda,21769,2012
+04/12/2012,8:45 pm,Regular round,Group C,AC Milan,Zenit St. Petersburg,0,1,Tony Chapron,Giuseppe Meazza,29508,2012
+18/09/2012,8:45 pm,Regular round,Group D,Real Madrid,Manchester City,3,2,Damir Skomina,Santiago Bernabéu,70381,2012
+18/09/2012,8:45 pm,Regular round,Group D,Borussia Dortmund,Ajax Amsterdam,1,0,Paolo Tagliavento,SIGNAL IDUNA PARK,65829,2012
+03/10/2012,8:45 pm,Regular round,Group D,Ajax Amsterdam,Real Madrid,1,4,Jonas Eriksson,Johan Cruijff ArenA,49491,2012
+03/10/2012,8:45 pm,Regular round,Group D,Manchester City,Borussia Dortmund,1,1,Pavel Kralovec,Etihad Stadium,43657,2012
+24/10/2012,8:45 pm,Regular round,Group D,Borussia Dortmund,Real Madrid,2,1,Viktor Kassai,SIGNAL IDUNA PARK,65829,2012
+24/10/2012,8:45 pm,Regular round,Group D,Ajax Amsterdam,Manchester City,3,1,Svein Oddvar Moen,Johan Cruijff ArenA,45743,2012
+06/11/2012,8:45 pm,Regular round,Group D,Real Madrid,Borussia Dortmund,2,2,Cüneyt Cakir,Santiago Bernabéu,74932,2012
+06/11/2012,8:45 pm,Regular round,Group D,Manchester City,Ajax Amsterdam,2,2,Peter Rasmussen,Etihad Stadium,40222,2012
+21/11/2012,8:45 pm,Regular round,Group D,Ajax Amsterdam,Borussia Dortmund,1,4,Pedro Proença,Johan Cruijff ArenA,47500,2012
+21/11/2012,8:45 pm,Regular round,Group D,Manchester City,Real Madrid,1,1,Gianluca Rocchi,Etihad Stadium,45740,2012
+04/12/2012,8:45 pm,Regular round,Group D,Real Madrid,Ajax Amsterdam,4,1,Pavel Kralovec,Santiago Bernabéu,57245,2012
+04/12/2012,8:45 pm,Regular round,Group D,Borussia Dortmund,Manchester City,1,0,Milorad Mazic,SIGNAL IDUNA PARK,62000,2012
+19/09/2012,8:45 pm,Regular round,Group E,Chelsea FC,Juventus FC,2,2,Pedro Proença,Stamford Bridge,40918,2012
+19/09/2012,8:45 pm,Regular round,Group E,Shakhtar Donetsk,FC Nordsjaelland,2,0,Pawel Gil,Donbass Arena,45713,2012
+02/10/2012,8:45 pm,Regular round,Group E,FC Nordsjaelland,Chelsea FC,0,4,Marijo Strahonja,Parken,25120,2012
+02/10/2012,8:45 pm,Regular round,Group E,Juventus FC,Shakhtar Donetsk,1,1,Bas Nijhuis,Allianz Stadium,25599,2012
+23/10/2012,8:45 pm,Regular round,Group E,FC Nordsjaelland,Juventus FC,1,1,Deniz Aytekin,Parken,22404,2012
+23/10/2012,8:45 pm,Regular round,Group E,Shakhtar Donetsk,Chelsea FC,2,1,Damir Skomina,Donbass Arena,51490,2012
+07/11/2012,8:45 pm,Regular round,Group E,Juventus FC,FC Nordsjaelland,4,0,Aleksandar Stavrev,Allianz Stadium,31366,2012
+07/11/2012,8:45 pm,Regular round,Group E,Chelsea FC,Shakhtar Donetsk,3,2,Carlos Velasco Carballo,Stamford Bridge,41067,2012
+20/11/2012,8:45 pm,Regular round,Group E,FC Nordsjaelland,Shakhtar Donetsk,2,5,Antony Gautier,Right to Dream Park,17054,2012
+20/11/2012,8:45 pm,Regular round,Group E,Juventus FC,Chelsea FC,3,0,Cüneyt Cakir,Allianz Stadium,39670,2012
+05/12/2012,8:45 pm,Regular round,Group E,Shakhtar Donetsk,Juventus FC,0,1,Jonas Eriksson,Donbass Arena,50104,2012
+05/12/2012,8:45 pm,Regular round,Group E,Chelsea FC,FC Nordsjaelland,6,1,Bas Nijhuis,Stamford Bridge,40084,2012
+19/09/2012,8:45 pm,Regular round,Group F,Bayern Munich,Valencia CF,2,1,Firat Aydinus,Allianz Arena,67812,2012
+19/09/2012,8:45 pm,Regular round,Group F,LOSC Lille,BATE Borisov,1,3,Marcin Borski,Decathlon Arena-Stade Pierre-Mauroy,38122,2012
+02/10/2012,8:45 pm,Regular round,Group F,BATE Borisov,Bayern Munich,3,1,Aleksandar Stavrev,Dinamo,24636,2012
+02/10/2012,8:45 pm,Regular round,Group F,Valencia CF,LOSC Lille,2,0,Gianluca Rocchi,Mestalla,28517,2012
+23/10/2012,8:45 pm,Regular round,Group F,LOSC Lille,Bayern Munich,0,1,Martin Atkinson,Decathlon Arena-Stade Pierre-Mauroy,45249,2012
+23/10/2012,8:45 pm,Regular round,Group F,BATE Borisov,Valencia CF,0,3,Craig Thomson,Dinamo,29180,2012
+07/11/2012,8:45 pm,Regular round,Group F,Valencia CF,BATE Borisov,4,2,Tom Harald Hagen,Mestalla,22795,2012
+07/11/2012,8:45 pm,Regular round,Group F,Bayern Munich,LOSC Lille,6,1,Ovidiu Hategan,Allianz Arena,67812,2012
+20/11/2012,6:00 pm,Regular round,Group F,BATE Borisov,LOSC Lille,0,2,Marijo Strahonja,Dinamo,22810,2012
+20/11/2012,8:45 pm,Regular round,Group F,Valencia CF,Bayern Munich,1,1,Howard Webb,Mestalla,35407,2012
+05/12/2012,8:45 pm,Regular round,Group F,LOSC Lille,Valencia CF,0,1,Aleksandar Stavrev,Decathlon Arena-Stade Pierre-Mauroy,40036,2012
+05/12/2012,8:45 pm,Regular round,Group F,Bayern Munich,BATE Borisov,4,1,Willie Collum,Allianz Arena,67812,2012
+19/09/2012,8:45 pm,Regular round,Group G,Celtic FC,SL Benfica,0,0,Nicola Rizzoli,Celtic Park,57759,2012
+19/09/2012,8:45 pm,Regular round,Group G,FC Barcelona,Spartak Moscow,3,2,Milorad Mazic,Spotify Camp Nou,73850,2012
+02/10/2012,6:00 pm,Regular round,Group G,Spartak Moscow,Celtic FC,2,3,Tony Chapron,Attendance: 43.351,0,2012
+02/10/2012,8:45 pm,Regular round,Group G,SL Benfica,FC Barcelona,0,2,Cüneyt Cakir,Estádio da Luz,63847,2012
+23/10/2012,6:00 pm,Regular round,Group G,Spartak Moscow,SL Benfica,2,1,Mark Clattenburg,Attendance: 41.237,0,2012
+23/10/2012,8:45 pm,Regular round,Group G,FC Barcelona,Celtic FC,2,1,Gianluca Rocchi,Spotify Camp Nou,77781,2012
+07/11/2012,8:45 pm,Regular round,Group G,SL Benfica,Spartak Moscow,2,0,Florian Meyer,Estádio da Luz,36448,2012
+07/11/2012,8:45 pm,Regular round,Group G,Celtic FC,FC Barcelona,2,1,Björn Kuipers,Celtic Park,60832,2012
+20/11/2012,6:00 pm,Regular round,Group G,Spartak Moscow,FC Barcelona,0,3,Ivan Bebek,Attendance: 67.325,0,2012
+20/11/2012,8:45 pm,Regular round,Group G,SL Benfica,Celtic FC,2,1,Viktor Kassai,Estádio da Luz,47065,2012
+05/12/2012,8:45 pm,Regular round,Group G,Celtic FC,Spartak Moscow,2,1,Dr. Felix Brych,Celtic Park,60000,2012
+05/12/2012,8:45 pm,Regular round,Group G,FC Barcelona,SL Benfica,0,0,Svein Oddvar Moen,Spotify Camp Nou,50659,2012
+19/09/2012,8:45 pm,Regular round,Group H,Manchester United,Galatasaray,1,0,Wolfgang Stark,Old Trafford,74653,2012
+19/09/2012,8:45 pm,Regular round,Group H,SC Braga,CFR Cluj,0,2,Peter Rasmussen,Estádio Municipal de Braga,10922,2012
+02/10/2012,8:45 pm,Regular round,Group H,CFR Cluj,Manchester United,1,2,Undiano Mallenco,Dr. Constantin Rădulescu,18000,2012
+02/10/2012,8:45 pm,Regular round,Group H,Galatasaray,SC Braga,0,2,Tom Harald Hagen,Ali Sami Yen Spor Kompleksi NEF Stadyumu,46987,2012
+23/10/2012,8:45 pm,Regular round,Group H,Manchester United,SC Braga,3,2,Milorad Mazic,Old Trafford,73195,2012
+23/10/2012,8:45 pm,Regular round,Group H,Galatasaray,CFR Cluj,1,1,Paolo Tagliavento,Ali Sami Yen Spor Kompleksi NEF Stadyumu,39013,2012
+07/11/2012,8:45 pm,Regular round,Group H,CFR Cluj,Galatasaray,1,3,Willie Collum,Dr. Constantin Rădulescu,16232,2012
+07/11/2012,8:45 pm,Regular round,Group H,SC Braga,Manchester United,1,3,Dr. Felix Brych,Estádio Municipal de Braga,19015,2012
+20/11/2012,8:45 pm,Regular round,Group H,CFR Cluj,SC Braga,3,1,Sergey Karasev,Dr. Constantin Rădulescu,14635,2012
+20/11/2012,8:45 pm,Regular round,Group H,Galatasaray,Manchester United,1,0,Carlos Velasco Carballo,Ali Sami Yen Spor Kompleksi NEF Stadyumu,50278,2012
+05/12/2012,8:45 pm,Regular round,Group H,Manchester United,CFR Cluj,0,1,Daniele Orsato,Old Trafford,71521,2012
+05/12/2012,8:45 pm,Regular round,Group H,SC Braga,Galatasaray,1,2,Nicola Rizzoli,Estádio Municipal de Braga,8964,2012
+12/02/2013,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Celtic FC,Juventus FC,0,3,Undiano Mallenco,Celtic Park,57917,2012
+12/02/2013,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Valencia CF,Paris Saint-Germain,1,2,Paolo Tagliavento,Mestalla,44000,2012
+13/02/2013,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Real Madrid,Manchester United,1,1,Dr. Felix Brych,Santiago Bernabéu,79429,2012
+13/02/2013,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Shakhtar Donetsk,Borussia Dortmund,2,2,Howard Webb,Donbass Arena,49050,2012
+19/02/2013,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Arsenal FC,Bayern Munich,1,3,Svein Oddvar Moen,Emirates Stadium,59974,2012
+19/02/2013,8:45 PM  2nd leg:,Regular round,last 16 1st leg,FC Porto,Málaga CF,1,0,Mark Clattenburg,Estádio do Dragão,42209,2012
+20/02/2013,8:45 PM  2nd leg:,Regular round,last 16 1st leg,AC Milan,FC Barcelona,2,0,Craig Thomson,Giuseppe Meazza,79532,2012
+20/02/2013,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Galatasaray,FC Schalke 04,1,1,Willie Collum,Ali Sami Yen Spor Kompleksi NEF Stadyumu,50734,2012
+05/03/2013,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Manchester United,Real Madrid,1,2,Cüneyt Cakir,Old Trafford,74959,2012
+05/03/2013,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Borussia Dortmund,Shakhtar Donetsk,3,0,Damir Skomina,SIGNAL IDUNA PARK,65413,2012
+06/03/2013,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Juventus FC,Celtic FC,2,0,Firat Aydinus,Allianz Stadium,39011,2012
+06/03/2013,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Paris Saint-Germain,Valencia CF,1,1,Milorad Mazic,Parc des Princes,44867,2012
+12/03/2013,8:45 PM  1st leg:,Regular round,last 16 2nd leg,FC Barcelona,AC Milan,4,0,Viktor Kassai,Spotify Camp Nou,94944,2012
+12/03/2013,8:45 PM  1st leg:,Regular round,last 16 2nd leg,FC Schalke 04,Galatasaray,2,3,Jonas Eriksson,Veltins-Arena,54142,2012
+13/03/2013,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Bayern Munich,Arsenal FC,0,2,Pavel Kralovec,Allianz Arena,68000,2012
+13/03/2013,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Málaga CF,FC Porto,2,0,Nicola Rizzoli,La Rosaleda,27451,2012
+02/04/2013,8:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Paris Saint-Germain,FC Barcelona,2,2,Wolfgang Stark,Parc des Princes,45336,2012
+02/04/2013,8:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Bayern Munich,Juventus FC,2,0,Mark Clattenburg,Allianz Arena,68000,2012
+03/04/2013,8:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Málaga CF,Borussia Dortmund,0,0,Jonas Eriksson,La Rosaleda,28548,2012
+03/04/2013,8:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Real Madrid,Galatasaray,3,0,Svein Oddvar Moen,Santiago Bernabéu,76462,2012
+09/04/2013,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Borussia Dortmund,Málaga CF,3,2,Craig Thomson,SIGNAL IDUNA PARK,65829,2012
+09/04/2013,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Galatasaray,Real Madrid,3,2,Stéphane Lannoy,Ali Sami Yen Spor Kompleksi NEF Stadyumu,50734,2012
+10/04/2013,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,FC Barcelona,Paris Saint-Germain,1,1,Björn Kuipers,Spotify Camp Nou,96022,2012
+10/04/2013,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Juventus FC,Bayern Munich,0,2,Carlos Velasco Carballo,Allianz Stadium,40823,2012
+23/04/2013,8:45 PM  2nd leg:,Regular round,Semi-Finals 1st Leg,Bayern Munich,FC Barcelona,4,0,Viktor Kassai,Allianz Arena,68000,2012
+24/04/2013,8:45 PM  2nd leg:,Regular round,Semi-Finals 1st Leg,Borussia Dortmund,Real Madrid,4,1,Björn Kuipers,SIGNAL IDUNA PARK,65829,2012
+30/04/2013,8:45 PM  1st leg:,Regular round,Semi-Finals 2nd Leg,Real Madrid,Borussia Dortmund,2,0,Howard Webb,Santiago Bernabéu,69429,2012
+01/05/2013,8:45 PM  1st leg:,Regular round,Semi-Finals 2nd Leg,FC Barcelona,Bayern Munich,0,3,Damir Skomina,Spotify Camp Nou,95877,2012
+25/05/2013,8:45 pm,Regular round,Final,Borussia Dortmund,Bayern Munich,1,2,Nicola Rizzoli,Wembley Stadium,86298,2012
+17/09/2013,8:45 pm,Regular round,Group A,Manchester United,Bayer 04 Leverkusen,4,2,Damir Skomina,Old Trafford,74000,2013
+17/09/2013,8:45 pm,Regular round,Group A,Real Sociedad,Shakhtar Donetsk,0,2,Ovidiu Hategan,Anoeta,27902,2013
+02/10/2013,8:45 pm,Regular round,Group A,Shakhtar Donetsk,Manchester United,1,1,Pavel Kralovec,Donbass Arena,51555,2013
+02/10/2013,8:45 pm,Regular round,Group A,Bayer 04 Leverkusen,Real Sociedad,2,1,Sergey Karasev,BayArena,27462,2013
+23/10/2013,8:45 pm,Regular round,Group A,Bayer 04 Leverkusen,Shakhtar Donetsk,4,0,Stéphane Lannoy,BayArena,25184,2013
+23/10/2013,8:45 pm,Regular round,Group A,Manchester United,Real Sociedad,1,0,Bas Nijhuis,Old Trafford,74654,2013
+05/11/2013,8:45 pm,Regular round,Group A,Shakhtar Donetsk,Bayer 04 Leverkusen,0,0,Willie Collum,Donbass Arena,50115,2013
+05/11/2013,8:45 pm,Regular round,Group A,Real Sociedad,Manchester United,0,0,Nicola Rizzoli,Anoeta,30998,2013
+27/11/2013,8:45 pm,Regular round,Group A,Shakhtar Donetsk,Real Sociedad,4,0,Olegário Benquerença,Donbass Arena,44348,2013
+27/11/2013,8:45 pm,Regular round,Group A,Bayer 04 Leverkusen,Manchester United,0,5,Svein Oddvar Moen,BayArena,29412,2013
+10/12/2013,8:45 pm,Regular round,Group A,Real Sociedad,Bayer 04 Leverkusen,0,1,Tom Harald Hagen,Anoeta,23408,2013
+10/12/2013,8:45 pm,Regular round,Group A,Manchester United,Shakhtar Donetsk,1,0,Milorad Mazic,Old Trafford,74506,2013
+17/09/2013,8:45 pm,Regular round,Group B,Galatasaray,Real Madrid,1,6,Mark Clattenburg,Ali Sami Yen Spor Kompleksi NEF Stadyumu,52650,2013
+17/09/2013,8:45 pm,Regular round,Group B,FC Copenhagen,Juventus FC,1,1,Ivan Bebek,Parken,36524,2013
+02/10/2013,8:45 pm,Regular round,Group B,Juventus FC,Galatasaray,2,2,Viktor Kassai,Allianz Stadium,33466,2013
+02/10/2013,8:45 pm,Regular round,Group B,Real Madrid,FC Copenhagen,4,0,Matej Jug,Santiago Bernabéu,69347,2013
+23/10/2013,8:45 pm,Regular round,Group B,Real Madrid,Juventus FC,2,1,Manuel Gräfe,Santiago Bernabéu,77856,2013
+23/10/2013,8:45 pm,Regular round,Group B,Galatasaray,FC Copenhagen,3,1,Aleksandar Stavrev,Ali Sami Yen Spor Kompleksi NEF Stadyumu,42798,2013
+05/11/2013,8:45 pm,Regular round,Group B,FC Copenhagen,Galatasaray,1,0,Martin Atkinson,Parken,36204,2013
+05/11/2013,8:45 pm,Regular round,Group B,Juventus FC,Real Madrid,2,2,Howard Webb,Allianz Stadium,40696,2013
+27/11/2013,8:45 pm,Regular round,Group B,Juventus FC,FC Copenhagen,3,1,Jonas Eriksson,Allianz Stadium,39506,2013
+27/11/2013,8:45 pm,Regular round,Group B,Real Madrid,Galatasaray,4,1,Willie Collum,Santiago Bernabéu,67728,2013
+10/12/2013,8:45 pm,Regular round,Group B,FC Copenhagen,Real Madrid,0,2,Dr. Felix Brych,Parken,37241,2013
+11/12/2013,2:00 pm,Regular round,Group B,Galatasaray,Juventus FC,1,0,Pedro Proença,Ali Sami Yen Spor Kompleksi NEF Stadyumu,37375,2013
+17/09/2013,8:45 pm,Regular round,Group C,SL Benfica,RSC Anderlecht,2,0,Manuel Gräfe,Estádio da Luz,29393,2013
+17/09/2013,8:45 pm,Regular round,Group C,Olympiacos Piraeus,Paris Saint-Germain,1,4,Dr. Felix Brych,Stadio Georgios Karaiskakis,31253,2013
+02/10/2013,8:45 pm,Regular round,Group C,Paris Saint-Germain,SL Benfica,3,0,Nicola Rizzoli,Parc des Princes,44732,2013
+02/10/2013,8:45 pm,Regular round,Group C,RSC Anderlecht,Olympiacos Piraeus,0,3,Tom Harald Hagen,Constant Vanden Stock Stadion,15918,2013
+23/10/2013,8:45 pm,Regular round,Group C,RSC Anderlecht,Paris Saint-Germain,0,5,David Fernández Borbalán,Constant Vanden Stock Stadion,18465,2013
+23/10/2013,8:45 pm,Regular round,Group C,SL Benfica,Olympiacos Piraeus,1,1,Undiano Mallenco,Estádio da Luz,38149,2013
+05/11/2013,8:45 pm,Regular round,Group C,Paris Saint-Germain,RSC Anderlecht,1,1,Marijo Strahonja,Parc des Princes,43901,2013
+05/11/2013,8:45 pm,Regular round,Group C,Olympiacos Piraeus,SL Benfica,1,0,Damir Skomina,Stadio Georgios Karaiskakis,31461,2013
+27/11/2013,8:45 pm,Regular round,Group C,Paris Saint-Germain,Olympiacos Piraeus,2,1,Craig Thomson,Parc des Princes,44466,2013
+27/11/2013,8:45 pm,Regular round,Group C,RSC Anderlecht,SL Benfica,2,3,Daniele Orsato,Constant Vanden Stock Stadion,16780,2013
+10/12/2013,8:45 pm,Regular round,Group C,Olympiacos Piraeus,RSC Anderlecht,3,1,Wolfgang Stark,Stadio Georgios Karaiskakis,31444,2013
+10/12/2013,8:45 pm,Regular round,Group C,SL Benfica,Paris Saint-Germain,2,1,Mark Clattenburg,Estádio da Luz,30089,2013
+17/09/2013,8:45 pm,Regular round,Group D,Bayern Munich,CSKA Moscow,3,0,Gianluca Rocchi,Allianz Arena,68000,2013
+17/09/2013,8:45 pm,Regular round,Group D,FC Viktoria Plzen,Manchester City,0,3,Paolo Tagliavento,Doosan Aréna,11281,2013
+02/10/2013,6:00 pm,Regular round,Group D,CSKA Moscow,FC Viktoria Plzen,3,2,Bas Nijhuis,Petrovsky,6135,2013
+02/10/2013,8:45 pm,Regular round,Group D,Manchester City,Bayern Munich,1,3,Björn Kuipers,Etihad Stadium,45200,2013
+23/10/2013,6:00 pm,Regular round,Group D,CSKA Moscow,Manchester City,1,2,Ovidiu Hategan,Arena Khimki,15000,2013
+23/10/2013,8:45 pm,Regular round,Group D,Bayern Munich,FC Viktoria Plzen,5,0,Alan Kelly,Allianz Arena,68000,2013
+05/11/2013,8:45 pm,Regular round,Group D,Manchester City,CSKA Moscow,5,2,Carlos Velasco Carballo,Etihad Stadium,38512,2013
+05/11/2013,8:45 pm,Regular round,Group D,FC Viktoria Plzen,Bayern Munich,0,1,Mateu Lahoz,Doosan Aréna,11360,2013
+27/11/2013,6:00 pm,Regular round,Group D,CSKA Moscow,Bayern Munich,1,3,Antony Gautier,Arena Khimki,14000,2013
+27/11/2013,8:45 pm,Regular round,Group D,Manchester City,FC Viktoria Plzen,4,2,Firat Aydinus,Etihad Stadium,37742,2013
+10/12/2013,8:45 pm,Regular round,Group D,Bayern Munich,Manchester City,2,3,David Fernández Borbalán,Allianz Arena,68000,2013
+10/12/2013,8:45 pm,Regular round,Group D,FC Viktoria Plzen,CSKA Moscow,2,1,Damir Skomina,Doosan Aréna,11025,2013
+18/09/2013,8:45 pm,Regular round,Group E,FC Schalke 04,Steaua Bucharest,3,0,Cüneyt Cakir,Veltins-Arena,49358,2013
+18/09/2013,8:45 pm,Regular round,Group E,Chelsea FC,FC Basel 1893,1,2,Daniele Orsato,Stamford Bridge,40358,2013
+01/10/2013,8:45 pm,Regular round,Group E,FC Basel 1893,FC Schalke 04,0,1,Undiano Mallenco,St. Jakob-Park,33251,2013
+01/10/2013,8:45 pm,Regular round,Group E,Steaua Bucharest,Chelsea FC,0,4,Carlos Velasco Carballo,Arena Națională,36713,2013
+22/10/2013,8:45 pm,Regular round,Group E,FC Schalke 04,Chelsea FC,0,3,Viktor Kassai,Veltins-Arena,54442,2013
+22/10/2013,8:45 pm,Regular round,Group E,Steaua Bucharest,FC Basel 1893,1,1,Matej Jug,Arena Națională,23899,2013
+06/11/2013,8:45 pm,Regular round,Group E,FC Basel 1893,Steaua Bucharest,1,1,Olegário Benquerença,St. Jakob-Park,30704,2013
+06/11/2013,8:45 pm,Regular round,Group E,Chelsea FC,FC Schalke 04,3,0,Svein Oddvar Moen,Stamford Bridge,41194,2013
+26/11/2013,8:45 pm,Regular round,Group E,Steaua Bucharest,FC Schalke 04,0,0,Bas Nijhuis,Arena Națională,50633,2013
+26/11/2013,8:45 pm,Regular round,Group E,FC Basel 1893,Chelsea FC,1,0,Stéphane Lannoy,St. Jakob-Park,35208,2013
+11/12/2013,8:45 pm,Regular round,Group E,Chelsea FC,Steaua Bucharest,1,0,Gianluca Rocchi,Stamford Bridge,41181,2013
+11/12/2013,8:45 pm,Regular round,Group E,FC Schalke 04,FC Basel 1893,2,0,Paolo Tagliavento,Veltins-Arena,52093,2013
+18/09/2013,8:45 pm,Regular round,Group F,Olympique Marseille,Arsenal FC,1,2,Olegário Benquerença,Orange Vélodrome,38380,2013
+18/09/2013,8:45 pm,Regular round,Group F,SSC Napoli,Borussia Dortmund,2,1,Pedro Proença,Stadio Diego Armando Maradona,55766,2013
+01/10/2013,8:45 pm,Regular round,Group F,Borussia Dortmund,Olympique Marseille,3,0,David Fernández Borbalán,SIGNAL IDUNA PARK,65829,2013
+01/10/2013,8:45 pm,Regular round,Group F,Arsenal FC,SSC Napoli,2,0,Milorad Mazic,Emirates Stadium,59536,2013
+22/10/2013,8:45 pm,Regular round,Group F,Arsenal FC,Borussia Dortmund,1,2,Jonas Eriksson,Emirates Stadium,60355,2013
+22/10/2013,8:45 pm,Regular round,Group F,Olympique Marseille,SSC Napoli,1,2,Cüneyt Cakir,Orange Vélodrome,39790,2013
+06/11/2013,8:45 pm,Regular round,Group F,SSC Napoli,Olympique Marseille,3,2,Sergey Karasev,Stadio Diego Armando Maradona,39148,2013
+06/11/2013,8:45 pm,Regular round,Group F,Borussia Dortmund,Arsenal FC,0,1,Björn Kuipers,SIGNAL IDUNA PARK,65829,2013
+26/11/2013,8:45 pm,Regular round,Group F,Borussia Dortmund,SSC Napoli,3,1,Carlos Velasco Carballo,SIGNAL IDUNA PARK,65829,2013
+26/11/2013,8:45 pm,Regular round,Group F,Arsenal FC,Olympique Marseille,2,0,Mateu Lahoz,Emirates Stadium,59912,2013
+11/12/2013,8:45 pm,Regular round,Group F,Olympique Marseille,Borussia Dortmund,1,2,Marijo Strahonja,Orange Vélodrome,36655,2013
+11/12/2013,8:45 pm,Regular round,Group F,SSC Napoli,Arsenal FC,2,0,Viktor Kassai,Stadio Diego Armando Maradona,34027,2013
+18/09/2013,8:45 pm,Regular round,Group G,Austria Vienna,FC Porto,0,1,Craig Thomson,Ernst-Happel-Stadion,37500,2013
+18/09/2013,8:45 pm,Regular round,Group G,Atlético de Madrid,Zenit St. Petersburg,3,1,Willie Collum,Vicente Calderón,33855,2013
+01/10/2013,6:00 pm,Regular round,Group G,Zenit St. Petersburg,Austria Vienna,0,0,Deniz Aytekin,Petrovsky,18705,2013
+01/10/2013,8:45 pm,Regular round,Group G,FC Porto,Atlético de Madrid,1,2,Howard Webb,Estádio do Dragão,33989,2013
+22/10/2013,8:45 pm,Regular round,Group G,FC Porto,Zenit St. Petersburg,0,1,Paolo Tagliavento,Estádio do Dragão,31109,2013
+22/10/2013,8:45 pm,Regular round,Group G,Austria Vienna,Atlético de Madrid,0,3,Daniele Orsato,Ernst-Happel-Stadion,45654,2013
+06/11/2013,6:00 pm,Regular round,Group G,Zenit St. Petersburg,FC Porto,1,1,Tom Harald Hagen,Petrovsky,17786,2013
+06/11/2013,8:45 pm,Regular round,Group G,Atlético de Madrid,Austria Vienna,4,0,István Vad,Vicente Calderón,29841,2013
+26/11/2013,6:00 pm,Regular round,Group G,Zenit St. Petersburg,Atlético de Madrid,1,1,Martin Atkinson,Petrovsky,17885,2013
+26/11/2013,8:45 pm,Regular round,Group G,FC Porto,Austria Vienna,1,1,Ovidiu Hategan,Estádio do Dragão,24809,2013
+11/12/2013,8:45 pm,Regular round,Group G,Atlético de Madrid,FC Porto,2,0,Deniz Aytekin,Vicente Calderón,24629,2013
+11/12/2013,8:45 pm,Regular round,Group G,Austria Vienna,Zenit St. Petersburg,4,1,Aleksandar Stavrev,Ernst-Happel-Stadion,37500,2013
+18/09/2013,8:45 pm,Regular round,Group H,AC Milan,Celtic FC,2,0,Wolfgang Stark,Giuseppe Meazza,54623,2013
+18/09/2013,8:45 pm,Regular round,Group H,FC Barcelona,Ajax Amsterdam,4,0,Svein Oddvar Moen,Spotify Camp Nou,79412,2013
+01/10/2013,8:45 pm,Regular round,Group H,Ajax Amsterdam,AC Milan,1,1,Jonas Eriksson,Johan Cruijff ArenA,51692,2013
+01/10/2013,8:45 pm,Regular round,Group H,Celtic FC,FC Barcelona,0,1,Stéphane Lannoy,Celtic Park,58128,2013
+22/10/2013,8:45 pm,Regular round,Group H,Celtic FC,Ajax Amsterdam,2,1,Ivan Bebek,Celtic Park,58719,2013
+22/10/2013,8:45 pm,Regular round,Group H,AC Milan,FC Barcelona,1,1,Dr. Felix Brych,Giuseppe Meazza,74487,2013
+06/11/2013,8:45 pm,Regular round,Group H,Ajax Amsterdam,Celtic FC,1,0,Deniz Aytekin,Johan Cruijff ArenA,59908,2013
+06/11/2013,8:45 pm,Regular round,Group H,FC Barcelona,AC Milan,3,1,Milorad Mazic,Spotify Camp Nou,80517,2013
+26/11/2013,8:45 pm,Regular round,Group H,Ajax Amsterdam,FC Barcelona,2,1,Pavel Kralovec,Johan Cruijff ArenA,53000,2013
+26/11/2013,8:45 pm,Regular round,Group H,Celtic FC,AC Milan,0,3,Cüneyt Cakir,Celtic Park,58619,2013
+11/12/2013,8:45 pm,Regular round,Group H,FC Barcelona,Celtic FC,6,1,Sergey Karasev,Spotify Camp Nou,54342,2013
+11/12/2013,8:45 pm,Regular round,Group H,AC Milan,Ajax Amsterdam,0,0,Howard Webb,Giuseppe Meazza,61744,2013
+18/02/2014,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Manchester City,FC Barcelona,0,2,Jonas Eriksson,Etihad Stadium,46033,2013
+18/02/2014,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Bayer 04 Leverkusen,Paris Saint-Germain,0,4,Viktor Kassai,BayArena,29412,2013
+19/02/2014,8:45 PM  2nd leg:,Regular round,last 16 1st leg,AC Milan,Atlético de Madrid,0,1,Pedro Proença,Giuseppe Meazza,65890,2013
+19/02/2014,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Arsenal FC,Bayern Munich,0,2,tbc,Emirates Stadium,59911,2013
+25/02/2014,6:00 PM  2nd leg:,Regular round,last 16 1st leg,Zenit St. Petersburg,Borussia Dortmund,2,4,Willie Collum,Petrovsky,15099,2013
+25/02/2014,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Olympiacos Piraeus,Manchester United,2,0,Gianluca Rocchi,Stadio Georgios Karaiskakis,30015,2013
+26/02/2014,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Galatasaray,Chelsea FC,1,1,Carlos Velasco Carballo,Ali Sami Yen Spor Kompleksi NEF Stadyumu,52650,2013
+26/02/2014,8:45 PM  2nd leg:,Regular round,last 16 1st leg,FC Schalke 04,Real Madrid,1,6,Howard Webb,Veltins-Arena,54442,2013
+11/03/2014,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Atlético de Madrid,AC Milan,4,1,Mark Clattenburg,Vicente Calderón,49186,2013
+11/03/2014,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Bayern Munich,Arsenal FC,1,1,Svein Oddvar Moen,Allianz Arena,68000,2013
+12/03/2014,8:45 PM  1st leg:,Regular round,last 16 2nd leg,FC Barcelona,Manchester City,2,1,Stéphane Lannoy,Spotify Camp Nou,85957,2013
+12/03/2014,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Paris Saint-Germain,Bayer 04 Leverkusen,2,1,Ivan Bebek,Parc des Princes,45596,2013
+18/03/2014,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Chelsea FC,Galatasaray,2,0,Dr. Felix Brych,Stamford Bridge,38038,2013
+18/03/2014,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Real Madrid,FC Schalke 04,3,1,Sergey Karasev,Santiago Bernabéu,65148,2013
+19/03/2014,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Manchester United,Olympiacos Piraeus,3,0,Björn Kuipers,Old Trafford,74662,2013
+19/03/2014,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Borussia Dortmund,Zenit St. Petersburg,1,2,Undiano Mallenco,SIGNAL IDUNA PARK,65829,2013
+01/04/2014,8:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,FC Barcelona,Atlético de Madrid,1,1,Dr. Felix Brych,Spotify Camp Nou,79941,2013
+01/04/2014,8:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Manchester United,Bayern Munich,1,1,Carlos Velasco Carballo,Old Trafford,75000,2013
+02/04/2014,8:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Paris Saint-Germain,Chelsea FC,3,1,Milorad Mazic,Parc des Princes,45517,2013
+02/04/2014,8:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Real Madrid,Borussia Dortmund,3,0,Mark Clattenburg,Santiago Bernabéu,70089,2013
+08/04/2014,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Chelsea FC,Paris Saint-Germain,2,0,Pedro Proença,Stamford Bridge,38080,2013
+08/04/2014,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Borussia Dortmund,Real Madrid,2,0,Damir Skomina,SIGNAL IDUNA PARK,65829,2013
+09/04/2014,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Atlético de Madrid,FC Barcelona,1,0,Howard Webb,Vicente Calderón,53592,2013
+09/04/2014,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Bayern Munich,Manchester United,3,1,Jonas Eriksson,Allianz Arena,67300,2013
+22/04/2014,8:45 PM  2nd leg:,Regular round,Semi-Finals 1st Leg,Atlético de Madrid,Chelsea FC,0,0,Jonas Eriksson,Vicente Calderón,52560,2013
+23/04/2014,8:45 PM  2nd leg:,Regular round,Semi-Finals 1st Leg,Real Madrid,Bayern Munich,1,0,Howard Webb,Santiago Bernabéu,79283,2013
+29/04/2014,8:45 PM  1st leg:,Regular round,Semi-Finals 2nd Leg,Bayern Munich,Real Madrid,0,4,Pedro Proença,Allianz Arena,67812,2013
+30/04/2014,8:45 PM  1st leg:,Regular round,Semi-Finals 2nd Leg,Chelsea FC,Atlético de Madrid,1,3,Nicola Rizzoli,Stamford Bridge,37918,2013
+24/05/2014,8:45 pm,Regular round,Final,Real Madrid,Atlético de Madrid,4,1,Björn Kuipers,Estádio da Luz,60976,2013
+16/09/2014,8:45 pm,Regular round,Group A,Olympiacos Piraeus,Atlético de Madrid,3,2,Pedro Proença,Stadio Georgios Karaiskakis,31946,2014
+16/09/2014,8:45 pm,Regular round,Group A,Juventus FC,Malmö FF,2,0,Szymon Marciniak,Allianz Stadium,31218,2014
+01/10/2014,8:45 pm,Regular round,Group A,Atlético de Madrid,Juventus FC,1,0,Dr. Felix Brych,Vicente Calderón,44322,2014
+01/10/2014,8:45 pm,Regular round,Group A,Malmö FF,Olympiacos Piraeus,2,0,Sergey Karasev,Eleda Stadion,20500,2014
+22/10/2014,8:45 pm,Regular round,Group A,Olympiacos Piraeus,Juventus FC,1,0,Milorad Mazic,Stadio Georgios Karaiskakis,31411,2014
+22/10/2014,8:45 pm,Regular round,Group A,Atlético de Madrid,Malmö FF,5,0,Matej Jug,Vicente Calderón,34502,2014
+04/11/2014,8:45 pm,Regular round,Group A,Juventus FC,Olympiacos Piraeus,3,2,Martin Atkinson,Allianz Stadium,39091,2014
+04/11/2014,8:45 pm,Regular round,Group A,Malmö FF,Atlético de Madrid,0,2,Mark Clattenburg,Eleda Stadion,20500,2014
+26/11/2014,8:45 pm,Regular round,Group A,Atlético de Madrid,Olympiacos Piraeus,4,0,Wolfgang Stark,Vicente Calderón,40121,2014
+26/11/2014,8:45 pm,Regular round,Group A,Malmö FF,Juventus FC,0,2,Pedro Proença,Eleda Stadion,20500,2014
+09/12/2014,8:45 pm,Regular round,Group A,Olympiacos Piraeus,Malmö FF,4,2,Stéphane Lannoy,Stadio Georgios Karaiskakis,27562,2014
+09/12/2014,8:45 pm,Regular round,Group A,Juventus FC,Atlético de Madrid,0,0,Willie Collum,Allianz Stadium,39219,2014
+16/09/2014,8:45 pm,Regular round,Group B,Liverpool FC,Ludogorets Razgrad,2,1,Matej Jug,Anfield,43307,2014
+16/09/2014,8:45 pm,Regular round,Group B,Real Madrid,FC Basel 1893,5,1,Damir Skomina,Santiago Bernabéu,65364,2014
+01/10/2014,8:45 pm,Regular round,Group B,Ludogorets Razgrad,Real Madrid,1,2,Craig Thomson,Vasil Levski,42000,2014
+01/10/2014,8:45 pm,Regular round,Group B,FC Basel 1893,Liverpool FC,1,0,Jonas Eriksson,St. Jakob-Park,36000,2014
+22/10/2014,8:45 pm,Regular round,Group B,Liverpool FC,Real Madrid,0,3,Nicola Rizzoli,Anfield,43521,2014
+22/10/2014,8:45 pm,Regular round,Group B,Ludogorets Razgrad,FC Basel 1893,1,0,Deniz Aytekin,Vasil Levski,35000,2014
+04/11/2014,8:45 pm,Regular round,Group B,FC Basel 1893,Ludogorets Razgrad,4,0,Stéphane Lannoy,St. Jakob-Park,35272,2014
+04/11/2014,8:45 pm,Regular round,Group B,Real Madrid,Liverpool FC,1,0,Viktor Kassai,Santiago Bernabéu,79283,2014
+26/11/2014,8:45 pm,Regular round,Group B,Ludogorets Razgrad,Liverpool FC,2,2,Mateu Lahoz,Vasil Levski,37143,2014
+26/11/2014,8:45 pm,Regular round,Group B,FC Basel 1893,Real Madrid,0,1,Milorad Mazic,St. Jakob-Park,36000,2014
+09/12/2014,8:45 pm,Regular round,Group B,Real Madrid,Ludogorets Razgrad,4,0,Clément Turpin,Santiago Bernabéu,58393,2014
+09/12/2014,8:45 pm,Regular round,Group B,Liverpool FC,FC Basel 1893,1,1,Björn Kuipers,Anfield,43290,2014
+16/09/2014,8:45 pm,Regular round,Group C,AS Monaco,Bayer 04 Leverkusen,1,0,Pavel Kralovec,Stade Louis-II,8130,2014
+16/09/2014,8:45 pm,Regular round,Group C,SL Benfica,Zenit St. Petersburg,0,2,Svein Oddvar Moen,Estádio da Luz,35294,2014
+01/10/2014,6:00 pm,Regular round,Group C,Zenit St. Petersburg,AS Monaco,0,0,Mark Clattenburg,Petrovsky,13817,2014
+01/10/2014,8:45 pm,Regular round,Group C,Bayer 04 Leverkusen,SL Benfica,3,1,Martin Atkinson,BayArena,25202,2014
+22/10/2014,8:45 pm,Regular round,Group C,Bayer 04 Leverkusen,Zenit St. Petersburg,2,0,Björn Kuipers,BayArena,27254,2014
+22/10/2014,8:45 pm,Regular round,Group C,AS Monaco,SL Benfica,0,0,Szymon Marciniak,Stade Louis-II,12776,2014
+04/11/2014,6:00 pm,Regular round,Group C,Zenit St. Petersburg,Bayer 04 Leverkusen,1,2,Undiano Mallenco,Petrovsky,17010,2014
+04/11/2014,8:45 pm,Regular round,Group C,SL Benfica,AS Monaco,1,0,David Fernández Borbalán,Estádio da Luz,32565,2014
+26/11/2014,6:00 pm,Regular round,Group C,Zenit St. Petersburg,SL Benfica,1,0,Nicola Rizzoli,Petrovsky,17000,2014
+26/11/2014,8:45 pm,Regular round,Group C,Bayer 04 Leverkusen,AS Monaco,0,1,Paolo Tagliavento,BayArena,26230,2014
+09/12/2014,8:45 pm,Regular round,Group C,AS Monaco,Zenit St. Petersburg,2,0,Damir Skomina,Stade Louis-II,11319,2014
+09/12/2014,8:45 pm,Regular round,Group C,SL Benfica,Bayer 04 Leverkusen,0,0,Aleksey Kulbakov,Estádio da Luz,17564,2014
+16/09/2014,8:45 pm,Regular round,Group D,Galatasaray,RSC Anderlecht,1,1,István Vad,Ali Sami Yen Spor Kompleksi NEF Stadyumu,28553,2014
+16/09/2014,8:45 pm,Regular round,Group D,Borussia Dortmund,Arsenal FC,2,0,Olegário Benquerença,SIGNAL IDUNA PARK,65851,2014
+01/10/2014,8:45 pm,Regular round,Group D,RSC Anderlecht,Borussia Dortmund,0,3,Paolo Tagliavento,Constant Vanden Stock Stadion,18649,2014
+01/10/2014,8:45 pm,Regular round,Group D,Arsenal FC,Galatasaray,4,1,tbc,Emirates Stadium,59803,2014
+22/10/2014,8:45 pm,Regular round,Group D,RSC Anderlecht,Arsenal FC,1,2,Carlos Velasco Carballo,Constant Vanden Stock Stadion,19881,2014
+22/10/2014,8:45 pm,Regular round,Group D,Galatasaray,Borussia Dortmund,0,4,Mateu Lahoz,Ali Sami Yen Spor Kompleksi NEF Stadyumu,52650,2014
+04/11/2014,8:45 pm,Regular round,Group D,Arsenal FC,RSC Anderlecht,3,3,Clément Turpin,Emirates Stadium,59872,2014
+04/11/2014,8:45 pm,Regular round,Group D,Borussia Dortmund,Galatasaray,4,1,Pavel Kralovec,SIGNAL IDUNA PARK,65851,2014
+26/11/2014,8:45 pm,Regular round,Group D,RSC Anderlecht,Galatasaray,2,0,Ivan Bebek,Constant Vanden Stock Stadion,19857,2014
+26/11/2014,8:45 pm,Regular round,Group D,Arsenal FC,Borussia Dortmund,2,0,Viktor Kassai,Emirates Stadium,59902,2014
+09/12/2014,8:45 pm,Regular round,Group D,Borussia Dortmund,RSC Anderlecht,1,1,Undiano Mallenco,SIGNAL IDUNA PARK,65829,2014
+09/12/2014,8:45 pm,Regular round,Group D,Galatasaray,Arsenal FC,1,4,David Fernández Borbalán,Ali Sami Yen Spor Kompleksi NEF Stadyumu,20590,2014
+17/09/2014,8:45 pm,Regular round,Group E,AS Roma,CSKA Moscow,5,1,David Fernández Borbalán,Olimpico di Roma,40888,2014
+17/09/2014,8:45 pm,Regular round,Group E,Bayern Munich,Manchester City,1,0,Undiano Mallenco,Allianz Arena,68000,2014
+30/09/2014,6:00 pm,Regular round,Group E,CSKA Moscow,Bayern Munich,0,1,Willie Collum,Arena Khimki,0,2014
+30/09/2014,8:45 pm,Regular round,Group E,Manchester City,AS Roma,1,1,Björn Kuipers,Etihad Stadium,37509,2014
+21/10/2014,6:00 pm,Regular round,Group E,CSKA Moscow,Manchester City,2,2,István Vad,Arena Khimki,0,2014
+21/10/2014,8:45 pm,Regular round,Group E,AS Roma,Bayern Munich,1,7,Jonas Eriksson,Olimpico di Roma,62292,2014
+05/11/2014,8:45 pm,Regular round,Group E,Bayern Munich,AS Roma,2,0,Cüneyt Cakir,Allianz Arena,68000,2014
+05/11/2014,8:45 pm,Regular round,Group E,Manchester City,CSKA Moscow,1,2,Anastasios Sidiropoulos,Etihad Stadium,44000,2014
+25/11/2014,6:00 pm,Regular round,Group E,CSKA Moscow,AS Roma,1,1,Dr. Felix Brych,Arena Khimki,150,2014
+25/11/2014,8:45 pm,Regular round,Group E,Manchester City,Bayern Munich,3,2,Pavel Kralovec,Etihad Stadium,44510,2014
+10/12/2014,8:45 pm,Regular round,Group E,Bayern Munich,CSKA Moscow,3,0,Olegário Benquerença,Allianz Arena,68000,2014
+10/12/2014,8:45 pm,Regular round,Group E,AS Roma,Manchester City,0,2,Milorad Mazic,Olimpico di Roma,54119,2014
+17/09/2014,8:45 pm,Regular round,Group F,FC Barcelona,APOEL Nicosia,1,0,Deniz Aytekin,Spotify Camp Nou,62832,2014
+17/09/2014,8:45 pm,Regular round,Group F,Ajax Amsterdam,Paris Saint-Germain,1,1,Wolfgang Stark,Johan Cruijff ArenA,50430,2014
+30/09/2014,8:45 pm,Regular round,Group F,Paris Saint-Germain,FC Barcelona,3,2,Nicola Rizzoli,Parc des Princes,46400,2014
+30/09/2014,8:45 pm,Regular round,Group F,APOEL Nicosia,Ajax Amsterdam,1,1,Milorad Mazic,GSP Stadium,17190,2014
+21/10/2014,8:45 pm,Regular round,Group F,APOEL Nicosia,Paris Saint-Germain,0,1,Ovidiu Hategan,GSP Stadium,18659,2014
+21/10/2014,8:45 pm,Regular round,Group F,FC Barcelona,Ajax Amsterdam,3,1,Willie Collum,Spotify Camp Nou,79357,2014
+05/11/2014,8:45 pm,Regular round,Group F,Paris Saint-Germain,APOEL Nicosia,1,0,Olegário Benquerença,Parc des Princes,45816,2014
+05/11/2014,8:45 pm,Regular round,Group F,Ajax Amsterdam,FC Barcelona,0,2,Pedro Proença,Johan Cruijff ArenA,52117,2014
+25/11/2014,8:45 pm,Regular round,Group F,Paris Saint-Germain,Ajax Amsterdam,3,1,Matej Jug,Parc des Princes,46130,2014
+25/11/2014,8:45 pm,Regular round,Group F,APOEL Nicosia,FC Barcelona,0,4,Gianluca Rocchi,GSP Stadium,20626,2014
+10/12/2014,8:45 pm,Regular round,Group F,Ajax Amsterdam,APOEL Nicosia,4,0,Carlos Velasco Carballo,Johan Cruijff ArenA,51796,2014
+10/12/2014,8:45 pm,Regular round,Group F,FC Barcelona,Paris Saint-Germain,3,1,Martin Atkinson,Spotify Camp Nou,82570,2014
+17/09/2014,8:45 pm,Regular round,Group G,Chelsea FC,FC Schalke 04,1,1,Ivan Bebek,Stamford Bridge,40648,2014
+17/09/2014,8:45 pm,Regular round,Group G,NK Maribor,Sporting CP,1,1,Clément Turpin,Ljudski Vrt,12211,2014
+30/09/2014,8:45 pm,Regular round,Group G,Sporting CP,Chelsea FC,0,1,Mateu Lahoz,Estádio José Alvalade XXI,40734,2014
+30/09/2014,8:45 pm,Regular round,Group G,FC Schalke 04,NK Maribor,1,1,Carlos Velasco Carballo,Veltins-Arena,47997,2014
+21/10/2014,8:45 pm,Regular round,Group G,FC Schalke 04,Sporting CP,4,3,Sergey Karasev,Veltins-Arena,49943,2014
+21/10/2014,8:45 pm,Regular round,Group G,Chelsea FC,NK Maribor,6,0,Danny Makkelie,Stamford Bridge,41126,2014
+05/11/2014,8:45 pm,Regular round,Group G,Sporting CP,FC Schalke 04,4,2,Paolo Tagliavento,Estádio José Alvalade XXI,35473,2014
+05/11/2014,8:45 pm,Regular round,Group G,NK Maribor,Chelsea FC,1,1,Daniele Orsato,Ljudski Vrt,12994,2014
+25/11/2014,8:45 pm,Regular round,Group G,Sporting CP,NK Maribor,3,1,Craig Thomson,Estádio José Alvalade XXI,32739,2014
+25/11/2014,8:45 pm,Regular round,Group G,FC Schalke 04,Chelsea FC,0,5,Jonas Eriksson,Veltins-Arena,54442,2014
+10/12/2014,8:45 pm,Regular round,Group G,Chelsea FC,Sporting CP,3,1,Svein Oddvar Moen,Stamford Bridge,41089,2014
+10/12/2014,8:45 pm,Regular round,Group G,NK Maribor,FC Schalke 04,0,1,Szymon Marciniak,Ljudski Vrt,12516,2014
+17/09/2014,8:45 pm,Regular round,Group H,FC Porto,BATE Borisov,6,0,Bas Nijhuis,Estádio do Dragão,35108,2014
+17/09/2014,8:45 pm,Regular round,Group H,Athletic Bilbao,Shakhtar Donetsk,0,0,Anastasios Sidiropoulos,San Mamés,48351,2014
+30/09/2014,8:45 pm,Regular round,Group H,Shakhtar Donetsk,FC Porto,2,2,Cüneyt Cakir,Arena Lviv,33217,2014
+30/09/2014,8:45 pm,Regular round,Group H,BATE Borisov,Athletic Bilbao,2,1,Stéphane Lannoy,Borisov-Arena,11886,2014
+21/10/2014,8:45 pm,Regular round,Group H,BATE Borisov,Shakhtar Donetsk,0,7,Ivan Bebek,Borisov-Arena,13126,2014
+21/10/2014,8:45 pm,Regular round,Group H,FC Porto,Athletic Bilbao,2,1,Damir Skomina,Estádio do Dragão,38116,2014
+05/11/2014,8:45 pm,Regular round,Group H,Shakhtar Donetsk,BATE Borisov,5,0,Wolfgang Stark,Arena Lviv,29173,2014
+05/11/2014,8:45 pm,Regular round,Group H,Athletic Bilbao,FC Porto,0,2,Dr. Felix Brych,San Mamés,47243,2014
+25/11/2014,6:00 pm,Regular round,Group H,BATE Borisov,FC Porto,0,3,Ovidiu Hategan,Borisov-Arena,10147,2014
+25/11/2014,8:45 pm,Regular round,Group H,Shakhtar Donetsk,Athletic Bilbao,0,1,Mark Clattenburg,Arena Lviv,33491,2014
+10/12/2014,8:45 pm,Regular round,Group H,Athletic Bilbao,BATE Borisov,2,0,Daniele Orsato,San Mamés,33000,2014
+10/12/2014,8:45 pm,Regular round,Group H,FC Porto,Shakhtar Donetsk,1,1,Ruddy Buquet,Estádio do Dragão,28010,2014
+17/02/2015,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Paris Saint-Germain,Chelsea FC,1,1,Cüneyt Cakir,Parc des Princes,45713,2014
+17/02/2015,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Shakhtar Donetsk,Bayern Munich,0,0,Undiano Mallenco,Arena Lviv,34187,2014
+18/02/2015,8:45 PM  2nd leg:,Regular round,last 16 1st leg,FC Schalke 04,Real Madrid,0,2,Martin Atkinson,Veltins-Arena,54442,2014
+18/02/2015,8:45 PM  2nd leg:,Regular round,last 16 1st leg,FC Basel 1893,FC Porto,1,1,Mark Clattenburg,St. Jakob-Park,34464,2014
+24/02/2015,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Juventus FC,Borussia Dortmund,2,1,Mateu Lahoz,Allianz Stadium,41182,2014
+24/02/2015,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Manchester City,FC Barcelona,1,2,Dr. Felix Brych,Etihad Stadium,45081,2014
+25/02/2015,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Bayer 04 Leverkusen,Atlético de Madrid,1,0,Pavel Kralovec,BayArena,29079,2014
+25/02/2015,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Arsenal FC,AS Monaco,1,3,Deniz Aytekin,Emirates Stadium,59868,2014
+10/03/2015,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Real Madrid,FC Schalke 04,3,4,Damir Skomina,Santiago Bernabéu,69986,2014
+10/03/2015,8:45 PM  1st leg:,Regular round,last 16 2nd leg,FC Porto,FC Basel 1893,4,0,Jonas Eriksson,Estádio do Dragão,43108,2014
+11/03/2015,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Chelsea FC,Paris Saint-Germain,2,2,Björn Kuipers,Stamford Bridge,40000,2014
+11/03/2015,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Bayern Munich,Shakhtar Donetsk,7,0,Willie Collum,Allianz Arena,70000,2014
+17/03/2015,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Atlético de Madrid,Bayer 04 Leverkusen,4,2,Nicola Rizzoli,Vicente Calderón,48273,2014
+17/03/2015,8:45 PM  1st leg:,Regular round,last 16 2nd leg,AS Monaco,Arsenal FC,0,2,Svein Oddvar Moen,Stade Louis-II,17263,2014
+18/03/2015,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Borussia Dortmund,Juventus FC,0,3,Milorad Mazic,SIGNAL IDUNA PARK,65851,2014
+18/03/2015,8:45 PM  1st leg:,Regular round,last 16 2nd leg,FC Barcelona,Manchester City,1,0,Gianluca Rocchi,Spotify Camp Nou,92551,2014
+14/04/2015,8:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Juventus FC,AS Monaco,1,0,Pavel Kralovec,Allianz Stadium,40801,2014
+14/04/2015,8:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Atlético de Madrid,Real Madrid,0,0,Milorad Mazic,Vicente Calderón,50000,2014
+15/04/2015,8:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,FC Porto,Bayern Munich,3,1,Carlos Velasco Carballo,Estádio do Dragão,50092,2014
+15/04/2015,8:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Paris Saint-Germain,FC Barcelona,1,3,Mark Clattenburg,Parc des Princes,45893,2014
+21/04/2015,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Bayern Munich,FC Porto,6,1,Martin Atkinson,Allianz Arena,70000,2014
+21/04/2015,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,FC Barcelona,Paris Saint-Germain,2,0,Svein Oddvar Moen,Spotify Camp Nou,84477,2014
+22/04/2015,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Real Madrid,Atlético de Madrid,1,0,Dr. Felix Brych,Santiago Bernabéu,80354,2014
+22/04/2015,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,AS Monaco,Juventus FC,0,0,Willie Collum,Stade Louis-II,16889,2014
+05/05/2015,8:45 PM  2nd leg:,Regular round,Semi-Finals 1st Leg,Juventus FC,Real Madrid,2,1,Martin Atkinson,Allianz Stadium,41011,2014
+06/05/2015,8:45 PM  2nd leg:,Regular round,Semi-Finals 1st Leg,FC Barcelona,Bayern Munich,3,0,Nicola Rizzoli,Spotify Camp Nou,95639,2014
+12/05/2015,8:45 PM  1st leg:,Regular round,Semi-Finals 2nd Leg,Bayern Munich,FC Barcelona,3,2,Mark Clattenburg,Allianz Arena,70000,2014
+13/05/2015,8:45 PM  1st leg:,Regular round,Semi-Finals 2nd Leg,Real Madrid,Juventus FC,1,1,Jonas Eriksson,Santiago Bernabéu,80354,2014
+06/06/2015,8:45 pm,Regular round,Final,Juventus FC,FC Barcelona,1,3,Cüneyt Cakir,Olympiastadion Berlin,70442,2014
+15/09/2015,8:45 pm,Regular round,Group A,Paris Saint-Germain,Malmö FF,2,0,Sergey Karasev,Parc des Princes,46612,2015
+15/09/2015,8:45 pm,Regular round,Group A,Real Madrid,Shakhtar Donetsk,4,0,Ivan Bebek,Santiago Bernabéu,66389,2015
+30/09/2015,8:45 pm,Regular round,Group A,Shakhtar Donetsk,Paris Saint-Germain,0,3,Deniz Aytekin,Arena Lviv,32730,2015
+30/09/2015,8:45 pm,Regular round,Group A,Malmö FF,Real Madrid,0,2,Cüneyt Cakir,Eleda Stadion,20500,2015
+21/10/2015,8:45 pm,Regular round,Group A,Malmö FF,Shakhtar Donetsk,1,0,Anastasios Sidiropoulos,Eleda Stadion,20500,2015
+21/10/2015,8:45 pm,Regular round,Group A,Paris Saint-Germain,Real Madrid,0,0,Nicola Rizzoli,Parc des Princes,46858,2015
+03/11/2015,8:45 pm,Regular round,Group A,Real Madrid,Paris Saint-Germain,1,0,Mark Clattenburg,Santiago Bernabéu,78300,2015
+03/11/2015,8:45 pm,Regular round,Group A,Shakhtar Donetsk,Malmö FF,4,0,Ovidiu Hategan,Arena Lviv,24055,2015
+25/11/2015,8:45 pm,Regular round,Group A,Malmö FF,Paris Saint-Germain,0,5,Willie Collum,Eleda Stadion,24000,2015
+25/11/2015,8:45 pm,Regular round,Group A,Shakhtar Donetsk,Real Madrid,3,4,Bas Nijhuis,Arena Lviv,33990,2015
+08/12/2015,8:45 pm,Regular round,Group A,Real Madrid,Malmö FF,8,0,Daniele Orsato,Santiago Bernabéu,60663,2015
+08/12/2015,8:45 pm,Regular round,Group A,Paris Saint-Germain,Shakhtar Donetsk,2,0,Anthony Taylor,Parc des Princes,44408,2015
+15/09/2015,8:45 pm,Regular round,Group B,VfL Wolfsburg,CSKA Moscow,1,0,Svein Oddvar Moen,Volkswagen Arena,20126,2015
+15/09/2015,8:45 pm,Regular round,Group B,PSV Eindhoven,Manchester United,2,1,Nicola Rizzoli,Philips Stadion,35292,2015
+30/09/2015,8:45 pm,Regular round,Group B,Manchester United,VfL Wolfsburg,2,1,Viktor Kassai,Old Trafford,70000,2015
+30/09/2015,8:45 pm,Regular round,Group B,CSKA Moscow,PSV Eindhoven,3,2,Ruddy Buquet,Arena Khimki,16152,2015
+21/10/2015,8:45 pm,Regular round,Group B,CSKA Moscow,Manchester United,1,1,Carlos Velasco Carballo,Arena Khimki,18456,2015
+21/10/2015,8:45 pm,Regular round,Group B,VfL Wolfsburg,PSV Eindhoven,2,0,Undiano Mallenco,Volkswagen Arena,23375,2015
+03/11/2015,8:45 pm,Regular round,Group B,PSV Eindhoven,VfL Wolfsburg,2,0,Jonas Eriksson,Philips Stadion,35000,2015
+03/11/2015,8:45 pm,Regular round,Group B,Manchester United,CSKA Moscow,1,0,Szymon Marciniak,Old Trafford,75165,2015
+25/11/2015,6:00 pm,Regular round,Group B,CSKA Moscow,VfL Wolfsburg,0,2,Gianluca Rocchi,Arena Khimki,16450,2015
+25/11/2015,8:45 pm,Regular round,Group B,Manchester United,PSV Eindhoven,0,0,Pavel Kralovec,Old Trafford,75321,2015
+08/12/2015,8:45 pm,Regular round,Group B,PSV Eindhoven,CSKA Moscow,2,1,David Fernández Borbalán,Philips Stadion,34000,2015
+08/12/2015,8:45 pm,Regular round,Group B,VfL Wolfsburg,Manchester United,3,2,Milorad Mazic,Volkswagen Arena,26400,2015
+15/09/2015,8:45 pm,Regular round,Group C,Galatasaray,Atlético de Madrid,0,2,Szymon Marciniak,Ali Sami Yen Spor Kompleksi NEF Stadyumu,41500,2015
+15/09/2015,8:45 pm,Regular round,Group C,SL Benfica,FC Astana,2,0,Anastasios Sidiropoulos,Estádio da Luz,32799,2015
+30/09/2015,6:00 pm,Regular round,Group C,FC Astana,Galatasaray,2,2,Martin Strömbergsson,Astana Arena,27264,2015
+30/09/2015,8:45 pm,Regular round,Group C,Atlético de Madrid,SL Benfica,1,2,Gianluca Rocchi,Vicente Calderón,40938,2015
+21/10/2015,8:45 pm,Regular round,Group C,Atlético de Madrid,FC Astana,4,0,Aleksey Kulbakov,Vicente Calderón,33853,2015
+21/10/2015,8:45 pm,Regular round,Group C,Galatasaray,SL Benfica,2,1,Willie Collum,Ali Sami Yen Spor Kompleksi NEF Stadyumu,33000,2015
+03/11/2015,4:00 pm,Regular round,Group C,FC Astana,Atlético de Madrid,0,0,Anthony Taylor,Astana Arena,29231,2015
+03/11/2015,8:45 pm,Regular round,Group C,SL Benfica,Galatasaray,2,1,Milorad Mazic,Estádio da Luz,35726,2015
+25/11/2015,4:00 pm,Regular round,Group C,FC Astana,SL Benfica,2,2,Ruddy Buquet,Astana Arena,15089,2015
+25/11/2015,8:45 pm,Regular round,Group C,Atlético de Madrid,Galatasaray,2,0,Nicola Rizzoli,Vicente Calderón,35753,2015
+08/12/2015,8:45 pm,Regular round,Group C,SL Benfica,Atlético de Madrid,1,2,Ovidiu Hategan,Estádio da Luz,47630,2015
+08/12/2015,8:45 pm,Regular round,Group C,Galatasaray,FC Astana,1,1,Craig Thomson,Ali Sami Yen Spor Kompleksi NEF Stadyumu,26464,2015
+15/09/2015,8:45 pm,Regular round,Group D,Manchester City,Juventus FC,1,2,Damir Skomina,Etihad Stadium,50363,2015
+15/09/2015,8:45 pm,Regular round,Group D,Sevilla FC,Borussia Mönchengladbach,3,0,Pavel Kralovec,Ramón Sánchez-Pizjuán,36959,2015
+30/09/2015,8:45 pm,Regular round,Group D,Borussia Mönchengladbach,Manchester City,1,2,Clément Turpin,Stadion im Borussia-Park,46217,2015
+30/09/2015,8:45 pm,Regular round,Group D,Juventus FC,Sevilla FC,2,0,Jonas Eriksson,Allianz Stadium,36640,2015
+21/10/2015,8:45 pm,Regular round,Group D,Juventus FC,Borussia Mönchengladbach,0,0,Craig Thomson,Allianz Stadium,41011,2015
+21/10/2015,8:45 pm,Regular round,Group D,Manchester City,Sevilla FC,2,1,Bas Nijhuis,Etihad Stadium,45595,2015
+03/11/2015,8:45 pm,Regular round,Group D,Borussia Mönchengladbach,Juventus FC,1,1,Björn Kuipers,Stadion im Borussia-Park,46217,2015
+03/11/2015,8:45 pm,Regular round,Group D,Sevilla FC,Manchester City,1,3,Svein Oddvar Moen,Ramón Sánchez-Pizjuán,39261,2015
+25/11/2015,8:45 pm,Regular round,Group D,Borussia Mönchengladbach,Sevilla FC,4,2,Damir Skomina,Stadion im Borussia-Park,45177,2015
+25/11/2015,8:45 pm,Regular round,Group D,Juventus FC,Manchester City,1,0,Dr. Felix Brych,Allianz Stadium,38193,2015
+08/12/2015,8:45 pm,Regular round,Group D,Sevilla FC,Juventus FC,1,0,Szymon Marciniak,Ramón Sánchez-Pizjuán,35583,2015
+08/12/2015,8:45 pm,Regular round,Group D,Manchester City,Borussia Mönchengladbach,4,2,Danny Makkelie,Etihad Stadium,41829,2015
+16/09/2015,8:45 pm,Regular round,Group E,Bayer 04 Leverkusen,BATE Borisov,4,1,Danny Makkelie,BayArena,24280,2015
+16/09/2015,8:45 pm,Regular round,Group E,AS Roma,FC Barcelona,1,1,Björn Kuipers,Olimpico di Roma,57836,2015
+29/09/2015,8:45 pm,Regular round,Group E,FC Barcelona,Bayer 04 Leverkusen,2,1,Martin Atkinson,Spotify Camp Nou,68694,2015
+29/09/2015,8:45 pm,Regular round,Group E,BATE Borisov,AS Roma,3,2,Mark Clattenburg,Borisov-Arena,12767,2015
+20/10/2015,8:45 pm,Regular round,Group E,BATE Borisov,FC Barcelona,0,2,Jorge Sousa,Borisov-Arena,13074,2015
+20/10/2015,8:45 pm,Regular round,Group E,Bayer 04 Leverkusen,AS Roma,4,4,Viktor Kassai,BayArena,30000,2015
+04/11/2015,8:45 pm,Regular round,Group E,AS Roma,Bayer 04 Leverkusen,3,2,Sergey Karasev,Olimpico di Roma,38361,2015
+04/11/2015,8:45 pm,Regular round,Group E,FC Barcelona,BATE Borisov,3,0,István Vad,Spotify Camp Nou,68502,2015
+24/11/2015,6:00 pm,Regular round,Group E,BATE Borisov,Bayer 04 Leverkusen,1,1,Clément Turpin,Borisov-Arena,12601,2015
+24/11/2015,8:45 pm,Regular round,Group E,FC Barcelona,AS Roma,6,1,Cüneyt Cakir,Spotify Camp Nou,71433,2015
+09/12/2015,8:45 pm,Regular round,Group E,AS Roma,BATE Borisov,0,0,Martin Atkinson,Olimpico di Roma,29489,2015
+09/12/2015,8:45 pm,Regular round,Group E,Bayer 04 Leverkusen,FC Barcelona,1,1,Mark Clattenburg,BayArena,30210,2015
+16/09/2015,8:45 pm,Regular round,Group F,GNK Dinamo Zagreb,Arsenal FC,2,1,Ovidiu Hategan,Maksimir,17840,2015
+16/09/2015,8:45 pm,Regular round,Group F,Olympiacos Piraeus,Bayern Munich,0,3,Carlos Velasco Carballo,Stadio Georgios Karaiskakis,32115,2015
+29/09/2015,8:45 pm,Regular round,Group F,Arsenal FC,Olympiacos Piraeus,2,3,Bas Nijhuis,Emirates Stadium,59428,2015
+29/09/2015,8:45 pm,Regular round,Group F,Bayern Munich,GNK Dinamo Zagreb,5,0,Aleksey Kulbakov,Allianz Arena,70000,2015
+20/10/2015,8:45 pm,Regular round,Group F,GNK Dinamo Zagreb,Olympiacos Piraeus,0,1,Paolo Tagliavento,Maksimir,13678,2015
+20/10/2015,8:45 pm,Regular round,Group F,Arsenal FC,Bayern Munich,2,0,Cüneyt Cakir,Emirates Stadium,60000,2015
+04/11/2015,8:45 pm,Regular round,Group F,Olympiacos Piraeus,GNK Dinamo Zagreb,2,1,Mateu Lahoz,Stadio Georgios Karaiskakis,31473,2015
+04/11/2015,8:45 pm,Regular round,Group F,Bayern Munich,Arsenal FC,5,1,Gianluca Rocchi,Allianz Arena,70000,2015
+24/11/2015,8:45 pm,Regular round,Group F,Bayern Munich,Olympiacos Piraeus,4,0,Jonas Eriksson,Allianz Arena,70000,2015
+24/11/2015,8:45 pm,Regular round,Group F,Arsenal FC,GNK Dinamo Zagreb,3,0,Viktor Kassai,Emirates Stadium,58978,2015
+09/12/2015,8:45 pm,Regular round,Group F,Olympiacos Piraeus,Arsenal FC,0,3,Nicola Rizzoli,Stadio Georgios Karaiskakis,31388,2015
+09/12/2015,8:45 pm,Regular round,Group F,GNK Dinamo Zagreb,Bayern Munich,0,2,Martin Strömbergsson,Maksimir,19681,2015
+16/09/2015,8:45 pm,Regular round,Group G,Dynamo Kyiv,FC Porto,2,2,Dr. Felix Brych,NSK Olimpisky,52369,2015
+16/09/2015,8:45 pm,Regular round,Group G,Chelsea FC,Maccabi Tel Aviv,4,0,Felix Zwayer,Stamford Bridge,40684,2015
+29/09/2015,8:45 pm,Regular round,Group G,Maccabi Tel Aviv,Dynamo Kyiv,0,2,David Fernández Borbalán,Sammy Ofer Stadium,27100,2015
+29/09/2015,8:45 pm,Regular round,Group G,FC Porto,Chelsea FC,2,1,Mateu Lahoz,Estádio do Dragão,46120,2015
+20/10/2015,8:45 pm,Regular round,Group G,FC Porto,Maccabi Tel Aviv,2,0,Clément Turpin,Estádio do Dragão,35209,2015
+20/10/2015,8:45 pm,Regular round,Group G,Dynamo Kyiv,Chelsea FC,0,0,Damir Skomina,NSK Olimpisky,60291,2015
+04/11/2015,8:45 pm,Regular round,Group G,Chelsea FC,Dynamo Kyiv,2,1,Pavel Kralovec,Stamford Bridge,41241,2015
+04/11/2015,8:45 pm,Regular round,Group G,Maccabi Tel Aviv,FC Porto,1,3,Anastasios Sidiropoulos,Sammy Ofer Stadium,26646,2015
+24/11/2015,8:45 pm,Regular round,Group G,Maccabi Tel Aviv,Chelsea FC,0,4,Undiano Mallenco,Sammy Ofer Stadium,29121,2015
+24/11/2015,8:45 pm,Regular round,Group G,FC Porto,Dynamo Kyiv,0,2,Carlos Velasco Carballo,Estádio do Dragão,31220,2015
+09/12/2015,8:45 pm,Regular round,Group G,Chelsea FC,FC Porto,2,0,Cüneyt Cakir,Stamford Bridge,41096,2015
+09/12/2015,8:45 pm,Regular round,Group G,Dynamo Kyiv,Maccabi Tel Aviv,1,0,Björn Kuipers,NSK Olimpisky,0,2015
+16/09/2015,8:45 pm,Regular round,Group H,Valencia CF,Zenit St. Petersburg,2,3,Craig Thomson,Mestalla,28005,2015
+16/09/2015,8:45 pm,Regular round,Group H,KAA Gent,Olympique Lyon,1,1,Willie Collum,Ghelamco Arena,19601,2015
+29/09/2015,8:45 pm,Regular round,Group H,Zenit St. Petersburg,KAA Gent,2,1,Matej Jug,Petrovsky,18095,2015
+29/09/2015,8:45 pm,Regular round,Group H,Olympique Lyon,Valencia CF,0,1,Milorad Mazic,Stade de Gerland,33534,2015
+20/10/2015,8:45 pm,Regular round,Group H,Zenit St. Petersburg,Olympique Lyon,3,1,Martin Atkinson,Petrovsky,17517,2015
+20/10/2015,8:45 pm,Regular round,Group H,Valencia CF,KAA Gent,2,1,Felix Zwayer,Mestalla,38207,2015
+04/11/2015,8:45 pm,Regular round,Group H,KAA Gent,Valencia CF,1,0,Daniele Orsato,Ghelamco Arena,19542,2015
+04/11/2015,8:45 pm,Regular round,Group H,Olympique Lyon,Zenit St. Petersburg,0,2,Dr. Felix Brych,Stade de Gerland,30173,2015
+24/11/2015,6:00 pm,Regular round,Group H,Zenit St. Petersburg,Valencia CF,2,0,Svein Oddvar Moen,Petrovsky,17002,2015
+24/11/2015,8:45 pm,Regular round,Group H,Olympique Lyon,KAA Gent,1,2,Sergey Karasev,Stade de Gerland,30206,2015
+09/12/2015,8:45 pm,Regular round,Group H,KAA Gent,Zenit St. Petersburg,2,1,Jorge Sousa,Ghelamco Arena,19978,2015
+09/12/2015,8:45 pm,Regular round,Group H,Valencia CF,Olympique Lyon,0,2,Matej Jug,Mestalla,32494,2015
+16/02/2016,8:45 PM  2nd leg:,Regular round,last 16 1st leg,SL Benfica,Zenit St. Petersburg,1,0,Gianluca Rocchi,Estádio da Luz,48615,2015
+16/02/2016,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Paris Saint-Germain,Chelsea FC,2,1,Carlos Velasco Carballo,Parc des Princes,46505,2015
+17/02/2016,8:45 PM  2nd leg:,Regular round,last 16 1st leg,KAA Gent,VfL Wolfsburg,2,3,Svein Oddvar Moen,Ghelamco Arena,19978,2015
+17/02/2016,8:45 PM  2nd leg:,Regular round,last 16 1st leg,AS Roma,Real Madrid,0,2,Pavel Kralovec,Olimpico di Roma,55612,2015
+23/02/2016,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Arsenal FC,FC Barcelona,0,2,Cüneyt Cakir,Emirates Stadium,60260,2015
+23/02/2016,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Juventus FC,Bayern Munich,2,2,Martin Atkinson,Allianz Stadium,41011,2015
+24/02/2016,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Dynamo Kyiv,Manchester City,1,3,Mateu Lahoz,NSK Olimpisky,53691,2015
+24/02/2016,8:45 PM  2nd leg:,Regular round,last 16 1st leg,PSV Eindhoven,Atlético de Madrid,0,0,Daniele Orsato,Philips Stadion,34948,2015
+08/03/2016,8:45 PM  1st leg:,Regular round,last 16 2nd leg,VfL Wolfsburg,KAA Gent,1,0,Damir Skomina,Volkswagen Arena,23457,2015
+08/03/2016,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Real Madrid,AS Roma,2,0,Szymon Marciniak,Santiago Bernabéu,78654,2015
+09/03/2016,6:00 PM  1st leg:,Regular round,last 16 2nd leg,Zenit St. Petersburg,SL Benfica,1,2,Viktor Kassai,Petrovsky,17688,2015
+09/03/2016,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Chelsea FC,Paris Saint-Germain,1,2,Dr. Felix Brych,Stamford Bridge,37591,2015
+15/03/2016,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Manchester City,Dynamo Kyiv,0,0,Ovidiu Hategan,Etihad Stadium,43630,2015
+15/03/2016,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Atlético de Madrid,PSV Eindhoven,8,7,Mark Clattenburg,Vicente Calderón,54907,2015
+16/03/2016,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Bayern Munich,Juventus FC,4,2,Jonas Eriksson,Allianz Arena,69334,2015
+16/03/2016,8:45 PM  1st leg:,Regular round,last 16 2nd leg,FC Barcelona,Arsenal FC,3,1,Sergey Karasev,Spotify Camp Nou,76092,2015
+05/04/2016,8:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,FC Barcelona,Atlético de Madrid,2,1,Dr. Felix Brych,Spotify Camp Nou,88534,2015
+05/04/2016,8:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Bayern Munich,SL Benfica,1,0,Szymon Marciniak,Allianz Arena,70000,2015
+06/04/2016,8:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,VfL Wolfsburg,Real Madrid,2,0,Gianluca Rocchi,Volkswagen Arena,26400,2015
+06/04/2016,8:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Paris Saint-Germain,Manchester City,2,2,Milorad Mazic,Parc des Princes,47228,2015
+12/04/2016,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Real Madrid,VfL Wolfsburg,3,0,Viktor Kassai,Santiago Bernabéu,76684,2015
+12/04/2016,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Manchester City,Paris Saint-Germain,1,0,Carlos Velasco Carballo,Etihad Stadium,53039,2015
+13/04/2016,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,SL Benfica,Bayern Munich,2,2,Björn Kuipers,Estádio da Luz,63235,2015
+13/04/2016,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Atlético de Madrid,FC Barcelona,2,0,Nicola Rizzoli,Vicente Calderón,52851,2015
+26/04/2016,8:45 PM  2nd leg:,Regular round,Semi-Finals 1st Leg,Manchester City,Real Madrid,0,0,Cüneyt Cakir,Etihad Stadium,52221,2015
+27/04/2016,8:45 PM  2nd leg:,Regular round,Semi-Finals 1st Leg,Atlético de Madrid,Bayern Munich,1,0,Mark Clattenburg,Vicente Calderón,52127,2015
+03/05/2016,8:45 PM  1st leg:,Regular round,Semi-Finals 2nd Leg,Bayern Munich,Atlético de Madrid,2,1,Cüneyt Cakir,Allianz Arena,69334,2015
+04/05/2016,8:45 PM  1st leg:,Regular round,Semi-Finals 2nd Leg,Real Madrid,Manchester City,1,0,Damir Skomina,Santiago Bernabéu,78300,2015
+28/05/2016,8:45 pm,Regular round,Final,Real Madrid,Atlético de Madrid,6,4,Mark Clattenburg,Giuseppe Meazza,71942,2015
+13/09/2016,8:45 pm,Regular round,Group A,FC Basel 1893,Ludogorets Razgrad,1,1,Aleksey Kulbakov,St. Jakob-Park,30852,2016
+13/09/2016,8:45 pm,Regular round,Group A,Paris Saint-Germain,Arsenal FC,1,1,Viktor Kassai,Parc des Princes,46440,2016
+28/09/2016,8:45 pm,Regular round,Group A,Ludogorets Razgrad,Paris Saint-Germain,1,3,Pavel Kralovec,Vasil Levski,17155,2016
+28/09/2016,8:45 pm,Regular round,Group A,Arsenal FC,FC Basel 1893,2,0,Danny Makkelie,Emirates Stadium,59993,2016
+19/10/2016,8:45 pm,Regular round,Group A,Arsenal FC,Ludogorets Razgrad,6,0,Artur Soares Dias,Emirates Stadium,59944,2016
+19/10/2016,8:45 pm,Regular round,Group A,Paris Saint-Germain,FC Basel 1893,3,0,Deniz Aytekin,Parc des Princes,46488,2016
+01/11/2016,8:45 pm,Regular round,Group A,Ludogorets Razgrad,Arsenal FC,2,3,Bas Nijhuis,Vasil Levski,30862,2016
+01/11/2016,8:45 pm,Regular round,Group A,FC Basel 1893,Paris Saint-Germain,1,2,Ovidiu Hategan,St. Jakob-Park,34639,2016
+23/11/2016,8:45 pm,Regular round,Group A,Ludogorets Razgrad,FC Basel 1893,0,0,Martin Atkinson,Vasil Levski,22946,2016
+23/11/2016,8:45 pm,Regular round,Group A,Arsenal FC,Paris Saint-Germain,2,2,Dr. Felix Brych,Emirates Stadium,59628,2016
+06/12/2016,8:45 pm,Regular round,Group A,Paris Saint-Germain,Ludogorets Razgrad,2,2,Anastasios Sidiropoulos,Parc des Princes,42650,2016
+06/12/2016,8:45 pm,Regular round,Group A,FC Basel 1893,Arsenal FC,1,4,Jorge Sousa,St. Jakob-Park,36618,2016
+13/09/2016,8:45 pm,Regular round,Group B,SL Benfica,Besiktas JK,1,1,Milorad Mazic,Estádio da Luz,42126,2016
+13/09/2016,8:45 pm,Regular round,Group B,Dynamo Kyiv,SSC Napoli,1,2,Willie Collum,NSK Olimpisky,35137,2016
+28/09/2016,8:45 pm,Regular round,Group B,Besiktas JK,Dynamo Kyiv,1,1,Felix Zwayer,Vodafone Park,33938,2016
+28/09/2016,8:45 pm,Regular round,Group B,SSC Napoli,SL Benfica,4,2,Dr. Felix Brych,Stadio Diego Armando Maradona,41281,2016
+19/10/2016,8:45 pm,Regular round,Group B,SSC Napoli,Besiktas JK,2,3,Sergey Karasev,Stadio Diego Armando Maradona,28502,2016
+19/10/2016,8:45 pm,Regular round,Group B,Dynamo Kyiv,SL Benfica,0,2,David Fernández Borbalán,NSK Olimpisky,25991,2016
+01/11/2016,6:45 pm,Regular round,Group B,Besiktas JK,SSC Napoli,1,1,Mark Clattenburg,Vodafone Park,35552,2016
+01/11/2016,8:45 pm,Regular round,Group B,SL Benfica,Dynamo Kyiv,1,0,Clément Turpin,Estádio da Luz,51641,2016
+23/11/2016,6:45 pm,Regular round,Group B,Besiktas JK,SL Benfica,3,3,Damir Skomina,Vodafone Park,36063,2016
+23/11/2016,8:45 pm,Regular round,Group B,SSC Napoli,Dynamo Kyiv,0,0,Ovidiu Hategan,Stadio Diego Armando Maradona,33736,2016
+06/12/2016,8:45 pm,Regular round,Group B,SL Benfica,SSC Napoli,1,2,Mateu Lahoz,Estádio da Luz,55634,2016
+06/12/2016,8:45 pm,Regular round,Group B,Dynamo Kyiv,Besiktas JK,6,0,Craig Thomson,NSK Olimpisky,14036,2016
+13/09/2016,8:45 pm,Regular round,Group C,FC Barcelona,Celtic FC,7,0,Ovidiu Hategan,Spotify Camp Nou,73290,2016
+14/09/2016,8:45 pm,Regular round,Group C,Manchester City,Borussia Mönchengladbach,4,0,Björn Kuipers,Etihad Stadium,30270,2016
+28/09/2016,8:45 pm,Regular round,Group C,Borussia Mönchengladbach,FC Barcelona,1,2,Damir Skomina,Stadion im Borussia-Park,46283,2016
+28/09/2016,8:45 pm,Regular round,Group C,Celtic FC,Manchester City,3,3,Nicola Rizzoli,Celtic Park,57592,2016
+19/10/2016,8:45 pm,Regular round,Group C,Celtic FC,Borussia Mönchengladbach,0,2,Anastasios Sidiropoulos,Celtic Park,57814,2016
+19/10/2016,8:45 pm,Regular round,Group C,FC Barcelona,Manchester City,4,0,Milorad Mazic,Spotify Camp Nou,96290,2016
+01/11/2016,8:45 pm,Regular round,Group C,Manchester City,FC Barcelona,3,1,Viktor Kassai,Etihad Stadium,53340,2016
+01/11/2016,8:45 pm,Regular round,Group C,Borussia Mönchengladbach,Celtic FC,1,1,Jorge Sousa,Stadion im Borussia-Park,46283,2016
+23/11/2016,8:45 pm,Regular round,Group C,Borussia Mönchengladbach,Manchester City,1,1,Cüneyt Cakir,Stadion im Borussia-Park,45921,2016
+23/11/2016,8:45 pm,Regular round,Group C,Celtic FC,FC Barcelona,0,2,Daniele Orsato,Celtic Park,57937,2016
+06/12/2016,8:45 pm,Regular round,Group C,Manchester City,Celtic FC,1,1,Slavko Vincic,Etihad Stadium,51297,2016
+06/12/2016,8:45 pm,Regular round,Group C,FC Barcelona,Borussia Mönchengladbach,4,0,Sergey Karasev,Spotify Camp Nou,67157,2016
+13/09/2016,8:45 pm,Regular round,Group D,Bayern Munich,FK Rostov,5,0,Anthony Taylor,Allianz Arena,70000,2016
+13/09/2016,8:45 pm,Regular round,Group D,PSV Eindhoven,Atlético de Madrid,0,1,Martin Atkinson,Philips Stadion,33989,2016
+28/09/2016,8:45 pm,Regular round,Group D,Atlético de Madrid,Bayern Munich,1,0,Szymon Marciniak,Vicente Calderón,54907,2016
+28/09/2016,8:45 pm,Regular round,Group D,FK Rostov,PSV Eindhoven,2,2,Clément Turpin,Olimp-2,12646,2016
+19/10/2016,8:45 pm,Regular round,Group D,FK Rostov,Atlético de Madrid,0,1,Daniele Orsato,Olimp-2,15400,2016
+19/10/2016,8:45 pm,Regular round,Group D,Bayern Munich,PSV Eindhoven,4,1,Willie Collum,Allianz Arena,70000,2016
+01/11/2016,8:45 pm,Regular round,Group D,Atlético de Madrid,FK Rostov,2,1,Craig Thomson,Vicente Calderón,40392,2016
+01/11/2016,8:45 pm,Regular round,Group D,PSV Eindhoven,Bayern Munich,1,2,Gianluca Rocchi,Philips Stadion,35000,2016
+23/11/2016,6:00 pm,Regular round,Group D,FK Rostov,Bayern Munich,3,2,Artur Soares Dias,Olimp-2,15211,2016
+23/11/2016,8:45 pm,Regular round,Group D,Atlético de Madrid,PSV Eindhoven,2,0,Aleksey Kulbakov,Vicente Calderón,37891,2016
+06/12/2016,8:45 pm,Regular round,Group D,Bayern Munich,Atlético de Madrid,1,0,Clément Turpin,Allianz Arena,70000,2016
+06/12/2016,8:45 pm,Regular round,Group D,PSV Eindhoven,FK Rostov,0,0,Deniz Aytekin,Philips Stadion,33400,2016
+14/09/2016,8:45 pm,Regular round,Group E,Tottenham Hotspur,AS Monaco,1,2,Gianluca Rocchi,Wembley Stadium,85011,2016
+14/09/2016,8:45 pm,Regular round,Group E,Bayer 04 Leverkusen,CSKA Moscow,2,2,Daniele Orsato,BayArena,23459,2016
+27/09/2016,8:45 pm,Regular round,Group E,AS Monaco,Bayer 04 Leverkusen,1,1,David Fernández Borbalán,Stade Louis-II,8100,2016
+27/09/2016,8:45 pm,Regular round,Group E,CSKA Moscow,Tottenham Hotspur,0,1,Mateu Lahoz,VEB Arena,26153,2016
+18/10/2016,8:45 pm,Regular round,Group E,CSKA Moscow,AS Monaco,1,1,Martin Strömbergsson,VEB Arena,24125,2016
+18/10/2016,8:45 pm,Regular round,Group E,Bayer 04 Leverkusen,Tottenham Hotspur,0,0,Cüneyt Cakir,BayArena,28887,2016
+02/11/2016,8:45 pm,Regular round,Group E,AS Monaco,CSKA Moscow,3,0,Matej Jug,Stade Louis-II,10029,2016
+02/11/2016,8:45 pm,Regular round,Group E,Tottenham Hotspur,Bayer 04 Leverkusen,0,1,Jonas Eriksson,Wembley Stadium,85512,2016
+22/11/2016,6:00 pm,Regular round,Group E,CSKA Moscow,Bayer 04 Leverkusen,1,1,Undiano Mallenco,VEB Arena,19164,2016
+22/11/2016,8:45 pm,Regular round,Group E,AS Monaco,Tottenham Hotspur,2,1,Björn Kuipers,Stade Louis-II,13100,2016
+07/12/2016,8:45 pm,Regular round,Group E,Tottenham Hotspur,CSKA Moscow,3,1,Nicola Rizzoli,Wembley Stadium,62034,2016
+07/12/2016,8:45 pm,Regular round,Group E,Bayer 04 Leverkusen,AS Monaco,3,0,Gediminas Mazeika,BayArena,21928,2016
+14/09/2016,8:45 pm,Regular round,Group F,Legia Warszawa,Borussia Dortmund,0,6,Sergey Karasev,Stadion Miejski im. Marszałka Józefa Piłsudskiego,27304,2016
+14/09/2016,8:45 pm,Regular round,Group F,Real Madrid,Sporting CP,2,1,Paolo Tagliavento,Santiago Bernabéu,72179,2016
+27/09/2016,8:45 pm,Regular round,Group F,Borussia Dortmund,Real Madrid,2,2,Mark Clattenburg,SIGNAL IDUNA PARK,65849,2016
+27/09/2016,8:45 pm,Regular round,Group F,Sporting CP,Legia Warszawa,2,0,Michael Oliver,Estádio José Alvalade XXI,40094,2016
+18/10/2016,8:45 pm,Regular round,Group F,Sporting CP,Borussia Dortmund,1,2,Damir Skomina,Estádio José Alvalade XXI,46609,2016
+18/10/2016,8:45 pm,Regular round,Group F,Real Madrid,Legia Warszawa,5,1,Ruddy Buquet,Santiago Bernabéu,70251,2016
+02/11/2016,8:45 pm,Regular round,Group F,Legia Warszawa,Real Madrid,3,3,Pavel Kralovec,Stadion Miejski im. Marszałka Józefa Piłsudskiego,0,2016
+02/11/2016,8:45 pm,Regular round,Group F,Borussia Dortmund,Sporting CP,1,0,Danny Makkelie,SIGNAL IDUNA PARK,65849,2016
+22/11/2016,8:45 pm,Regular round,Group F,Borussia Dortmund,Legia Warszawa,8,4,Martin Strömbergsson,SIGNAL IDUNA PARK,55094,2016
+22/11/2016,8:45 pm,Regular round,Group F,Sporting CP,Real Madrid,1,2,Willie Collum,Estádio José Alvalade XXI,50046,2016
+07/12/2016,8:45 pm,Regular round,Group F,Legia Warszawa,Sporting CP,1,0,Gianluca Rocchi,Stadion Miejski im. Marszałka Józefa Piłsudskiego,28232,2016
+07/12/2016,8:45 pm,Regular round,Group F,Real Madrid,Borussia Dortmund,2,2,Szymon Marciniak,Santiago Bernabéu,76894,2016
+14/09/2016,8:45 pm,Regular round,Group G,FC Porto,FC Copenhagen,1,1,Matej Jug,Estádio do Dragão,34325,2016
+14/09/2016,8:45 pm,Regular round,Group G,Club Brugge KV,Leicester City,0,3,Anastasios Sidiropoulos,Jan-Breydel-Stadion,20970,2016
+27/09/2016,8:45 pm,Regular round,Group G,Leicester City,FC Porto,1,0,Cüneyt Cakir,King Power Stadium,31805,2016
+27/09/2016,8:45 pm,Regular round,Group G,FC Copenhagen,Club Brugge KV,4,0,Craig Thomson,Parken,25605,2016
+18/10/2016,8:45 pm,Regular round,Group G,Club Brugge KV,FC Porto,1,2,Paolo Tagliavento,Jan-Breydel-Stadion,23372,2016
+18/10/2016,8:45 pm,Regular round,Group G,Leicester City,FC Copenhagen,1,0,Nicola Rizzoli,King Power Stadium,31037,2016
+02/11/2016,8:45 pm,Regular round,Group G,FC Copenhagen,Leicester City,0,0,Dr. Felix Brych,Parken,34146,2016
+02/11/2016,8:45 pm,Regular round,Group G,FC Porto,Club Brugge KV,1,0,Undiano Mallenco,Estádio do Dragão,32310,2016
+22/11/2016,8:45 pm,Regular round,Group G,Leicester City,Club Brugge KV,2,1,Ruddy Buquet,King Power Stadium,31443,2016
+22/11/2016,8:45 pm,Regular round,Group G,FC Copenhagen,FC Porto,0,0,Milorad Mazic,Parken,32036,2016
+07/12/2016,8:45 pm,Regular round,Group G,Club Brugge KV,FC Copenhagen,0,2,Michael Oliver,Jan-Breydel-Stadion,18981,2016
+07/12/2016,8:45 pm,Regular round,Group G,FC Porto,Leicester City,5,0,Felix Zwayer,Estádio do Dragão,39310,2016
+14/09/2016,8:45 pm,Regular round,Group H,Juventus FC,Sevilla FC,0,0,Deniz Aytekin,Allianz Stadium,33261,2016
+14/09/2016,8:45 pm,Regular round,Group H,Olympique Lyon,GNK Dinamo Zagreb,3,0,Martin Strömbergsson,Groupama Stadium,43754,2016
+27/09/2016,8:45 pm,Regular round,Group H,Sevilla FC,Olympique Lyon,1,0,Bas Nijhuis,Ramón Sánchez-Pizjuán,36741,2016
+27/09/2016,8:45 pm,Regular round,Group H,GNK Dinamo Zagreb,Juventus FC,0,4,Jorge Sousa,Maksimir,23875,2016
+18/10/2016,8:45 pm,Regular round,Group H,GNK Dinamo Zagreb,Sevilla FC,0,1,Michael Oliver,Maksimir,6021,2016
+18/10/2016,8:45 pm,Regular round,Group H,Olympique Lyon,Juventus FC,0,1,Szymon Marciniak,Groupama Stadium,53907,2016
+02/11/2016,8:45 pm,Regular round,Group H,Sevilla FC,GNK Dinamo Zagreb,4,0,Felix Zwayer,Ramón Sánchez-Pizjuán,35212,2016
+02/11/2016,8:45 pm,Regular round,Group H,Juventus FC,Olympique Lyon,1,1,Björn Kuipers,Allianz Stadium,40356,2016
+22/11/2016,8:45 pm,Regular round,Group H,GNK Dinamo Zagreb,Olympique Lyon,0,1,Pavel Kralovec,Maksimir,7834,2016
+22/11/2016,8:45 pm,Regular round,Group H,Sevilla FC,Juventus FC,1,3,Mark Clattenburg,Ramón Sánchez-Pizjuán,38942,2016
+07/12/2016,8:45 pm,Regular round,Group H,Olympique Lyon,Sevilla FC,0,0,Jonas Eriksson,Groupama Stadium,52423,2016
+07/12/2016,8:45 pm,Regular round,Group H,Juventus FC,GNK Dinamo Zagreb,2,0,Anthony Taylor,Allianz Stadium,39380,2016
+14/02/2017,8:45 PM  2nd leg:,Regular round,last 16 1st leg,SL Benfica,Borussia Dortmund,1,0,Nicola Rizzoli,Estádio da Luz,55124,2016
+14/02/2017,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Paris Saint-Germain,FC Barcelona,4,0,Szymon Marciniak,Parc des Princes,46484,2016
+15/02/2017,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Bayern Munich,Arsenal FC,5,1,Milorad Mazic,Allianz Arena,70000,2016
+15/02/2017,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Real Madrid,SSC Napoli,3,1,Damir Skomina,Santiago Bernabéu,78000,2016
+21/02/2017,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Manchester City,AS Monaco,5,3,Mateu Lahoz,Etihad Stadium,53351,2016
+21/02/2017,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Bayer 04 Leverkusen,Atlético de Madrid,2,4,Willie Collum,BayArena,29300,2016
+22/02/2017,8:45 PM  2nd leg:,Regular round,last 16 1st leg,FC Porto,Juventus FC,0,2,Dr. Felix Brych,Estádio do Dragão,49229,2016
+22/02/2017,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Sevilla FC,Leicester City,2,1,Clément Turpin,Ramón Sánchez-Pizjuán,38834,2016
+07/03/2017,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Arsenal FC,Bayern Munich,1,5,Anastasios Sidiropoulos,Emirates Stadium,59911,2016
+07/03/2017,8:45 PM  1st leg:,Regular round,last 16 2nd leg,SSC Napoli,Real Madrid,1,3,Cüneyt Cakir,Stadio Diego Armando Maradona,56695,2016
+08/03/2017,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Borussia Dortmund,SL Benfica,4,0,Martin Atkinson,SIGNAL IDUNA PARK,65849,2016
+08/03/2017,8:45 PM  1st leg:,Regular round,last 16 2nd leg,FC Barcelona,Paris Saint-Germain,6,1,Deniz Aytekin,Spotify Camp Nou,96290,2016
+14/03/2017,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Juventus FC,FC Porto,1,0,Ovidiu Hategan,Allianz Stadium,41161,2016
+14/03/2017,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Leicester City,Sevilla FC,2,0,Daniele Orsato,King Power Stadium,31520,2016
+15/03/2017,8:45 PM  1st leg:,Regular round,last 16 2nd leg,AS Monaco,Manchester City,3,1,Gianluca Rocchi,Stade Louis-II,15700,2016
+15/03/2017,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Atlético de Madrid,Bayer 04 Leverkusen,0,0,Sergey Karasev,Vicente Calderón,49133,2016
+11/04/2017,8:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Juventus FC,FC Barcelona,3,0,Szymon Marciniak,Allianz Stadium,41092,2016
+12/04/2017,6:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Borussia Dortmund,AS Monaco,2,3,Daniele Orsato,SIGNAL IDUNA PARK,65849,2016
+12/04/2017,8:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Bayern Munich,Real Madrid,1,2,Nicola Rizzoli,Allianz Arena,70000,2016
+12/04/2017,8:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Atlético de Madrid,Leicester City,1,0,Jonas Eriksson,Vicente Calderón,51423,2016
+18/04/2017,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Real Madrid,Bayern Munich,4,2,Viktor Kassai,Santiago Bernabéu,78346,2016
+18/04/2017,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Leicester City,Atlético de Madrid,1,1,Gianluca Rocchi,King Power Stadium,31548,2016
+19/04/2017,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,FC Barcelona,Juventus FC,0,0,Björn Kuipers,Spotify Camp Nou,96290,2016
+19/04/2017,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,AS Monaco,Borussia Dortmund,3,1,Damir Skomina,Stade Louis-II,17135,2016
+02/05/2017,8:45 PM  2nd leg:,Regular round,Semi-Finals 1st Leg,Real Madrid,Atlético de Madrid,3,0,Martin Atkinson,Santiago Bernabéu,77609,2016
+03/05/2017,8:45 PM  2nd leg:,Regular round,Semi-Finals 1st Leg,AS Monaco,Juventus FC,0,2,Mateu Lahoz,Stade Louis-II,16762,2016
+09/05/2017,8:45 PM  1st leg:,Regular round,Semi-Finals 2nd Leg,Juventus FC,AS Monaco,2,1,Björn Kuipers,Allianz Stadium,40244,2016
+10/05/2017,8:45 PM  1st leg:,Regular round,Semi-Finals 2nd Leg,Atlético de Madrid,Real Madrid,2,1,Cüneyt Cakir,Vicente Calderón,53422,2016
+03/06/2017,8:45 pm,Regular round,Final,Juventus FC,Real Madrid,1,4,Dr. Felix Brych,Millennium Stadium,65842,2016
+12/09/2017,8:45 pm,Regular round,Group A,SL Benfica,CSKA Moscow,1,2,Undiano Mallenco,Estádio da Luz,38323,2017
+12/09/2017,8:45 pm,Regular round,Group A,Manchester United,FC Basel 1893,3,0,Ruddy Buquet,Old Trafford,73854,2017
+27/09/2017,8:45 pm,Regular round,Group A,FC Basel 1893,SL Benfica,5,0,Craig Thomson,St. Jakob-Park,34111,2017
+27/09/2017,8:45 pm,Regular round,Group A,CSKA Moscow,Manchester United,1,4,Jonas Eriksson,VEB Arena,29073,2017
+18/10/2017,8:45 pm,Regular round,Group A,CSKA Moscow,FC Basel 1893,0,2,Björn Kuipers,VEB Arena,27996,2017
+18/10/2017,8:45 pm,Regular round,Group A,SL Benfica,Manchester United,0,1,Felix Zwayer,Estádio da Luz,57684,2017
+31/10/2017,8:45 pm,Regular round,Group A,Manchester United,SL Benfica,2,0,Gediminas Mazeika,Old Trafford,74437,2017
+31/10/2017,8:45 pm,Regular round,Group A,FC Basel 1893,CSKA Moscow,1,2,Milorad Mazic,St. Jakob-Park,33303,2017
+22/11/2017,6:00 pm,Regular round,Group A,CSKA Moscow,SL Benfica,2,0,Deniz Aytekin,VEB Arena,27709,2017
+22/11/2017,8:45 pm,Regular round,Group A,FC Basel 1893,Manchester United,1,0,Daniele Orsato,St. Jakob-Park,36000,2017
+05/12/2017,8:45 pm,Regular round,Group A,Manchester United,CSKA Moscow,2,1,Gianluca Rocchi,Old Trafford,74669,2017
+05/12/2017,8:45 pm,Regular round,Group A,SL Benfica,FC Basel 1893,0,2,Jesús Gil Manzano,Estádio da Luz,22470,2017
+12/09/2017,8:45 pm,Regular round,Group B,Bayern Munich,RSC Anderlecht,3,0,Paolo Tagliavento,Allianz Arena,70000,2017
+12/09/2017,8:45 pm,Regular round,Group B,Celtic FC,Paris Saint-Germain,0,5,Daniele Orsato,Celtic Park,57562,2017
+27/09/2017,8:45 pm,Regular round,Group B,Paris Saint-Germain,Bayern Munich,3,0,Mateu Lahoz,Parc des Princes,46252,2017
+27/09/2017,8:45 pm,Regular round,Group B,RSC Anderlecht,Celtic FC,0,3,Jesús Gil Manzano,Constant Vanden Stock Stadion,19898,2017
+18/10/2017,8:45 pm,Regular round,Group B,RSC Anderlecht,Paris Saint-Germain,0,4,Pavel Kralovec,Constant Vanden Stock Stadion,19106,2017
+18/10/2017,8:45 pm,Regular round,Group B,Bayern Munich,Celtic FC,3,0,Sergey Karasev,Allianz Arena,71137,2017
+31/10/2017,8:45 pm,Regular round,Group B,Celtic FC,Bayern Munich,1,2,Danny Makkelie,Celtic Park,58269,2017
+31/10/2017,8:45 pm,Regular round,Group B,Paris Saint-Germain,RSC Anderlecht,5,0,David Fernández Borbalán,Parc des Princes,46403,2017
+22/11/2017,8:45 pm,Regular round,Group B,Paris Saint-Germain,Celtic FC,7,1,Anastasios Sidiropoulos,Parc des Princes,46288,2017
+22/11/2017,8:45 pm,Regular round,Group B,RSC Anderlecht,Bayern Munich,1,2,Anthony Taylor,Constant Vanden Stock Stadion,19753,2017
+05/12/2017,8:45 pm,Regular round,Group B,Celtic FC,RSC Anderlecht,0,1,Matej Jug,Celtic Park,57931,2017
+05/12/2017,8:45 pm,Regular round,Group B,Bayern Munich,Paris Saint-Germain,3,1,Cüneyt Cakir,Allianz Arena,70000,2017
+12/09/2017,8:45 pm,Regular round,Group C,Chelsea FC,Qarabağ FK,6,0,Anastasios Sidiropoulos,Stamford Bridge,41150,2017
+12/09/2017,8:45 pm,Regular round,Group C,AS Roma,Atlético de Madrid,0,0,Milorad Mazic,Olimpico di Roma,36064,2017
+27/09/2017,6:00 pm,Regular round,Group C,Qarabağ FK,AS Roma,1,2,Artur Soares Dias,Baku Olympic Stadium,67200,2017
+27/09/2017,8:45 pm,Regular round,Group C,Atlético de Madrid,Chelsea FC,1,2,Cüneyt Cakir,Civitas Metropolitano,60643,2017
+18/10/2017,6:00 pm,Regular round,Group C,Qarabağ FK,Atlético de Madrid,0,0,Ruddy Buquet,Baku Olympic Stadium,47923,2017
+18/10/2017,8:45 pm,Regular round,Group C,Chelsea FC,AS Roma,3,3,Damir Skomina,Stamford Bridge,41105,2017
+31/10/2017,8:45 pm,Regular round,Group C,AS Roma,Chelsea FC,3,0,Jonas Eriksson,Olimpico di Roma,55036,2017
+31/10/2017,8:45 pm,Regular round,Group C,Atlético de Madrid,Qarabağ FK,1,1,Deniz Aytekin,Civitas Metropolitano,55893,2017
+22/11/2017,6:00 pm,Regular round,Group C,Qarabağ FK,Chelsea FC,0,4,Jorge Sousa,Baku Olympic Stadium,67100,2017
+22/11/2017,8:45 pm,Regular round,Group C,Atlético de Madrid,AS Roma,2,0,Björn Kuipers,Civitas Metropolitano,56253,2017
+05/12/2017,8:45 pm,Regular round,Group C,AS Roma,Qarabağ FK,1,0,Tobias Stieler,Olimpico di Roma,34258,2017
+05/12/2017,8:45 pm,Regular round,Group C,Chelsea FC,Atlético de Madrid,1,1,Danny Makkelie,Stamford Bridge,40875,2017
+12/09/2017,8:45 pm,Regular round,Group D,FC Barcelona,Juventus FC,3,0,Damir Skomina,Spotify Camp Nou,78656,2017
+12/09/2017,8:45 pm,Regular round,Group D,Olympiacos Piraeus,Sporting CP,2,3,Viktor Kassai,Stadio Georgios Karaiskakis,30168,2017
+27/09/2017,8:45 pm,Regular round,Group D,Sporting CP,FC Barcelona,0,1,Ovidiu Hategan,Estádio José Alvalade XXI,48575,2017
+27/09/2017,8:45 pm,Regular round,Group D,Juventus FC,Olympiacos Piraeus,2,0,Tobias Stieler,Allianz Stadium,33460,2017
+18/10/2017,8:45 pm,Regular round,Group D,Juventus FC,Sporting CP,2,1,Michael Oliver,Allianz Stadium,36288,2017
+18/10/2017,8:45 pm,Regular round,Group D,FC Barcelona,Olympiacos Piraeus,3,1,Willie Collum,Spotify Camp Nou,55026,2017
+31/10/2017,8:45 pm,Regular round,Group D,Olympiacos Piraeus,FC Barcelona,0,0,Anthony Taylor,Stadio Georgios Karaiskakis,31600,2017
+31/10/2017,8:45 pm,Regular round,Group D,Sporting CP,Juventus FC,1,1,Clément Turpin,Estádio José Alvalade XXI,48442,2017
+22/11/2017,8:45 pm,Regular round,Group D,Sporting CP,Olympiacos Piraeus,3,1,Felix Zwayer,Estádio José Alvalade XXI,42528,2017
+22/11/2017,8:45 pm,Regular round,Group D,Juventus FC,FC Barcelona,0,0,Milorad Mazic,Allianz Stadium,40876,2017
+05/12/2017,8:45 pm,Regular round,Group D,Olympiacos Piraeus,Juventus FC,0,2,David Fernández Borbalán,Stadio Georgios Karaiskakis,29567,2017
+05/12/2017,8:45 pm,Regular round,Group D,FC Barcelona,Sporting CP,2,0,Craig Thomson,Spotify Camp Nou,48336,2017
+13/09/2017,8:45 pm,Regular round,Group E,NK Maribor,Spartak Moscow,1,1,Deniz Aytekin,Ljudski Vrt,12566,2017
+13/09/2017,8:45 pm,Regular round,Group E,Liverpool FC,Sevilla FC,2,2,Danny Makkelie,Anfield,52332,2017
+26/09/2017,8:45 pm,Regular round,Group E,Sevilla FC,NK Maribor,3,0,Aleksey Kulbakov,Ramón Sánchez-Pizjuán,34705,2017
+26/09/2017,8:45 pm,Regular round,Group E,Spartak Moscow,Liverpool FC,1,1,Clément Turpin,Otkrytie Bank Arena,43376,2017
+17/10/2017,8:45 pm,Regular round,Group E,Spartak Moscow,Sevilla FC,5,1,Gianluca Rocchi,Otkrytie Bank Arena,44307,2017
+17/10/2017,8:45 pm,Regular round,Group E,NK Maribor,Liverpool FC,0,7,Viktor Kassai,Ljudski Vrt,12506,2017
+01/11/2017,8:45 pm,Regular round,Group E,Liverpool FC,NK Maribor,3,0,Ivan Kruzliak,Anfield,47957,2017
+01/11/2017,8:45 pm,Regular round,Group E,Sevilla FC,Spartak Moscow,2,1,Artur Soares Dias,Ramón Sánchez-Pizjuán,38002,2017
+21/11/2017,6:00 pm,Regular round,Group E,Spartak Moscow,NK Maribor,1,1,Willie Collum,Otkrytie Bank Arena,42920,2017
+21/11/2017,8:45 pm,Regular round,Group E,Sevilla FC,Liverpool FC,3,3,Dr. Felix Brych,Ramón Sánchez-Pizjuán,39495,2017
+06/12/2017,8:45 pm,Regular round,Group E,Liverpool FC,Spartak Moscow,7,0,Szymon Marciniak,Anfield,48779,2017
+06/12/2017,8:45 pm,Regular round,Group E,NK Maribor,Sevilla FC,1,1,Ovidiu Hategan,Ljudski Vrt,11976,2017
+13/09/2017,8:45 pm,Regular round,Group F,Feyenoord Rotterdam,Manchester City,0,4,Szymon Marciniak,"Stadion Feyenoord ""De Kuip""",43500,2017
+13/09/2017,8:45 pm,Regular round,Group F,Shakhtar Donetsk,SSC Napoli,2,1,Felix Zwayer,OSK Metalist,32769,2017
+26/09/2017,8:45 pm,Regular round,Group F,Manchester City,Shakhtar Donetsk,2,0,Jorge Sousa,Etihad Stadium,45310,2017
+26/09/2017,8:45 pm,Regular round,Group F,SSC Napoli,Feyenoord Rotterdam,3,1,Willie Collum,Stadio Diego Armando Maradona,22577,2017
+17/10/2017,8:45 pm,Regular round,Group F,Feyenoord Rotterdam,Shakhtar Donetsk,1,2,Undiano Mallenco,"Stadion Feyenoord ""De Kuip""",43500,2017
+17/10/2017,8:45 pm,Regular round,Group F,Manchester City,SSC Napoli,2,1,Mateu Lahoz,Etihad Stadium,48520,2017
+01/11/2017,8:45 pm,Regular round,Group F,Shakhtar Donetsk,Feyenoord Rotterdam,3,1,Anastasios Sidiropoulos,OSK Metalist,24570,2017
+01/11/2017,8:45 pm,Regular round,Group F,SSC Napoli,Manchester City,2,4,Dr. Felix Brych,Stadio Diego Armando Maradona,44483,2017
+21/11/2017,8:45 pm,Regular round,Group F,SSC Napoli,Shakhtar Donetsk,3,0,Damir Skomina,Stadio Diego Armando Maradona,10573,2017
+21/11/2017,8:45 pm,Regular round,Group F,Manchester City,Feyenoord Rotterdam,1,0,Ivan Kruzliak,Etihad Stadium,43548,2017
+06/12/2017,8:45 pm,Regular round,Group F,Shakhtar Donetsk,Manchester City,2,1,Benoît Bastien,OSK Metalist,33154,2017
+06/12/2017,8:45 pm,Regular round,Group F,Feyenoord Rotterdam,SSC Napoli,2,1,Michael Oliver,"Stadion Feyenoord ""De Kuip""",36500,2017
+13/09/2017,8:45 pm,Regular round,Group G,RB Leipzig,AS Monaco,1,1,Michael Oliver,Red Bull Arena,42558,2017
+13/09/2017,8:45 pm,Regular round,Group G,FC Porto,Besiktas JK,1,3,Anthony Taylor,Estádio do Dragão,42429,2017
+26/09/2017,8:45 pm,Regular round,Group G,Besiktas JK,RB Leipzig,2,0,Sergey Karasev,Vodafone Park,36641,2017
+26/09/2017,8:45 pm,Regular round,Group G,AS Monaco,FC Porto,0,3,Slavko Vincic,Stade Louis-II,11703,2017
+17/10/2017,8:45 pm,Regular round,Group G,AS Monaco,Besiktas JK,1,2,Milorad Mazic,Stade Louis-II,7403,2017
+17/10/2017,8:45 pm,Regular round,Group G,RB Leipzig,FC Porto,3,2,Paolo Tagliavento,Red Bull Arena,41496,2017
+01/11/2017,6:00 pm,Regular round,Group G,Besiktas JK,AS Monaco,1,1,Paolo Tagliavento,Vodafone Park,39346,2017
+01/11/2017,8:45 pm,Regular round,Group G,FC Porto,RB Leipzig,3,1,Ovidiu Hategan,Estádio do Dragão,41616,2017
+21/11/2017,6:00 pm,Regular round,Group G,Besiktas JK,FC Porto,1,1,Mateu Lahoz,Vodafone Park,36919,2017
+21/11/2017,8:45 pm,Regular round,Group G,AS Monaco,RB Leipzig,1,4,Undiano Mallenco,Stade Louis-II,9029,2017
+06/12/2017,8:45 pm,Regular round,Group G,FC Porto,AS Monaco,5,2,Jonas Eriksson,Estádio do Dragão,42509,2017
+06/12/2017,8:45 pm,Regular round,Group G,RB Leipzig,Besiktas JK,1,2,Viktor Kassai,Red Bull Arena,42558,2017
+13/09/2017,8:45 pm,Regular round,Group H,Real Madrid,APOEL Nicosia,3,0,Benoît Bastien,Santiago Bernabéu,71060,2017
+13/09/2017,8:45 pm,Regular round,Group H,Tottenham Hotspur,Borussia Dortmund,3,1,Gianluca Rocchi,Wembley Stadium,67343,2017
+26/09/2017,8:45 pm,Regular round,Group H,APOEL Nicosia,Tottenham Hotspur,0,3,Pavel Kralovec,GSP Stadium,16324,2017
+26/09/2017,8:45 pm,Regular round,Group H,Borussia Dortmund,Real Madrid,1,3,Björn Kuipers,SIGNAL IDUNA PARK,65849,2017
+17/10/2017,8:45 pm,Regular round,Group H,Real Madrid,Tottenham Hotspur,1,1,Szymon Marciniak,Santiago Bernabéu,76589,2017
+17/10/2017,8:45 pm,Regular round,Group H,APOEL Nicosia,Borussia Dortmund,1,1,Aleksey Kulbakov,GSP Stadium,15604,2017
+01/11/2017,8:45 pm,Regular round,Group H,Tottenham Hotspur,Real Madrid,3,1,Cüneyt Cakir,Wembley Stadium,83782,2017
+01/11/2017,8:45 pm,Regular round,Group H,Borussia Dortmund,APOEL Nicosia,1,1,Matej Jug,SIGNAL IDUNA PARK,64500,2017
+21/11/2017,8:45 pm,Regular round,Group H,Borussia Dortmund,Tottenham Hotspur,1,2,Clément Turpin,SIGNAL IDUNA PARK,65849,2017
+21/11/2017,8:45 pm,Regular round,Group H,APOEL Nicosia,Real Madrid,0,6,Artur Soares Dias,GSP Stadium,19705,2017
+06/12/2017,8:45 pm,Regular round,Group H,Tottenham Hotspur,APOEL Nicosia,3,0,Slavko Vincic,Wembley Stadium,42679,2017
+06/12/2017,8:45 pm,Regular round,Group H,Real Madrid,Borussia Dortmund,3,2,Pavel Kralovec,Santiago Bernabéu,73323,2017
+13/02/2018,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Juventus FC,Tottenham Hotspur,2,2,Dr. Felix Brych,Allianz Stadium,41232,2017
+13/02/2018,8:45 PM  2nd leg:,Regular round,last 16 1st leg,FC Basel 1893,Manchester City,0,4,Jonas Eriksson,St. Jakob-Park,36000,2017
+14/02/2018,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Real Madrid,Paris Saint-Germain,3,1,Gianluca Rocchi,Santiago Bernabéu,78158,2017
+14/02/2018,8:45 PM  2nd leg:,Regular round,last 16 1st leg,FC Porto,Liverpool FC,0,5,Daniele Orsato,Estádio do Dragão,47718,2017
+20/02/2018,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Bayern Munich,Besiktas JK,5,0,Ovidiu Hategan,Allianz Arena,70000,2017
+20/02/2018,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Chelsea FC,FC Barcelona,1,1,Cüneyt Cakir,Stamford Bridge,37741,2017
+21/02/2018,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Shakhtar Donetsk,AS Roma,2,1,Willie Collum,OSK Metalist,35124,2017
+21/02/2018,8:45 PM  2nd leg:,Regular round,last 16 1st leg,Sevilla FC,Manchester United,0,0,Clément Turpin,Ramón Sánchez-Pizjuán,39725,2017
+06/03/2018,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Paris Saint-Germain,Real Madrid,1,2,Dr. Felix Brych,Parc des Princes,46585,2017
+06/03/2018,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Liverpool FC,FC Porto,0,0,Felix Zwayer,Anfield,48768,2017
+07/03/2018,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Tottenham Hotspur,Juventus FC,1,2,Szymon Marciniak,Wembley Stadium,84010,2017
+07/03/2018,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Manchester City,FC Basel 1893,1,2,Pavel Kralovec,Etihad Stadium,49411,2017
+13/03/2018,8:45 PM  1st leg:,Regular round,last 16 2nd leg,AS Roma,Shakhtar Donetsk,1,0,Undiano Mallenco,Olimpico di Roma,47693,2017
+13/03/2018,8:45 PM  1st leg:,Regular round,last 16 2nd leg,Manchester United,Sevilla FC,1,2,Danny Makkelie,Old Trafford,74909,2017
+14/03/2018,6:00 PM  1st leg:,Regular round,last 16 2nd leg,Besiktas JK,Bayern Munich,1,3,Michael Oliver,Vodafone Park,36885,2017
+14/03/2018,8:45 PM  1st leg:,Regular round,last 16 2nd leg,FC Barcelona,Chelsea FC,3,0,Damir Skomina,Spotify Camp Nou,97183,2017
+03/04/2018,8:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Sevilla FC,Bayern Munich,1,2,Daniele Orsato,Ramón Sánchez-Pizjuán,40635,2017
+03/04/2018,8:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Juventus FC,Real Madrid,0,3,Cüneyt Cakir,Allianz Stadium,40849,2017
+04/04/2018,8:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,FC Barcelona,AS Roma,4,1,Danny Makkelie,Spotify Camp Nou,90106,2017
+04/04/2018,8:45 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Liverpool FC,Manchester City,3,0,Dr. Felix Brych,Anfield,50685,2017
+10/04/2018,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,AS Roma,FC Barcelona,3,0,Clément Turpin,Olimpico di Roma,56580,2017
+10/04/2018,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Manchester City,Liverpool FC,1,2,Mateu Lahoz,Etihad Stadium,53461,2017
+11/04/2018,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Bayern Munich,Sevilla FC,0,0,Willie Collum,Allianz Arena,70000,2017
+11/04/2018,8:45 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Real Madrid,Juventus FC,1,3,Michael Oliver,Santiago Bernabéu,75796,2017
+24/04/2018,8:45 PM  2nd leg:,Regular round,Semi-Finals 1st Leg,Liverpool FC,AS Roma,5,2,Dr. Felix Brych,Anfield,51236,2017
+25/04/2018,8:45 PM  2nd leg:,Regular round,Semi-Finals 1st Leg,Bayern Munich,Real Madrid,1,2,Björn Kuipers,Allianz Arena,70000,2017
+01/05/2018,8:45 PM  1st leg:,Regular round,Semi-Finals 2nd Leg,Real Madrid,Bayern Munich,2,2,Cüneyt Cakir,Santiago Bernabéu,77459,2017
+02/05/2018,8:45 PM  1st leg:,Regular round,Semi-Finals 2nd Leg,AS Roma,Liverpool FC,4,2,Damir Skomina,Olimpico di Roma,61889,2017
+26/05/2018,8:45 pm,Regular round,Final,Real Madrid,Liverpool FC,3,1,Milorad Mazic,NSK Olimpisky,61561,2017
+18/09/2018,9:00 pm,Regular round,Group A,Club Brugge KV,Borussia Dortmund,0,1,Danny Makkelie,Jan-Breydel-Stadion,25181,2018
+18/09/2018,9:00 pm,Regular round,Group A,AS Monaco,Atlético de Madrid,1,2,Willie Collum,Stade Louis-II,10575,2018
+03/10/2018,9:00 pm,Regular round,Group A,Atlético de Madrid,Club Brugge KV,3,1,Ivan Kruzliak,Civitas Metropolitano,55742,2018
+03/10/2018,9:00 pm,Regular round,Group A,Borussia Dortmund,AS Monaco,3,0,Aleksey Kulbakov,SIGNAL IDUNA PARK,66099,2018
+24/10/2018,6:55 pm,Regular round,Group A,Club Brugge KV,AS Monaco,1,1,Michael Oliver,Jan-Breydel-Stadion,23957,2018
+24/10/2018,9:00 pm,Regular round,Group A,Borussia Dortmund,Atlético de Madrid,4,0,Anthony Taylor,SIGNAL IDUNA PARK,66099,2018
+06/11/2018,6:55 pm,Regular round,Group A,AS Monaco,Club Brugge KV,0,4,Artur Soares Dias,Stade Louis-II,8347,2018
+06/11/2018,9:00 pm,Regular round,Group A,Atlético de Madrid,Borussia Dortmund,2,0,Daniele Orsato,Civitas Metropolitano,61023,2018
+28/11/2018,6:55 pm,Regular round,Group A,Atlético de Madrid,AS Monaco,2,0,Mattias Gestranius,Civitas Metropolitano,56314,2018
+28/11/2018,9:00 pm,Regular round,Group A,Borussia Dortmund,Club Brugge KV,0,0,Gediminas Mazeika,SIGNAL IDUNA PARK,66099,2018
+11/12/2018,9:00 pm,Regular round,Group A,AS Monaco,Borussia Dortmund,0,2,Craig Pawson,Stade Louis-II,8731,2018
+11/12/2018,9:00 pm,Regular round,Group A,Club Brugge KV,Atlético de Madrid,0,0,Davide Massa,Jan-Breydel-Stadion,25645,2018
+18/09/2018,6:55 pm,Regular round,Group B,FC Barcelona,PSV Eindhoven,4,0,Anastasios Sidiropoulos,Spotify Camp Nou,73462,2018
+18/09/2018,6:55 pm,Regular round,Group B,Inter Milan,Tottenham Hotspur,2,1,Clément Turpin,Giuseppe Meazza,64123,2018
+03/10/2018,9:00 pm,Regular round,Group B,Tottenham Hotspur,FC Barcelona,2,4,Felix Zwayer,Wembley Stadium,82137,2018
+03/10/2018,9:00 pm,Regular round,Group B,PSV Eindhoven,Inter Milan,1,2,Milorad Mazic,Philips Stadion,34750,2018
+24/10/2018,6:55 pm,Regular round,Group B,PSV Eindhoven,Tottenham Hotspur,2,2,Slavko Vincic,Philips Stadion,35000,2018
+24/10/2018,9:00 pm,Regular round,Group B,FC Barcelona,Inter Milan,2,0,Ovidiu Hategan,Spotify Camp Nou,86290,2018
+06/11/2018,9:00 pm,Regular round,Group B,Inter Milan,FC Barcelona,1,1,Szymon Marciniak,Giuseppe Meazza,70915,2018
+06/11/2018,9:00 pm,Regular round,Group B,Tottenham Hotspur,PSV Eindhoven,2,1,Ivan Kruzliak,Wembley Stadium,46588,2018
+28/11/2018,9:00 pm,Regular round,Group B,Tottenham Hotspur,Inter Milan,1,0,Cüneyt Cakir,Wembley Stadium,57132,2018
+28/11/2018,9:00 pm,Regular round,Group B,PSV Eindhoven,FC Barcelona,1,2,Pavel Kralovec,Philips Stadion,34600,2018
+11/12/2018,9:00 pm,Regular round,Group B,Inter Milan,PSV Eindhoven,1,1,Felix Zwayer,Giuseppe Meazza,62533,2018
+11/12/2018,9:00 pm,Regular round,Group B,FC Barcelona,Tottenham Hotspur,1,1,Milorad Mazic,Spotify Camp Nou,69961,2018
+18/09/2018,9:00 pm,Regular round,Group C,Red Star Belgrade,SSC Napoli,0,0,Szymon Marciniak,Rajko Mitić Stadium,49112,2018
+18/09/2018,9:00 pm,Regular round,Group C,Liverpool FC,Paris Saint-Germain,3,2,Cüneyt Cakir,Anfield,52478,2018
+03/10/2018,6:55 pm,Regular round,Group C,Paris Saint-Germain,Red Star Belgrade,6,1,Artur Soares Dias,Parc des Princes,39979,2018
+03/10/2018,9:00 pm,Regular round,Group C,SSC Napoli,Liverpool FC,1,0,Viktor Kassai,Stadio Diego Armando Maradona,37057,2018
+24/10/2018,9:00 pm,Regular round,Group C,Paris Saint-Germain,SSC Napoli,2,2,Felix Zwayer,Parc des Princes,46274,2018
+24/10/2018,9:00 pm,Regular round,Group C,Liverpool FC,Red Star Belgrade,4,0,Daniel Siebert,Anfield,54074,2018
+06/11/2018,6:55 pm,Regular round,Group C,Red Star Belgrade,Liverpool FC,2,0,Mateu Lahoz,Rajko Mitić Stadium,51318,2018
+06/11/2018,9:00 pm,Regular round,Group C,SSC Napoli,Paris Saint-Germain,1,1,Björn Kuipers,Stadio Diego Armando Maradona,55489,2018
+28/11/2018,9:00 pm,Regular round,Group C,SSC Napoli,Red Star Belgrade,3,1,Jesús Gil Manzano,Stadio Diego Armando Maradona,44470,2018
+28/11/2018,9:00 pm,Regular round,Group C,Paris Saint-Germain,Liverpool FC,2,1,Szymon Marciniak,Parc des Princes,46880,2018
+11/12/2018,9:00 pm,Regular round,Group C,Liverpool FC,SSC Napoli,1,0,Damir Skomina,Anfield,52015,2018
+11/12/2018,9:00 pm,Regular round,Group C,Red Star Belgrade,Paris Saint-Germain,1,4,Willie Collum,Rajko Mitić Stadium,48357,2018
+18/09/2018,9:00 pm,Regular round,Group D,FC Schalke 04,FC Porto,1,1,Jesús Gil Manzano,Veltins-Arena,45755,2018
+18/09/2018,9:00 pm,Regular round,Group D,Galatasaray,Lokomotiv Moscow,3,0,Gianluca Rocchi,Ali Sami Yen Spor Kompleksi NEF Stadyumu,43542,2018
+03/10/2018,6:55 pm,Regular round,Group D,Lokomotiv Moscow,FC Schalke 04,0,1,Anthony Taylor,RZD Arena,21471,2018
+03/10/2018,9:00 pm,Regular round,Group D,FC Porto,Galatasaray,1,0,Michael Oliver,Estádio do Dragão,42711,2018
+24/10/2018,9:00 pm,Regular round,Group D,Lokomotiv Moscow,FC Porto,1,3,Bobby Madden,RZD Arena,16034,2018
+24/10/2018,9:00 pm,Regular round,Group D,Galatasaray,FC Schalke 04,0,0,Benoît Bastien,Ali Sami Yen Spor Kompleksi NEF Stadyumu,46667,2018
+06/11/2018,9:00 pm,Regular round,Group D,FC Porto,Lokomotiv Moscow,4,1,Davide Massa,Estádio do Dragão,34616,2018
+06/11/2018,9:00 pm,Regular round,Group D,FC Schalke 04,Galatasaray,2,0,Willie Collum,Veltins-Arena,54740,2018
+28/11/2018,6:55 pm,Regular round,Group D,Lokomotiv Moscow,Galatasaray,2,0,Mateu Lahoz,RZD Arena,14037,2018
+28/11/2018,9:00 pm,Regular round,Group D,FC Porto,FC Schalke 04,3,1,Ovidiu Hategan,Estádio do Dragão,41603,2018
+11/12/2018,6:55 pm,Regular round,Group D,Galatasaray,FC Porto,2,3,Aleksey Kulbakov,Ali Sami Yen Spor Kompleksi NEF Stadyumu,33972,2018
+11/12/2018,6:55 pm,Regular round,Group D,FC Schalke 04,Lokomotiv Moscow,1,0,Anastasios Sidiropoulos,Veltins-Arena,48883,2018
+19/09/2018,6:55 pm,Regular round,Group E,Ajax Amsterdam,AEK Athens,3,0,Carlos del Cerro Grande,Johan Cruijff ArenA,54033,2018
+19/09/2018,9:00 pm,Regular round,Group E,SL Benfica,Bayern Munich,0,2,Mateu Lahoz,Estádio da Luz,60274,2018
+02/10/2018,9:00 pm,Regular round,Group E,AEK Athens,SL Benfica,2,3,Orel Grinfeld,"Olympiakó Stádio Athinon ""Spyros Louis""",31154,2018
+02/10/2018,9:00 pm,Regular round,Group E,Bayern Munich,Ajax Amsterdam,1,1,Pavel Kralovec,Allianz Arena,70000,2018
+23/10/2018,6:55 pm,Regular round,Group E,AEK Athens,Bayern Munich,0,2,Aleksey Kulbakov,"Olympiakó Stádio Athinon ""Spyros Louis""",61221,2018
+23/10/2018,9:00 pm,Regular round,Group E,Ajax Amsterdam,SL Benfica,1,0,Ruddy Buquet,Johan Cruijff ArenA,53379,2018
+07/11/2018,9:00 pm,Regular round,Group E,SL Benfica,Ajax Amsterdam,1,1,Gianluca Rocchi,Estádio da Luz,51328,2018
+07/11/2018,9:00 pm,Regular round,Group E,Bayern Munich,AEK Athens,2,0,Matej Jug,Allianz Arena,70000,2018
+27/11/2018,6:55 pm,Regular round,Group E,AEK Athens,Ajax Amsterdam,0,2,Michael Oliver,"Olympiakó Stádio Athinon ""Spyros Louis""",25756,2018
+27/11/2018,9:00 pm,Regular round,Group E,Bayern Munich,SL Benfica,5,1,Daniele Orsato,Allianz Arena,70000,2018
+12/12/2018,9:00 pm,Regular round,Group E,Ajax Amsterdam,Bayern Munich,3,3,Clément Turpin,Johan Cruijff ArenA,52244,2018
+12/12/2018,9:00 pm,Regular round,Group E,SL Benfica,AEK Athens,1,0,Bobby Madden,Estádio da Luz,33633,2018
+19/09/2018,6:55 pm,Regular round,Group F,Shakhtar Donetsk,TSG 1899 Hoffenheim,2,2,Jakob Kehlet,OSK Metalist,28336,2018
+19/09/2018,9:00 pm,Regular round,Group F,Manchester City,Olympique Lyon,1,2,Daniele Orsato,Etihad Stadium,40111,2018
+02/10/2018,6:55 pm,Regular round,Group F,TSG 1899 Hoffenheim,Manchester City,1,2,Damir Skomina,PreZero Arena,24851,2018
+02/10/2018,9:00 pm,Regular round,Group F,Olympique Lyon,Shakhtar Donetsk,2,2,Andris Treimanis,Groupama Stadium,0,2018
+23/10/2018,9:00 pm,Regular round,Group F,Shakhtar Donetsk,Manchester City,0,3,Carlos del Cerro Grande,OSK Metalist,37106,2018
+23/10/2018,9:00 pm,Regular round,Group F,TSG 1899 Hoffenheim,Olympique Lyon,3,3,Undiano Mallenco,PreZero Arena,24144,2018
+07/11/2018,9:00 pm,Regular round,Group F,Olympique Lyon,TSG 1899 Hoffenheim,2,2,Danny Makkelie,Groupama Stadium,53850,2018
+07/11/2018,9:00 pm,Regular round,Group F,Manchester City,Shakhtar Donetsk,6,0,Viktor Kassai,Etihad Stadium,52286,2018
+27/11/2018,9:00 pm,Regular round,Group F,TSG 1899 Hoffenheim,Shakhtar Donetsk,2,3,Ivan Kruzliak,PreZero Arena,22920,2018
+27/11/2018,9:00 pm,Regular round,Group F,Olympique Lyon,Manchester City,2,2,Gianluca Rocchi,Groupama Stadium,56039,2018
+12/12/2018,9:00 pm,Regular round,Group F,Manchester City,TSG 1899 Hoffenheim,2,1,Andreas Ekberg,Etihad Stadium,50411,2018
+12/12/2018,9:00 pm,Regular round,Group F,Shakhtar Donetsk,Olympique Lyon,1,1,Björn Kuipers,NSK Olimpiyskyi,38916,2018
+19/09/2018,9:00 pm,Regular round,Group G,Real Madrid,AS Roma,3,0,Björn Kuipers,Santiago Bernabéu,69251,2018
+19/09/2018,9:00 pm,Regular round,Group G,FC Viktoria Plzen,CSKA Moscow,2,2,Benoît Bastien,Doosan Aréna,11312,2018
+02/10/2018,9:00 pm,Regular round,Group G,CSKA Moscow,Real Madrid,1,0,Ovidiu Hategan,Luzhniki Stadium,71811,2018
+02/10/2018,9:00 pm,Regular round,Group G,AS Roma,FC Viktoria Plzen,5,0,Pawel Raczkowski,Olimpico di Roma,41243,2018
+23/10/2018,9:00 pm,Regular round,Group G,Real Madrid,FC Viktoria Plzen,2,1,Orel Grinfeld,Santiago Bernabéu,67356,2018
+23/10/2018,9:00 pm,Regular round,Group G,AS Roma,CSKA Moscow,3,0,Anastasios Sidiropoulos,Olimpico di Roma,46005,2018
+07/11/2018,6:55 pm,Regular round,Group G,CSKA Moscow,AS Roma,1,2,Cüneyt Cakir,Luzhniki Stadium,64454,2018
+07/11/2018,9:00 pm,Regular round,Group G,FC Viktoria Plzen,Real Madrid,0,5,Deniz Aytekin,Doosan Aréna,11483,2018
+27/11/2018,6:55 pm,Regular round,Group G,CSKA Moscow,FC Viktoria Plzen,1,2,Danny Makkelie,Luzhniki Stadium,52892,2018
+27/11/2018,9:00 pm,Regular round,Group G,AS Roma,Real Madrid,0,2,Clément Turpin,Olimpico di Roma,59124,2018
+12/12/2018,6:55 pm,Regular round,Group G,FC Viktoria Plzen,AS Roma,2,1,Anthony Taylor,Doosan Aréna,11217,2018
+12/12/2018,6:55 pm,Regular round,Group G,Real Madrid,CSKA Moscow,0,3,Artur Soares Dias,Santiago Bernabéu,51636,2018
+19/09/2018,9:00 pm,Regular round,Group H,Valencia CF,Juventus FC,0,2,Dr. Felix Brych,Mestalla,46067,2018
+19/09/2018,9:00 pm,Regular round,Group H,BSC Young Boys,Manchester United,0,3,Deniz Aytekin,Stadion Wankdorf,31120,2018
+02/10/2018,6:55 pm,Regular round,Group H,Juventus FC,BSC Young Boys,3,0,Sergey Karasev,Allianz Stadium,40961,2018
+02/10/2018,9:00 pm,Regular round,Group H,Manchester United,Valencia CF,0,0,Slavko Vincic,Old Trafford,73569,2018
+23/10/2018,6:55 pm,Regular round,Group H,BSC Young Boys,Valencia CF,1,1,Andris Treimanis,Stadion Wankdorf,31120,2018
+23/10/2018,9:00 pm,Regular round,Group H,Manchester United,Juventus FC,0,1,Milorad Mazic,Old Trafford,73946,2018
+07/11/2018,6:55 pm,Regular round,Group H,Valencia CF,BSC Young Boys,3,1,Istvan Kovacs,Mestalla,36480,2018
+07/11/2018,9:00 pm,Regular round,Group H,Juventus FC,Manchester United,1,2,Ovidiu Hategan,Allianz Stadium,41470,2018
+27/11/2018,9:00 pm,Regular round,Group H,Juventus FC,Valencia CF,1,0,Willie Collum,Allianz Stadium,39070,2018
+27/11/2018,9:00 pm,Regular round,Group H,Manchester United,BSC Young Boys,1,0,Dr. Felix Brych,Old Trafford,72876,2018
+12/12/2018,9:00 pm,Regular round,Group H,Valencia CF,Manchester United,2,1,Georgi Kabakov,Mestalla,36544,2018
+12/12/2018,9:00 pm,Regular round,Group H,BSC Young Boys,Juventus FC,2,1,Tobias Stieler,Stadion Wankdorf,31120,2018
+12/02/2019,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Manchester United,Paris Saint-Germain,0,2,Daniele Orsato,Old Trafford,74054,2018
+12/02/2019,9:00 PM  2nd leg:,Regular round,last 16 1st leg,AS Roma,FC Porto,2,1,Danny Makkelie,Olimpico di Roma,51727,2018
+13/02/2019,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Tottenham Hotspur,Borussia Dortmund,3,0,Mateu Lahoz,Wembley Stadium,71214,2018
+13/02/2019,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Ajax Amsterdam,Real Madrid,1,2,Damir Skomina,Johan Cruijff ArenA,52286,2018
+19/02/2019,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Liverpool FC,Bayern Munich,0,0,Gianluca Rocchi,Anfield,52250,2018
+19/02/2019,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Olympique Lyon,FC Barcelona,0,0,Cüneyt Cakir,Groupama Stadium,57889,2018
+20/02/2019,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Atlético de Madrid,Juventus FC,2,0,Felix Zwayer,Civitas Metropolitano,67193,2018
+20/02/2019,9:00 PM  2nd leg:,Regular round,last 16 1st leg,FC Schalke 04,Manchester City,2,3,Carlos del Cerro Grande,Veltins-Arena,54417,2018
+05/03/2019,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Borussia Dortmund,Tottenham Hotspur,0,1,Danny Makkelie,SIGNAL IDUNA PARK,66099,2018
+05/03/2019,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Real Madrid,Ajax Amsterdam,1,4,Dr. Felix Brych,Santiago Bernabéu,77013,2018
+06/03/2019,9:00 PM  1st leg:,Regular round,last 16 2nd leg,FC Porto,AS Roma,3,1,Cüneyt Cakir,Estádio do Dragão,49209,2018
+06/03/2019,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Paris Saint-Germain,Manchester United,1,3,Damir Skomina,Parc des Princes,47441,2018
+12/03/2019,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Manchester City,FC Schalke 04,7,0,Clément Turpin,Etihad Stadium,51518,2018
+12/03/2019,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Juventus FC,Atlético de Madrid,3,0,Björn Kuipers,Allianz Stadium,40884,2018
+13/03/2019,9:00 PM  1st leg:,Regular round,last 16 2nd leg,FC Barcelona,Olympique Lyon,5,1,Szymon Marciniak,Spotify Camp Nou,92346,2018
+13/03/2019,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Bayern Munich,Liverpool FC,1,3,Daniele Orsato,Allianz Arena,75000,2018
+09/04/2019,9:00 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Tottenham Hotspur,Manchester City,1,0,Björn Kuipers,Tottenham Hotspur Stadium,60044,2018
+09/04/2019,9:00 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Liverpool FC,FC Porto,2,0,Mateu Lahoz,Anfield,52465,2018
+10/04/2019,9:00 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Ajax Amsterdam,Juventus FC,1,1,Carlos del Cerro Grande,Johan Cruijff ArenA,50390,2018
+10/04/2019,9:00 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Manchester United,FC Barcelona,0,1,Gianluca Rocchi,Old Trafford,74093,2018
+16/04/2019,9:00 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Juventus FC,Ajax Amsterdam,1,2,Clément Turpin,Allianz Stadium,41445,2018
+16/04/2019,9:00 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,FC Barcelona,Manchester United,3,0,Dr. Felix Brych,Spotify Camp Nou,96708,2018
+17/04/2019,9:00 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Manchester City,Tottenham Hotspur,4,3,Cüneyt Cakir,Etihad Stadium,53348,2018
+17/04/2019,9:00 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,FC Porto,Liverpool FC,1,4,Danny Makkelie,Estádio do Dragão,49117,2018
+30/04/2019,9:00 PM  2nd leg:,Regular round,Semi-Finals 1st Leg,Tottenham Hotspur,Ajax Amsterdam,0,1,Mateu Lahoz,Tottenham Hotspur Stadium,60243,2018
+01/05/2019,9:00 PM  2nd leg:,Regular round,Semi-Finals 1st Leg,FC Barcelona,Liverpool FC,3,0,Björn Kuipers,Spotify Camp Nou,98299,2018
+07/05/2019,9:00 PM  1st leg:,Regular round,Semi-Finals 2nd Leg,Liverpool FC,FC Barcelona,4,0,Cüneyt Cakir,Anfield,52212,2018
+08/05/2019,9:00 PM  1st leg:,Regular round,Semi-Finals 2nd Leg,Ajax Amsterdam,Tottenham Hotspur,2,3,Dr. Felix Brych,Johan Cruijff ArenA,52641,2018
+01/06/2019,9:00 pm,Regular round,Final,Tottenham Hotspur,Liverpool FC,0,2,Damir Skomina,Civitas Metropolitano,63272,2018
+18/09/2019,6:55 pm,Regular round,Group A,Club Brugge KV,Galatasaray,0,0,Slavko Vincic,Jan-Breydel-Stadion,26616,2019
+18/09/2019,9:00 pm,Regular round,Group A,Paris Saint-Germain,Real Madrid,3,0,Anthony Taylor,Parc des Princes,46361,2019
+01/10/2019,6:55 pm,Regular round,Group A,Real Madrid,Club Brugge KV,2,2,Georgi Kabakov,Santiago Bernabéu,65112,2019
+01/10/2019,9:00 pm,Regular round,Group A,Galatasaray,Paris Saint-Germain,0,1,Szymon Marciniak,Ali Sami Yen Spor Kompleksi NEF Stadyumu,46532,2019
+22/10/2019,9:00 pm,Regular round,Group A,Club Brugge KV,Paris Saint-Germain,0,5,Daniel Siebert,Jan-Breydel-Stadion,26946,2019
+22/10/2019,9:00 pm,Regular round,Group A,Galatasaray,Real Madrid,0,1,Daniele Orsato,Ali Sami Yen Spor Kompleksi NEF Stadyumu,48886,2019
+06/11/2019,9:00 pm,Regular round,Group A,Real Madrid,Galatasaray,6,0,Felix Zwayer,Santiago Bernabéu,65492,2019
+06/11/2019,9:00 pm,Regular round,Group A,Paris Saint-Germain,Club Brugge KV,1,0,Bobby Madden,Parc des Princes,47418,2019
+26/11/2019,6:55 pm,Regular round,Group A,Galatasaray,Club Brugge KV,1,1,Ivan Kruzliak,Ali Sami Yen Spor Kompleksi NEF Stadyumu,34500,2019
+26/11/2019,9:00 pm,Regular round,Group A,Real Madrid,Paris Saint-Germain,2,2,Artur Soares Dias,Santiago Bernabéu,75534,2019
+11/12/2019,9:00 pm,Regular round,Group A,Paris Saint-Germain,Galatasaray,5,0,Istvan Kovacs,Parc des Princes,46509,2019
+11/12/2019,9:00 pm,Regular round,Group A,Club Brugge KV,Real Madrid,1,3,Tobias Stieler,Jan-Breydel-Stadion,27308,2019
+18/09/2019,6:55 pm,Regular round,Group B,Olympiacos Piraeus,Tottenham Hotspur,2,2,Gianluca Rocchi,Stadio Georgios Karaiskakis,31001,2019
+18/09/2019,9:00 pm,Regular round,Group B,Bayern Munich,Red Star Belgrade,3,0,Bobby Madden,Allianz Arena,70000,2019
+01/10/2019,9:00 pm,Regular round,Group B,Tottenham Hotspur,Bayern Munich,2,7,Clément Turpin,Tottenham Hotspur Stadium,60127,2019
+01/10/2019,9:00 pm,Regular round,Group B,Red Star Belgrade,Olympiacos Piraeus,3,1,Benoît Bastien,Rajko Mitić Stadium,43291,2019
+22/10/2019,9:00 pm,Regular round,Group B,Tottenham Hotspur,Red Star Belgrade,5,0,Marco Guida,Tottenham Hotspur Stadium,51743,2019
+22/10/2019,9:00 pm,Regular round,Group B,Olympiacos Piraeus,Bayern Munich,2,3,Danny Makkelie,Stadio Georgios Karaiskakis,31670,2019
+06/11/2019,6:55 pm,Regular round,Group B,Bayern Munich,Olympiacos Piraeus,2,0,Pawel Raczkowski,Allianz Arena,63646,2019
+06/11/2019,9:00 pm,Regular round,Group B,Red Star Belgrade,Tottenham Hotspur,0,4,Carlos del Cerro Grande,Rajko Mitić Stadium,42381,2019
+26/11/2019,9:00 pm,Regular round,Group B,Tottenham Hotspur,Olympiacos Piraeus,4,2,Georgi Kabakov,Tottenham Hotspur Stadium,57024,2019
+26/11/2019,9:00 pm,Regular round,Group B,Red Star Belgrade,Bayern Munich,0,6,Björn Kuipers,Rajko Mitić Stadium,44118,2019
+11/12/2019,9:00 pm,Regular round,Group B,Olympiacos Piraeus,Red Star Belgrade,1,0,Daniele Orsato,Stadio Georgios Karaiskakis,31898,2019
+11/12/2019,9:00 pm,Regular round,Group B,Bayern Munich,Tottenham Hotspur,3,1,Gianluca Rocchi,Allianz Arena,66353,2019
+18/09/2019,9:00 pm,Regular round,Group C,GNK Dinamo Zagreb,Atalanta BC,4,0,Jesús Gil Manzano,Maksimir,28863,2019
+18/09/2019,9:00 pm,Regular round,Group C,Shakhtar Donetsk,Manchester City,0,3,Artur Soares Dias,OSK Metalist,36675,2019
+01/10/2019,6:55 pm,Regular round,Group C,Atalanta BC,Shakhtar Donetsk,1,2,Patrick Stiller,Giuseppe Meazza,26022,2019
+01/10/2019,9:00 pm,Regular round,Group C,Manchester City,GNK Dinamo Zagreb,2,0,Serdar Gözübüyük,Etihad Stadium,49046,2019
+22/10/2019,6:55 pm,Regular round,Group C,Shakhtar Donetsk,GNK Dinamo Zagreb,2,2,Mateu Lahoz,OSK Metalist,21526,2019
+22/10/2019,9:00 pm,Regular round,Group C,Manchester City,Atalanta BC,5,1,Orel Grinfeld,Etihad Stadium,49308,2019
+06/11/2019,9:00 pm,Regular round,Group C,GNK Dinamo Zagreb,Shakhtar Donetsk,3,3,Dr. Felix Brych,Maksimir,28316,2019
+06/11/2019,9:00 pm,Regular round,Group C,Atalanta BC,Manchester City,1,1,Aleksey Kulbakov,Giuseppe Meazza,32147,2019
+26/11/2019,9:00 pm,Regular round,Group C,Manchester City,Shakhtar Donetsk,1,1,Slavko Vincic,Etihad Stadium,52020,2019
+26/11/2019,9:00 pm,Regular round,Group C,Atalanta BC,GNK Dinamo Zagreb,2,0,Sergey Karasev,Giuseppe Meazza,28365,2019
+11/12/2019,6:55 pm,Regular round,Group C,GNK Dinamo Zagreb,Manchester City,1,4,Carlos del Cerro Grande,Maksimir,29385,2019
+11/12/2019,6:55 pm,Regular round,Group C,Shakhtar Donetsk,Atalanta BC,0,3,Felix Zwayer,OSK Metalist,26536,2019
+18/09/2019,9:00 pm,Regular round,Group D,Atlético de Madrid,Juventus FC,2,2,Danny Makkelie,Civitas Metropolitano,66283,2019
+18/09/2019,9:00 pm,Regular round,Group D,Bayer 04 Leverkusen,Lokomotiv Moscow,1,2,Pawel Raczkowski,BayArena,26592,2019
+01/10/2019,9:00 pm,Regular round,Group D,Lokomotiv Moscow,Atlético de Madrid,0,2,Orel Grinfeld,RZD Arena,27051,2019
+01/10/2019,9:00 pm,Regular round,Group D,Juventus FC,Bayer 04 Leverkusen,3,0,Willie Collum,Allianz Stadium,34525,2019
+22/10/2019,6:55 pm,Regular round,Group D,Atlético de Madrid,Bayer 04 Leverkusen,1,0,Artur Soares Dias,Civitas Metropolitano,56776,2019
+22/10/2019,9:00 pm,Regular round,Group D,Juventus FC,Lokomotiv Moscow,2,1,Anastasios Sidiropoulos,Allianz Stadium,38547,2019
+06/11/2019,6:55 pm,Regular round,Group D,Lokomotiv Moscow,Juventus FC,1,2,Ruddy Buquet,RZD Arena,26862,2019
+06/11/2019,9:00 pm,Regular round,Group D,Bayer 04 Leverkusen,Atlético de Madrid,2,1,Damir Skomina,BayArena,28160,2019
+26/11/2019,6:55 pm,Regular round,Group D,Lokomotiv Moscow,Bayer 04 Leverkusen,0,2,Michael Oliver,RZD Arena,25757,2019
+26/11/2019,9:00 pm,Regular round,Group D,Juventus FC,Atlético de Madrid,1,0,Anthony Taylor,Allianz Stadium,40486,2019
+11/12/2019,9:00 pm,Regular round,Group D,Bayer 04 Leverkusen,Juventus FC,0,2,Benoît Bastien,BayArena,29542,2019
+11/12/2019,9:00 pm,Regular round,Group D,Atlético de Madrid,Lokomotiv Moscow,2,0,Viktor Kassai,Civitas Metropolitano,58426,2019
+17/09/2019,9:00 pm,Regular round,Group E,Red Bull Salzburg,KRC Genk,6,2,Felix Zwayer,Red Bull Arena Salzburg,29520,2019
+17/09/2019,9:00 pm,Regular round,Group E,SSC Napoli,Liverpool FC,2,0,Dr. Felix Brych,Stadio Diego Armando Maradona,38878,2019
+02/10/2019,6:55 pm,Regular round,Group E,KRC Genk,SSC Napoli,0,0,Istvan Kovacs,Cegeka Arena,19962,2019
+02/10/2019,9:00 pm,Regular round,Group E,Liverpool FC,Red Bull Salzburg,4,3,Andreas Ekberg,Anfield,52243,2019
+23/10/2019,9:00 pm,Regular round,Group E,Red Bull Salzburg,SSC Napoli,2,3,Clément Turpin,Red Bull Arena Salzburg,29520,2019
+23/10/2019,9:00 pm,Regular round,Group E,KRC Genk,Liverpool FC,1,4,Slavko Vincic,Cegeka Arena,19626,2019
+05/11/2019,9:00 pm,Regular round,Group E,SSC Napoli,Red Bull Salzburg,1,1,Szymon Marciniak,Stadio Diego Armando Maradona,32862,2019
+05/11/2019,9:00 pm,Regular round,Group E,Liverpool FC,KRC Genk,2,1,Ivan Kruzliak,Anfield,52611,2019
+27/11/2019,9:00 pm,Regular round,Group E,Liverpool FC,SSC Napoli,1,1,Carlos del Cerro Grande,Anfield,52128,2019
+27/11/2019,9:00 pm,Regular round,Group E,KRC Genk,Red Bull Salzburg,1,4,Mattias Gestranius,Cegeka Arena,17284,2019
+10/12/2019,6:55 pm,Regular round,Group E,SSC Napoli,KRC Genk,4,0,Cüneyt Cakir,Stadio Diego Armando Maradona,22265,2019
+10/12/2019,6:55 pm,Regular round,Group E,Red Bull Salzburg,Liverpool FC,0,2,Danny Makkelie,Red Bull Arena Salzburg,29520,2019
+17/09/2019,6:55 pm,Regular round,Group F,Inter Milan,SK Slavia Prague,1,1,Ruddy Buquet,Giuseppe Meazza,50128,2019
+17/09/2019,9:00 pm,Regular round,Group F,Borussia Dortmund,FC Barcelona,0,0,Ovidiu Hategan,SIGNAL IDUNA PARK,66099,2019
+02/10/2019,6:55 pm,Regular round,Group F,SK Slavia Prague,Borussia Dortmund,0,2,Björn Kuipers,Fortuna Arena,20617,2019
+02/10/2019,9:00 pm,Regular round,Group F,FC Barcelona,Inter Milan,2,1,Damir Skomina,Spotify Camp Nou,86141,2019
+23/10/2019,9:00 pm,Regular round,Group F,Inter Milan,Borussia Dortmund,2,0,Anthony Taylor,Giuseppe Meazza,65673,2019
+23/10/2019,9:00 pm,Regular round,Group F,SK Slavia Prague,FC Barcelona,1,2,Bobby Madden,Fortuna Arena,19170,2019
+05/11/2019,6:55 pm,Regular round,Group F,FC Barcelona,SK Slavia Prague,0,0,Michael Oliver,Spotify Camp Nou,67023,2019
+05/11/2019,9:00 pm,Regular round,Group F,Borussia Dortmund,Inter Milan,3,2,Danny Makkelie,SIGNAL IDUNA PARK,66099,2019
+27/11/2019,9:00 pm,Regular round,Group F,SK Slavia Prague,Inter Milan,1,3,Szymon Marciniak,Fortuna Arena,19370,2019
+27/11/2019,9:00 pm,Regular round,Group F,FC Barcelona,Borussia Dortmund,3,1,Clément Turpin,Spotify Camp Nou,90071,2019
+10/12/2019,9:00 pm,Regular round,Group F,Inter Milan,FC Barcelona,1,2,Björn Kuipers,Giuseppe Meazza,71818,2019
+10/12/2019,9:00 pm,Regular round,Group F,Borussia Dortmund,SK Slavia Prague,2,1,Sergey Karasev,SIGNAL IDUNA PARK,65079,2019
+17/09/2019,6:55 pm,Regular round,Group G,Olympique Lyon,Zenit St. Petersburg,1,1,Michael Oliver,Groupama Stadium,47201,2019
+17/09/2019,9:00 pm,Regular round,Group G,SL Benfica,RB Leipzig,1,2,Anastasios Sidiropoulos,Estádio da Luz,46460,2019
+02/10/2019,9:00 pm,Regular round,Group G,RB Leipzig,Olympique Lyon,0,2,Mateu Lahoz,Red Bull Arena,40194,2019
+02/10/2019,9:00 pm,Regular round,Group G,Zenit St. Petersburg,SL Benfica,3,1,Carlos del Cerro Grande,Gazprom Arena,51683,2019
+23/10/2019,6:55 pm,Regular round,Group G,RB Leipzig,Zenit St. Petersburg,2,1,Ali Palabiyik,Red Bull Arena,41058,2019
+23/10/2019,9:00 pm,Regular round,Group G,SL Benfica,Olympique Lyon,2,1,Ivan Kruzliak,Estádio da Luz,53035,2019
+05/11/2019,6:55 pm,Regular round,Group G,Zenit St. Petersburg,RB Leipzig,0,2,Orel Grinfeld,Gazprom Arena,50452,2019
+05/11/2019,9:00 pm,Regular round,Group G,Olympique Lyon,SL Benfica,3,1,Björn Kuipers,Groupama Stadium,51077,2019
+27/11/2019,6:55 pm,Regular round,Group G,Zenit St. Petersburg,Olympique Lyon,2,0,Daniele Orsato,Gazprom Arena,51183,2019
+27/11/2019,9:00 pm,Regular round,Group G,RB Leipzig,SL Benfica,2,2,Jesús Gil Manzano,Red Bull Arena,38339,2019
+10/12/2019,9:00 pm,Regular round,Group G,Olympique Lyon,RB Leipzig,2,2,Anthony Taylor,Groupama Stadium,53288,2019
+10/12/2019,9:00 pm,Regular round,Group G,SL Benfica,Zenit St. Petersburg,3,0,Mateu Lahoz,Estádio da Luz,40232,2019
+17/09/2019,9:00 pm,Regular round,Group H,Ajax Amsterdam,LOSC Lille,3,0,Srdjan Jovanovic,Johan Cruijff ArenA,51441,2019
+17/09/2019,9:00 pm,Regular round,Group H,Chelsea FC,Valencia CF,0,1,Cüneyt Cakir,Stamford Bridge,39469,2019
+02/10/2019,9:00 pm,Regular round,Group H,LOSC Lille,Chelsea FC,1,2,Aleksey Kulbakov,Decathlon Arena-Stade Pierre-Mauroy,48523,2019
+02/10/2019,9:00 pm,Regular round,Group H,Valencia CF,Ajax Amsterdam,0,3,Daniele Orsato,Mestalla,44659,2019
+23/10/2019,6:55 pm,Regular round,Group H,Ajax Amsterdam,Chelsea FC,0,1,Ovidiu Hategan,Johan Cruijff ArenA,52482,2019
+23/10/2019,9:00 pm,Regular round,Group H,LOSC Lille,Valencia CF,1,1,Deniz Aytekin,Decathlon Arena-Stade Pierre-Mauroy,47488,2019
+05/11/2019,9:00 pm,Regular round,Group H,Valencia CF,LOSC Lille,4,1,Sergey Karasev,Mestalla,38252,2019
+05/11/2019,9:00 pm,Regular round,Group H,Chelsea FC,Ajax Amsterdam,4,4,Gianluca Rocchi,Stamford Bridge,39132,2019
+27/11/2019,6:55 pm,Regular round,Group H,Valencia CF,Chelsea FC,2,2,Felix Zwayer,Mestalla,43486,2019
+27/11/2019,9:00 pm,Regular round,Group H,LOSC Lille,Ajax Amsterdam,0,2,Dr. Felix Brych,Decathlon Arena-Stade Pierre-Mauroy,48612,2019
+10/12/2019,9:00 pm,Regular round,Group H,Chelsea FC,LOSC Lille,2,1,Anastasios Sidiropoulos,Stamford Bridge,40016,2019
+10/12/2019,9:00 pm,Regular round,Group H,Ajax Amsterdam,Valencia CF,0,1,Clément Turpin,Johan Cruijff ArenA,51931,2019
+18/02/2020,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Borussia Dortmund,Paris Saint-Germain,2,1,Mateu Lahoz,SIGNAL IDUNA PARK,66099,2019
+18/02/2020,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Atlético de Madrid,Liverpool FC,1,0,Szymon Marciniak,Civitas Metropolitano,67443,2019
+19/02/2020,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Atalanta BC,Valencia CF,4,1,Michael Oliver,Giuseppe Meazza,44236,2019
+19/02/2020,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Tottenham Hotspur,RB Leipzig,0,1,Cüneyt Cakir,Tottenham Hotspur Stadium,60095,2019
+25/02/2020,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Chelsea FC,Bayern Munich,0,3,Clément Turpin,Stamford Bridge,36761,2019
+25/02/2020,9:00 PM  2nd leg:,Regular round,last 16 1st leg,SSC Napoli,FC Barcelona,1,1,Dr. Felix Brych,Stadio Diego Armando Maradona,44388,2019
+26/02/2020,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Olympique Lyon,Juventus FC,1,0,Jesús Gil Manzano,Groupama Stadium,57335,2019
+26/02/2020,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Real Madrid,Manchester City,1,2,Daniele Orsato,Santiago Bernabéu,75615,2019
+10/03/2020,9:00 PM  1st leg:,Regular round,last 16 2nd leg,RB Leipzig,Tottenham Hotspur,3,0,Carlos del Cerro Grande,Red Bull Arena,42146,2019
+10/03/2020,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Valencia CF,Atalanta BC,3,4,Ovidiu Hategan,Mestalla,0,2019
+11/03/2020,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Paris Saint-Germain,Borussia Dortmund,2,0,Anthony Taylor,Parc des Princes,0,2019
+11/03/2020,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Liverpool FC,Atlético de Madrid,2,3,Danny Makkelie,Anfield,52267,2019
+07/08/2020,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Juventus FC,Olympique Lyon,2,1,Felix Zwayer,Allianz Stadium,0,2019
+07/08/2020,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Manchester City,Real Madrid,2,1,Dr. Felix Brych,Etihad Stadium,0,2019
+08/08/2020,9:00 PM  1st leg:,Regular round,last 16 2nd leg,FC Barcelona,SSC Napoli,3,1,Cüneyt Cakir,Spotify Camp Nou,0,2019
+08/08/2020,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Bayern Munich,Chelsea FC,4,1,Ovidiu Hategan,Allianz Arena,0,2019
+23/08/2020,9:00 pm,Regular round,Final,Paris Saint-Germain,Bayern Munich,0,1,Daniele Orsato,Estádio da Luz,0,2019
+21/10/2020,6:55 pm,Regular round,Group A,Red Bull Salzburg,Lokomotiv Moscow,2,2,Serdar Gözübüyük,Red Bull Arena Salzburg,3000,2020
+21/10/2020,9:00 pm,Regular round,Group A,Bayern Munich,Atlético de Madrid,4,0,Michael Oliver,Allianz Arena,0,2020
+27/10/2020,6:55 pm,Regular round,Group A,Lokomotiv Moscow,Bayern Munich,1,2,Istvan Kovacs,RZD Arena,8196,2020
+27/10/2020,9:00 pm,Regular round,Group A,Atlético de Madrid,Red Bull Salzburg,3,2,Ovidiu Hategan,Civitas Metropolitano,0,2020
+03/11/2020,6:55 pm,Regular round,Group A,Lokomotiv Moscow,Atlético de Madrid,1,1,Benoît Bastien,RZD Arena,8147,2020
+03/11/2020,9:00 pm,Regular round,Group A,Red Bull Salzburg,Bayern Munich,2,6,Danny Makkelie,Red Bull Arena Salzburg,0,2020
+25/11/2020,9:00 pm,Regular round,Group A,Atlético de Madrid,Lokomotiv Moscow,0,0,Slavko Vincic,Civitas Metropolitano,0,2020
+25/11/2020,9:00 pm,Regular round,Group A,Bayern Munich,Red Bull Salzburg,3,1,Orel Grinfeld,Allianz Arena,0,2020
+01/12/2020,6:55 pm,Regular round,Group A,Lokomotiv Moscow,Red Bull Salzburg,1,3,Ali Palabiyik,RZD Arena,6759,2020
+01/12/2020,9:00 pm,Regular round,Group A,Atlético de Madrid,Bayern Munich,1,1,Clément Turpin,Civitas Metropolitano,0,2020
+09/12/2020,9:00 pm,Regular round,Group A,Bayern Munich,Lokomotiv Moscow,2,0,Sandro Schärer,Allianz Arena,0,2020
+09/12/2020,9:00 pm,Regular round,Group A,Red Bull Salzburg,Atlético de Madrid,0,2,Anthony Taylor,Red Bull Arena Salzburg,0,2020
+21/10/2020,6:55 pm,Regular round,Group B,Real Madrid,Shakhtar Donetsk,2,3,Srdjan Jovanovic,Estadio Alfredo Di Stéfano,0,2020
+21/10/2020,9:00 pm,Regular round,Group B,Inter Milan,Borussia Mönchengladbach,2,2,Björn Kuipers,Giuseppe Meazza,1000,2020
+27/10/2020,6:55 pm,Regular round,Group B,Shakhtar Donetsk,Inter Milan,0,0,Georgi Kabakov,NSK Olimpiyskyi,0,2020
+27/10/2020,9:00 pm,Regular round,Group B,Borussia Mönchengladbach,Real Madrid,2,2,Orel Grinfeld,Stadion im Borussia-Park,0,2020
+03/11/2020,6:55 pm,Regular round,Group B,Shakhtar Donetsk,Borussia Mönchengladbach,0,6,Serdar Gözübüyük,NSK Olimpiyskyi,0,2020
+03/11/2020,9:00 pm,Regular round,Group B,Real Madrid,Inter Milan,3,2,Clément Turpin,Estadio Alfredo Di Stéfano,0,2020
+25/11/2020,6:55 pm,Regular round,Group B,Borussia Mönchengladbach,Shakhtar Donetsk,4,0,Cüneyt Cakir,Stadion im Borussia-Park,0,2020
+25/11/2020,9:00 pm,Regular round,Group B,Inter Milan,Real Madrid,0,2,Anthony Taylor,Giuseppe Meazza,0,2020
+01/12/2020,6:55 pm,Regular round,Group B,Shakhtar Donetsk,Real Madrid,2,0,Ovidiu Hategan,NSK Olimpiyskyi,0,2020
+01/12/2020,9:00 pm,Regular round,Group B,Borussia Mönchengladbach,Inter Milan,2,3,Danny Makkelie,Stadion im Borussia-Park,0,2020
+09/12/2020,9:00 pm,Regular round,Group B,Inter Milan,Shakhtar Donetsk,0,0,Slavko Vincic,Giuseppe Meazza,0,2020
+09/12/2020,9:00 pm,Regular round,Group B,Real Madrid,Borussia Mönchengladbach,2,0,Björn Kuipers,Estadio Alfredo Di Stéfano,0,2020
+21/10/2020,9:00 pm,Regular round,Group C,Manchester City,FC Porto,3,1,Andris Treimanis,Etihad Stadium,0,2020
+21/10/2020,9:00 pm,Regular round,Group C,Olympiacos Piraeus,Olympique Marseille,1,0,Daniele Orsato,Stadio Georgios Karaiskakis,0,2020
+27/10/2020,9:00 pm,Regular round,Group C,FC Porto,Olympiacos Piraeus,2,0,Daniel Siebert,Estádio do Dragão,3750,2020
+27/10/2020,9:00 pm,Regular round,Group C,Olympique Marseille,Manchester City,0,3,Tobias Stieler,Orange Vélodrome,0,2020
+03/11/2020,9:00 pm,Regular round,Group C,Manchester City,Olympiacos Piraeus,3,0,Carlos del Cerro Grande,Etihad Stadium,0,2020
+03/11/2020,9:00 pm,Regular round,Group C,FC Porto,Olympique Marseille,3,0,Mateu Lahoz,Estádio do Dragão,0,2020
+25/11/2020,6:55 pm,Regular round,Group C,Olympiacos Piraeus,Manchester City,0,1,Davide Massa,Stadio Georgios Karaiskakis,0,2020
+25/11/2020,9:00 pm,Regular round,Group C,Olympique Marseille,FC Porto,0,2,Andreas Ekberg,Orange Vélodrome,0,2020
+01/12/2020,9:00 pm,Regular round,Group C,FC Porto,Manchester City,0,0,Björn Kuipers,Estádio do Dragão,0,2020
+01/12/2020,9:00 pm,Regular round,Group C,Olympique Marseille,Olympiacos Piraeus,2,1,Jesús Gil Manzano,Orange Vélodrome,0,2020
+09/12/2020,9:00 pm,Regular round,Group C,Manchester City,Olympique Marseille,3,0,Halil Umut Meler,Etihad Stadium,0,2020
+09/12/2020,9:00 pm,Regular round,Group C,Olympiacos Piraeus,FC Porto,0,2,Dr. Felix Brych,Stadio Georgios Karaiskakis,0,2020
+21/10/2020,9:00 pm,Regular round,Group D,Ajax Amsterdam,Liverpool FC,0,1,Dr. Felix Brych,Johan Cruijff ArenA,0,2020
+21/10/2020,9:00 pm,Regular round,Group D,FC Midtjylland,Atalanta BC,0,4,Artur Soares Dias,MCH Arena,132,2020
+27/10/2020,9:00 pm,Regular round,Group D,Liverpool FC,FC Midtjylland,2,0,Pawel Raczkowski,Anfield,0,2020
+27/10/2020,9:00 pm,Regular round,Group D,Atalanta BC,Ajax Amsterdam,2,2,Damir Skomina,Gewiss Stadium,0,2020
+03/11/2020,9:00 pm,Regular round,Group D,FC Midtjylland,Ajax Amsterdam,1,2,Bobby Madden,MCH Arena,0,2020
+03/11/2020,9:00 pm,Regular round,Group D,Atalanta BC,Liverpool FC,0,5,Ovidiu Hategan,Gewiss Stadium,0,2020
+25/11/2020,9:00 pm,Regular round,Group D,Ajax Amsterdam,FC Midtjylland,3,1,Sergey Karasev,Johan Cruijff ArenA,0,2020
+25/11/2020,9:00 pm,Regular round,Group D,Liverpool FC,Atalanta BC,0,2,Carlos del Cerro Grande,Anfield,0,2020
+01/12/2020,9:00 pm,Regular round,Group D,Atalanta BC,FC Midtjylland,1,1,Anastasios Sidiropoulos,Gewiss Stadium,0,2020
+01/12/2020,9:00 pm,Regular round,Group D,Liverpool FC,Ajax Amsterdam,1,0,Tobias Stieler,Anfield,0,2020
+09/12/2020,6:55 pm,Regular round,Group D,FC Midtjylland,Liverpool FC,1,1,François Letexier,MCH Arena,147,2020
+09/12/2020,6:55 pm,Regular round,Group D,Ajax Amsterdam,Atalanta BC,0,1,Carlos del Cerro Grande,Johan Cruijff ArenA,0,2020
+20/10/2020,9:00 pm,Regular round,Group E,Chelsea FC,Sevilla FC,0,0,Davide Massa,Stamford Bridge,0,2020
+20/10/2020,9:00 pm,Regular round,Group E,Stade Rennais FC,FK Krasnodar,1,1,Anastasios Sidiropoulos,Roazhon Park,4973,2020
+28/10/2020,6:55 pm,Regular round,Group E,FK Krasnodar,Chelsea FC,0,4,Ali Palabiyik,Stadion Krasnodar,10544,2020
+28/10/2020,9:00 pm,Regular round,Group E,Sevilla FC,Stade Rennais FC,1,0,Cüneyt Cakir,Ramón Sánchez-Pizjuán,0,2020
+04/11/2020,9:00 pm,Regular round,Group E,Sevilla FC,FK Krasnodar,3,2,Dr. Felix Brych,Ramón Sánchez-Pizjuán,0,2020
+04/11/2020,9:00 pm,Regular round,Group E,Chelsea FC,Stade Rennais FC,3,0,Felix Zwayer,Stamford Bridge,0,2020
+24/11/2020,6:55 pm,Regular round,Group E,Stade Rennais FC,Chelsea FC,1,2,Björn Kuipers,Roazhon Park,0,2020
+24/11/2020,6:55 pm,Regular round,Group E,FK Krasnodar,Sevilla FC,1,2,Marco Guida,Stadion Krasnodar,10554,2020
+02/12/2020,6:55 pm,Regular round,Group E,FK Krasnodar,Stade Rennais FC,1,0,Willie Collum,Stadion Krasnodar,8747,2020
+02/12/2020,9:00 pm,Regular round,Group E,Sevilla FC,Chelsea FC,0,4,Artur Soares Dias,Ramón Sánchez-Pizjuán,0,2020
+08/12/2020,9:00 pm,Regular round,Group E,Stade Rennais FC,Sevilla FC,1,3,Bartosz Frankowski,Roazhon Park,0,2020
+08/12/2020,9:00 pm,Regular round,Group E,Chelsea FC,FK Krasnodar,1,1,Pavel Kralovec,Stamford Bridge,2000,2020
+20/10/2020,6:55 pm,Regular round,Group F,Zenit St. Petersburg,Club Brugge KV,1,2,Benoît Bastien,Gazprom Arena,16682,2020
+20/10/2020,9:00 pm,Regular round,Group F,SS Lazio,Borussia Dortmund,3,1,Clément Turpin,Olimpico di Roma,1000,2020
+28/10/2020,9:00 pm,Regular round,Group F,Borussia Dortmund,Zenit St. Petersburg,2,0,Björn Kuipers,SIGNAL IDUNA PARK,0,2020
+28/10/2020,9:00 pm,Regular round,Group F,Club Brugge KV,SS Lazio,1,1,Anthony Taylor,Jan-Breydel-Stadion,0,2020
+04/11/2020,6:55 pm,Regular round,Group F,Zenit St. Petersburg,SS Lazio,1,1,Artur Soares Dias,Gazprom Arena,17427,2020
+04/11/2020,9:00 pm,Regular round,Group F,Club Brugge KV,Borussia Dortmund,0,3,Damir Skomina,Jan-Breydel-Stadion,0,2020
+24/11/2020,9:00 pm,Regular round,Group F,SS Lazio,Zenit St. Petersburg,3,1,Michael Oliver,Olimpico di Roma,0,2020
+24/11/2020,9:00 pm,Regular round,Group F,Borussia Dortmund,Club Brugge KV,3,0,Ivan Kruzliak,SIGNAL IDUNA PARK,0,2020
+02/12/2020,9:00 pm,Regular round,Group F,Club Brugge KV,Zenit St. Petersburg,3,0,Serdar Gözübüyük,Jan-Breydel-Stadion,0,2020
+02/12/2020,9:00 pm,Regular round,Group F,Borussia Dortmund,SS Lazio,1,1,Mateu Lahoz,SIGNAL IDUNA PARK,0,2020
+08/12/2020,6:55 pm,Regular round,Group F,SS Lazio,Club Brugge KV,2,2,Cüneyt Cakir,Olimpico di Roma,0,2020
+08/12/2020,6:55 pm,Regular round,Group F,Zenit St. Petersburg,Borussia Dortmund,1,2,Istvan Kovacs,Gazprom Arena,10860,2020
+20/10/2020,6:55 pm,Regular round,Group G,Dynamo Kyiv,Juventus FC,0,2,Ovidiu Hategan,NSK Olimpisky,14850,2020
+20/10/2020,9:00 pm,Regular round,Group G,FC Barcelona,Ferencvárosi TC,5,1,Sandro Schärer,Spotify Camp Nou,0,2020
+28/10/2020,9:00 pm,Regular round,Group G,Ferencvárosi TC,Dynamo Kyiv,2,2,Ivan Kruzliak,Groupama Aréna,6171,2020
+28/10/2020,9:00 pm,Regular round,Group G,Juventus FC,FC Barcelona,0,2,Danny Makkelie,Allianz Stadium,0,2020
+04/11/2020,9:00 pm,Regular round,Group G,FC Barcelona,Dynamo Kyiv,2,1,Michael Oliver,Spotify Camp Nou,0,2020
+04/11/2020,9:00 pm,Regular round,Group G,Ferencvárosi TC,Juventus FC,1,4,Orel Grinfeld,Puskás Aréna,18531,2020
+24/11/2020,9:00 pm,Regular round,Group G,Dynamo Kyiv,FC Barcelona,0,4,Matej Jug,NSK Olimpisky,0,2020
+24/11/2020,9:00 pm,Regular round,Group G,Juventus FC,Ferencvárosi TC,2,1,Daniel Siebert,Allianz Stadium,0,2020
+02/12/2020,9:00 pm,Regular round,Group G,Ferencvárosi TC,FC Barcelona,0,3,Aleksey Kulbakov,Puskás Aréna,0,2020
+02/12/2020,9:00 pm,Regular round,Group G,Juventus FC,Dynamo Kyiv,3,0,Stéphanie Frappart,Allianz Stadium,0,2020
+08/12/2020,9:00 pm,Regular round,Group G,Dynamo Kyiv,Ferencvárosi TC,1,0,Andreas Ekberg,NSK Olimpisky,0,2020
+08/12/2020,9:00 pm,Regular round,Group G,FC Barcelona,Juventus FC,0,3,Tobias Stieler,Spotify Camp Nou,0,2020
+20/10/2020,9:00 pm,Regular round,Group H,Paris Saint-Germain,Manchester United,1,2,Mateu Lahoz,Parc des Princes,0,2020
+20/10/2020,9:00 pm,Regular round,Group H,RB Leipzig,Basaksehir FK,2,0,Jesús Gil Manzano,Red Bull Arena,999,2020
+28/10/2020,6:55 pm,Regular round,Group H,Basaksehir FK,Paris Saint-Germain,0,2,Andreas Ekberg,Başakşehir Fatih Terim,0,2020
+28/10/2020,9:00 pm,Regular round,Group H,Manchester United,RB Leipzig,5,0,Matej Jug,Old Trafford,0,2020
+04/11/2020,6:55 pm,Regular round,Group H,Basaksehir FK,Manchester United,2,1,Davide Massa,Başakşehir Fatih Terim,0,2020
+04/11/2020,9:00 pm,Regular round,Group H,RB Leipzig,Paris Saint-Germain,2,1,Szymon Marciniak,Red Bull Arena,0,2020
+24/11/2020,9:00 pm,Regular round,Group H,Manchester United,Basaksehir FK,4,1,Ovidiu Hategan,Old Trafford,0,2020
+24/11/2020,9:00 pm,Regular round,Group H,Paris Saint-Germain,RB Leipzig,1,0,Danny Makkelie,Parc des Princes,0,2020
+02/12/2020,6:55 pm,Regular round,Group H,Basaksehir FK,RB Leipzig,3,4,Carlos del Cerro Grande,Başakşehir Fatih Terim,0,2020
+02/12/2020,9:00 pm,Regular round,Group H,Manchester United,Paris Saint-Germain,1,3,Daniele Orsato,Old Trafford,0,2020
+08/12/2020,9:00 pm,Regular round,Group H,RB Leipzig,Manchester United,3,2,Mateu Lahoz,Red Bull Arena,0,2020
+09/12/2020,6:55 pm,Regular round,Group H,Paris Saint-Germain,Basaksehir FK,5,1,Danny Makkelie,Parc des Princes,0,2020
+16/02/2021,9:00 PM  2nd leg:,Regular round,last 16 1st leg,FC Barcelona,Paris Saint-Germain,1,4,Björn Kuipers,Spotify Camp Nou,0,2020
+16/02/2021,9:00 PM  2nd leg:,Regular round,last 16 1st leg,RB Leipzig,Liverpool FC,0,2,Slavko Vincic,Puskás Aréna,0,2020
+17/02/2021,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Sevilla FC,Borussia Dortmund,2,3,Danny Makkelie,Ramón Sánchez-Pizjuán,0,2020
+17/02/2021,9:00 PM  2nd leg:,Regular round,last 16 1st leg,FC Porto,Juventus FC,2,1,Carlos del Cerro Grande,Estádio do Dragão,0,2020
+23/02/2021,9:00 PM  2nd leg:,Regular round,last 16 1st leg,SS Lazio,Bayern Munich,1,4,Orel Grinfeld,Olimpico di Roma,0,2020
+23/02/2021,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Atlético de Madrid,Chelsea FC,0,1,Dr. Felix Brych,Arena Națională,0,2020
+24/02/2021,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Borussia Mönchengladbach,Manchester City,0,2,Artur Soares Dias,Puskás Aréna,0,2020
+24/02/2021,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Atalanta BC,Real Madrid,0,1,Tobias Stieler,Gewiss Stadium,0,2020
+09/03/2021,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Juventus FC,FC Porto,3,2,Björn Kuipers,Allianz Stadium,0,2020
+09/03/2021,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Borussia Dortmund,Sevilla FC,2,2,Cüneyt Cakir,SIGNAL IDUNA PARK,0,2020
+10/03/2021,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Paris Saint-Germain,FC Barcelona,1,1,Anthony Taylor,Parc des Princes,0,2020
+10/03/2021,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Liverpool FC,RB Leipzig,2,0,Clément Turpin,Puskás Aréna,0,2020
+16/03/2021,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Manchester City,Borussia Mönchengladbach,2,0,Sergey Karasev,Puskás Aréna,0,2020
+16/03/2021,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Real Madrid,Atalanta BC,3,1,Danny Makkelie,Estadio Alfredo Di Stéfano,0,2020
+17/03/2021,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Chelsea FC,Atlético de Madrid,2,0,Daniele Orsato,Stamford Bridge,0,2020
+17/03/2021,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Bayern Munich,SS Lazio,2,1,Istvan Kovacs,Allianz Arena,0,2020
+06/04/2021,9:00 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Manchester City,Borussia Dortmund,2,1,Ovidiu Hategan,Etihad Stadium,0,2020
+06/04/2021,9:00 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Real Madrid,Liverpool FC,3,1,Dr. Felix Brych,Estadio Alfredo Di Stéfano,0,2020
+07/04/2021,9:00 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Bayern Munich,Paris Saint-Germain,2,3,Mateu Lahoz,Allianz Arena,0,2020
+07/04/2021,9:00 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,FC Porto,Chelsea FC,0,2,Slavko Vincic,Ramón Sánchez-Pizjuán,0,2020
+13/04/2021,9:00 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Paris Saint-Germain,Bayern Munich,0,1,Daniele Orsato,Parc des Princes,0,2020
+13/04/2021,9:00 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Chelsea FC,FC Porto,0,1,Clément Turpin,Ramón Sánchez-Pizjuán,0,2020
+14/04/2021,9:00 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Borussia Dortmund,Manchester City,1,2,Carlos del Cerro Grande,SIGNAL IDUNA PARK,0,2020
+14/04/2021,9:00 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Liverpool FC,Real Madrid,0,0,Björn Kuipers,Anfield,0,2020
+27/04/2021,9:00 PM  2nd leg:,Regular round,Semi-Finals 1st Leg,Real Madrid,Chelsea FC,1,1,Danny Makkelie,Estadio Alfredo Di Stéfano,0,2020
+28/04/2021,9:00 PM  2nd leg:,Regular round,Semi-Finals 1st Leg,Paris Saint-Germain,Manchester City,1,2,Dr. Felix Brych,Parc des Princes,0,2020
+04/05/2021,9:00 PM  1st leg:,Regular round,Semi-Finals 2nd Leg,Manchester City,Paris Saint-Germain,2,0,Björn Kuipers,Etihad Stadium,0,2020
+05/05/2021,9:00 PM  1st leg:,Regular round,Semi-Finals 2nd Leg,Chelsea FC,Real Madrid,2,0,Daniele Orsato,Stamford Bridge,0,2020
+29/05/2021,9:00 pm,Regular round,Final,Manchester City,Chelsea FC,0,1,Mateu Lahoz,Estádio do Dragão,14110,2020
+15/09/2021,9:00 pm,Regular round,Group A,Manchester City,RB Leipzig,6,3,Serdar Gözübüyük,Etihad Stadium,38062,2021
+15/09/2021,9:00 pm,Regular round,Group A,Club Brugge KV,Paris Saint-Germain,1,1,Sandro Schärer,Jan-Breydel-Stadion,27546,2021
+28/09/2021,9:00 pm,Regular round,Group A,Paris Saint-Germain,Manchester City,2,0,Carlos del Cerro Grande,Parc des Princes,47350,2021
+28/09/2021,9:00 pm,Regular round,Group A,RB Leipzig,Club Brugge KV,1,2,Slavko Vincic,Red Bull Arena,23500,2021
+19/10/2021,6:45 pm,Regular round,Group A,Club Brugge KV,Manchester City,1,5,Istvan Kovacs,Jan-Breydel-Stadion,24915,2021
+19/10/2021,9:00 pm,Regular round,Group A,Paris Saint-Germain,RB Leipzig,3,2,Marco Guida,Parc des Princes,47359,2021
+03/11/2021,9:00 pm,Regular round,Group A,RB Leipzig,Paris Saint-Germain,2,2,Andreas Ekberg,Red Bull Arena,39794,2021
+03/11/2021,9:00 pm,Regular round,Group A,Manchester City,Club Brugge KV,4,1,Mateu Lahoz,Etihad Stadium,50228,2021
+24/11/2021,9:00 pm,Regular round,Group A,Club Brugge KV,RB Leipzig,0,5,Davide Massa,Jan-Breydel-Stadion,24072,2021
+24/11/2021,9:00 pm,Regular round,Group A,Manchester City,Paris Saint-Germain,2,1,Daniele Orsato,Etihad Stadium,52030,2021
+07/12/2021,6:45 pm,Regular round,Group A,RB Leipzig,Manchester City,2,1,Sandro Schärer,Red Bull Arena,0,2021
+07/12/2021,6:45 pm,Regular round,Group A,Paris Saint-Germain,Club Brugge KV,4,1,Jesús Gil Manzano,Parc des Princes,0,2021
+15/09/2021,9:00 pm,Regular round,Group B,Atlético de Madrid,FC Porto,0,0,Ovidiu Hategan,Civitas Metropolitano,40098,2021
+15/09/2021,9:00 pm,Regular round,Group B,Liverpool FC,AC Milan,3,2,Szymon Marciniak,Anfield,51445,2021
+28/09/2021,9:00 pm,Regular round,Group B,AC Milan,Atlético de Madrid,1,2,Cüneyt Cakir,Giuseppe Meazza,35374,2021
+28/09/2021,9:00 pm,Regular round,Group B,FC Porto,Liverpool FC,1,5,Sergey Karasev,Estádio do Dragão,23520,2021
+19/10/2021,9:00 pm,Regular round,Group B,Atlético de Madrid,Liverpool FC,2,3,Daniel Siebert,Civitas Metropolitano,60725,2021
+19/10/2021,9:00 pm,Regular round,Group B,FC Porto,AC Milan,1,0,Dr. Felix Brych,Estádio do Dragão,32130,2021
+03/11/2021,6:45 pm,Regular round,Group B,AC Milan,FC Porto,1,1,Clément Turpin,Giuseppe Meazza,39675,2021
+03/11/2021,9:00 pm,Regular round,Group B,Liverpool FC,Atlético de Madrid,2,0,Danny Makkelie,Anfield,51347,2021
+24/11/2021,9:00 pm,Regular round,Group B,Liverpool FC,FC Porto,2,0,Felix Zwayer,Anfield,52209,2021
+24/11/2021,9:00 pm,Regular round,Group B,Atlético de Madrid,AC Milan,0,1,Slavko Vincic,Civitas Metropolitano,61019,2021
+07/12/2021,9:00 pm,Regular round,Group B,AC Milan,Liverpool FC,1,2,Danny Makkelie,Giuseppe Meazza,56237,2021
+07/12/2021,9:00 pm,Regular round,Group B,FC Porto,Atlético de Madrid,1,3,Clément Turpin,Estádio do Dragão,38830,2021
+15/09/2021,6:45 pm,Regular round,Group C,Besiktas JK,Borussia Dortmund,1,2,Mateu Lahoz,Vodafone Park,22445,2021
+15/09/2021,9:00 pm,Regular round,Group C,Sporting CP,Ajax Amsterdam,1,5,José María Sánchez Martínez,Estádio José Alvalade XXI,20382,2021
+28/09/2021,6:45 pm,Regular round,Group C,Ajax Amsterdam,Besiktas JK,2,0,Benoît Bastien,Johan Cruijff ArenA,52628,2021
+28/09/2021,9:00 pm,Regular round,Group C,Borussia Dortmund,Sporting CP,1,0,Srdjan Jovanovic,SIGNAL IDUNA PARK,25000,2021
+19/10/2021,6:45 pm,Regular round,Group C,Besiktas JK,Sporting CP,1,4,Slavko Vincic,Vodafone Park,22936,2021
+19/10/2021,9:00 pm,Regular round,Group C,Ajax Amsterdam,Borussia Dortmund,4,0,Jesús Gil Manzano,Johan Cruijff ArenA,54029,2021
+03/11/2021,9:00 pm,Regular round,Group C,Borussia Dortmund,Ajax Amsterdam,1,3,Michael Oliver,SIGNAL IDUNA PARK,67000,2021
+03/11/2021,9:00 pm,Regular round,Group C,Sporting CP,Besiktas JK,4,0,Sergey Karasev,Estádio José Alvalade XXI,40835,2021
+24/11/2021,6:45 pm,Regular round,Group C,Besiktas JK,Ajax Amsterdam,1,2,Irfan Peljto,Vodafone Park,11712,2021
+24/11/2021,9:00 pm,Regular round,Group C,Sporting CP,Borussia Dortmund,3,1,Carlos del Cerro Grande,Estádio José Alvalade XXI,41341,2021
+07/12/2021,9:00 pm,Regular round,Group C,Ajax Amsterdam,Sporting CP,4,2,Davide Massa,Johan Cruijff ArenA,0,2021
+07/12/2021,9:00 pm,Regular round,Group C,Borussia Dortmund,Besiktas JK,5,0,François Letexier,SIGNAL IDUNA PARK,15000,2021
+15/09/2021,6:45 pm,Regular round,Group D,FC Sheriff Tiraspol,Shakhtar Donetsk,2,0,Deniz Aytekin,Sheriff,5205,2021
+15/09/2021,9:00 pm,Regular round,Group D,Inter Milan,Real Madrid,0,1,Daniel Siebert,Giuseppe Meazza,37082,2021
+28/09/2021,6:45 pm,Regular round,Group D,Shakhtar Donetsk,Inter Milan,0,0,Istvan Kovacs,NSK Olimpiyskyi,26170,2021
+28/09/2021,9:00 pm,Regular round,Group D,Real Madrid,FC Sheriff Tiraspol,1,2,Lawrence Visser,Santiago Bernabéu,24522,2021
+19/10/2021,9:00 pm,Regular round,Group D,Shakhtar Donetsk,Real Madrid,0,5,Srdjan Jovanovic,NSK Olimpiyskyi,34037,2021
+19/10/2021,9:00 pm,Regular round,Group D,Inter Milan,FC Sheriff Tiraspol,3,1,Danny Makkelie,Giuseppe Meazza,43305,2021
+03/11/2021,6:45 pm,Regular round,Group D,Real Madrid,Shakhtar Donetsk,2,1,Benoît Bastien,Santiago Bernabéu,38105,2021
+03/11/2021,9:00 pm,Regular round,Group D,FC Sheriff Tiraspol,Inter Milan,1,3,Felix Zwayer,Sheriff,5930,2021
+24/11/2021,6:45 pm,Regular round,Group D,Inter Milan,Shakhtar Donetsk,2,0,Ovidiu Hategan,Giuseppe Meazza,46225,2021
+24/11/2021,9:00 pm,Regular round,Group D,FC Sheriff Tiraspol,Real Madrid,0,3,Szymon Marciniak,Sheriff,5932,2021
+07/12/2021,9:00 pm,Regular round,Group D,Shakhtar Donetsk,FC Sheriff Tiraspol,1,1,Donatas Rumsas,NSK Olimpiyskyi,6841,2021
+07/12/2021,9:00 pm,Regular round,Group D,Real Madrid,Inter Milan,2,0,Dr. Felix Brych,Santiago Bernabéu,46887,2021
+14/09/2021,9:00 pm,Regular round,Group E,Dynamo Kyiv,SL Benfica,0,0,Anthony Taylor,NSK Olimpisky,21657,2021
+14/09/2021,9:00 pm,Regular round,Group E,FC Barcelona,Bayern Munich,0,3,Michael Oliver,Spotify Camp Nou,39737,2021
+29/09/2021,9:00 pm,Regular round,Group E,SL Benfica,FC Barcelona,3,0,Daniele Orsato,Estádio da Luz,29454,2021
+29/09/2021,9:00 pm,Regular round,Group E,Bayern Munich,Dynamo Kyiv,5,0,Marco Guida,Allianz Arena,25000,2021
+20/10/2021,6:45 pm,Regular round,Group E,FC Barcelona,Dynamo Kyiv,1,0,Clément Turpin,Spotify Camp Nou,45968,2021
+20/10/2021,9:00 pm,Regular round,Group E,SL Benfica,Bayern Munich,0,4,Ovidiu Hategan,Estádio da Luz,55200,2021
+02/11/2021,9:00 pm,Regular round,Group E,Dynamo Kyiv,FC Barcelona,0,1,Ovidiu Hategan,NSK Olimpisky,31378,2021
+02/11/2021,9:00 pm,Regular round,Group E,Bayern Munich,SL Benfica,5,2,Szymon Marciniak,Allianz Arena,50000,2021
+23/11/2021,6:45 pm,Regular round,Group E,Dynamo Kyiv,Bayern Munich,1,2,Halil Umut Meler,NSK Olimpisky,28732,2021
+23/11/2021,9:00 pm,Regular round,Group E,FC Barcelona,SL Benfica,0,0,Sergey Karasev,Spotify Camp Nou,49572,2021
+08/12/2021,9:00 pm,Regular round,Group E,SL Benfica,Dynamo Kyiv,2,0,Deniz Aytekin,Estádio da Luz,36591,2021
+08/12/2021,9:00 pm,Regular round,Group E,Bayern Munich,FC Barcelona,3,0,Ovidiu Hategan,Allianz Arena,0,2021
+14/09/2021,6:45 pm,Regular round,Group F,BSC Young Boys,Manchester United,2,1,François Letexier,Stadion Wankdorf,31120,2021
+14/09/2021,9:00 pm,Regular round,Group F,Villarreal CF,Atalanta BC,2,2,Clément Turpin,La Cerámica,12918,2021
+29/09/2021,6:45 pm,Regular round,Group F,Atalanta BC,BSC Young Boys,1,0,Dr. Felix Brych,Gewiss Stadium,8536,2021
+29/09/2021,9:00 pm,Regular round,Group F,Manchester United,Villarreal CF,2,1,Felix Zwayer,Old Trafford,73130,2021
+20/10/2021,9:00 pm,Regular round,Group F,BSC Young Boys,Villarreal CF,1,4,Sergey Karasev,Stadion Wankdorf,27398,2021
+20/10/2021,9:00 pm,Regular round,Group F,Manchester United,Atalanta BC,3,2,Szymon Marciniak,Old Trafford,72279,2021
+02/11/2021,9:00 pm,Regular round,Group F,Atalanta BC,Manchester United,2,2,Slavko Vincic,Gewiss Stadium,14443,2021
+02/11/2021,9:00 pm,Regular round,Group F,Villarreal CF,BSC Young Boys,2,0,Serdar Gözübüyük,La Cerámica,14890,2021
+23/11/2021,6:45 pm,Regular round,Group F,Villarreal CF,Manchester United,0,2,Dr. Felix Brych,La Cerámica,20875,2021
+23/11/2021,9:00 pm,Regular round,Group F,BSC Young Boys,Atalanta BC,3,3,Daniel Siebert,Stadion Wankdorf,31120,2021
+08/12/2021,9:00 pm,Regular round,Group F,Manchester United,BSC Young Boys,1,1,Benoît Bastien,Old Trafford,73156,2021
+09/12/2021,7:00 pm,Regular round,Group F,Atalanta BC,Villarreal CF,2,3,Anthony Taylor,Gewiss Stadium,0,2021
+14/09/2021,6:45 pm,Regular round,Group G,Sevilla FC,Red Bull Salzburg,1,1,Aleksey Kulbakov,Ramón Sánchez-Pizjuán,18373,2021
+14/09/2021,9:00 pm,Regular round,Group G,LOSC Lille,VfL Wolfsburg,0,0,Danny Makkelie,Decathlon Arena-Stade Pierre-Mauroy,34314,2021
+29/09/2021,9:00 pm,Regular round,Group G,Red Bull Salzburg,LOSC Lille,2,1,Halil Umut Meler,Red Bull Arena Salzburg,24207,2021
+29/09/2021,9:00 pm,Regular round,Group G,VfL Wolfsburg,Sevilla FC,1,1,Georgi Kabakov,Volkswagen Arena,11733,2021
+20/10/2021,6:45 pm,Regular round,Group G,Red Bull Salzburg,VfL Wolfsburg,3,1,Daniele Orsato,Red Bull Arena Salzburg,29520,2021
+20/10/2021,9:00 pm,Regular round,Group G,LOSC Lille,Sevilla FC,0,0,Michael Oliver,Decathlon Arena-Stade Pierre-Mauroy,34362,2021
+02/11/2021,6:45 pm,Regular round,Group G,VfL Wolfsburg,Red Bull Salzburg,2,1,Artur Soares Dias,Volkswagen Arena,16112,2021
+02/11/2021,9:00 pm,Regular round,Group G,Sevilla FC,LOSC Lille,1,2,Istvan Kovacs,Ramón Sánchez-Pizjuán,29369,2021
+23/11/2021,9:00 pm,Regular round,Group G,LOSC Lille,Red Bull Salzburg,1,0,Anthony Taylor,Decathlon Arena-Stade Pierre-Mauroy,33573,2021
+23/11/2021,9:00 pm,Regular round,Group G,Sevilla FC,VfL Wolfsburg,2,0,Cüneyt Cakir,Ramón Sánchez-Pizjuán,28663,2021
+08/12/2021,9:00 pm,Regular round,Group G,VfL Wolfsburg,LOSC Lille,1,3,Daniele Orsato,Volkswagen Arena,6544,2021
+08/12/2021,9:00 pm,Regular round,Group G,Red Bull Salzburg,Sevilla FC,1,0,Slavko Vincic,Red Bull Arena Salzburg,0,2021
+14/09/2021,9:00 pm,Regular round,Group H,Chelsea FC,Zenit St. Petersburg,1,0,Bartosz Frankowski,Stamford Bridge,39252,2021
+14/09/2021,9:00 pm,Regular round,Group H,Malmö FF,Juventus FC,0,3,Artur Soares Dias,Eleda Stadion,5832,2021
+29/09/2021,6:45 pm,Regular round,Group H,Zenit St. Petersburg,Malmö FF,4,0,Anastasios Sidiropoulos,Gazprom Arena,15339,2021
+29/09/2021,9:00 pm,Regular round,Group H,Juventus FC,Chelsea FC,1,0,Jesús Gil Manzano,Allianz Stadium,19934,2021
+20/10/2021,9:00 pm,Regular round,Group H,Chelsea FC,Malmö FF,4,0,François Letexier,Stamford Bridge,39095,2021
+20/10/2021,9:00 pm,Regular round,Group H,Zenit St. Petersburg,Juventus FC,0,1,Sandro Schärer,Gazprom Arena,18717,2021
+02/11/2021,6:45 pm,Regular round,Group H,Malmö FF,Chelsea FC,0,1,Dr. Felix Brych,Eleda Stadion,19551,2021
+02/11/2021,9:00 pm,Regular round,Group H,Juventus FC,Zenit St. Petersburg,4,2,Alejandro Hernández Hernández,Allianz Stadium,20053,2021
+23/11/2021,9:00 pm,Regular round,Group H,Chelsea FC,Juventus FC,4,0,Srdjan Jovanovic,Stamford Bridge,39513,2021
+23/11/2021,9:00 pm,Regular round,Group H,Malmö FF,Zenit St. Petersburg,1,1,Andris Treimanis,Eleda Stadion,15520,2021
+08/12/2021,6:45 pm,Regular round,Group H,Zenit St. Petersburg,Chelsea FC,3,3,Serdar Gözübüyük,Gazprom Arena,29349,2021
+08/12/2021,6:45 pm,Regular round,Group H,Juventus FC,Malmö FF,1,0,Irfan Peljto,Allianz Stadium,17501,2021
+15/02/2022,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Paris Saint-Germain,Real Madrid,1,0,Daniele Orsato,Parc des Princes,47443,2021
+15/02/2022,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Sporting CP,Manchester City,0,5,Srdjan Jovanovic,Estádio José Alvalade XXI,48129,2021
+16/02/2022,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Red Bull Salzburg,Bayern Munich,1,1,Michael Oliver,Red Bull Arena Salzburg,30000,2021
+16/02/2022,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Inter Milan,Liverpool FC,0,2,Szymon Marciniak,Giuseppe Meazza,37918,2021
+22/02/2022,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Villarreal CF,Juventus FC,1,1,Daniel Siebert,La Cerámica,17686,2021
+22/02/2022,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Chelsea FC,LOSC Lille,2,0,Jesús Gil Manzano,Stamford Bridge,38832,2021
+23/02/2022,9:00 PM  2nd leg:,Regular round,last 16 1st leg,Atlético de Madrid,Manchester United,1,1,Ovidiu Hategan,Civitas Metropolitano,63273,2021
+23/02/2022,9:00 PM  2nd leg:,Regular round,last 16 1st leg,SL Benfica,Ajax Amsterdam,2,2,Slavko Vincic,Estádio da Luz,65647,2021
+08/03/2022,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Bayern Munich,Red Bull Salzburg,7,1,Clément Turpin,Allianz Arena,25000,2021
+08/03/2022,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Liverpool FC,Inter Milan,0,1,Mateu Lahoz,Anfield,51747,2021
+09/03/2022,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Real Madrid,Paris Saint-Germain,3,1,Danny Makkelie,Santiago Bernabéu,59895,2021
+09/03/2022,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Manchester City,Sporting CP,0,0,Halil Umut Meler,Etihad Stadium,51213,2021
+15/03/2022,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Manchester United,Atlético de Madrid,0,1,Slavko Vincic,Old Trafford,73008,2021
+15/03/2022,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Ajax Amsterdam,SL Benfica,0,1,Carlos del Cerro Grande,Johan Cruijff ArenA,54066,2021
+16/03/2022,9:00 PM  1st leg:,Regular round,last 16 2nd leg,Juventus FC,Villarreal CF,0,3,Szymon Marciniak,Allianz Stadium,30385,2021
+16/03/2022,9:00 PM  1st leg:,Regular round,last 16 2nd leg,LOSC Lille,Chelsea FC,1,2,Davide Massa,Decathlon Arena-Stade Pierre-Mauroy,49048,2021
+05/04/2022,9:00 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,SL Benfica,Liverpool FC,1,3,Jesús Gil Manzano,Estádio da Luz,59633,2021
+05/04/2022,9:00 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Manchester City,Atlético de Madrid,1,0,Istvan Kovacs,Etihad Stadium,52018,2021
+06/04/2022,9:00 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Villarreal CF,Bayern Munich,1,0,Anthony Taylor,La Cerámica,21626,2021
+06/04/2022,9:00 PM  2nd leg:,Regular round,Quarter-Finals 1st leg,Chelsea FC,Real Madrid,1,3,Clément Turpin,Stamford Bridge,38689,2021
+12/04/2022,9:00 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Bayern Munich,Villarreal CF,1,1,Slavko Vincic,Allianz Arena,70000,2021
+12/04/2022,9:00 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Real Madrid,Chelsea FC,2,3,Szymon Marciniak,Santiago Bernabéu,59839,2021
+13/04/2022,9:00 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Liverpool FC,SL Benfica,3,3,Serdar Gözübüyük,Anfield,51373,2021
+13/04/2022,9:00 PM  1st leg:,Regular round,Quarter-Finals 2nd leg,Atlético de Madrid,Manchester City,0,0,Daniel Siebert,Civitas Metropolitano,65675,2021
+26/04/2022,9:00 PM  2nd leg:,Regular round,Semi-Finals 1st Leg,Manchester City,Real Madrid,4,3,Istvan Kovacs,Etihad Stadium,52217,2021
+27/04/2022,9:00 PM  2nd leg:,Regular round,Semi-Finals 1st Leg,Liverpool FC,Villarreal CF,2,0,Szymon Marciniak,Anfield,51586,2021
+03/05/2022,9:00 PM  1st leg:,Regular round,Semi-Finals 2nd Leg,Villarreal CF,Liverpool FC,2,3,Danny Makkelie,La Cerámica,21872,2021
+04/05/2022,9:00 PM  1st leg:,Regular round,Semi-Finals 2nd Leg,Real Madrid,Manchester City,3,1,Daniele Orsato,Santiago Bernabéu,61416,2021
+28/05/2022,9:37 pm,Regular round,Final,Liverpool FC,Real Madrid,0,1,Clément Turpin,Stade de France,75000,2021
