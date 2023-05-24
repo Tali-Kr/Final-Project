@@ -1,7 +1,7 @@
 import pandas as pd
 
-master_df = pd.read_csv(r'dataset_preparation/dt_prep_tables/master_data_temp_test_21_05.csv')
-# master_df = pd.read_csv(r'dataset_preparation/dt_prep_tables/master_new_data_temp_1205.csv')  # Relevant for only new data
+master_df = pd.read_csv('../dt_prep_tables/master_data_temp_test_21_05.csv')
+# master_df = pd.read_csv('../dt_prep_tables/master_new_data_temp_1205.csv')  # Relevant for only new data
 
 
 def get_position(df, team):

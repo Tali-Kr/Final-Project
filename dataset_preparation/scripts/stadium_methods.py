@@ -3,8 +3,8 @@ import numpy as np
 import geopy.distance
 from fuzzywuzzy import fuzz
 
-stadiums = pd.read_csv(r'dataset_preparation/dt_prep_tables/Stadiums_In_Israel.csv')
-clubs_stadiums = pd.read_csv(r'dataset_preparation/dt_prep_tables/clubs_home_stadium_by_year.csv')
+stadiums = pd.read_csv('../dt_prep_tables/Stadiums_In_Israel.csv')
+clubs_stadiums = pd.read_csv('../dt_prep_tables/clubs_home_stadium_by_year.csv')
 
 def division(attendance, capacity):
     """
@@ -31,7 +31,7 @@ def lnFunc(record):
         return 0
 
 
-def stadium_rekated_dt_point(master_df):
+def stadium_related_dt_point(master_df):
 
     # Rename "Akko" to "Arce"
     master_df['stadium'] = master_df['stadium'].str.replace('Akko', 'Arce')

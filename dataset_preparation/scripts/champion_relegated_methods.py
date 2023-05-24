@@ -1,9 +1,9 @@
 import pandas as pd
 import re
 
-# league_table = pd.read_csv(r'dataset_preparation/dt_prep_tables/league_tables_2012_2021.csv')
-league_table = pd.read_csv(r'dataset_preparation/dt_prep_tables/league_tables_2021_2022_fixed.csv')
-# league_table = pd.read_csv(r'dataset_preparation/dt_prep_tables/league_tables_new_2022_fixed_1205.csv')  # Relevant for only new data
+# league_table = pd.read_csv('../dt_prep_tables/league_tables_2012_2021.csv')
+league_table = pd.read_csv('../dt_prep_tables/league_tables_2021_2022_fixed.csv')
+# league_table = pd.read_csv('../dt_prep_tables/league_tables_new_2022_fixed_1205.csv')  # Relevant for only new data
 
 #region done in the league_table_fixer
 # Changing the 'game' name
@@ -153,4 +153,6 @@ league_table['champion'] = league_table.apply(
     lambda x: relegation_championship_check(x) if x['round_type'] == 'Championship Round' else None, axis=1)
 print("champion_relegated_methods.py  :  league_table['champion']  -  DONE")
 
-print()
+
+def get_league_table():
+    return league_table

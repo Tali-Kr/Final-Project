@@ -1,7 +1,7 @@
 import pandas as pd
 
-lg_tbl = pd.read_csv(r'dataset_preparation/dt_prep_tables/league_tables_2012_2021.csv')
-# lg_tbl = pd.read_csv(r'dataset_preparation/dt_prep_tables/new_data_league_tables_09_05.csv')  # Relevant for only new data
+lg_tbl = pd.read_csv('../dt_prep_tables/league_tables_2012_2021.csv')
+# lg_tbl = pd.read_csv('../dt_prep_tables/new_data_league_tables_09_05.csv')  # Relevant for only new data
 
 # region lg_tbl addaptation
 lg_tbl['game'] = lg_tbl['game'].str.replace('Relegation round', 'Relegation Round')
@@ -111,6 +111,6 @@ res.drop(['level_0', 'index'], axis='columns', inplace=True)
 #endregion
 
 
-res.to_csv('rdataset_preparation/dt_prep_tables/league_tables_2021_2022_fixed.csv')
-# res.to_csv(r'dataset_preparation/dt_prep_tables/league_tables_new_2022_fixed_1205.csv')  # Relevant for only new data
+res.to_csv('../dt_prep_tables/league_tables_2021_2022_fixed.csv')
+# res.to_csv('../dt_prep_tables/league_tables_new_2022_fixed_1205.csv')  # Relevant for only new data
 print()
