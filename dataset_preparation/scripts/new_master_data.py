@@ -104,7 +104,7 @@ master_df.drop(['key'], axis='columns', inplace=True)
 master_df.rename(columns={'promoted': 'away_promoted', 'pts': 'away_league_pts', 'relegated': 'away_is_relegated',
                           'champion': 'away_is_champion', 'pos_b4_game': 'away_pos_b4_game'}, inplace=True)
 
-# master_df.to_csv('../dt_prep_tables/master_df_temp.csv')  # Saves the original data set into csv file.
+master_df.to_csv('../dt_prep_tables/master_df_temp.csv')  # Saves the original data set into csv file.
 # master_df.to_csv('../dt_prep_tables/pred_master_df_temp.csv')  # Saves the new data set into csv file. Relevant for only new data
 
 from is_underdog_check import is_underdog, pts_b4_game_home, pts_b4_game_away
@@ -126,7 +126,7 @@ rearanged_cols_order = pd.read_csv('../dt_prep_tables/df_cols_names.csv')  # New
 cols = rearanged_cols_order.columns.tolist()
 master_df = master_df[cols]
 
-# master_df.to_csv('../dt_prep_tables/master_dataset.csv')
+master_df.to_csv('../dt_prep_tables/master_dataset.csv')
 # master_df.to_csv('../dt_prep_tables/pred_master_dataset.csv')  # Relevant for only new data
 
 # To see what is the runtime

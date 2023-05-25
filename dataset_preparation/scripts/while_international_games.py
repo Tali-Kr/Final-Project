@@ -77,7 +77,7 @@ champion_league = pd.read_csv('../dt_prep_tables/champion_league_2012_21.csv')
 # Relevant for only new data
 # champion_league = pd.read_csv('../dt_prep_tables/champion_league_2022.csv')
 
-european_leagues = pd.read_csv('../dt_prep_tables/european_leagues_2012_2021.csv')
+european_leagues = pd.read_csv('../dt_prep_tables/european_leagues_2012_21.csv')
 european_leagues.rename(columns={'matchDate': 'match_date'}, inplace=True)
 
 # Relevant for only new data

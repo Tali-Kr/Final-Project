@@ -1,0 +1,455 @@
+season,clubs_name,round,promoted,game,win,draw,lose,goals,g_difference,pts,team_pos
+22/23,Maccabi Tel Aviv,1,0,Regular,1,0,0,5:0,5,3,0
+22/23,Maccabi Netanya,1,0,Regular,1,0,0,4:1,3,3,1
+22/23,Ironi Kiryat Shmona,1,0,Regular,1,0,0,2:0,2,3,2
+22/23,Hapoel Haifa,1,0,Regular,1,0,0,2:0,2,3,3
+22/23,FC Ashdod,1,0,Regular,1,0,0,2:1,1,3,4
+22/23,Maccabi Haifa,1,0,Regular,1,0,0,1:0,1,3,5
+22/23,Hapoel Hadera,1,0,Regular,0,1,0,1:1,0,1,6
+22/23,Hapoel Jerusalem,1,0,Regular,0,1,0,1:1,0,1,7
+22/23,Hapoel Beer Sheva,1,0,Regular,0,0,1,1:2,-1,0,8
+22/23,Ihud Bnei Sakhnin,1,0,Regular,0,0,1,0:1,-1,0,9
+22/23,Hapoel Tel Aviv,1,0,Regular,0,0,1,0:2,-2,0,10
+22/23,Sekzia Ness Ziona,1,0,Regular,0,0,1,0:2,-2,0,11
+22/23,Beitar Jerusalem,1,0,Regular,0,0,1,1:4,-3,0,12
+22/23,Maccabi Bnei Reineh,1,0,Regular,0,0,1,0:5,-5,0,13
+22/23,Maccabi Tel Aviv,2,0,Regular,2,0,0,11:0,11,6,0
+22/23,Maccabi Haifa,2,0,Regular,2,0,0,5:1,4,6,1
+22/23,FC Ashdod,2,0,Regular,2,0,0,3:1,2,6,2
+22/23,Ironi Kiryat Shmona,2,0,Regular,1,1,0,3:1,2,4,3
+22/23,Hapoel Haifa,2,0,Regular,1,1,0,3:1,2,4,4
+22/23,Hapoel Beer Sheva,2,0,Regular,1,0,1,6:2,4,3,5
+22/23,Ihud Bnei Sakhnin,2,0,Regular,1,0,1,2:1,1,3,6
+22/23,Maccabi Netanya,2,0,Regular,1,0,1,5:5,0,3,7
+22/23,Hapoel Jerusalem,2,0,Regular,0,2,0,2:2,0,2,8
+22/23,Maccabi Bnei Reineh,2,0,Regular,0,1,1,1:6,-5,1,9
+22/23,Hapoel Hadera,2,0,Regular,0,1,1,1:7,-6,1,10
+22/23,Sekzia Ness Ziona,2,0,Regular,0,0,2,0:3,-3,0,11
+22/23,Hapoel Tel Aviv,2,0,Regular,0,0,2,0:4,-4,0,12
+22/23,Beitar Jerusalem,2,0,Regular,0,0,2,1:9,-8,0,13
+22/23,Maccabi Tel Aviv,3,0,Regular,3,0,0,14:1,13,9,0
+22/23,Maccabi Haifa,3,0,Regular,3,0,0,7:2,5,9,1
+22/23,Ihud Bnei Sakhnin,3,0,Regular,2,0,1,4:2,2,6,2
+22/23,FC Ashdod,3,0,Regular,2,0,1,3:4,-1,6,3
+22/23,Hapoel Jerusalem,3,0,Regular,1,2,0,5:2,3,5,4
+22/23,Hapoel Haifa,3,0,Regular,1,1,1,4:3,1,4,5
+22/23,Ironi Kiryat Shmona,3,0,Regular,1,1,1,4:4,0,4,6
+22/23,Hapoel Hadera,3,0,Regular,1,1,1,3:8,-5,4,7
+22/23,Hapoel Beer Sheva,3,0,Regular,1,0,2,7:4,3,3,8
+22/23,Maccabi Netanya,3,0,Regular,1,0,2,5:7,-2,3,9
+22/23,Hapoel Tel Aviv,3,0,Regular,1,0,2,2:4,-2,3,10
+22/23,Beitar Jerusalem,3,0,Regular,1,0,2,4:9,-5,3,11
+22/23,Maccabi Bnei Reineh,3,0,Regular,0,1,2,2:8,-6,1,12
+22/23,Sekzia Ness Ziona,3,0,Regular,0,0,3,0:6,-6,0,13
+22/23,Maccabi Haifa,4,0,Regular,4,0,0,10:3,7,12,0
+22/23,Maccabi Tel Aviv,4,0,Regular,3,1,0,14:1,13,10,1
+22/23,Hapoel Jerusalem,4,0,Regular,2,2,0,6:2,4,8,2
+22/23,Ihud Bnei Sakhnin,4,0,Regular,2,1,1,4:2,2,7,3
+22/23,FC Ashdod,4,0,Regular,2,1,1,3:4,-1,7,4
+22/23,Hapoel Beer Sheva,4,0,Regular,2,0,2,10:6,4,6,5
+22/23,Hapoel Haifa,4,0,Regular,1,2,1,5:4,1,5,6
+22/23,Ironi Kiryat Shmona,4,0,Regular,1,2,1,5:5,0,5,7
+22/23,Hapoel Hadera,4,0,Regular,1,2,1,4:9,-5,5,8
+22/23,Maccabi Netanya,4,0,Regular,1,1,2,5:7,-2,4,9
+22/23,Hapoel Tel Aviv,4,0,Regular,1,0,3,4:7,-3,3,10
+22/23,Beitar Jerusalem,4,0,Regular,1,0,3,4:10,-6,3,11
+22/23,Maccabi Bnei Reineh,4,0,Regular,0,2,2,3:9,-6,2,12
+22/23,Sekzia Ness Ziona,4,0,Regular,0,0,4,1:9,-8,0,13
+22/23,Maccabi Tel Aviv,5,0,Regular,4,1,0,18:1,17,13,0
+22/23,Maccabi Haifa,5,0,Regular,4,0,1,10:6,4,12,1
+22/23,Hapoel Jerusalem,5,0,Regular,3,2,0,9:2,7,11,2
+22/23,Hapoel Beer Sheva,5,0,Regular,3,0,2,11:6,5,9,3
+22/23,FC Ashdod,5,0,Regular,2,2,1,4:5,-1,8,4
+22/23,Ihud Bnei Sakhnin,5,0,Regular,2,1,2,4:3,1,7,5
+22/23,Hapoel Haifa,5,0,Regular,1,3,1,5:4,1,6,6
+22/23,Ironi Kiryat Shmona,5,0,Regular,1,3,1,6:6,0,6,7
+22/23,Hapoel Hadera,5,0,Regular,1,3,1,5:10,-5,6,8
+22/23,Maccabi Netanya,5,0,Regular,1,2,2,5:7,-2,5,9
+22/23,Hapoel Tel Aviv,5,0,Regular,1,0,4,7:11,-4,3,10
+22/23,Maccabi Bnei Reineh,5,0,Regular,0,3,2,4:10,-6,3,11
+22/23,Sekzia Ness Ziona,5,0,Regular,1,0,4,5:12,-7,3,12
+22/23,Beitar Jerusalem,5,0,Regular,1,0,4,4:14,-10,3,13
+22/23,Maccabi Haifa,6,0,Regular,5,0,1,12:6,6,15,0
+22/23,Hapoel Jerusalem,6,0,Regular,4,2,0,12:3,9,14,1
+22/23,Maccabi Tel Aviv,6,0,Regular,4,1,1,18:3,15,13,2
+22/23,Hapoel Beer Sheva,6,0,Regular,4,0,2,13:7,6,12,3
+22/23,Ihud Bnei Sakhnin,6,0,Regular,3,1,2,6:3,3,10,4
+22/23,FC Ashdod,6,0,Regular,2,3,1,5:6,-1,9,5
+22/23,Hapoel Haifa,6,0,Regular,1,4,1,6:5,1,7,6
+22/23,Ironi Kiryat Shmona,6,0,Regular,1,4,1,7:7,0,7,7
+22/23,Hapoel Hadera,6,0,Regular,1,4,1,6:11,-5,7,8
+22/23,Maccabi Bnei Reineh,6,0,Regular,1,3,2,7:12,-5,6,9
+22/23,Maccabi Netanya,6,0,Regular,1,2,3,6:9,-3,5,10
+22/23,Hapoel Tel Aviv,6,0,Regular,1,0,5,8:14,-6,3,11
+22/23,Sekzia Ness Ziona,6,0,Regular,1,0,5,5:14,-9,3,12
+22/23,Beitar Jerusalem,6,0,Regular,1,0,5,6:17,-11,3,13
+22/23,Maccabi Tel Aviv,7,0,Regular,5,1,1,21:3,18,16,0
+22/23,Maccabi Haifa,7,0,Regular,5,0,2,12:7,5,15,1
+22/23,Hapoel Jerusalem,7,0,Regular,4,2,1,13:5,8,14,2
+22/23,Hapoel Beer Sheva,7,0,Regular,4,1,2,15:9,6,13,3
+22/23,Ihud Bnei Sakhnin,7,0,Regular,4,1,2,8:4,4,13,4
+22/23,FC Ashdod,7,0,Regular,2,4,1,6:7,-1,10,5
+22/23,Hapoel Hadera,7,0,Regular,2,4,1,8:12,-4,10,6
+22/23,Maccabi Bnei Reineh,7,0,Regular,2,3,2,8:12,-4,9,7
+22/23,Hapoel Haifa,7,0,Regular,1,5,1,8:7,1,8,8
+22/23,Ironi Kiryat Shmona,7,0,Regular,1,5,1,8:8,0,8,9
+22/23,Maccabi Netanya,7,0,Regular,1,3,3,7:10,-3,6,10
+22/23,Sekzia Ness Ziona,7,0,Regular,1,1,5,6:15,-9,4,11
+22/23,Hapoel Tel Aviv,7,0,Regular,1,0,6,8:17,-9,3,12
+22/23,Beitar Jerusalem,7,0,Regular,1,0,6,7:19,-12,3,13
+22/23,Maccabi Tel Aviv,8,0,Regular,6,1,1,22:3,19,19,0
+22/23,Maccabi Haifa,8,0,Regular,6,0,2,13:7,6,18,1
+22/23,Hapoel Jerusalem,8,0,Regular,5,2,1,15:5,10,17,2
+22/23,Hapoel Beer Sheva,8,0,Regular,4,2,2,16:10,6,14,3
+22/23,FC Ashdod,8,0,Regular,3,4,1,10:7,3,13,4
+22/23,Ihud Bnei Sakhnin,8,0,Regular,4,1,3,8:5,3,13,5
+22/23,Hapoel Hadera,8,0,Regular,2,4,2,8:13,-5,10,6
+22/23,Maccabi Bnei Reineh,8,0,Regular,2,3,3,8:14,-6,9,7
+22/23,Ironi Kiryat Shmona,8,0,Regular,1,5,2,8:10,-2,8,8
+22/23,Hapoel Haifa,8,0,Regular,1,5,2,8:11,-3,8,9
+22/23,Maccabi Netanya,8,0,Regular,1,3,4,7:12,-5,6,10
+22/23,Hapoel Tel Aviv,8,0,Regular,2,0,6,10:17,-7,6,11
+22/23,Beitar Jerusalem,8,0,Regular,2,0,6,9:19,-10,6,12
+22/23,Sekzia Ness Ziona,8,0,Regular,1,2,5,7:16,-9,5,13
+22/23,Maccabi Tel Aviv,9,0,Regular,7,1,1,25:3,22,22,0
+22/23,Maccabi Haifa,9,0,Regular,7,0,2,16:9,7,21,1
+22/23,Hapoel Beer Sheva,9,0,Regular,5,2,2,20:11,9,17,2
+22/23,Hapoel Jerusalem,9,0,Regular,5,2,2,16:9,7,17,3
+22/23,FC Ashdod,9,0,Regular,3,4,2,10:9,1,13,4
+22/23,Ihud Bnei Sakhnin,9,0,Regular,4,1,4,8:7,1,13,5
+22/23,Maccabi Bnei Reineh,9,0,Regular,3,3,3,10:14,-4,12,6
+22/23,Hapoel Hadera,9,0,Regular,2,5,2,8:13,-5,11,7
+22/23,Beitar Jerusalem,9,0,Regular,3,0,6,11:19,-8,9,8
+22/23,Ironi Kiryat Shmona,9,0,Regular,1,5,3,10:13,-3,8,9
+22/23,Hapoel Haifa,9,0,Regular,1,5,3,8:12,-4,8,10
+22/23,Sekzia Ness Ziona,9,0,Regular,2,2,5,8:16,-8,8,11
+22/23,Hapoel Tel Aviv,9,0,Regular,2,1,6,10:17,-7,7,12
+22/23,Maccabi Netanya,9,0,Regular,1,3,5,7:15,-8,6,13
+22/23,Maccabi Haifa,10,0,Regular,8,0,2,19:10,9,24,0
+22/23,Maccabi Tel Aviv,10,0,Regular,7,1,2,25:5,20,22,1
+22/23,Hapoel Beer Sheva,10,0,Regular,6,2,2,22:11,11,20,2
+22/23,Hapoel Jerusalem,10,0,Regular,6,2,2,18:9,9,20,3
+22/23,Hapoel Hadera,10,0,Regular,3,5,2,12:14,-2,14,4
+22/23,FC Ashdod,10,0,Regular,3,4,3,11:12,-1,13,5
+22/23,Ihud Bnei Sakhnin,10,0,Regular,4,1,5,9:11,-2,13,6
+22/23,Maccabi Bnei Reineh,10,0,Regular,3,3,4,11:16,-5,12,7
+22/23,Hapoel Tel Aviv,10,0,Regular,3,1,6,12:18,-6,10,8
+22/23,Beitar Jerusalem,10,0,Regular,3,1,6,11:19,-8,10,9
+22/23,Hapoel Haifa,10,0,Regular,1,6,3,8:12,-4,9,10
+22/23,Maccabi Netanya,10,0,Regular,2,3,5,9:16,-7,9,11
+22/23,Ironi Kiryat Shmona,10,0,Regular,1,5,4,11:15,-4,8,12
+22/23,Sekzia Ness Ziona,10,0,Regular,2,2,6,8:18,-10,8,13
+22/23,Maccabi Haifa,11,0,Regular,9,0,2,23:11,12,27,0
+22/23,Maccabi Tel Aviv,11,0,Regular,7,2,2,26:6,20,23,1
+22/23,Hapoel Beer Sheva,11,0,Regular,7,2,2,25:11,14,23,2
+22/23,Hapoel Jerusalem,11,0,Regular,6,2,3,18:10,8,20,3
+22/23,Hapoel Hadera,11,0,Regular,4,5,2,15:15,0,17,4
+22/23,FC Ashdod,11,0,Regular,4,4,3,12:12,0,16,5
+22/23,Ihud Bnei Sakhnin,11,0,Regular,4,2,5,10:12,-2,14,6
+22/23,Hapoel Haifa,11,0,Regular,2,6,3,9:12,-3,12,7
+22/23,Maccabi Bnei Reineh,11,0,Regular,3,3,5,11:19,-8,12,8
+22/23,Hapoel Tel Aviv,11,0,Regular,3,1,7,12:19,-7,10,9
+22/23,Beitar Jerusalem,11,0,Regular,3,1,7,12:23,-11,10,10
+22/23,Ironi Kiryat Shmona,11,0,Regular,1,6,4,12:16,-4,9,11
+22/23,Maccabi Netanya,11,0,Regular,2,3,6,10:19,-9,9,12
+22/23,Sekzia Ness Ziona,11,0,Regular,2,3,6,9:19,-10,9,13
+22/23,Maccabi Haifa,12,0,Regular,10,0,2,24:11,13,30,0
+22/23,Maccabi Tel Aviv,12,0,Regular,8,2,2,29:6,23,26,1
+22/23,Hapoel Beer Sheva,12,0,Regular,8,2,2,28:11,17,26,2
+22/23,Hapoel Jerusalem,12,0,Regular,6,2,4,18:13,5,20,3
+22/23,FC Ashdod,12,0,Regular,4,5,3,13:13,0,17,4
+22/23,Hapoel Hadera,12,0,Regular,4,5,3,15:18,-3,17,5
+22/23,Ihud Bnei Sakhnin,12,0,Regular,4,3,5,11:13,-2,15,6
+22/23,Hapoel Tel Aviv,12,0,Regular,4,1,7,14:20,-6,13,7
+22/23,Maccabi Bnei Reineh,12,0,Regular,3,4,5,14:22,-8,13,8
+22/23,Hapoel Haifa,12,0,Regular,2,6,4,9:13,-4,12,9
+22/23,Maccabi Netanya,12,0,Regular,3,3,6,11:19,-8,12,10
+22/23,Sekzia Ness Ziona,12,0,Regular,2,4,6,12:22,-10,10,11
+22/23,Beitar Jerusalem,12,0,Regular,3,1,8,13:25,-12,10,12
+22/23,Ironi Kiryat Shmona,12,0,Regular,1,6,5,12:17,-5,9,13
+22/23,Maccabi Haifa,13,0,Regular,11,0,2,29:13,16,33,0
+22/23,Maccabi Tel Aviv,13,0,Regular,9,2,2,30:6,24,29,1
+22/23,Hapoel Beer Sheva,13,0,Regular,9,2,2,30:11,19,29,2
+22/23,Hapoel Jerusalem,13,0,Regular,7,2,4,20:13,7,23,3
+22/23,Hapoel Hadera,13,0,Regular,4,6,3,15:18,-3,18,4
+22/23,FC Ashdod,13,0,Regular,4,5,4,15:16,-1,17,5
+22/23,Ihud Bnei Sakhnin,13,0,Regular,4,3,6,12:15,-3,15,6
+22/23,Maccabi Netanya,13,0,Regular,4,3,6,14:21,-7,15,7
+22/23,Hapoel Tel Aviv,13,0,Regular,4,1,8,16:25,-9,13,8
+22/23,Maccabi Bnei Reineh,13,0,Regular,3,4,6,14:24,-10,13,9
+22/23,Beitar Jerusalem,13,0,Regular,4,1,8,15:26,-11,13,10
+22/23,Hapoel Haifa,13,0,Regular,2,6,5,9:14,-5,12,11
+22/23,Sekzia Ness Ziona,13,0,Regular,2,5,6,12:22,-10,11,12
+22/23,Ironi Kiryat Shmona,13,0,Regular,1,6,6,12:19,-7,9,13
+22/23,Maccabi Haifa,14,0,Regular,12,0,2,32:14,18,36,0
+22/23,Maccabi Tel Aviv,14,0,Regular,10,2,2,32:6,26,32,1
+22/23,Hapoel Beer Sheva,14,0,Regular,10,2,2,31:11,20,32,2
+22/23,Hapoel Jerusalem,14,0,Regular,7,3,4,20:13,7,24,3
+22/23,Hapoel Hadera,14,0,Regular,4,7,3,15:18,-3,19,4
+22/23,FC Ashdod,14,0,Regular,4,5,5,15:17,-2,17,5
+22/23,Beitar Jerusalem,14,0,Regular,5,1,8,21:29,-8,16,6
+22/23,Ihud Bnei Sakhnin,14,0,Regular,4,3,7,13:18,-5,15,7
+22/23,Maccabi Netanya,14,0,Regular,4,3,7,17:27,-10,15,8
+22/23,Hapoel Tel Aviv,14,0,Regular,4,2,8,19:28,-9,14,9
+22/23,Hapoel Haifa,14,0,Regular,2,7,5,12:17,-5,13,10
+22/23,Maccabi Bnei Reineh,14,0,Regular,3,4,7,14:26,-12,13,11
+22/23,Sekzia Ness Ziona,14,0,Regular,2,6,6,15:25,-10,12,12
+22/23,Ironi Kiryat Shmona,14,0,Regular,1,7,6,15:22,-7,10,13
+22/23,Maccabi Haifa,15,0,Regular,13,0,2,34:14,20,39,0
+22/23,Maccabi Tel Aviv,15,0,Regular,11,2,2,37:6,31,35,1
+22/23,Hapoel Beer Sheva,15,0,Regular,11,2,2,34:13,21,35,2
+22/23,Hapoel Jerusalem,15,0,Regular,7,4,4,21:14,7,25,3
+22/23,Hapoel Hadera,15,0,Regular,4,7,4,15:23,-8,19,4
+22/23,FC Ashdod,15,0,Regular,4,5,6,15:19,-4,17,5
+22/23,Ihud Bnei Sakhnin,15,0,Regular,4,4,7,14:19,-5,16,6
+22/23,Beitar Jerusalem,15,0,Regular,5,1,9,23:32,-9,16,7
+22/23,Sekzia Ness Ziona,15,0,Regular,3,6,6,17:25,-8,15,8
+22/23,Hapoel Tel Aviv,15,0,Regular,4,3,8,20:29,-9,15,9
+22/23,Maccabi Netanya,15,0,Regular,4,3,8,17:29,-12,15,10
+22/23,Hapoel Haifa,15,0,Regular,2,8,5,12:17,-5,14,11
+22/23,Maccabi Bnei Reineh,15,0,Regular,3,5,7,14:26,-12,14,12
+22/23,Ironi Kiryat Shmona,15,0,Regular,1,8,6,16:23,-7,11,13
+22/23,Maccabi Haifa,16,0,Regular,14,0,2,36:14,22,42,0
+22/23,Maccabi Tel Aviv,16,0,Regular,11,3,2,38:7,31,36,1
+22/23,Hapoel Beer Sheva,16,0,Regular,11,2,3,34:15,19,35,2
+22/23,Hapoel Jerusalem,16,0,Regular,7,5,4,22:15,7,26,3
+22/23,Hapoel Hadera,16,0,Regular,4,8,4,17:25,-8,20,4
+22/23,Beitar Jerusalem,16,0,Regular,6,1,9,26:34,-8,19,5
+22/23,FC Ashdod,16,0,Regular,4,6,6,16:20,-4,18,6
+22/23,Hapoel Haifa,16,0,Regular,3,8,5,14:18,-4,17,7
+22/23,Ihud Bnei Sakhnin,16,0,Regular,4,4,8,15:21,-6,16,8
+22/23,Hapoel Tel Aviv,16,0,Regular,4,4,8,21:30,-9,16,9
+22/23,Maccabi Netanya,16,0,Regular,4,4,8,18:30,-12,16,10
+22/23,Sekzia Ness Ziona,16,0,Regular,3,6,7,19:28,-9,15,11
+22/23,Maccabi Bnei Reineh,16,0,Regular,3,6,7,16:28,-12,15,12
+22/23,Ironi Kiryat Shmona,16,0,Regular,1,9,6,17:24,-7,12,13
+22/23,Maccabi Haifa,17,0,Regular,15,0,2,38:14,24,45,0
+22/23,Maccabi Tel Aviv,17,0,Regular,12,3,2,41:7,34,39,1
+22/23,Hapoel Beer Sheva,17,0,Regular,12,2,3,40:15,25,38,2
+22/23,Hapoel Jerusalem,17,0,Regular,7,6,4,23:16,7,27,3
+22/23,Hapoel Haifa,17,0,Regular,4,8,5,17:18,-1,20,4
+22/23,Beitar Jerusalem,17,0,Regular,6,2,9,27:35,-8,20,5
+22/23,Hapoel Hadera,17,0,Regular,4,8,5,17:28,-11,20,6
+22/23,FC Ashdod,17,0,Regular,4,6,7,16:23,-7,18,7
+22/23,Ihud Bnei Sakhnin,17,0,Regular,4,5,8,15:21,-6,17,8
+22/23,Maccabi Netanya,17,0,Regular,4,5,8,18:30,-12,17,9
+22/23,Hapoel Tel Aviv,17,0,Regular,4,4,9,21:36,-15,16,10
+22/23,Ironi Kiryat Shmona,17,0,Regular,2,9,6,18:24,-6,15,11
+22/23,Sekzia Ness Ziona,17,0,Regular,3,6,8,19:30,-11,15,12
+22/23,Maccabi Bnei Reineh,17,0,Regular,3,6,8,16:29,-13,15,13
+22/23,Maccabi Haifa,18,0,Regular,16,0,2,40:15,25,48,0
+22/23,Hapoel Beer Sheva,18,0,Regular,13,2,3,41:15,26,41,1
+22/23,Maccabi Tel Aviv,18,0,Regular,12,4,2,43:9,34,40,2
+22/23,Hapoel Jerusalem,18,0,Regular,7,6,5,24:18,6,27,3
+22/23,FC Ashdod,18,0,Regular,5,6,7,19:23,-4,21,4
+22/23,Beitar Jerusalem,18,0,Regular,6,3,9,29:37,-8,21,5
+22/23,Hapoel Hadera,18,0,Regular,4,9,5,19:30,-11,21,6
+22/23,Hapoel Haifa,18,0,Regular,4,8,6,17:19,-2,20,7
+22/23,Maccabi Netanya,18,0,Regular,5,5,8,19:30,-11,20,8
+22/23,Ihud Bnei Sakhnin,18,0,Regular,4,5,9,15:22,-7,17,9
+22/23,Hapoel Tel Aviv,18,0,Regular,4,5,9,22:37,-15,17,10
+22/23,Ironi Kiryat Shmona,18,0,Regular,2,10,6,20:26,-6,16,11
+22/23,Sekzia Ness Ziona,18,0,Regular,3,7,8,20:31,-11,16,12
+22/23,Maccabi Bnei Reineh,18,0,Regular,3,6,9,16:32,-16,15,13
+22/23,Maccabi Haifa,19,0,Regular,16,0,3,40:18,22,48,0
+22/23,Maccabi Tel Aviv,19,0,Regular,13,4,2,46:9,37,43,1
+22/23,Hapoel Beer Sheva,19,0,Regular,13,3,3,43:17,26,42,2
+22/23,Hapoel Jerusalem,19,0,Regular,7,7,5,24:18,6,28,3
+22/23,FC Ashdod,19,0,Regular,6,6,7,21:23,-2,24,4
+22/23,Beitar Jerusalem,19,0,Regular,7,3,9,31:37,-6,24,5
+22/23,Hapoel Haifa,19,0,Regular,5,8,6,18:19,-1,23,6
+22/23,Maccabi Netanya,19,0,Regular,5,6,8,21:32,-11,21,7
+22/23,Hapoel Hadera,19,0,Regular,4,9,6,19:32,-13,21,8
+22/23,Ihud Bnei Sakhnin,19,0,Regular,4,6,9,15:22,-7,18,9
+22/23,Hapoel Tel Aviv,19,0,Regular,4,6,9,22:37,-15,18,10
+22/23,Sekzia Ness Ziona,19,0,Regular,3,8,8,20:31,-11,17,11
+22/23,Ironi Kiryat Shmona,19,0,Regular,2,10,7,20:27,-7,16,12
+22/23,Maccabi Bnei Reineh,19,0,Regular,3,6,10,16:34,-18,15,13
+22/23,Maccabi Haifa,20,0,Regular,16,1,3,40:18,22,49,0
+22/23,Hapoel Beer Sheva,20,0,Regular,14,3,3,44:17,27,45,1
+22/23,Maccabi Tel Aviv,20,0,Regular,13,5,2,46:9,37,44,2
+22/23,Hapoel Jerusalem,20,0,Regular,7,7,6,25:20,5,28,3
+22/23,FC Ashdod,20,0,Regular,6,7,7,22:24,-2,25,4
+22/23,Beitar Jerusalem,20,0,Regular,7,3,10,31:39,-8,24,5
+22/23,Maccabi Netanya,20,0,Regular,6,6,8,24:32,-8,24,6
+22/23,Hapoel Hadera,20,0,Regular,5,9,6,21:32,-11,24,7
+22/23,Hapoel Haifa,20,0,Regular,5,8,7,18:20,-2,23,8
+22/23,Ihud Bnei Sakhnin,20,0,Regular,5,6,9,17:23,-6,21,9
+22/23,Hapoel Tel Aviv,20,0,Regular,4,7,9,22:37,-15,19,10
+22/23,Ironi Kiryat Shmona,20,0,Regular,2,11,7,21:28,-7,17,11
+22/23,Sekzia Ness Ziona,20,0,Regular,3,8,9,20:34,-14,17,12
+22/23,Maccabi Bnei Reineh,20,0,Regular,3,7,10,16:34,-18,16,13
+22/23,Maccabi Haifa,21,0,Regular,16,2,3,41:19,22,50,0
+22/23,Hapoel Beer Sheva,21,0,Regular,15,3,3,45:17,28,48,1
+22/23,Maccabi Tel Aviv,21,0,Regular,13,6,2,47:10,37,45,2
+22/23,Hapoel Jerusalem,21,0,Regular,7,7,7,25:22,3,28,3
+22/23,Beitar Jerusalem,21,0,Regular,8,3,10,34:39,-5,27,4
+22/23,Maccabi Netanya,21,0,Regular,7,6,8,26:32,-6,27,5
+22/23,FC Ashdod,21,0,Regular,6,8,7,23:25,-2,26,6
+22/23,Hapoel Hadera,21,0,Regular,5,10,6,22:33,-11,25,7
+22/23,Hapoel Haifa,21,0,Regular,5,9,7,19:21,-2,24,8
+22/23,Ihud Bnei Sakhnin,21,0,Regular,5,7,9,18:24,-6,22,9
+22/23,Hapoel Tel Aviv,21,0,Regular,4,8,9,23:38,-15,20,10
+22/23,Ironi Kiryat Shmona,21,0,Regular,2,11,8,21:31,-10,17,11
+22/23,Sekzia Ness Ziona,21,0,Regular,3,8,10,20:35,-15,17,12
+22/23,Maccabi Bnei Reineh,21,0,Regular,3,8,10,17:35,-18,17,13
+22/23,Maccabi Haifa,22,0,Regular,17,2,3,43:19,24,53,0
+22/23,Hapoel Beer Sheva,22,0,Regular,15,4,3,45:17,28,49,1
+22/23,Maccabi Tel Aviv,22,0,Regular,13,6,3,48:12,36,45,2
+22/23,Beitar Jerusalem,22,0,Regular,9,3,10,36:40,-4,30,3
+22/23,Maccabi Netanya,22,0,Regular,8,6,8,28:33,-5,30,4
+22/23,Hapoel Jerusalem,22,0,Regular,7,8,7,25:22,3,29,5
+22/23,Hapoel Haifa,22,0,Regular,6,9,7,21:21,0,27,6
+22/23,FC Ashdod,22,0,Regular,6,8,8,24:27,-3,26,7
+22/23,Hapoel Hadera,22,0,Regular,5,11,6,22:33,-11,26,8
+22/23,Ihud Bnei Sakhnin,22,0,Regular,5,8,9,19:25,-6,23,9
+22/23,Hapoel Tel Aviv,22,0,Regular,4,9,9,23:38,-15,21,10
+22/23,Maccabi Bnei Reineh,22,0,Regular,3,9,10,18:36,-18,18,11
+22/23,Ironi Kiryat Shmona,22,0,Regular,2,11,9,21:33,-12,17,12
+22/23,Sekzia Ness Ziona,22,0,Regular,3,8,11,20:37,-17,17,13
+22/23,Maccabi Haifa,23,0,Regular,17,2,4,44:22,22,53,0
+22/23,Hapoel Beer Sheva,23,0,Regular,15,4,4,45:18,27,49,1
+22/23,Maccabi Tel Aviv,23,0,Regular,14,6,3,49:12,37,48,2
+22/23,Maccabi Netanya,23,0,Regular,9,6,8,30:34,-4,33,3
+22/23,Hapoel Jerusalem,23,0,Regular,8,8,7,26:22,4,32,4
+22/23,Beitar Jerusalem,23,0,Regular,9,4,10,36:40,-4,31,5
+22/23,FC Ashdod,23,0,Regular,7,8,8,27:28,-1,29,6
+22/23,Hapoel Haifa,23,0,Regular,6,10,7,21:21,0,28,7
+22/23,Ihud Bnei Sakhnin,23,0,Regular,6,8,9,22:26,-4,26,8
+22/23,Hapoel Hadera,23,0,Regular,5,11,7,23:36,-13,26,9
+22/23,Hapoel Tel Aviv,23,0,Regular,5,9,9,24:38,-14,24,10
+22/23,Maccabi Bnei Reineh,23,0,Regular,3,9,11,19:38,-19,18,11
+22/23,Ironi Kiryat Shmona,23,0,Regular,2,11,10,21:34,-13,17,12
+22/23,Sekzia Ness Ziona,23,0,Regular,3,8,12,20:38,-18,17,13
+22/23,Maccabi Haifa,24,0,Regular,18,2,4,46:23,23,56,0
+22/23,Hapoel Beer Sheva,24,0,Regular,16,4,4,47:18,29,52,1
+22/23,Maccabi Tel Aviv,24,0,Regular,15,6,3,51:12,39,51,2
+22/23,Maccabi Netanya,24,0,Regular,10,6,8,31:34,-3,36,3
+22/23,Hapoel Jerusalem,24,0,Regular,8,9,7,28:24,4,33,4
+22/23,FC Ashdod,24,0,Regular,8,8,8,29:29,0,32,5
+22/23,Beitar Jerusalem,24,0,Regular,9,4,11,37:42,-5,31,6
+22/23,Hapoel Haifa,24,0,Regular,6,11,7,23:23,0,29,7
+22/23,Ihud Bnei Sakhnin,24,0,Regular,6,8,10,23:29,-6,26,8
+22/23,Hapoel Hadera,24,0,Regular,5,11,8,23:37,-14,26,9
+22/23,Hapoel Tel Aviv,24,0,Regular,5,9,10,25:40,-15,24,10
+22/23,Ironi Kiryat Shmona,24,0,Regular,3,11,10,24:35,-11,20,11
+22/23,Maccabi Bnei Reineh,24,0,Regular,3,9,12,19:40,-21,18,12
+22/23,Sekzia Ness Ziona,24,0,Regular,3,8,13,20:40,-20,17,13
+22/23,Maccabi Haifa,25,0,Regular,19,2,4,50:24,26,59,0
+22/23,Hapoel Beer Sheva,25,0,Regular,17,4,4,50:18,32,55,1
+22/23,Maccabi Tel Aviv,25,0,Regular,15,6,4,52:14,38,51,2
+22/23,Maccabi Netanya,25,0,Regular,10,7,8,33:36,-3,37,3
+22/23,Hapoel Jerusalem,25,0,Regular,9,9,7,30:25,5,36,4
+22/23,FC Ashdod,25,0,Regular,8,9,8,30:30,0,33,5
+22/23,Beitar Jerusalem,25,0,Regular,9,4,12,38:45,-7,31,6
+22/23,Hapoel Haifa,25,0,Regular,6,11,8,24:27,-3,29,7
+22/23,Ihud Bnei Sakhnin,25,0,Regular,6,9,10,24:30,-6,27,8
+22/23,Hapoel Tel Aviv,25,0,Regular,6,9,10,28:41,-13,27,9
+22/23,Hapoel Hadera,25,0,Regular,5,11,9,23:40,-17,26,10
+22/23,Ironi Kiryat Shmona,25,0,Regular,3,12,10,26:37,-11,21,11
+22/23,Maccabi Bnei Reineh,25,0,Regular,4,9,12,22:42,-20,21,12
+22/23,Sekzia Ness Ziona,25,0,Regular,3,8,14,22:43,-21,17,13
+22/23,Maccabi Haifa,26,0,Regular,20,2,4,51:24,27,62,0
+22/23,Hapoel Beer Sheva,26,0,Regular,18,4,4,52:19,33,58,1
+22/23,Maccabi Tel Aviv,26,0,Regular,15,7,4,53:15,38,52,2
+22/23,Maccabi Netanya,26,0,Regular,10,7,9,33:38,-5,37,3
+22/23,Hapoel Jerusalem,26,0,Regular,9,9,8,30:26,4,36,4
+22/23,FC Ashdod,26,0,Regular,9,9,8,32:30,2,36,5
+22/23,Beitar Jerusalem,26,0,Regular,9,4,13,38:47,-9,31,6
+22/23,Hapoel Haifa,26,0,Regular,6,12,8,25:28,-3,30,7
+22/23,Ihud Bnei Sakhnin,26,0,Regular,7,9,10,26:30,-4,30,8
+22/23,Hapoel Hadera,26,0,Regular,6,11,9,26:41,-15,29,9
+22/23,Hapoel Tel Aviv,26,0,Regular,6,9,11,28:42,-14,27,10
+22/23,Maccabi Bnei Reineh,26,0,Regular,5,9,12,23:42,-19,24,11
+22/23,Ironi Kiryat Shmona,26,0,Regular,3,12,11,27:39,-12,21,12
+22/23,Sekzia Ness Ziona,26,0,Regular,3,8,15,23:46,-23,17,13
+22/23,Maccabi Tel Aviv,1,0,Championship Round,1,0,0,2:0,2,3,0
+22/23,Maccabi Haifa,1,0,Championship Round,1,0,0,2:1,1,3,1
+22/23,Hapoel Beer Sheva,1,0,Championship Round,1,0,0,1:0,1,3,2
+22/23,FC Ashdod,1,0,Championship Round,0,0,1,1:2,-1,0,3
+22/23,Hapoel Jerusalem,1,0,Championship Round,0,0,1,0:1,-1,0,4
+22/23,Maccabi Netanya,1,0,Championship Round,0,0,1,0:2,-2,0,5
+22/23,Maccabi Tel Aviv,2,0,Championship Round,2,0,0,4:0,4,6,0
+22/23,Maccabi Haifa,2,0,Championship Round,2,0,0,3:1,2,6,1
+22/23,FC Ashdod,2,0,Championship Round,1,0,1,4:4,0,3,2
+22/23,Hapoel Beer Sheva,2,0,Championship Round,1,0,1,1:1,0,3,3
+22/23,Maccabi Netanya,2,0,Championship Round,0,0,2,2:5,-3,0,4
+22/23,Hapoel Jerusalem,2,0,Championship Round,0,0,2,0:3,-3,0,5
+22/23,Maccabi Tel Aviv,3,0,Championship Round,2,1,0,5:1,4,7,0
+22/23,Maccabi Haifa,3,0,Championship Round,2,1,0,4:2,2,7,1
+22/23,Hapoel Beer Sheva,3,0,Championship Round,2,0,1,4:2,2,6,2
+22/23,Hapoel Jerusalem,3,0,Championship Round,1,0,2,2:3,-1,3,3
+22/23,FC Ashdod,3,0,Championship Round,1,0,2,5:7,-2,3,4
+22/23,Maccabi Netanya,3,0,Championship Round,0,0,3,2:7,-5,0,5
+22/23,Maccabi Haifa,4,0,Championship Round,3,1,0,8:3,5,10,0
+22/23,Maccabi Tel Aviv,4,0,Championship Round,3,1,0,7:2,5,10,1
+22/23,Hapoel Beer Sheva,4,0,Championship Round,2,0,2,5:4,1,6,2
+22/23,Hapoel Jerusalem,4,0,Championship Round,2,0,2,3:3,0,6,3
+22/23,FC Ashdod,4,0,Championship Round,1,0,3,5:8,-3,3,4
+22/23,Maccabi Netanya,4,0,Championship Round,0,0,4,3:11,-8,0,5
+22/23,Maccabi Tel Aviv,5,0,Championship Round,3,2,0,8:3,5,11,0
+22/23,Maccabi Haifa,5,0,Championship Round,3,1,1,9:5,4,10,1
+22/23,Hapoel Jerusalem,5,0,Championship Round,3,0,2,5:4,1,9,2
+22/23,Hapoel Beer Sheva,5,0,Championship Round,2,1,2,6:5,1,7,3
+22/23,FC Ashdod,5,0,Championship Round,1,1,3,6:9,-3,4,4
+22/23,Maccabi Netanya,5,0,Championship Round,0,1,4,4:12,-8,1,5
+22/23,Maccabi Haifa,6,0,Championship Round,4,1,1,11:6,5,13,0
+22/23,Maccabi Tel Aviv,6,0,Championship Round,3,3,0,8:3,5,12,1
+22/23,Hapoel Beer Sheva,6,0,Championship Round,3,1,2,8:6,2,10,2
+22/23,Hapoel Jerusalem,6,0,Championship Round,3,0,3,6:6,0,9,3
+22/23,FC Ashdod,6,0,Championship Round,1,1,4,7:11,-4,4,4
+22/23,Maccabi Netanya,6,0,Championship Round,0,2,4,4:12,-8,2,5
+22/23,Maccabi Tel Aviv,7,0,Championship Round,4,3,0,10:4,6,15,0
+22/23,Maccabi Haifa,7,0,Championship Round,4,1,2,12:8,4,13,1
+22/23,Hapoel Beer Sheva,7,0,Championship Round,4,1,2,10:7,3,13,2
+22/23,Hapoel Jerusalem,7,0,Championship Round,3,0,4,7:8,-1,9,3
+22/23,Maccabi Netanya,7,0,Championship Round,1,2,4,6:12,-6,5,4
+22/23,FC Ashdod,7,0,Championship Round,1,1,5,7:13,-6,4,5
+22/23,Beitar Jerusalem,1,0,Relegation round,1,0,0,2:1,1,3,0
+22/23,Sekzia Ness Ziona,1,0,Relegation round,1,0,0,2:1,1,3,1
+22/23,Ihud Bnei Sakhnin,1,0,Relegation round,0,1,0,2:2,0,1,2
+22/23,Maccabi Bnei Reineh,1,0,Relegation round,0,1,0,2:2,0,1,3
+22/23,Hapoel Haifa,1,0,Relegation round,0,1,0,1:1,0,1,4
+22/23,Ironi Kiryat Shmona,1,0,Relegation round,0,1,0,1:1,0,1,5
+22/23,Hapoel Hadera,1,0,Relegation round,0,0,1,1:2,-1,0,6
+22/23,Hapoel Tel Aviv,1,0,Relegation round,0,0,1,1:2,-1,0,7
+22/23,Beitar Jerusalem,2,0,Relegation round,2,0,0,4:1,3,6,0
+22/23,Hapoel Tel Aviv,2,0,Relegation round,1,0,1,3:3,0,3,1
+22/23,Sekzia Ness Ziona,2,0,Relegation round,1,0,1,3:3,0,3,2
+22/23,Ihud Bnei Sakhnin,2,0,Relegation round,0,2,0,4:4,0,2,3
+22/23,Maccabi Bnei Reineh,2,0,Relegation round,0,2,0,3:3,0,2,4
+22/23,Ironi Kiryat Shmona,2,0,Relegation round,0,2,0,3:3,0,2,5
+22/23,Hapoel Hadera,2,0,Relegation round,0,1,1,2:3,-1,1,6
+22/23,Hapoel Haifa,2,0,Relegation round,0,1,1,1:3,-2,1,7
+22/23,Beitar Jerusalem,3,0,Relegation round,2,0,1,7:5,2,6,0
+22/23,Ihud Bnei Sakhnin,3,0,Relegation round,1,2,0,8:7,1,5,1
+22/23,Maccabi Bnei Reineh,3,0,Relegation round,1,2,0,5:4,1,5,2
+22/23,Hapoel Haifa,3,0,Relegation round,1,1,1,2:3,-1,4,3
+22/23,Ironi Kiryat Shmona,3,0,Relegation round,0,3,0,4:4,0,3,4
+22/23,Sekzia Ness Ziona,3,0,Relegation round,1,0,2,4:5,-1,3,5
+22/23,Hapoel Tel Aviv,3,0,Relegation round,1,0,2,3:4,-1,3,6
+22/23,Hapoel Hadera,3,0,Relegation round,0,2,1,3:4,-1,2,7
+22/23,Beitar Jerusalem,4,0,Relegation round,3,0,1,9:6,3,9,0
+22/23,Maccabi Bnei Reineh,4,0,Relegation round,2,2,0,7:5,2,8,1
+22/23,Ihud Bnei Sakhnin,4,0,Relegation round,1,3,0,10:9,1,6,2
+22/23,Hapoel Haifa,4,0,Relegation round,1,2,1,4:5,-1,5,3
+22/23,Ironi Kiryat Shmona,4,0,Relegation round,0,4,0,5:5,0,4,4
+22/23,Sekzia Ness Ziona,4,0,Relegation round,1,1,2,5:6,-1,4,5
+22/23,Hapoel Tel Aviv,4,0,Relegation round,1,0,3,4:6,-2,3,6
+22/23,Hapoel Hadera,4,0,Relegation round,0,2,2,4:6,-2,2,7
+22/23,Beitar Jerusalem,5,0,Relegation round,4,0,1,12:7,5,12,0
+22/23,Maccabi Bnei Reineh,5,0,Relegation round,2,2,1,8:8,0,8,1
+22/23,Hapoel Haifa,5,0,Relegation round,2,2,1,6:6,0,8,2
+22/23,Ironi Kiryat Shmona,5,0,Relegation round,1,4,0,8:6,2,7,3
+22/23,Ihud Bnei Sakhnin,5,0,Relegation round,1,3,1,10:10,0,6,4
+22/23,Hapoel Tel Aviv,5,0,Relegation round,2,0,3,5:6,-1,6,5
+22/23,Sekzia Ness Ziona,5,0,Relegation round,1,1,3,6:9,-3,4,6
+22/23,Hapoel Hadera,5,0,Relegation round,0,2,3,5:8,-3,2,7
+22/23,Beitar Jerusalem,6,0,Relegation round,4,0,2,12:8,4,12,0
+22/23,Maccabi Bnei Reineh,6,0,Relegation round,3,2,1,9:8,1,11,1
+22/23,Ironi Kiryat Shmona,6,0,Relegation round,1,5,0,10:8,2,8,2
+22/23,Hapoel Haifa,6,0,Relegation round,2,2,2,6:7,-1,8,3
+22/23,Hapoel Tel Aviv,6,0,Relegation round,2,1,3,7:8,-1,7,4
+22/23,Sekzia Ness Ziona,6,0,Relegation round,2,1,3,7:9,-2,7,5
+22/23,Ihud Bnei Sakhnin,6,0,Relegation round,1,3,2,12:13,-1,6,6
+22/23,Hapoel Hadera,6,0,Relegation round,1,2,3,8:10,-2,5,7
