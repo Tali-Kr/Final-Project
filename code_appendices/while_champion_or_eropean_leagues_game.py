@@ -11,7 +11,7 @@ def time_difference_duration(t_1, t_2):
 
 
 # Creating dictionary to store the names of the dataframes as 'keys' and the dataframes itself as the 'values'.
-df_dct = {'champion_league': champion_league, 'earopean_leagues': earopean_leagues}
+df_dct = {'champion_league': champion_league, 'european_leagues': earopean_leagues}
 
 
 def while_champion_european_leagues(t, d, code):

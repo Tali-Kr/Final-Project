@@ -12,8 +12,8 @@ t_start = time.time()  # To know the timerun of the program
 # Show all the columns when print dataframe
 pd.set_option("display.max_columns", None)
 
-master_df = pd.read_csv('../dt_prep_tables/ligathaal1221.csv')
-# master_df = pd.read_csv('../dt_prep_tables/New_data_1005_1902.csv')  # Relevant for only new data
+master_df = pd.read_csv('../dt_prep_tables/ligat_haal_2012_21.csv')
+# master_df = pd.read_csv('../dt_prep_tables/ligat_haal_2022.csv')  # Relevant for only new data
 master_df.rename(columns={'match_date': 'date', 'season_round': 'round'}, inplace=True)
 
 
@@ -69,7 +69,7 @@ master_df['while_champion_league'] = \
     master_df.apply(lambda x: while_champion_european_leagues(x['kot'], x['date'], "champion_league"), axis=1)
 # Checking if the games were while top 5 european league's games.
 master_df['while_european_games'] = \
-    master_df.apply(lambda x: while_champion_european_leagues(x['kot'], x['date'], "earopean_leagues"), axis=1)
+    master_df.apply(lambda x: while_champion_european_leagues(x['kot'], x['date'], "european_leagues"), axis=1)
 
 # Changing the round type name to match league_table's values.
 master_df['round_type'] = master_df['round_type'].str.replace('Relegation round', 'Relegation Round')
@@ -104,20 +104,16 @@ master_df.drop(['key'], axis='columns', inplace=True)
 master_df.rename(columns={'promoted': 'away_promoted', 'pts': 'away_league_pts', 'relegated': 'away_is_relegated',
                           'champion': 'away_is_champion', 'pos_b4_game': 'away_pos_b4_game'}, inplace=True)
 
-# master_df.to_csv('../dt_prep_tables/master_data_temp_test_21_05.csv')  # Saves the original data set into csv file.
-print("new_master_data.py  :  master_df.to_csv('master_data_temp_test_21_05.csv')  -  DONE")
-# master_df.to_csv('../dt_prep_tables/master_new_data_temp_1205.csv')  # Saves the new data set into csv file. Relevant for only new data
+# master_df.to_csv('../dt_prep_tables/master_df_temp.csv')  # Saves the original data set into csv file.
+# master_df.to_csv('../dt_prep_tables/pred_master_df_temp.csv')  # Saves the new data set into csv file. Relevant for only new data
 
 from is_underdog_check import is_underdog, pts_b4_game_home, pts_b4_game_away
 
 master_df['underdog'] = master_df.apply(is_underdog, axis=1)
-print("new_master_data.py  :  master_df['underdog']  -  DONE")
 master_df['home_lg_b4_game'] = master_df.apply(lambda x: pts_b4_game_home(x), axis=1)
 master_df['away_lg_b4_game'] = master_df.apply(lambda x: pts_b4_game_away(x), axis=1)
-print("new_master_data.py  :  ['away_lg_b4_game']  -  DONE")
 
 master_df = stadium_methods.stadium_related_dt_point(master_df)
-print()
 
 # Determining the dat of the week of the game.
 master_df['day_of_week_num'] = master_df['date'].apply(lambda x: str(x.weekday()))  # Getting the day of the week.
@@ -126,14 +122,13 @@ days_dic = {'0': 'Monday', '1': 'Tuesday', '2': 'Wednesday', '3': 'Thursday', '4
 master_df['day_of_week'] = master_df['day_of_week_num'].apply(lambda x: days_dic.get(x))
 
 # Rearanging columns order for more logic order.
-rearanged_cols_order = pd.read_csv('../dt_prep_tables/cols_name_new.csv')  # New order of the columns.
+rearanged_cols_order = pd.read_csv('../dt_prep_tables/df_cols_names.csv')  # New order of the columns.
 cols = rearanged_cols_order.columns.tolist()
 master_df = master_df[cols]
+
+# master_df.to_csv('../dt_prep_tables/master_dataset.csv')
+# master_df.to_csv('../dt_prep_tables/pred_master_dataset.csv')  # Relevant for only new data
 
 # To see what is the runtime
 t_end = time.time()
 print(t_end - t_start)
-
-# master_df.to_csv('../dt_prep_tables/master_data__new__08_05.csv')
-# master_df.to_csv('../dt_prep_tables/master_new_data_12_05_1525.csv')  # Relevant for only new data
-print(0)

@@ -73,43 +73,31 @@ def to_date(s):
 
 
 # Import tables and turn them into a dataframe
-champion_league = pd.read_csv('../dt_prep_tables/ChampinLeagueFinalFixed.csv')
+champion_league = pd.read_csv('../dt_prep_tables/champion_league_2012_21.csv')
 # Relevant for only new data
-# champion_league = pd.read_csv('../dt_prep_tables/champion_league_new_data_0511_1215.csv')
+# champion_league = pd.read_csv('../dt_prep_tables/champion_league_2022.csv')
 
-leagues_files = ["bundesliga.csv", "laliga.csv", "league_1.csv", "premier_league.csv", "serie_a.csv"]
-path = '../dt_prep_tables/'
-earopean_leagues = pd.DataFrame()
-
-# Combining the data of the cvs files to a data frame
-for file in leagues_files:
-    location = path + str(file)
-    df_temp = pd.read_csv(location)
-    earopean_leagues = pd.concat([earopean_leagues, df_temp])
-
-earopean_leagues.rename(columns={'matchDate': 'match_date', 'matchHour': 'kot'}, inplace=True)
+european_leagues = pd.read_csv('../dt_prep_tables/european_leagues_2012_2021.csv')
+european_leagues.rename(columns={'matchDate': 'match_date'}, inplace=True)
 
 # Relevant for only new data
-# earopean_leagues = pd.read_csv('../dt_prep_tables/european_games_new_data_1105_1241.csv')
-# earopean_leagues = earopean_leagues[['match_date', 'kot']]  # Extracting only the relevant columns.
+# european_leagues = pd.read_csv('../dt_prep_tables/european_leauges_2022.csv')
+# european_leagues = european_leagues[['match_date', 'kot']]  # Extracting only the relevant columns.
 
 # Converting the columns values into time type.
-earopean_leagues['kot'] = earopean_leagues['kot'].apply(to_time)
+european_leagues['kot'] = european_leagues['kot'].apply(to_time)
 champion_league['kot'] = champion_league['kot'].apply(to_time)
 # Adjusting to Isreal's time.
-earopean_leagues['kot'] = earopean_leagues['kot'].apply(lambda x: (x + timedelta(hours=1)))
+european_leagues['kot'] = european_leagues['kot'].apply(lambda x: (x + timedelta(hours=1)))
 champion_league['kot'] = champion_league['kot'].apply(lambda x: x + timedelta(hours=1))
-print("while_international_games.py  :  earopean_leagues['kot'] & champion_league['kot']  -  DONE")
 
 # Adding 105 minutes to the kot to determine game end time.
-earopean_leagues['end'] = earopean_leagues['kot'].apply(lambda x: x + timedelta(minutes=105))
+european_leagues['end'] = european_leagues['kot'].apply(lambda x: x + timedelta(minutes=105))
 champion_league['end'] = champion_league['kot'].apply(lambda x: x + timedelta(minutes=105))
-print("while_international_games.py  :  earopean_leagues['end'] & champion_league['end']  -  DONE")
 
 # Converting the columns values into date type.
-earopean_leagues['match_date'] = earopean_leagues['match_date'].apply(to_date)
+european_leagues['match_date'] = european_leagues['match_date'].apply(to_date)
 champion_league['match_date'] = champion_league['match_date'].apply(to_date)
-print("while_international_games.py  :  earopean_leagues['match_date'] & champion_league['match_date']  -  DONE")
 
 def time_difference_duration(t_1, t_2):
     """
@@ -124,7 +112,7 @@ def time_difference_duration(t_1, t_2):
 
 
 # Creating dictionary to store the names of the dataframes as 'keys' and the dataframes itself as the 'values'.
-df_dct = {'champion_league': champion_league, 'earopean_leagues': earopean_leagues}
+df_dct = {'champion_league': champion_league, 'european_leagues': european_leagues}
 
 
 def while_champion_european_leagues(t, d, code):

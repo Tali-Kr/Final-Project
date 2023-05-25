@@ -1,7 +1,7 @@
 import pandas as pd
 
-lg_tbl = pd.read_csv('../dt_prep_tables/league_tables_2012_2021.csv')
-# lg_tbl = pd.read_csv('../dt_prep_tables/new_data_league_tables_09_05.csv')  # Relevant for only new data
+lg_tbl = pd.read_csv('../dt_prep_tables/il_league_tables_2012_21.csv')
+# lg_tbl = pd.read_csv('../dt_prep_tables/il_league_tables_2022.csv')  # Relevant for only new data
 
 # region lg_tbl addaptation
 lg_tbl['game'] = lg_tbl['game'].str.replace('Relegation round', 'Relegation Round')
@@ -32,6 +32,8 @@ lg_tbl.drop(['goals'], axis='columns', inplace=True)
 # region league table pts,win,lose,sraw,goals for & against fixed
 
 seasons = lg_tbl['season'].unique()
+
+
 def last_rnd_rglr_ssn_info():
     temp = pd.DataFrame()
     for season in seasons:
@@ -74,7 +76,6 @@ round_types = {'Regular Season': 26, 'Championship Round': 10, 'Relegation Round
 num_team_round_type = {'Regular Season': 14, 'Championship Round': 6, 'Relegation Round': 8}
 
 # lg_tbl.drop(['promoted'], axis='columns', inplace=True)
-
 # cols = lg_tbl.columns.tolist()
 
 cols = ['season', 'round', 'round_type', 'team', 'promoted', 'team_pos', 'pts', 'g_difference', 'win', 'draw', 'lose',
@@ -111,6 +112,5 @@ res.drop(['level_0', 'index'], axis='columns', inplace=True)
 #endregion
 
 
-res.to_csv('../dt_prep_tables/league_tables_2021_2022_fixed.csv')
-# res.to_csv('../dt_prep_tables/league_tables_new_2022_fixed_1205.csv')  # Relevant for only new data
-print()
+#res.to_csv('../dt_prep_tables/il_league_tables_2012_21_fixed.csv')
+# res.to_csv('../dt_prep_tables/il_league_tables_2022_fixed.csv')  # Relevant for only new data

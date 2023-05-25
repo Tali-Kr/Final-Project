@@ -1,19 +1,9 @@
 import pandas as pd
 import re
 
-# league_table = pd.read_csv('../dt_prep_tables/league_tables_2012_2021.csv')
-league_table = pd.read_csv('../dt_prep_tables/league_tables_2021_2022_fixed.csv')
-# league_table = pd.read_csv('../dt_prep_tables/league_tables_new_2022_fixed_1205.csv')  # Relevant for only new data
+league_table = pd.read_csv('../dt_prep_tables/il_league_tables_2012_21_fixed.csv')
+# league_table = pd.read_csv('../dt_prep_tables/il_league_tables_2022_fixed.csv')  # Relevant for only new data
 
-#region done in the league_table_fixer
-# Changing the 'game' name
-# league_table['game'] = league_table['game'].str.replace('Relegation round', 'Relegation Round')
-# league_table['game'] = league_table['game'].str.replace('Regular', 'Regular Season')
-# # changing the pos from 0-13 / 0-5 / 0-7 to 1-14 / 1-6 / 1-8
-# league_table['team_pos'] = league_table['team_pos'].apply(lambda pos: pos + 1)
-# Creates unique key for each record in league_table dataframe
-#endregion
-print()
 #region Relevant for only new data
 # numeric_cols = league_table[['season', 'round', 'promoted', 'team_pos', 'pts', 'g_difference', 'win', 'draw', 'lose',
 #                              'goals_for', 'goals_against']]
@@ -24,7 +14,6 @@ print()
 
 league_table['key'] = league_table.apply(lambda x: str(x['season']) + ' - ' + str(x['round_type']) + ' - ' + str(x['round'])
                                                    + ' - ' + str(x['team']), axis=1)
-print("champion_relegated_methods.py  :  league_table['key']  -  DONE")
 
 
 def previous_round_pos(record):
@@ -41,7 +30,7 @@ def previous_round_pos(record):
                            (league_table['season'] == record['season']) &
                            (league_table['round'] == (record['round']) - 1) &
                            (league_table['team'] == (record['team']))]['team_pos']
-        # print(record['key'])
+
         return pos.values[0]
     else:  # For the first round of each round type (regular season, relegation or championship round).
         # The check is irrelevant for the first round in the regular season.
@@ -50,15 +39,15 @@ def previous_round_pos(record):
                                (league_table['season'] == record['season']) &
                                (league_table['round'] == 26) &
                                (league_table['team'] == (record['team']))]['team_pos']
-            # print(record['key'])
+
             return pos.values[0]
-    # print(record['key'])
+
     return pos
 
 
 # Getting the teams's position in the beginning of the game.
 league_table['pos_b4_game'] = league_table.apply(lambda x: previous_round_pos(x), axis=1)
-print("champion_relegated_methods.py  :  league_table['pos_b4_game']  -  DONE")
+
 
 def pts_difference(code, record):
     """
@@ -146,12 +135,9 @@ def relegation_championship_check(record):
 # Check if the teams played as a champion or relegated.
 league_table['relegated'] = league_table.apply(
     lambda x: relegation_championship_check(x) if x['round_type'] == 'Relegation Round' else None, axis=1)
-print("champion_relegated_methods.py  :  league_table['relegated']  -  DONE")
-
 
 league_table['champion'] = league_table.apply(
     lambda x: relegation_championship_check(x) if x['round_type'] == 'Championship Round' else None, axis=1)
-print("champion_relegated_methods.py  :  league_table['champion']  -  DONE")
 
 
 def get_league_table():
