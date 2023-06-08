@@ -27,8 +27,13 @@ def preprocess(df, team_value_df):
     except ValueError as a:
         print(a)
     # decide if underdog won or not
-    df['udw'] = df.apply(lambda x: underdog_win(x['home_position'], x['away_position'], x['home_score'],
-                                                x['away_score']), axis=1)
+    df['udw'] = df.apply(lambda x: underdog_win(x['home_pos_b4_game'], x['away_pos_b4_game'], x['home_score'],
+                                                x['away_score']), axis=1)  # could be in the preprocess
+
+    #region decide where the underdog plays
+    df['home_underdog'] = df.apply(lambda x: 1 if x['home_team'] == x['underdog'] else 0, axis=1)
+    df['away_underdog'] = df.apply(lambda x: 1 if x['away_team'] == x['underdog'] else 0, axis=1)
+    #endregion
 
     team_value_df['unique_key'] = team_value_df['date']+team_value_df['club']
     for col_name in ['home', 'away']:
@@ -37,6 +42,7 @@ def preprocess(df, team_value_df):
                       right_on='unique_key')
         df.rename(columns={'value': col_name+'_value', 'squad_s': col_name+'_squad_s'}, inplace=True)
         df.drop(['unique_key', col_name+'_unique'], axis=1, inplace=True)
+
     # region Encode KoT
     # Convert time values to decimal numbers
     df['kot'] = pd.to_datetime(df['kot'], format='%H:%M').dt.hour + pd.to_datetime(df['kot'], format='%H:%M').dt.minute / 60
