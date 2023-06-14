@@ -26,7 +26,7 @@ def att(ar, cap, pred):
 
 # Import Files to DF
 df = pd.read_csv('../dataset_preparation/dt_prep_tables/pred_master_dataset.csv')
-team_value_df = pd.read_csv('../xgboost_model/teams_values.csv')
+team_value_df = pd.read_csv('../web_scraping/teams_values.csv')
 ln_attendance_orig = df['ln(attendance)']
 
 # duplicate the df

@@ -30,7 +30,7 @@ def attBcap(att, cap):
 
 # region Import table into DF
 df = pd.read_csv('../dataset_preparation/dt_prep_tables/master_dataset.csv')  # Original final dataset
-df_value = pd.read_csv('teams_values.csv')
+df_value = pd.read_csv('../web_scraping/teams_values.csv')
 # endregion
 
 # Preprocess data
