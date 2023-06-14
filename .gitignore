@@ -7,4 +7,3 @@
 ./Lib/site-packages
 ./Scripts
 ./__pycache__
-./model_demo
