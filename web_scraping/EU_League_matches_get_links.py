@@ -19,8 +19,11 @@ for league in leagues[0]:
                             '?saison_id=' + str(year) +
                             "&spieltagVon=" + league[2] + '&spieltagBis=' + league[3])
 
-headers = {'User-Agent':
-               'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
+# set user agent in HTTP headers for web scraping that mimic a particular web browser
+headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/' +
+                         '537.36 (KHTML, like Gecko) Chrome/' +
+                         '47.0.2526.106 Safari/537.36'
+           }
 
 # Get all the links to the games in the leagues from 'fromYear' to 'toYear'
 for league_link in league_links:

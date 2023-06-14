@@ -1,11 +1,12 @@
 from bs4 import BeautifulSoup
 import requests
-import pandas as pd, numpy as np
-import re
 from csv import writer
 
-headers = {'User-Agent':
-               'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
+# set user agent in HTTP headers for web scraping that mimic a particular web browser
+headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/' +
+                         '537.36 (KHTML, like Gecko) Chrome/' +
+                         '47.0.2526.106 Safari/537.36'
+           }
 fromYear = 2012
 toYear = 2021
 all_the_link = []
@@ -78,13 +79,15 @@ with open('../dataset_preparation/dt_prep_tables/il_league_tables_2012_21.csv', 
                 if child.text.strip() != "":
                     data.append(child.text.strip())
 
-        # if there are 7 fields need range of 7 if there are 8 fields need range of 8
+        # if there are 7 fields need range of 7 if there are 8 fields need range of 8.
+        # this is used to know how many fields/columns to delete after appending the data from the temp list to the
+        # correct one.
         if len(data) == 98 or len(data) == 42 or len(data) == 56:
             indx_range = 7
         else:
             indx_range = 8
 
-        # enter all the round's  info of the team
+        # enter all the round's data of the team
         for i in range(len(clubs_names)):
             match.append(data[0])
             win.append(data[1])

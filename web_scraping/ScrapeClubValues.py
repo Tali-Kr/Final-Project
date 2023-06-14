@@ -1,12 +1,13 @@
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
-import numpy as np
 from tqdm import tqdm
 
-# Define User-Agent
-headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/'
-                         '537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}                         
+# set user agent in HTTP headers for web scraping that mimic a particular web browser
+headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/' +
+                         '537.36 (KHTML, like Gecko) Chrome/' +
+                         '47.0.2526.106 Safari/537.36'
+           }
 
 # Define the desired years for scraping
 fromYear = 2011

@@ -1,11 +1,14 @@
 from bs4 import BeautifulSoup
 import requests
 from csv import writer
+from tqdm import tqdm
 
-headers = {'User-Agent':
-               'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
+# set user agent in HTTP headers for web scraping that mimic a particular web browser
+headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/' +
+                         '537.36 (KHTML, like Gecko) Chrome/' +
+                         '47.0.2526.106 Safari/537.36'
+           }
 
-percent_check = 0
 # for each year will be created a csv file
 with open('../dataset_preparation/dt_prep_tables/champion_league_2012_21.csv', 'w', encoding='utf8', newline='') as f:
     theWriter = writer(f)
@@ -13,26 +16,30 @@ with open('../dataset_preparation/dt_prep_tables/champion_league_2012_21.csv', '
               'referee', 'stadium', 'attendance', 'season']  # the headers of the file will be
     theWriter.writerow(header)
 
+# Determine the scraping years which also be will be added to the URL links
     fromYear = 2012
     toYear = 2021
+# Determine the groups which will be added to the URL links
     groups = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'AFH', 'AFR', 'VFH', 'VFR', 'HFH', 'HFR', 'FF']
     group_year_links = []
     match_links = []
-
-    for seasonYear in range(fromYear, toYear+1):
+# Appends all the Champion League url links into a list
+    for seasonYear in tqdm(range(fromYear, toYear+1)):
         for group in groups:
-            group_year_links.append('https://www.transfermarkt.com/uefa-champions-league/spieltag/pokalwettbewerb/CL/plus/0?saison_id=' +
+            group_year_links.append('https://www.transfermarkt.com/' +
+                                    'uefa-champions-league/' +
+                                    'spieltag/pokalwettbewerb/CL/plus/0?saison_id=' +
                                     str(seasonYear) + '&gruppe=' + group)
-
-    for link in group_year_links:
+# Go through all the links of the leagues and get the game links and append them into a list called "match_links"
+    for link in tqdm(group_year_links):
         page = link
         pageTree = requests.get(page, headers=headers)
         pageSoup = BeautifulSoup(pageTree.content, 'html.parser')
 
         for i in pageSoup.find_all("a", class_='liveLink'):
             match_links.append('https://www.transfermarkt.com'+i.get('href'))
-
-    for linkz in match_links:
+# Go through all the links of games and get all the data
+    for linkz in tqdm(match_links):
         page = linkz
         pageTree = requests.get(page, headers=headers)
         pageSoup = BeautifulSoup(pageTree.content, 'html.parser')
@@ -47,17 +54,15 @@ with open('../dataset_preparation/dt_prep_tables/champion_league_2012_21.csv', '
         away_team = ""  # Done
         home_score = ""  # Done
         away_score = ""  # Done
-        # home_position = ""  # Done
-        # away_position = ""  # Done
         stadium = ""  # Done
         attendance = ""  # Done
         season_round = ""  # Done
         kot = ""  # Done
         match_date = ""  # Done
         referee = ""  # Done
-        # underdog = ""  # Done
         round_type = ""  # Done
         season = ""  # Done
+
         # Get the names of the teams
         for father in pageSoup.find_all("a", class_="sb-vereinslink"):
             temp_array.append(father.get('title'))
@@ -82,7 +87,7 @@ with open('../dataset_preparation/dt_prep_tables/champion_league_2012_21.csv', '
         except IndexError:
             away_score = None
 
-        # # get home and away position
+        # # get home and away position after the game
         # for father in pageSoup.find_all("p", rel="tooltip"):
         #     temp_array.append(father.text.split(":")[1].strip())
         # try:
@@ -136,15 +141,6 @@ with open('../dataset_preparation/dt_prep_tables/champion_league_2012_21.csv', '
             referee = None
         temp_array = []
 
-        # # determine who is the underdog
-        # try:
-        #     if int(home_position) < int(away_position):
-        #         underdog = away_team
-        #     else:
-        #         underdog = home_team
-        # except TypeError:
-        #     underdog = None
-
         try:
             round_type = pageSoup.find("h2").text.strip().split(" - ")[1]
         except IndexError:
@@ -157,21 +153,6 @@ with open('../dataset_preparation/dt_prep_tables/champion_league_2012_21.csv', '
         except IndexError:
             season = None
 
-        # Test link
-        # print("Home team:" + home_team + "\n" +
-        #       "Away team:" + away_team + "\n" +
-        #       "Home Score:" + home_score + "\n" +
-        #       "Away Score:" + away_score +"\n" +
-        #       "Home Position:" + home_position +"\n" +
-        #       "Away Position:" + away_position +"\n" +
-        #       "Stadium:" + stadium +"\n" +
-        #       "Attendance:" + str(attendance) +"\n" +
-        #       "Season Round:" + season_round +"\n" +
-        #       "KOT:" + kot +"\n" +
-        #       "Match Date:" + match_date +"\n" +
-        #       "Referee:" + referee +"\n" +
-        #       "Underdog:" + underdog +"\n" +
-        #       "Round Type:" + round_type)
         info = [match_date, kot, round_type, season_round, home_team, away_team,
                 home_score, away_score, referee, stadium, attendance, season]
         theWriter.writerow(info)

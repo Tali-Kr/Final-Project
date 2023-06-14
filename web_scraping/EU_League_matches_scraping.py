@@ -1,24 +1,28 @@
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
-import numpy as np
 from csv import writer
 from tqdm import tqdm
+
 
 def removeLinks(arr, str):
     del arr[:arr.index(str)]
     return arr
 
+
 headers = {'User-Agent':
                'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
 
 games_in_season_links = pd.read_csv('season_games_links.csv')['Links'].tolist()
-removeLinks(games_in_season_links,'https://www.transfermarkt.com/olympique-lyon_ea-guingamp/index/spielbericht/3047765')
+removeLinks(games_in_season_links,
+            'https://www.transfermarkt.com/olympique-lyon_ea-guingamp/index/spielbericht/3047765')
 
-
-with open('../dataset_preparation/dt_prep_tables/european_leagues_2012_21.csv', 'w', encoding='utf8', newline='') as f:  # for each year will be created a csv file
+with open('../dataset_preparation/dt_prep_tables/european_leagues_2012_21.csv', 'w', encoding='utf8',
+          newline='') as f:  # for each year will be created a csv file
     theWriter = writer(f)
-    header = ['match_date', 'kot', 'round_type', 'season_round', 'home_team', 'away_team', 'home_position', 'away_position', 'underdog', 'home_score', 'away_score', 'referee', 'stadium', 'attendance', 'season']  # the headers of the file will be
+    header = ['match_date', 'kot', 'round_type', 'season_round', 'home_team', 'away_team', 'home_position',
+              'away_position', 'underdog', 'home_score', 'away_score', 'referee', 'stadium', 'attendance',
+              'season']  # the headers of the file will be
     theWriter.writerow(header)
 
     for linkz in tqdm(games_in_season_links):
@@ -26,23 +30,22 @@ with open('../dataset_preparation/dt_prep_tables/european_leagues_2012_21.csv', 
         pageTree = requests.get(page, headers=headers)
         pageSoup = BeautifulSoup(pageTree.content, 'html.parser')
 
-
-        temp_array = []
-        home_team = ""  # Done
-        away_team = ""  # Done
-        home_score = ""  # Done
-        away_score = ""  # Done
-        home_position = ""  # Done
-        away_position = ""  # Done
-        stadium = ""  # Done
-        attendance = ""  # Done
-        season_round = ""  # Done
-        kot = ""  # Done
-        match_date = ""  # Done
-        referee = ""  # Done
-        underdog = ""  # Done
-        round_type = ""  # Done
-        season = ""  # Done
+        temp_array = []  # Store temporary data that will be sorted in the variables below.
+        home_team = ""
+        away_team = ""
+        home_score = ""
+        away_score = ""
+        home_position = ""
+        away_position = ""
+        stadium = ""
+        attendance = ""
+        season_round = ""
+        kot = ""
+        match_date = ""
+        referee = ""
+        underdog = ""
+        round_type = ""
+        season = ""
         # Get the names of the teams
         for father in pageSoup.find_all("a", class_="sb-vereinslink"):
             temp_array.append(father.get('title'))
@@ -66,7 +69,6 @@ with open('../dataset_preparation/dt_prep_tables/european_leagues_2012_21.csv', 
             away_score = (pageSoup.find("div", class_="sb-endstand").text.strip().split("(")[0].split(":")[1])
         except Exception:
             away_score = None
-
 
         # get home and away position
         for father in pageSoup.find_all("p", rel="tooltip"):
@@ -113,7 +115,9 @@ with open('../dataset_preparation/dt_prep_tables/european_leagues_2012_21.csv', 
         except Exception:
             season_round = None
         try:
-            match_date = (temp_array[1].split(",")[1].strip().split("/")[1])+"/"+(temp_array[1].split(",")[1].strip().split("/")[0])+"/"+(temp_array[1].split(",")[1].strip().split("/")[2])
+            match_date = (temp_array[1].split(",")[1].strip().split("/")[1]) + "/" + (
+            temp_array[1].split(",")[1].strip().split("/")[0]) + "/" + (
+                         temp_array[1].split(",")[1].strip().split("/")[2])
         except Exception:
             match_date = None
 
@@ -157,21 +161,8 @@ with open('../dataset_preparation/dt_prep_tables/european_leagues_2012_21.csv', 
         except Exception:
             season = None
 
-        # Test link
-        # print("Home team:" + home_team + "\n" +
-        #       "Away team:" + away_team + "\n" +
-        #       "Home Score:" + home_score + "\n" +
-        #       "Away Score:" + away_score +"\n" +
-        #       "Home Position:" + home_position +"\n" +
-        #       "Away Position:" + away_position +"\n" +
-        #       "Stadium:" + stadium +"\n" +
-        #       "Attendance:" + str(attendance) +"\n" +
-        #       "Season Round:" + season_round +"\n" +
-        #       "KOT:" + kot +"\n" +
-        #       "Match Date:" + match_date +"\n" +
-        #       "Referee:" + referee +"\n" +
-        #       "Underdog:" + underdog +"\n" +
-        #       "Round Type:" + round_type)
-        info = [match_date, kot, round_type, season_round, home_team, away_team, home_position, away_position, underdog, home_score, away_score, referee, stadium, attendance, season]
+        info = [match_date, kot, round_type, season_round, home_team, away_team, home_position, away_position, underdog,
+                home_score, away_score, referee, stadium, attendance, season]
+        # Write the row with all the game info.
         theWriter.writerow(info)
 print("Done! - 100%")
