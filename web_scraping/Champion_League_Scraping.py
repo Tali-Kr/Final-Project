@@ -5,16 +5,12 @@ from csv import writer
 headers = {'User-Agent':
                'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
 
-# page = 'https://www.transfermarkt.com/spielbericht/index/spielbericht/2262147'
-# pageTree = requests.get(page, headers=headers)
-# pageSoup = BeautifulSoup(pageTree.content, 'html.parser')
-#
-# for g1 in pageSoup.find_all("a", class_='direct-headline__link'):
-#     print(g1.get('href').split("/")[6])
 percent_check = 0
-with open('ChampinLeagueFiNalle.csv', 'w', encoding='utf8', newline='') as f:  # for each year will be created a csv file
+# for each year will be created a csv file
+with open('../dataset_preparation/dt_prep_tables/champion_league_2012_21.csv', 'w', encoding='utf8', newline='') as f:
     theWriter = writer(f)
-    header = ['match_date', 'kot', 'round_type', 'season_round', 'home_team', 'away_team', 'home_score', 'away_score', 'referee', 'stadium', 'attendance', 'season']  # the headers of the file will be
+    header = ['match_date', 'kot', 'round_type', 'season_round', 'home_team', 'away_team', 'home_score', 'away_score',
+              'referee', 'stadium', 'attendance', 'season']  # the headers of the file will be
     theWriter.writerow(header)
 
     fromYear = 2012
@@ -25,7 +21,8 @@ with open('ChampinLeagueFiNalle.csv', 'w', encoding='utf8', newline='') as f:  #
 
     for seasonYear in range(fromYear, toYear+1):
         for group in groups:
-            group_year_links.append('https://www.transfermarkt.com/uefa-champions-league/spieltag/pokalwettbewerb/CL/plus/0?saison_id=' + str(seasonYear) + '&gruppe=' + group)
+            group_year_links.append('https://www.transfermarkt.com/uefa-champions-league/spieltag/pokalwettbewerb/CL/plus/0?saison_id=' +
+                                    str(seasonYear) + '&gruppe=' + group)
 
     for link in group_year_links:
         page = link
