@@ -127,7 +127,6 @@ def is_underdog(df):
                         home_pos = get_position(prev_seasons, home_team)
                         away_pos = get_position(prev_seasons, away_team)
                         return home_team if home_pos > away_pos else away_team
-                    # return home_team if get_max_season(prev_seasons, home_team) > get_max_season(prev_seasons, away_team) else away_team
                 # Checks if the home team was in the league before the previous season.
                 elif in_pre_season(prev_seasons, home_team):  # opt.9.2
                     return away_team
@@ -165,7 +164,8 @@ def get_pre_pts(round_num, season, round_type, team):
     # Saves the round type and the last round of the round type according to the given points.
     round_num = round_num - 1
     # Filters the df accordingly.
-    df = master_df[(master_df['round_type'] == round_type) & (master_df['round'] == round_num) & (master_df['season'] == season)]
+    df = master_df[(master_df['round_type'] == round_type) & (master_df['round'] == round_num) &
+                   (master_df['season'] == season)]
     # Checks if the given team was away or home team in the previous round.
     if df[df['home_team'] == team].empty:  # The team wasn't the home team => it was in the away team.
         df = df[df['away_team'] == team]

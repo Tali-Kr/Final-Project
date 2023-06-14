@@ -37,4 +37,4 @@ season_links = np.array(season_links)
 df = pd.DataFrame(season_links, columns=['Links'])
 
 # Export dataframe to a CSV file
-df.to_csv('text.csv', index=False)
+df.to_csv('season_games_links.csv', index=False)

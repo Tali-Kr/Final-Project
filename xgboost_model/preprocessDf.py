@@ -4,10 +4,6 @@ from sklearn.preprocessing import normalize
 
 def preprocess(df, team_value_df):
     # region methods
-    def replace_nan(col_names):
-        for col_name in col_names:
-            df[col_name].fillna(-1, inplace=True)
-
     def underdog_win(home_pos, away_pos, home_score, away_score):
         if ((home_pos < away_pos) and (home_score < away_score)) or ((home_pos > away_pos) and (home_score > away_score)):
             return 1
@@ -70,31 +66,6 @@ def preprocess(df, team_value_df):
     df['round_type'] = df['round_type'] .apply(lambda x: round_dic.get(x))
     # endregion
 
-    # region add columns to the dataframe for the model
-    # # Cumulative wins
-    # df['home+season'] = df['home_team']+df['season'].astype(str)
-    # df['away+season'] = df['away_team']+df['season'].astype(str)
-    #
-    # teams = set(df['home+season']) | set(df['away+season'])
-    # team_wins = {team: 0 for team in teams}
-    #
-    # df['home_wins_cumulative'] = 0
-    # df['away_wins_cumulative'] = 0
-    #
-    # for i, row in df.iterrows():
-    #     home_team = row['home+season']
-    #     away_team = row['away+season']
-    #
-    #     df.loc[i, 'home_wins_cumulative'] = team_wins[home_team]
-    #     df.loc[i, 'away_wins_cumulative'] = team_wins[away_team]
-    #
-    #     if row['home+season'] > row['away+season']:
-    #         team_wins[home_team] += 1
-    #     elif row['away_score'] > row['home_score']:
-    #         team_wins[away_team] += 1
-    # df.drop(['home+season', 'away+season','home_score', 'away_score'], axis=1, inplace=True)
     # endregion
     df.fillna(0, inplace=True)
     return df
-    # endregion
-

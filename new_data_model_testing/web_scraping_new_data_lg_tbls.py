@@ -1,7 +1,5 @@
 from bs4 import BeautifulSoup
 import requests
-import pandas as pd, numpy as np
-import re
 from csv import writer
 
 headers = {'User-Agent':
@@ -19,9 +17,11 @@ link = "https://www.transfermarkt.com/ligat-haal-abstiegsrunde/formtabelle/wettb
 for round in range(1, 7):
     all_the_link.append(link + str(round))
 
-with open('../dataset_preparation/dt_prep_tables/il_league_tables_2022.csv', 'w', encoding='utf8', newline='') as f:  #for each year will be created a csv file
+ #for each year will be created a csv file
+with open('../dataset_preparation/dt_prep_tables/il_league_tables_2022.csv', 'w', encoding='utf8', newline='') as f:
     theWriter = writer(f)
-    header = ['season', 'clubs_name','round' , 'promoted', 'game', 'win', 'draw', 'lose', 'goals', 'g_difference', 'pts', 'team_pos']  # the headers of the file will be
+    # the headers of the file will be
+    header = ['season', 'clubs_name','round' , 'promoted', 'game', 'win', 'draw', 'lose', 'goals', 'g_difference', 'pts', 'team_pos']
     theWriter.writerow(header)
 
     for link in all_the_link:
@@ -92,6 +92,6 @@ with open('../dataset_preparation/dt_prep_tables/il_league_tables_2022.csv', 'w'
             del data[0:indx_range]
 
         for i in range(len(clubs_names)):
-            info = [season, clubs_names[i], match[i], promted[i], game, win[i], draw[i], lose[i], goals[i], g_difference[i], pts[i], team_pos[i]]  # get everything in one list
+            info = [season, clubs_names[i], match[i], promted[i], game, win[i], draw[i], lose[i], goals[i],
+                    g_difference[i], pts[i], team_pos[i]]  # get everything in one list
             theWriter.writerow(info)  # write the row.
-print()

@@ -8,33 +8,18 @@ lg_tbl['game'] = lg_tbl['game'].str.replace('Relegation round', 'Relegation Roun
 lg_tbl['game'] = lg_tbl['game'].str.replace('Regular', 'Regular Season')
 lg_tbl['goals'] = lg_tbl.apply(lambda x: x['goals'][:-3] if len(x['goals']) == 8 else x['goals'], axis=1)
 lg_tbl['season'] = lg_tbl['season'].str.replace('22/23', '2022')
-# region test to see goals length
-# lg_tbl['len_goals_clmn'] = lg_tbl.apply(lambda x: len(x['goals']),axis=1)
-# a = lg_tbl['len_goals_clmn'].unique()
-# b = lg_tbl[lg_tbl['len_goals_clmn'] == 8]
-# res = b.apply(lambda x: x['goals'][-2:],axis=1)
-# res_u = res.unique()
-#
-# lg_tbl['goals'] = lg_tbl.apply(lambda x: x['goals'][:-3] if x['len_goals_clmn'] == 8 else x['goals'],axis=1)
-# lg_tbl['len_goals_clmn'] = lg_tbl.apply(lambda x: len(x['goals']), axis=1)
-# a = lg_tbl['len_goals_clmn'].unique()
-# endregion
-
 lg_tbl[['goals_for', 'goals_against']] = lg_tbl.goals.str.split(":", expand=True)
 lg_tbl['goals_for'] = lg_tbl.apply(lambda x: int(x['goals_for']), axis=1)
 lg_tbl['goals_against'] = lg_tbl.apply(lambda x: int(x['goals_against']), axis=1)
-
 lg_tbl.rename(columns={'clubs_name': 'team', 'game': 'round_type'}, inplace=True)
 lg_tbl.drop(['goals'], axis='columns', inplace=True)
 # endregion
 
-
 # region league table pts,win,lose,sraw,goals for & against fixed
-
 seasons = lg_tbl['season'].unique()
 
 
-def last_rnd_rglr_ssn_info():
+def last_rnd_rglr_ssn_info():  # Returns the info of the last round of the regular season for each team in each season.
     temp = pd.DataFrame()
     for season in seasons:
         df_fltrd = lg_tbl[(lg_tbl['season'] == season) & (lg_tbl['round_type'] == "Regular Season") &
@@ -49,12 +34,14 @@ def last_rnd_rglr_ssn_info():
 lg_tbl_lst_rnd_rglr_ssn = last_rnd_rglr_ssn_info()
 
 
-def get_info_by_team(team, season, col):
+def get_info_by_team(team, season, col):  # Returns the info of the team's last round of the regular season.
     return lg_tbl_lst_rnd_rglr_ssn[(lg_tbl_lst_rnd_rglr_ssn['team'] == team) &
                                    (lg_tbl_lst_rnd_rglr_ssn['season'] == season)][col].values[0]
 
 
 def get_info(record):
+    # Fixes the pts, goals_for, goals_against, win, draw, lose info for the championship and relegation rounds,
+    # based on the last round of the regular season.
     if record['round_type'] == 'Championship Round' or record['round_type'] == 'Relegation Round':
         cols_list = ['pts', 'goals_for', 'goals_against', 'win', 'draw', 'lose']
         for col in cols_list:
@@ -75,17 +62,17 @@ round_types = {'Regular Season': 26, 'Championship Round': 10, 'Relegation Round
 # round_types = {'Regular Season': 26, 'Championship Round': 7, 'Relegation Round': 6}  # Relevant for only new data
 num_team_round_type = {'Regular Season': 14, 'Championship Round': 6, 'Relegation Round': 8}
 
-# lg_tbl.drop(['promoted'], axis='columns', inplace=True)
-# cols = lg_tbl.columns.tolist()
-
 cols = ['season', 'round', 'round_type', 'team', 'promoted', 'team_pos', 'pts', 'g_difference', 'win', 'draw', 'lose',
         'goals_for', 'goals_against']
 lg_tbl = lg_tbl[cols]
 
 # edited for the new data
-lg_tbl['promoted'] = lg_tbl['team'].apply(lambda x: 1 if (x == 'Sekzia Ness Ziona' or x == 'Maccabi Bnei Reineh') else 0)
+# lg_tbl['promoted'] = lg_tbl['team'].apply(lambda x: 1 if (x == 'Sekzia Ness Ziona' or
+#                                                           x == 'Maccabi Bnei Reineh') else 0)
+
 
 def position_sort_in_round():
+    # Sorts and determines the positions of the teams in the championship and relegation rounds.
     df = pd.DataFrame()
     for season in seasons:
         df_s = pd.DataFrame()
@@ -111,6 +98,5 @@ res = res.reset_index()
 res.drop(['level_0', 'index'], axis='columns', inplace=True)
 #endregion
 
-
-#res.to_csv('../dt_prep_tables/il_league_tables_2012_21_fixed.csv')
+res.to_csv('../dt_prep_tables/il_league_tables_2012_21_fixed.csv')
 # res.to_csv('../dt_prep_tables/il_league_tables_2022_fixed.csv')  # Relevant for only new data

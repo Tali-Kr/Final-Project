@@ -6,6 +6,7 @@ from fuzzywuzzy import fuzz
 stadiums = pd.read_csv('../dt_prep_tables/Stadiums_In_Israel.csv')
 clubs_stadiums = pd.read_csv('../dt_prep_tables/clubs_home_stadium_by_year.csv')
 
+
 def division(attendance, capacity):
     """
     Calculates the quotient of Attendance/Capacity.

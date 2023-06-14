@@ -12,14 +12,13 @@ kot.insert(4, '19:30')  # To skip the 5th index.
 
 
 def duplicate(df):
-    # Duplicates the records 6 times and changing the day of the week and the kot.
+    # Duplicates the records 6 times and changing the day of the week.
     res = pd.DataFrame()
     for i in range(0, 7):
         if i == 4:  # The model didnt have any train and test records with Friday.
             continue
         else:
             df_temp = df.assign(day_of_week_num=i)  # Sets the day of the week to be i in all of the records.
-            # df_temp = df_temp.assign(kot=kot[i])  # Sets the kot to be the top frequented kot in all of the records.
             frames = [df_temp, res]
             res = pd.concat(frames)  # Concate all the temp df into one df.
     return res

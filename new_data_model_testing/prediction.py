@@ -7,23 +7,6 @@ import joblib
 from new_data_model_testing.duplicated_new_data import duplicate
 from max_predictions import get_best_day
 
-# Methods
-def att(ar, cap, pred):
-    cap = math.exp(cap)
-    if pred == 0:
-        ar = math.exp(ar)
-        if ar > cap:
-            ar = cap
-        return ar/cap
-    if pred == 1:
-        if ar > 1:
-            ar = 1
-        if ar < 0:
-            ar = ar*(-1)
-        return math.log(cap*ar, math.e)
-
-# region attendance
-
 # Import Files to DF
 df = pd.read_csv('../dataset_preparation/dt_prep_tables/pred_master_dataset.csv')
 team_value_df = pd.read_csv('../web_scraping/teams_values.csv')
@@ -32,6 +15,7 @@ ln_attendance_orig = df['ln(attendance)']
 # duplicate the df
 df = duplicate(df)
 
+# region ln(attendance)
 # Preprocess the raw data
 new_data = preprocess(df, team_value_df)
 att_new_data = train_cols(new_data, 3)
@@ -55,18 +39,11 @@ days_dic = {'0': 'Monday', '1': 'Tuesday', '2': 'Wednesday', '3': 'Thursday', '4
 att_pred['day_of_week'] = att_pred['day_of_week_num'].apply(lambda x: days_dic.get(x))
 
 # Saving the results
-# att_pred.to_csv('attendance_predic.csv')
+att_pred.to_csv('attendance_predic.csv')
 #endregion
-print()
-
 
 # region home/away
-
-# df = pd.read_csv('../dataset_preparation/dt_prep_tables/pred_master_dataset.csv')
-# team_value_df = pd.read_csv('../xgboost_model/teams_values.csv')
-# # ln_attendance_orig = df['ln(attendance)']
-#
-# # Preprocess the raw data
+# Preprocess the raw data
 new_data = preprocess(df, team_value_df)
 att_new_data = train_cols(new_data, 3)
 att_new_data.drop(['ln(attendance)'], axis=1, inplace=True)
@@ -82,7 +59,6 @@ att_pred.to_csv("ln_att_predic.csv")
 
 # duplicate the df
 # df_dup = duplicate(new_data)
-print()
 
 # Choose the training columns 1 - Home win; 2 - Away win;
 home_new_data = train_cols(new_data, 1)
@@ -111,4 +87,3 @@ away_pred['day_of_week'] = away_pred['day_of_week_num'].apply(lambda x: days_dic
 away_pred.to_csv("away_won_predic.csv")
 
 # endregion
-print()

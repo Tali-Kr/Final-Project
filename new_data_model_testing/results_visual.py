@@ -1,11 +1,9 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-from matplotlib.colors import ListedColormap, LinearSegmentedColormap
+from matplotlib.colors import LinearSegmentedColormap
 import numpy as np
-from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import confusion_matrix
 import seaborn as sns
-import math
 
 # region Load the data_att from the CSV file
 data_att = pd.read_csv('ln_att_predic.csv')
@@ -59,7 +57,7 @@ fig.set_size_inches(1920/100, 1080/100)
 # Display the plot
 plt.show()
 # endregion
-print()
+
 # region day destirbution
 # Changing the values from int to representive text
 days_dic = {0: 'Monday', 1: 'Tuesday', 2: 'Wednesday', 3: 'Thursday', 4: 'Friday', 5: 'Saturday', 6: 'Sunday'}
@@ -118,7 +116,7 @@ fig.set_size_inches(1920/100, 1080/100)
 plt.show()
 # endregion
 # endregion
-print()
+
 # region attendance Vs home team
 # region pi chart
 att_home_test = overlap_test[['day_of_week_num', 'day_of_week_num_HOME']]
@@ -160,7 +158,7 @@ fig.set_size_inches(1920/100, 1080/100)
 # Display the plot
 plt.show()
 # endregion
-print()
+
 # region day destirbution
 # Changing the values from int to representive text
 days_dic = {0: 'Monday', 1: 'Tuesday', 2: 'Wednesday', 3: 'Thursday', 4: 'Friday', 5: 'Saturday', 6: 'Sunday'}
@@ -218,7 +216,7 @@ fig.set_size_inches(1920/100, 1080/100)
 # Display the plot
 plt.show()
 # endregion
-print()
+
 # endregion
 
 
@@ -300,7 +298,7 @@ fig.set_size_inches(1920/100, 1080/100)
 
 # Display the plot
 plt.show()
-print()
+
 # endregion
 
 # region data_home_won
@@ -356,7 +354,7 @@ fig.set_size_inches(1920/100, 1080/100)
 
 # Display the plot
 plt.show()
-print()
+
 # endregion
 
 # region attendance by day to see best day
@@ -417,7 +415,7 @@ plt.savefig(path)
 # Display the plot
 plt.show()
 # endregion
-print()
+
 
 # region home win plot
 # Define color values

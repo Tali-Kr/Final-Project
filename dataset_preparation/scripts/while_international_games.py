@@ -8,7 +8,7 @@ def while_world_cup(d):
     :param d: date. Game's date that is checked if took place while one of the World Cups.
     """
     # List of the start dates of the World Cups of 2014 and 2018.
-    world_cup_start = list(map(lambda x: datetime.strptime(x, '%d-%m-%Y').date(), ['12-06-2014', '14-06-2018','20-11-2022']))
+    world_cup_start = list(map(lambda x: datetime.strptime(x, '%d-%m-%Y').date(), ['12-06-2014', '14-06-2018', '20-11-2022']))
     # List of the end dates of the World Cups of 2014 and 2018.
     world_cup_end = list(map(lambda x: datetime.strptime(x, '%d-%m-%Y').date(), ['13-07-2014', '15-07-2018', '18-12-2022']))
     return sum(list(map(lambda x, y: 1 if x < d < y else 0, world_cup_start, world_cup_end)))
@@ -74,8 +74,8 @@ def to_date(s):
 
 # Import tables and turn them into a dataframe
 champion_league = pd.read_csv('../dt_prep_tables/champion_league_2012_21.csv')
-# Relevant for only new data
-# champion_league = pd.read_csv('../dt_prep_tables/champion_league_2022.csv')
+
+# champion_league = pd.read_csv('../dt_prep_tables/champion_league_2022.csv') # Relevant for only new data
 
 european_leagues = pd.read_csv('../dt_prep_tables/european_leagues_2012_21.csv')
 european_leagues.rename(columns={'matchDate': 'match_date'}, inplace=True)

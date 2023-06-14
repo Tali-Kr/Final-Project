@@ -1,7 +1,5 @@
 from bs4 import BeautifulSoup
 import requests
-import pandas as pd, numpy as np
-import re
 from csv import writer
 from tqdm import tqdm
 
@@ -27,10 +25,11 @@ for link in links:
         match_links.append('https://www.transfermarkt.com' + match_link.get('href'))
 
 # Saving all the extracted data into csv file.
-with open('../dataset_preparation/dt_prep_tables/ligat_haal_2022.csv', 'w', encoding='utf8', newline='') as f:  # for each year will be created a csv file
+with open('../dataset_preparation/dt_prep_tables/ligat_haal_2022.csv', 'w', encoding='utf8', newline='') as f:
     theWriter = writer(f)
+    # the headers of the file will be
     header = ['match_date', 'kot', 'round_type', 'season_round', 'home_team', 'away_team', 'home_position',
-              'away_position', 'underdog', 'home_score', 'away_score', 'referee', 'stadium', 'attendance', 'season']  # the headers of the file will be
+              'away_position', 'underdog', 'home_score', 'away_score', 'referee', 'stadium', 'attendance', 'season']
     theWriter.writerow(header)
 
     for link in tqdm(match_links):
@@ -97,7 +96,8 @@ with open('../dataset_preparation/dt_prep_tables/ligat_haal_2022.csv', 'w', enco
         for g1 in pageSoup.find_all("p", class_='sb-datum hide-for-small'):
             season = int(g1.find("a").get('href').split("/")[6])
 
-        info = [match_date, kot, round_type, season_round, home_team, away_team, home_position, away_position, underdog, home_score, away_score, referee, stadium, attendance, season]
+        info = [match_date, kot, round_type, season_round, home_team, away_team, home_position, away_position, underdog,
+                home_score, away_score, referee, stadium, attendance, season]
         theWriter.writerow(info)
 print("Done! - 100%")
 

@@ -5,7 +5,6 @@ from while_international_games import to_date, to_time, kot_determining, while_c
     while_world_cup
 import champion_relegated_methods
 import time
-# import Levenshtein
 
 t_start = time.time()  # To know the timerun of the program
 
@@ -78,12 +77,10 @@ master_df['round_type'] = master_df['round_type'].str.replace('Championship roun
 master_df['round_type'] = master_df['round_type'].apply(lambda x: x[1:] if x == ' Championship Round' else x)
 
 # Create 2 unique keys for every game (row). first for the home game and second for the away team.
-master_df['home_key'] = master_df.apply(
-    lambda x: str(x['season']) + ' - ' + str(x['round_type']) + ' - ' + str(x['round']) + ' - ' + str(x['home_team']),
-    axis=1)
-master_df['away_key'] = master_df.apply(
-    lambda x: str(x['season']) + ' - ' + str(x['round_type']) + ' - ' + str(x['round']) + ' - ' + str(x['away_team']),
-    axis=1)
+master_df['home_key'] = master_df.apply(lambda x: str(x['season']) + ' - ' + str(x['round_type']) + ' - ' +
+                                                  str(x['round']) + ' - ' + str(x['home_team']), axis=1)
+master_df['away_key'] = master_df.apply(lambda x: str(x['season']) + ' - ' + str(x['round_type']) + ' - ' +
+                                                  str(x['round']) + ' - ' + str(x['away_team']), axis=1)
 
 # Getting the league tables df from the champion_relegated_methods.py file
 league_table = champion_relegated_methods.get_league_table()
@@ -109,11 +106,13 @@ master_df.to_csv('../dt_prep_tables/master_df_temp.csv')  # Saves the original d
 
 from is_underdog_check import is_underdog, pts_b4_game_home, pts_b4_game_away
 
-master_df['underdog'] = master_df.apply(is_underdog, axis=1)
+master_df['underdog'] = master_df.apply(is_underdog, axis=1)   # determines which team is the underdog.
+
+# home & away points in league table before the game
 master_df['home_lg_b4_game'] = master_df.apply(lambda x: pts_b4_game_home(x), axis=1)
 master_df['away_lg_b4_game'] = master_df.apply(lambda x: pts_b4_game_away(x), axis=1)
 
-master_df = stadium_methods.stadium_related_dt_point(master_df)
+master_df = stadium_methods.stadium_related_dt_point(master_df)  # Sets all the stadium ralated features.
 
 # Determining the dat of the week of the game.
 master_df['day_of_week_num'] = master_df['date'].apply(lambda x: str(x.weekday()))  # Getting the day of the week.

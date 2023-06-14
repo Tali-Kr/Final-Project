@@ -23,7 +23,7 @@ for year in range(int(fromYear), int(toYear) + 1):
     for round in range(1, 8):
         all_the_link.append(link + str(round))
 
-with open('Tables.csv', 'w', encoding='utf8', newline='') as f:  #for each year will be created a csv file
+with open('../dataset_preparation/dt_prep_tables/il_league_tables_2012_21.csv', 'w', encoding='utf8', newline='') as f:  #for each year will be created a csv file
     theWriter = writer(f)
     header = ['season', 'clubs_name','round' , 'promoted', 'game', 'win', 'draw', 'lose', 'goals', 'g_difference', 'pts', 'team_pos']  # the headers of the file will be
     theWriter.writerow(header)

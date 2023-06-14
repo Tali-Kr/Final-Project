@@ -16,7 +16,7 @@ games_in_season_links = pd.read_csv('season_games_links.csv')['Links'].tolist()
 removeLinks(games_in_season_links,'https://www.transfermarkt.com/olympique-lyon_ea-guingamp/index/spielbericht/3047765')
 
 
-with open('All_leagues6.csv', 'w', encoding='utf8', newline='') as f:  # for each year will be created a csv file
+with open('../dataset_preparation/dt_prep_tables/european_leagues_2012_21.csv', 'w', encoding='utf8', newline='') as f:  # for each year will be created a csv file
     theWriter = writer(f)
     header = ['match_date', 'kot', 'round_type', 'season_round', 'home_team', 'away_team', 'home_position', 'away_position', 'underdog', 'home_score', 'away_score', 'referee', 'stadium', 'attendance', 'season']  # the headers of the file will be
     theWriter.writerow(header)

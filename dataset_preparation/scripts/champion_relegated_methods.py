@@ -1,5 +1,4 @@
 import pandas as pd
-import re
 
 league_table = pd.read_csv('../dt_prep_tables/il_league_tables_2012_21_fixed.csv')
 # league_table = pd.read_csv('../dt_prep_tables/il_league_tables_2022_fixed.csv')  # Relevant for only new data
@@ -12,8 +11,8 @@ league_table = pd.read_csv('../dt_prep_tables/il_league_tables_2012_21_fixed.csv
 #     league_table[col] = league_table[col].astype('Int64')
 #endregion
 
-league_table['key'] = league_table.apply(lambda x: str(x['season']) + ' - ' + str(x['round_type']) + ' - ' + str(x['round'])
-                                                   + ' - ' + str(x['team']), axis=1)
+league_table['key'] = league_table.apply(lambda x: str(x['season']) + ' - ' + str(x['round_type']) + ' - ' +
+                                                   str(x['round']) + ' - ' + str(x['team']), axis=1)
 
 
 def previous_round_pos(record):
