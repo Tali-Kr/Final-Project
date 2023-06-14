@@ -22,7 +22,7 @@ from preprocessDf import preprocess
 
 # region Import Tables
 df = pd.read_csv('../dataset_preparation/dt_prep_tables/master_dataset.csv')
-team_value_df = pd.read_csv('teams_values.csv')
+team_value_df = pd.read_csv('../web_scraping/teams_values.csv')
 #endregion
 
 # Preprocess df
