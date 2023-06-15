@@ -1,4 +1,4 @@
-# Prediction of the Optimal Day for a Soccer Game in the Israeli Premier League "Ligat Ha’Al" Using Machine Learning
+<h1 align="center"> Prediction of the Optimal Day for a Soccer Game in the Israeli Premier League "Ligat Ha’Al" Using Machine Learning </h1>
 The project is for the final project to graduate with a bachelor's in Industrial engineering at the SCE college.
 
 ## Project Overview
