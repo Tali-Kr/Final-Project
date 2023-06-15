@@ -18,7 +18,7 @@ We utilized the technique of "web scraping" to extract the required data from th
 
 After successfully extracting all the necessary data, we adjusted it and combined it into a single dataset, which we then carefully cleaned and organized.
 
-|                                         Teams point of view                                          |                                        Audiance point of view                                        |
-|:----------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
-| src="https://github.com/Tali-Kr/Final-Project/assets/126663704/ae14d813-f284-4f19-ba96-3d5c2ed7b21d" | src="https://github.com/Tali-Kr/Final-Project/assets/126663704/9d053c63-0a3e-4fd5-9db9-bf77c9b1d579" |
+|                                                        Teams point of view                                                         |                                                        Audiance point of view                                                         |
+|:----------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
+| <img width="575" alt="Teams" src="https://github.com/Tali-Kr/Final-Project/assets/126663704/ae14d813-f284-4f19-ba96-3d5c2ed7b21d"> | <img width="575" alt="Audiance" src="https://github.com/Tali-Kr/Final-Project/assets/126663704/9d053c63-0a3e-4fd5-9db9-bf77c9b1d579"> |
 
